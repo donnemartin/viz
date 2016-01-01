@@ -4,11 +4,11 @@
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [szilard/benchm-ml](https://github.com/szilard/benchm-ml) <br/>A minimal benchmark for scalability, speed and acc [...] | 771 |
-| 2. | [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) <br/>Import public NYC taxi and Uber trip data into Pos [...] | 437 |
+| 1. | [szilard/benchm-ml](https://github.com/szilard/benchm-ml) <br/>A minimal benchmark for scalability, speed and acc... | 771 |
+| 2. | [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) <br/>Import public NYC taxi and Uber trip data into Pos... | 437 |
 | 3. | [swarm-lab/editR](https://github.com/swarm-lab/editR) <br/>A Rmarkdown editor with instant preview | 174 |
-| 4. | [jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) <br/>Ways of doing Data Science Engineering and Machine [...] | 164 |
-| 5. | [toddwschneider/agency-loan-level](https://github.com/toddwschneider/agency-loan-level) <br/>Loan-level analysis of Fannie Mae and Freddie Mac  [...] | 154 |
+| 4. | [jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) <br/>Ways of doing Data Science Engineering and Machine... | 164 |
+| 5. | [toddwschneider/agency-loan-level](https://github.com/toddwschneider/agency-loan-level) <br/>Loan-level analysis of Fannie Mae and Freddie Mac... | 154 |
 | 6. | [renkun-ken/formattable](https://github.com/renkun-ken/formattable) <br/>Formattable Data Structures | 119 |
 | 7. | [hadley/multidplyr](https://github.com/hadley/multidplyr) <br/>Partitioned data frames for 'dplyr' | 115 |
 

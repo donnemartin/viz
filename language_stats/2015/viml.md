@@ -5,9 +5,9 @@
 | | Repo | Stars |
 |---|---|---|
 | 1. | [jez/vim-as-an-ide](https://github.com/jez/vim-as-an-ide) <br/>Workshop on how to use Vim Plugins. | 1172 |
-| 2. | [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) <br/>:art: Light & Dark Vim color schemes inspired by G [...] | 327 |
+| 2. | [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) <br/>:art: Light & Dark Vim color schemes inspired by G... | 327 |
 | 3. | [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) <br/>Vim configuration for Rust. | 311 |
-| 4. | [gilgigilgil/anderson.vim](https://github.com/gilgigilgil/anderson.vim) <br/>Dark vim colorscheme based on colors from Wes Ande [...] | 211 |
+| 4. | [gilgigilgil/anderson.vim](https://github.com/gilgigilgil/anderson.vim) <br/>Dark vim colorscheme based on colors from Wes Ande... | 211 |
 | 5. | [google/vim-codefmt](https://github.com/google/vim-codefmt)  | 203 |
 | 6. | [unblevable/quick-scope](https://github.com/unblevable/quick-scope) <br/>Lightning fast left-right movement in Vim | 201 |
 | 7. | [chrisbra/vim-diff-enhanced](https://github.com/chrisbra/vim-diff-enhanced) <br/>Better Diff options for Vim | 175 |
@@ -15,9 +15,9 @@
 | 9. | [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) <br/>Adjust your vim colors using sliders | 163 |
 | 10. | [jreybert/vimagit](https://github.com/jreybert/vimagit) <br/>A new way to use git within vim | 158 |
 | 11. | [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) <br/>fzf :heart: vim | 155 |
-| 12. | [tpope/vim-flagship](https://github.com/tpope/vim-flagship) <br/>flagship.vim: Configurable and extensible tab line [...] | 153 |
-| 13. | [google/vim-colorscheme-primary](https://github.com/google/vim-colorscheme-primary) <br/>Primary, a Vim color scheme based on Google's colo [...] | 147 |
-| 14. | [kristijanhusak/vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) <br/>Material color scheme for Vim based on w0ng/vim-hy [...] | 142 |
+| 12. | [tpope/vim-flagship](https://github.com/tpope/vim-flagship) <br/>flagship.vim: Configurable and extensible tab line... | 153 |
+| 13. | [google/vim-colorscheme-primary](https://github.com/google/vim-colorscheme-primary) <br/>Primary, a Vim color scheme based on Google's colo... | 147 |
+| 14. | [kristijanhusak/vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) <br/>Material color scheme for Vim based on w0ng/vim-hy... | 142 |
 | 15. | [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) <br/>:eyes: " / @ / CTRL-R | 141 |
 | 16. | [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) <br/>Updated javacomplete plugin for vim. | 131 |
 | 17. | [wincent/ferret](https://github.com/wincent/ferret) <br/>Enhanced multi-file search for Vim | 130 |
@@ -27,7 +27,7 @@
 | 21. | [vim-utils/vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) <br/>Stop Unicode trolls from messing with your code. | 113 |
 | 22. | [Quramy/tsuquyomi](https://github.com/Quramy/tsuquyomi) <br/>A Vim plugin for TypeScript | 112 |
 | 23. | [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) <br/>Helps you win at grep. | 106 |
-| 24. | [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) <br/>A dark Vim colorscheme inspired by Atom's One Dark [...] | 103 |
+| 24. | [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) <br/>A dark Vim colorscheme inspired by Atom's One Dark... | 103 |
 
 ## Most-Starred Users: VimL
 

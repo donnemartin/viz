@@ -6,30 +6,30 @@
 |---|---|---|
 | 1. | [twitter/diffy](https://github.com/twitter/diffy) <br/>Find potential bugs in your services with Diffy | 2398 |
 | 2. | [yahoo/kafka-manager](https://github.com/yahoo/kafka-manager) <br/>A tool for managing Apache Kafka. | 1714 |
-| 3. | [non/cats](https://github.com/non/cats) <br/>Lightweight, modular, and extensible library for f [...] | 781 |
+| 3. | [non/cats](https://github.com/non/cats) <br/>Lightweight, modular, and extensible library for f... | 781 |
 | 4. | [lihaoyi/Ammonite](https://github.com/lihaoyi/Ammonite) <br/>Rock-solid shell scripting | 666 |
 | 5. | [yahoojapan/objc2swift](https://github.com/yahoojapan/objc2swift) <br/>Open Source Obj-C to Swift Converter. | 523 |
 | 6. | [proflin/CoolplaySpark](https://github.com/proflin/CoolplaySpark) <br/>酷玩 Spark | 415 |
-| 7. | [chandu0101/sri](https://github.com/chandu0101/sri) <br/>Build truly native cross platform (web,ios,android [...] | 401 |
+| 7. | [chandu0101/sri](https://github.com/chandu0101/sri) <br/>Build truly native cross platform (web,ios,android... | 401 |
 | 8. | [stephenmcd/curiodb](https://github.com/stephenmcd/curiodb) <br/>Distributed & Persistent NoSQL Database | 378 |
 | 9. | [pathikrit/better-files](https://github.com/pathikrit/better-files) <br/>Simple, safe and intuitive Scala I/O | 373 |
 | 10. | [cloudera/spark-timeseries](https://github.com/cloudera/spark-timeseries) <br/>A library for time series analysis on Apache Spark | 351 |
-| 11. | [RBMHTechnology/eventuate](https://github.com/RBMHTechnology/eventuate) <br/>Distributed, highly-available and partition-tolera [...] | 304 |
-| 12. | [tuplejump/FiloDB](https://github.com/tuplejump/FiloDB) <br/>Distributed.  Columnar.  Versioned.  Streaming.  S [...] | 303 |
+| 11. | [RBMHTechnology/eventuate](https://github.com/RBMHTechnology/eventuate) <br/>Distributed, highly-available and partition-tolera... | 304 |
+| 12. | [tuplejump/FiloDB](https://github.com/tuplejump/FiloDB) <br/>Distributed.  Columnar.  Versioned.  Streaming.  S... | 303 |
 | 13. | [getquill/quill](https://github.com/getquill/quill) <br/>Compile-time Language Integrated Query for Scala | 285 |
-| 14. | [amplab/keystone](https://github.com/amplab/keystone) <br/>Simplifying robust end-to-end machine learning on  [...] | 264 |
-| 15. | [ochrons/scalajs-spa-tutorial](https://github.com/ochrons/scalajs-spa-tutorial) <br/>Tutorial for creating a simple Single Page Applica [...] | 263 |
+| 14. | [amplab/keystone](https://github.com/amplab/keystone) <br/>Simplifying robust end-to-end machine learning on... | 264 |
+| 15. | [ochrons/scalajs-spa-tutorial](https://github.com/ochrons/scalajs-spa-tutorial) <br/>Tutorial for creating a simple Single Page Applica... | 263 |
 | 16. | [travisbrown/circe](https://github.com/travisbrown/circe) <br/>Yet another JSON library for Scala | 256 |
 | 17. | [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria) <br/>Scala GraphQL implementation | 241 |
-| 18. | [mpilquist/simulacrum](https://github.com/mpilquist/simulacrum) <br/>First class syntax support for type classes in Sca [...] | 240 |
+| 18. | [mpilquist/simulacrum](https://github.com/mpilquist/simulacrum) <br/>First class syntax support for type classes in Sca... | 240 |
 | 19. | [mesos/kafka](https://github.com/mesos/kafka) <br/>Apache Kafka on Apache Mesos | 213 |
 | 20. | [fthomas/refined](https://github.com/fthomas/refined) <br/>Simple refinement types for Scala | 199 |
-| 21. | [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) <br/>A neat little tool to build presentations using th [...] | 193 |
+| 21. | [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) <br/>A neat little tool to build presentations using th... | 193 |
 | 22. | [kakao/s2graph](https://github.com/kakao/s2graph) <br/>Large Scale Distribute Graph Database | 183 |
 | 23. | [Stratio/Sparkta](https://github.com/Stratio/Sparkta) <br/>Real Time Aggregation based on Spark Streaming | 165 |
 | 24. | [alexarchambault/jupyter-scala](https://github.com/alexarchambault/jupyter-scala) <br/>Lightweight Scala kernel for Jupyter / IPython 3 | 159 |
 | 25. | [Stratio/spark-mongodb](https://github.com/Stratio/spark-mongodb) <br/>Spark library for easy MongoDB access | 148 |
-| 26. | [jrudolph/akka-http-scala-js-websocket-chat](https://github.com/jrudolph/akka-http-scala-js-websocket-chat) <br/>An example app that integrates akka-http and scala [...] | 145 |
+| 26. | [jrudolph/akka-http-scala-js-websocket-chat](https://github.com/jrudolph/akka-http-scala-js-websocket-chat) <br/>An example app that integrates akka-http and scala... | 145 |
 | 27. | [apache/samza](https://github.com/apache/samza) <br/>Mirror of Apache Samza | 142 |
 | 28. | [adamw/quicklens](https://github.com/adamw/quicklens) <br/>Modify deeply nested case class fields | 142 |
 | 29. | [pathikrit/sauron](https://github.com/pathikrit/sauron) <br/>Yet another Scala lens macro | 139 |
@@ -39,19 +39,19 @@
 | 33. | [QianmiOpen/bugatti](https://github.com/QianmiOpen/bugatti) <br/>运维自动化部署监控平台 | 124 |
 | 34. | [japgolly/scalacss](https://github.com/japgolly/scalacss) <br/>Super type-safe CSS for Scala and Scala.JS. | 123 |
 | 35. | [holdenk/spark-testing-base](https://github.com/holdenk/spark-testing-base) <br/>Base classes to use when writing tests with Spark | 123 |
-| 36. | [boldradius/akka-dddd-template](https://github.com/boldradius/akka-dddd-template) <br/>Akka DDDD template using CQRS/ES with a Distribute [...] | 121 |
-| 37. | [ochrons/boopickle](https://github.com/ochrons/boopickle) <br/>Binary serialization library for efficient network [...] | 121 |
-| 38. | [gilt/ionroller](https://github.com/gilt/ionroller) <br/>AWS Immutable Deployment framework for web service [...] | 120 |
-| 39. | [softwaremill/akka-http-session](https://github.com/softwaremill/akka-http-session) <br/>Web & mobile client-side akka-http sessions, with  [...] | 118 |
+| 36. | [boldradius/akka-dddd-template](https://github.com/boldradius/akka-dddd-template) <br/>Akka DDDD template using CQRS/ES with a Distribute... | 121 |
+| 37. | [ochrons/boopickle](https://github.com/ochrons/boopickle) <br/>Binary serialization library for efficient network... | 121 |
+| 38. | [gilt/ionroller](https://github.com/gilt/ionroller) <br/>AWS Immutable Deployment framework for web service... | 120 |
+| 39. | [softwaremill/akka-http-session](https://github.com/softwaremill/akka-http-session) <br/>Web & mobile client-side akka-http sessions, with... | 118 |
 | 40. | [pawelkaczor/ddd-leaven-akka-v2](https://github.com/pawelkaczor/ddd-leaven-akka-v2) <br/>Next generation of ddd-leaven-akka | 116 |
-| 41. | [coral-streaming/coral](https://github.com/coral-streaming/coral) <br/>Coral is a real-time analytics and data science pl [...] | 115 |
+| 41. | [coral-streaming/coral](https://github.com/coral-streaming/coral) <br/>Coral is a real-time analytics and data science pl... | 115 |
 | 42. | [magneticio/vamp](https://github.com/magneticio/vamp) <br/>Vamp is the Very Awesome Microservices Platform | 114 |
 | 43. | [fwbrasil/bond](https://github.com/fwbrasil/bond) <br/>Type-level validation for Scala | 110 |
-| 44. | [ochrons/diode](https://github.com/ochrons/diode) <br/>Scala library for managing immutable application m [...] | 105 |
+| 44. | [ochrons/diode](https://github.com/ochrons/diode) <br/>Scala library for managing immutable application m... | 105 |
 | 45. | [felixgborrego/docker-ui-chrome-app](https://github.com/felixgborrego/docker-ui-chrome-app) <br/>Docker UI for Chrome | 105 |
 | 46. | [scalaprops/scalaprops](https://github.com/scalaprops/scalaprops) <br/>property based testing library for Scala | 105 |
 | 47. | [oncue/knobs](https://github.com/oncue/knobs) <br/>A reasonable configuration library for Scala | 102 |
-| 48. | [owainlewis/status](https://github.com/owainlewis/status) <br/>An open source, self hosted status page applicatio [...] | 100 |
+| 48. | [owainlewis/status](https://github.com/owainlewis/status) <br/>An open source, self hosted status page applicatio... | 100 |
 
 ## Most-Starred Users: Scala
 

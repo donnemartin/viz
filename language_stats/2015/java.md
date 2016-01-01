@@ -4,503 +4,503 @@
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [facebook/fresco](https://github.com/facebook/fresco) <br/>An Android library for managing images and the mem [...] | 7385 |
-| 2. | [square/leakcanary](https://github.com/square/leakcanary) <br/>A memory leak detection library for Android and Ja [...] | 6794 |
-| 3. | [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) <br/>Android application powering the mirror in my hous [...] | 6274 |
-| 4. | [googlesamples/android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) <br/>This sample shows how to implement an audio media  [...] | 4364 |
+| 1. | [facebook/fresco](https://github.com/facebook/fresco) <br/>An Android library for managing images and the mem... | 7385 |
+| 2. | [square/leakcanary](https://github.com/square/leakcanary) <br/>A memory leak detection library for Android and Ja... | 6794 |
+| 3. | [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) <br/>Android application powering the mirror in my hous... | 6274 |
+| 4. | [googlesamples/android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) <br/>This sample shows how to implement an audio media... | 4364 |
 | 5. | [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) <br/>Demos the new Android Design library. | 4342 |
 | 6. | [nickbutcher/plaid](https://github.com/nickbutcher/plaid)  | 3925 |
 | 7. | [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) <br/>A Material Design ViewPager easy to use library | 3824 |
-| 8. | [facebook/stetho](https://github.com/facebook/stetho) <br/>Stetho is a debug bridge for Android applications, [...] | 3797 |
-| 9. | [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) <br/>The flexible, easy to use, all in one drawer libra [...] | 3738 |
-| 10. | [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) <br/>Android Transition animations explanation with exa [...] | 3588 |
+| 8. | [facebook/stetho](https://github.com/facebook/stetho) <br/>Stetho is a debug bridge for Android applications,... | 3797 |
+| 9. | [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) <br/>The flexible, easy to use, all in one drawer libra... | 3738 |
+| 10. | [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) <br/>Android Transition animations explanation with exa... | 3588 |
 | 11. | [PaoloRotolo/AppIntro](https://github.com/PaoloRotolo/AppIntro) <br/>Make a cool intro for your Android app. | 3258 |
-| 12. | [googlesamples/android-topeka](https://github.com/googlesamples/android-topeka) <br/>A fun to play quiz that showcases material design  [...] | 2845 |
+| 12. | [googlesamples/android-topeka](https://github.com/googlesamples/android-topeka) <br/>A fun to play quiz that showcases material design... | 2845 |
 | 13. | [airbnb/aerosolve](https://github.com/airbnb/aerosolve) <br/>A machine learning package built for humans. | 2623 |
-| 14. | [yahoo/anthelion](https://github.com/yahoo/anthelion) <br/>Anthelion is a plugin for Apache Nutch to crawl se [...] | 2607 |
+| 14. | [yahoo/anthelion](https://github.com/yahoo/anthelion) <br/>Anthelion is a plugin for Apache Nutch to crawl se... | 2607 |
 | 15. | [dropbox/hackpad](https://github.com/dropbox/hackpad) <br/>Hackpad is a web-based realtime wiki. | 2485 |
 | 16. | [Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) <br/>Side menu with some categories to choose. | 2468 |
-| 17. | [Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin) <br/>A plugin framework on android,Run any third-party  [...] | 2416 |
-| 18. | [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) <br/>A RecyclerView(advanced and flexible version of Li [...] | 2412 |
+| 17. | [Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin) <br/>A plugin framework on android,Run any third-party... | 2416 |
+| 18. | [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) <br/>A RecyclerView(advanced and flexible version of Li... | 2412 |
 | 19. | [orhanobut/logger](https://github.com/orhanobut/logger) <br/>Simple, pretty and powerful logger for android | 2299 |
-| 20. | [alibaba/dexposed](https://github.com/alibaba/dexposed) <br/>dexposed enable 'god' mode for single android appl [...] | 2192 |
+| 20. | [alibaba/dexposed](https://github.com/alibaba/dexposed) <br/>dexposed enable 'god' mode for single android appl... | 2192 |
 | 21. | [actorapp/actor-platform](https://github.com/actorapp/actor-platform) <br/>Actor Messaging platform | 2179 |
-| 22. | [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) <br/>A custom ViewPager title strip which gives continu [...] | 2111 |
+| 22. | [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) <br/>A custom ViewPager title strip which gives continu... | 2111 |
 | 23. | [tangqi92/Android-Tips](https://github.com/tangqi92/Android-Tips) <br/>An awesome list of tips for android. | 2007 |
 | 24. | [Yalantis/Phoenix](https://github.com/Yalantis/Phoenix) <br/>Phoenix Pull-to-Refresh | 1984 |
 | 25. | [81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) <br/>Nice loading animations for Android | 1976 |
-| 26. | [square/sqlbrite](https://github.com/square/sqlbrite) <br/>A lightweight wrapper around SQLiteOpenHelper whic [...] | 1973 |
-| 27. | [Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) <br/>You can easily add awesome animated context menu t [...] | 1930 |
+| 26. | [square/sqlbrite](https://github.com/square/sqlbrite) <br/>A lightweight wrapper around SQLiteOpenHelper whic... | 1973 |
+| 27. | [Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) <br/>You can easily add awesome animated context menu t... | 1930 |
 | 28. | [tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField) <br/>explosive dust effect for views | 1902 |
-| 29. | [race604/FlyRefresh](https://github.com/race604/FlyRefresh) <br/>The implementation of https://dribbble.com/shots/2 [...] | 1895 |
-| 30. | [bluelinelabs/LoganSquare](https://github.com/bluelinelabs/LoganSquare) <br/>Screaming fast JSON parsing and serialization libr [...] | 1851 |
+| 29. | [race604/FlyRefresh](https://github.com/race604/FlyRefresh) <br/>The implementation of https://dribbble.com/shots/2... | 1895 |
+| 30. | [bluelinelabs/LoganSquare](https://github.com/bluelinelabs/LoganSquare) <br/>Screaming fast JSON parsing and serialization libr... | 1851 |
 | 31. | [xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector) <br/>View Inspection Toolbar for Android Development | 1843 |
 | 32. | [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) <br/>JetBrains theme of Material Theme | 1707 |
 | 33. | [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) <br/>RxJava binding APIs for Android's UI widgets. | 1656 |
-| 34. | [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) <br/>一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图 [...] | 1644 |
+| 34. | [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) <br/>一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图... | 1644 |
 | 35. | [JulienGenoud/android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample) <br/>Just a sample of the android percent support lib | 1606 |
-| 36. | [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) <br/>:moneybag: 微信抢红包插件, 帮助你在微信群聊抢红包时战无不胜. An Android a [...] | 1599 |
-| 37. | [Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet) <br/>Android component which presents a dismissible vie [...] | 1593 |
+| 36. | [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) <br/>:moneybag: 微信抢红包插件, 帮助你在微信群聊抢红包时战无不胜. An Android a... | 1599 |
+| 37. | [Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet) <br/>Android component which presents a dismissible vie... | 1593 |
 | 38. | [saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) <br/>An application about movies with material design | 1571 |
 | 39. | [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) <br/>Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 | 1557 |
-| 40. | [code-mc/material-icon-lib](https://github.com/code-mc/material-icon-lib) <br/>Library containing over 1000 material vector icons [...] | 1521 |
-| 41. | [Yalantis/GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) <br/>Neat library, that provides a simple way to implem [...] | 1504 |
-| 42. | [ivacf/archi](https://github.com/ivacf/archi) <br/>Repository that showcases 3 Android app architectu [...] | 1458 |
+| 40. | [code-mc/material-icon-lib](https://github.com/code-mc/material-icon-lib) <br/>Library containing over 1000 material vector icons... | 1521 |
+| 41. | [Yalantis/GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) <br/>Neat library, that provides a simple way to implem... | 1504 |
+| 42. | [ivacf/archi](https://github.com/ivacf/archi) <br/>Repository that showcases 3 Android app architectu... | 1458 |
 | 43. | [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) <br/>Animation effects to TextView | 1431 |
-| 44. | [google/binnavi](https://github.com/google/binnavi) <br/>BinNavi is a binary analysis IDE that allows to in [...] | 1422 |
-| 45. | [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) <br/>RichEditor for Android is a beautiful Rich Text WY [...] | 1407 |
-| 46. | [worker8/TourGuide](https://github.com/worker8/TourGuide) <br/>TourGuide is an Android library that aims to provi [...] | 1383 |
-| 47. | [pedrovgs/AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) <br/>IntelliJ/AndroidStudio plugin which provides a but [...] | 1381 |
-| 48. | [elevenetc/TextSurface](https://github.com/elevenetc/TextSurface) <br/>A little animation framework which could help you  [...] | 1370 |
+| 44. | [google/binnavi](https://github.com/google/binnavi) <br/>BinNavi is a binary analysis IDE that allows to in... | 1422 |
+| 45. | [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) <br/>RichEditor for Android is a beautiful Rich Text WY... | 1407 |
+| 46. | [worker8/TourGuide](https://github.com/worker8/TourGuide) <br/>TourGuide is an Android library that aims to provi... | 1383 |
+| 47. | [pedrovgs/AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) <br/>IntelliJ/AndroidStudio plugin which provides a but... | 1381 |
+| 48. | [elevenetc/TextSurface](https://github.com/elevenetc/TextSurface) <br/>A little animation framework which could help you... | 1370 |
 | 49. | [wasabeef/Blurry](https://github.com/wasabeef/Blurry) <br/>Blurry is an easy blur library for Android | 1363 |
-| 50. | [h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) <br/>RecyclerView extension library which provides adva [...] | 1362 |
+| 50. | [h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) <br/>RecyclerView extension library which provides adva... | 1362 |
 | 51. | [motianhuo/wechat](https://github.com/motianhuo/wechat) <br/>A High Copy WeChat ,SNS APP (高仿微信) | 1358 |
 | 52. | [orhanobut/hawk](https://github.com/orhanobut/hawk) <br/>Secure Simple Key-Value Storage for Android | 1330 |
-| 53. | [udacity/Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2) <br/>The official repository for Developing Android App [...] | 1285 |
+| 53. | [udacity/Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2) <br/>The official repository for Developing Android App... | 1285 |
 | 54. | [tianzhijiexian/Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices) <br/>Android最佳实践示例 | 1270 |
-| 55. | [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) <br/>Android Floating Action Button based on Material D [...] | 1257 |
+| 55. | [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) <br/>Android Floating Action Button based on Material D... | 1257 |
 | 56. | [lyft/scissors](https://github.com/lyft/scissors) <br/>✂ Android image cropping library | 1246 |
 | 57. | [chenupt/SpringIndicator](https://github.com/chenupt/SpringIndicator) <br/>A spring indicator like Morning Routine guide. | 1238 |
 | 58. | [square/keywhiz](https://github.com/square/keywhiz) <br/>A system for distributing and managing secrets | 1220 |
-| 59. | [Yalantis/FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) <br/>This project aims to provide a working page flip i [...] | 1220 |
+| 59. | [Yalantis/FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) <br/>This project aims to provide a working page flip i... | 1220 |
 | 60. | [yahoo/mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) <br/>MySQL Performance Analyzer | 1209 |
-| 61. | [codenvy/che](https://github.com/codenvy/che) <br/>Eclipse Che: High performance developer workspaces [...] | 1205 |
-| 62. | [facebook/shimmer-android](https://github.com/facebook/shimmer-android) <br/>An easy, flexible way to add a shimmering effect t [...] | 1204 |
-| 63. | [matrixxun/ProductTour](https://github.com/matrixxun/ProductTour) <br/>ProductTour is android sample project implementing [...] | 1202 |
+| 61. | [codenvy/che](https://github.com/codenvy/che) <br/>Eclipse Che: High performance developer workspaces... | 1205 |
+| 62. | [facebook/shimmer-android](https://github.com/facebook/shimmer-android) <br/>An easy, flexible way to add a shimmering effect t... | 1204 |
+| 63. | [matrixxun/ProductTour](https://github.com/matrixxun/ProductTour) <br/>ProductTour is android sample project implementing... | 1202 |
 | 64. | [Yalantis/Euclid](https://github.com/Yalantis/Euclid) <br/>User Profile Interface Animation | 1201 |
 | 65. | [drakeet/Meizhi](https://github.com/drakeet/Meizhi) <br/>gank.io unofficial client, RxJava & Retrofit | 1199 |
-| 66. | [hitherejoe/animate](https://github.com/hitherejoe/animate) <br/>An application demoing meaningful motion on Androi [...] | 1193 |
-| 67. | [facebook/network-connection-class](https://github.com/facebook/network-connection-class) <br/>Listen to current network traffic in the app and c [...] | 1180 |
+| 66. | [hitherejoe/animate](https://github.com/hitherejoe/animate) <br/>An application demoing meaningful motion on Androi... | 1193 |
+| 67. | [facebook/network-connection-class](https://github.com/facebook/network-connection-class) <br/>Listen to current network traffic in the app and c... | 1180 |
 | 68. | [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) <br/>多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位 | 1176 |
-| 69. | [Skykai521/StickerCamera](https://github.com/Skykai521/StickerCamera) <br/>This is an Android application with camera,picture [...] | 1161 |
-| 70. | [jasonross/Nuwa](https://github.com/jasonross/Nuwa) <br/>Nuwa, pure java implementation, can hotfix your an [...] | 1156 |
-| 71. | [rallat/EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) <br/>This sample project shows how to apply MVP and Cle [...] | 1152 |
-| 72. | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) <br/>Tools to work with android .dex and java .class fi [...] | 1145 |
+| 69. | [Skykai521/StickerCamera](https://github.com/Skykai521/StickerCamera) <br/>This is an Android application with camera,picture... | 1161 |
+| 70. | [jasonross/Nuwa](https://github.com/jasonross/Nuwa) <br/>Nuwa, pure java implementation, can hotfix your an... | 1156 |
+| 71. | [rallat/EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) <br/>This sample project shows how to apply MVP and Cle... | 1152 |
+| 72. | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) <br/>Tools to work with android .dex and java .class fi... | 1145 |
 | 73. | [googlesamples/android-testing-templates](https://github.com/googlesamples/android-testing-templates)  | 1133 |
-| 74. | [JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) <br/>Android fillable progress view working with SVG pa [...] | 1127 |
+| 74. | [JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) <br/>Android fillable progress view working with SVG pa... | 1127 |
 | 75. | [H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) <br/>An Android TabLayout Lib | 1124 |
-| 76. | [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) <br/>A Material design back port of Android's CalendarV [...] | 1122 |
+| 76. | [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) <br/>A Material design back port of Android's CalendarV... | 1122 |
 | 77. | [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard) <br/>proguard resource for Android  by wechat team | 1120 |
-| 78. | [Quinny898/PersistentSearch](https://github.com/Quinny898/PersistentSearch) <br/>A clone of the Google Now/Maps/Play persistent sea [...] | 1118 |
+| 78. | [Quinny898/PersistentSearch](https://github.com/Quinny898/PersistentSearch) <br/>A clone of the Google Now/Maps/Play persistent sea... | 1118 |
 | 79. | [naman14/Timber](https://github.com/naman14/Timber) <br/>Material Design Music Player | 1113 |
 | 80. | [LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) <br/>A rubber indicator | 1112 |
-| 81. | [biezhi/blade](https://github.com/biezhi/blade) <br/>:rocket: A Simple, Elegant Java Web Framework! web [...] | 1110 |
-| 82. | [facebook/device-year-class](https://github.com/facebook/device-year-class) <br/>A library that analyzes an Android device's specif [...] | 1096 |
-| 83. | [ZieIony/Carbon](https://github.com/ZieIony/Carbon) <br/>Material Design implementation for Android 2.2+. S [...] | 1093 |
-| 84. | [hitherejoe/Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate) <br/>Android Boilerplate project using an Espresso Test [...] | 1087 |
+| 81. | [biezhi/blade](https://github.com/biezhi/blade) <br/>:rocket: A Simple, Elegant Java Web Framework! web... | 1110 |
+| 82. | [facebook/device-year-class](https://github.com/facebook/device-year-class) <br/>A library that analyzes an Android device's specif... | 1096 |
+| 83. | [ZieIony/Carbon](https://github.com/ZieIony/Carbon) <br/>Material Design implementation for Android 2.2+. S... | 1093 |
+| 84. | [hitherejoe/Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate) <br/>Android Boilerplate project using an Espresso Test... | 1087 |
 | 85. | [Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload) <br/>We are not Gif makers, We are developers | 1083 |
 | 86. | [GovernmentCommunicationsHeadquarters/Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) <br/>A large-scale graph database | 1067 |
 | 87. | [500px/500px-android-blur](https://github.com/500px/500px-android-blur)  | 1064 |
 | 88. | [yahoo/squidb](https://github.com/yahoo/squidb) <br/>SquiDB is a SQLite database layer for Android | 1063 |
 | 89. | [recruit-lifestyle/WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)  | 1058 |
-| 90. | [airbnb/AirMapView](https://github.com/airbnb/AirMapView) <br/>A view abstraction to provide a map user interface [...] | 1039 |
-| 91. | [iPaulPro/Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) <br/>Basic example of using ItemTouchHelper to add drag [...] | 1023 |
-| 92. | [mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer) <br/>swipe right to display drawer with flowing & bounc [...] | 1022 |
+| 90. | [airbnb/AirMapView](https://github.com/airbnb/AirMapView) <br/>A view abstraction to provide a map user interface... | 1039 |
+| 91. | [iPaulPro/Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo) <br/>Basic example of using ItemTouchHelper to add drag... | 1023 |
+| 92. | [mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer) <br/>swipe right to display drawer with flowing & bounc... | 1022 |
 | 93. | [wyouflf/xUtils3](https://github.com/wyouflf/xUtils3) <br/>android orm, bitmap, http, view inject... | 1021 |
-| 94. | [Karumi/Dexter](https://github.com/Karumi/Dexter) <br/>Android library that simplifies the process of req [...] | 1015 |
+| 94. | [Karumi/Dexter](https://github.com/Karumi/Dexter) <br/>Android library that simplifies the process of req... | 1015 |
 | 95. | [apache/incubator-zeppelin](https://github.com/apache/incubator-zeppelin) <br/>Mirror of Apache Zeppelin (Incubating) | 1015 |
-| 96. | [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) <br/>:four_leaf_clover:A beautiful android tag group wi [...] | 1008 |
+| 96. | [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) <br/>:four_leaf_clover:A beautiful android tag group wi... | 1008 |
 | 97. | [zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet) <br/>一个富有动感的Sheet(选择器) | 1008 |
 | 98. | [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) <br/>A Material Design themed ShowcaseView for Android | 998 |
 | 99. | [tumblr/Backboard](https://github.com/tumblr/Backboard) <br/>A motion-driven animation framework for Android. | 996 |
 | 100. | [qklabs/qksms](https://github.com/qklabs/qksms) <br/>The most beautiful SMS messenger app for Android | 984 |
-| 101. | [code-mc/loadtoast](https://github.com/code-mc/loadtoast) <br/>Pretty material design toasts with feedback animat [...] | 977 |
+| 101. | [code-mc/loadtoast](https://github.com/code-mc/loadtoast) <br/>Pretty material design toasts with feedback animat... | 977 |
 | 102. | [IsseiAoki/SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) <br/>A simple image cropping library for Android. | 972 |
-| 103. | [mthli/Knife](https://github.com/mthli/Knife) <br/>Knife is a rich text editor component for writing  [...] | 960 |
-| 104. | [bmelnychuk/AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) <br/>AndroidTreeView. TreeView implementation for andro [...] | 955 |
-| 105. | [vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker) <br/>A material-styled android view that provisions pic [...] | 952 |
-| 106. | [Yalantis/Taurus](https://github.com/Yalantis/Taurus) <br/>A little more fun for the pull-to-refresh interact [...] | 947 |
+| 103. | [mthli/Knife](https://github.com/mthli/Knife) <br/>Knife is a rich text editor component for writing... | 960 |
+| 104. | [bmelnychuk/AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) <br/>AndroidTreeView. TreeView implementation for andro... | 955 |
+| 105. | [vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker) <br/>A material-styled android view that provisions pic... | 952 |
+| 106. | [Yalantis/Taurus](https://github.com/Yalantis/Taurus) <br/>A little more fun for the pull-to-refresh interact... | 947 |
 | 107. | [chenupt/DragTopLayout](https://github.com/chenupt/DragTopLayout) <br/>Drag down to show a view on the top. | 941 |
 | 108. | [saulmm/CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)  | 935 |
 | 109. | [hongyangAndroid/okhttp-utils](https://github.com/hongyangAndroid/okhttp-utils) <br/>okhttp的辅助类 | 920 |
-| 110. | [tuesda/CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) <br/>a custom pull-to-refresh layout which contains a i [...] | 914 |
-| 111. | [sockeqwe/mosby](https://github.com/sockeqwe/mosby) <br/>A Model-View-Presenter library for modern Android  [...] | 911 |
-| 112. | [airbnb/DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) <br/>A simple, annotation-based library for making deep [...] | 906 |
+| 110. | [tuesda/CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) <br/>a custom pull-to-refresh layout which contains a i... | 914 |
+| 111. | [sockeqwe/mosby](https://github.com/sockeqwe/mosby) <br/>A Model-View-Presenter library for modern Android... | 911 |
+| 112. | [airbnb/DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) <br/>A simple, annotation-based library for making deep... | 906 |
 | 113. | [google/android-classyshark](https://github.com/google/android-classyshark) <br/>Android executables browser | 904 |
 | 114. | [ParsePlatform/Parse-SDK-Android](https://github.com/ParsePlatform/Parse-SDK-Android) <br/>Parse SDK for Android | 902 |
-| 115. | [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) <br/>This component implements transition animation to  [...] | 898 |
-| 116. | [linfaxin/TransitionPlayer](https://github.com/linfaxin/TransitionPlayer) <br/>Android library to control Transition animates. A  [...] | 891 |
-| 117. | [wnafee/vector-compat](https://github.com/wnafee/vector-compat) <br/>A support library for VectorDrawable and AnimatedV [...] | 890 |
-| 118. | [bonnyfone/vectalign](https://github.com/bonnyfone/vectalign) <br/>Tool for create complex morphing animations using  [...] | 884 |
-| 119. | [lsjwzh/RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) <br/>A ViewPager implemention base on RecyclerView's co [...] | 884 |
+| 115. | [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) <br/>This component implements transition animation to... | 898 |
+| 116. | [linfaxin/TransitionPlayer](https://github.com/linfaxin/TransitionPlayer) <br/>Android library to control Transition animates. A... | 891 |
+| 117. | [wnafee/vector-compat](https://github.com/wnafee/vector-compat) <br/>A support library for VectorDrawable and AnimatedV... | 890 |
+| 118. | [bonnyfone/vectalign](https://github.com/bonnyfone/vectalign) <br/>Tool for create complex morphing animations using... | 884 |
+| 119. | [lsjwzh/RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager) <br/>A ViewPager implemention base on RecyclerView's co... | 884 |
 | 120. | [saulmm/Curved-Fab-Reveal-Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)  | 884 |
-| 121. | [asyl/ArcAnimator](https://github.com/asyl/ArcAnimator) <br/>ArcAnimator helps to create arc transition animati [...] | 880 |
+| 121. | [asyl/ArcAnimator](https://github.com/asyl/ArcAnimator) <br/>ArcAnimator helps to create arc transition animati... | 880 |
 | 122. | [LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding) <br/>A comprehensive tutorial for Android Data Binding | 879 |
-| 123. | [arimorty/floatingsearchview](https://github.com/arimorty/floatingsearchview) <br/>A search view that implements a floating search ba [...] | 875 |
+| 123. | [arimorty/floatingsearchview](https://github.com/arimorty/floatingsearchview) <br/>A search view that implements a floating search ba... | 875 |
 | 124. | [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) <br/>Android源码设计模式分析项目 | 870 |
-| 125. | [MiguelCatalan/MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) <br/>Cute library to implement SearchView in a Material [...] | 868 |
-| 126. | [majidgolshadi/Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) <br/>Android/Java download manager library help you to  [...] | 865 |
-| 127. | [linger1216/labelview](https://github.com/linger1216/labelview) <br/>Sometimes, we need to show a label above an ImageV [...] | 855 |
-| 128. | [geftimov/android-pathview](https://github.com/geftimov/android-pathview) <br/>Android view with both path from constructed path  [...] | 849 |
+| 125. | [MiguelCatalan/MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) <br/>Cute library to implement SearchView in a Material... | 868 |
+| 126. | [majidgolshadi/Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) <br/>Android/Java download manager library help you to... | 865 |
+| 127. | [linger1216/labelview](https://github.com/linger1216/labelview) <br/>Sometimes, we need to show a label above an ImageV... | 855 |
+| 128. | [geftimov/android-pathview](https://github.com/geftimov/android-pathview) <br/>Android view with both path from constructed path... | 849 |
 | 129. | [apache/groovy](https://github.com/apache/groovy) <br/>Mirror of Apache Groovy | 847 |
-| 130. | [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector) <br/>Image selector for Android device. Support single  [...] | 846 |
-| 131. | [klinker24/Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) <br/>Insanely easy way to define clickable links within [...] | 844 |
-| 132. | [swissonid/android-design-support-lib-sample](https://github.com/swissonid/android-design-support-lib-sample) <br/>Just Sample how to use the android design support  [...] | 834 |
-| 133. | [hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) <br/>Provides simple annotation-based API to handle run [...] | 814 |
+| 130. | [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector) <br/>Image selector for Android device. Support single... | 846 |
+| 131. | [klinker24/Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) <br/>Insanely easy way to define clickable links within... | 844 |
+| 132. | [swissonid/android-design-support-lib-sample](https://github.com/swissonid/android-design-support-lib-sample) <br/>Just Sample how to use the android design support... | 834 |
+| 133. | [hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) <br/>Provides simple annotation-based API to handle run... | 814 |
 | 134. | [hongyangAndroid/Highlight](https://github.com/hongyangAndroid/Highlight) <br/>一个用于app指向性功能高亮的库 | 799 |
-| 135. | [electronicarts/orbit](https://github.com/electronicarts/orbit) <br/>Orbit - Build distributed and scalable online serv [...] | 798 |
+| 135. | [electronicarts/orbit](https://github.com/electronicarts/orbit) <br/>Orbit - Build distributed and scalable online serv... | 798 |
 | 136. | [zzz40500/android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) <br/>高仿新版58 加载动画 | 798 |
 | 137. | [JakeWharton/ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) <br/>An adaptation of the JSR-310 backport for Android. | 795 |
 | 138. | [ppamorim/Dragger](https://github.com/ppamorim/Dragger) <br/>Animate your activity! | 793 |
 | 139. | [pilgr/Paper](https://github.com/pilgr/Paper) <br/>Fast and simple data storage library for Android | 790 |
-| 140. | [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) <br/>An Android transformation library providing a vari [...] | 780 |
-| 141. | [Q42/AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView) <br/>An Android view for displaying repeated continuous [...] | 777 |
+| 140. | [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) <br/>An Android transformation library providing a vari... | 780 |
+| 141. | [Q42/AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView) <br/>An Android view for displaying repeated continuous... | 777 |
 | 142. | [rudsonlive/NavigationDrawer-MaterialDesign](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) <br/>Library Navigation drawer material design | 777 |
-| 143. | [glomadrian/material-animated-switch](https://github.com/glomadrian/material-animated-switch) <br/>A material Switch with icon animations and color t [...] | 776 |
+| 143. | [glomadrian/material-animated-switch](https://github.com/glomadrian/material-animated-switch) <br/>A material Switch with icon animations and color t... | 776 |
 | 144. | [akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) <br/>Round Corner Progress Bar Library for Android | 776 |
-| 145. | [tangqi92/BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) <br/>Building Blocks - To help you quickly and easily t [...] | 775 |
+| 145. | [tangqi92/BuildingBlocks](https://github.com/tangqi92/BuildingBlocks) <br/>Building Blocks - To help you quickly and easily t... | 775 |
 | 146. | [anton46/Android-StepsView](https://github.com/anton46/Android-StepsView) <br/>Android-StepsView | 765 |
 | 147. | [dodola/MetaballLoading](https://github.com/dodola/MetaballLoading) <br/>A 2d metaball loading | 762 |
-| 148. | [gowong/material-sheet-fab](https://github.com/gowong/material-sheet-fab) <br/>Library that implements the floating action button [...] | 761 |
+| 148. | [gowong/material-sheet-fab](https://github.com/gowong/material-sheet-fab) <br/>Library that implements the floating action button... | 761 |
 | 149. | [google/mr4c](https://github.com/google/mr4c)  | 760 |
-| 150. | [grandcentrix/tray](https://github.com/grandcentrix/tray) <br/>a SharedPreferences replacement for Android with m [...] | 757 |
+| 150. | [grandcentrix/tray](https://github.com/grandcentrix/tray) <br/>a SharedPreferences replacement for Android with m... | 757 |
 | 151. | [toddway/MaterialTransitions](https://github.com/toddway/MaterialTransitions) <br/>Sample material transition animations for Android | 755 |
-| 152. | [trello/RxLifecycle](https://github.com/trello/RxLifecycle) <br/>Lifecycle handling APIs for Android apps using RxJ [...] | 751 |
-| 153. | [mwolfson/android-historian](https://github.com/mwolfson/android-historian) <br/>A demo of the Android Material Design Support libr [...] | 749 |
+| 152. | [trello/RxLifecycle](https://github.com/trello/RxLifecycle) <br/>Lifecycle handling APIs for Android apps using RxJ... | 751 |
+| 153. | [mwolfson/android-historian](https://github.com/mwolfson/android-historian) <br/>A demo of the Android Material Design Support libr... | 749 |
 | 154. | [sahildave/Search-View-Layout](https://github.com/sahildave/Search-View-Layout) <br/>Search View Layout like Lollipop Dialer | 748 |
 | 155. | [renaudcerrato/ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) <br/>Easy drawable animation using beziers curves. | 728 |
-| 156. | [txusballesteros/bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) <br/>Bubbles for Android is an Android library to provi [...] | 727 |
-| 157. | [dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme) <br/>Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（ [...] | 722 |
-| 158. | [panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar) <br/>DownloadProgressBar is an android library that del [...] | 720 |
+| 156. | [txusballesteros/bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) <br/>Bubbles for Android is an Android library to provi... | 727 |
+| 157. | [dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme) <br/>Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（... | 722 |
+| 158. | [panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar) <br/>DownloadProgressBar is an android library that del... | 720 |
 | 159. | [geftimov/android-player](https://github.com/geftimov/android-player) <br/>Android animation when entering new screen. | 720 |
 | 160. | [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) <br/>The OWASP ZAP core project | 719 |
-| 161. | [bboyfeiyu/AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) <br/>A lightweight eventbus library for android, simpli [...] | 715 |
+| 161. | [bboyfeiyu/AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) <br/>A lightweight eventbus library for android, simpli... | 715 |
 | 162. | [jlmd/AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView) <br/>An animated circle loading view | 707 |
 | 163. | [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions) <br/>Android runtime permissions powered by RxJava | 698 |
-| 164. | [hongyangAndroid/android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend) <br/>a extends lib for android-percent-support(Google百分 [...] | 693 |
+| 164. | [hongyangAndroid/android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend) <br/>a extends lib for android-percent-support(Google百分... | 693 |
 | 165. | [AigeStudio/DatePicker](https://github.com/AigeStudio/DatePicker) <br/>Useful and powerful date picker for android | 690 |
 | 166. | [wdullaer/MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) <br/>Pick a date or time on Android in style | 689 |
-| 167. | [jonfinerty/Once](https://github.com/jonfinerty/Once) <br/>A small Android library to manage one-off operatio [...] | 685 |
+| 167. | [jonfinerty/Once](https://github.com/jonfinerty/Once) <br/>A small Android library to manage one-off operatio... | 685 |
 | 168. | [xmuSistone/android-card-slide-panel](https://github.com/xmuSistone/android-card-slide-panel) <br/>模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生 | 684 |
-| 169. | [glomadrian/loading-balls](https://github.com/glomadrian/loading-balls) <br/>A highly configurable library to do loading progre [...] | 683 |
+| 169. | [glomadrian/loading-balls](https://github.com/glomadrian/loading-balls) <br/>A highly configurable library to do loading progre... | 683 |
 | 170. | [dmytrodanylyk/folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) <br/>Android File Grouping Plugin | 680 |
 | 171. | [lguipeng/Notes](https://github.com/lguipeng/Notes) <br/>Material Design Notes App | 676 |
 | 172. | [donglua/PhotoPicker](https://github.com/donglua/PhotoPicker) <br/>类似微信的图片选择、预览组件 | 674 |
 | 173. | [joyoyao/superCleanMaster](https://github.com/joyoyao/superCleanMaster) <br/>一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。 | 671 |
-| 174. | [frogermcs/LikeAnimation](https://github.com/frogermcs/LikeAnimation) <br/>Android like button with delightful star animation [...] | 667 |
-| 175. | [tangqi92/WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) <br/> An Android library providing to realize wave load [...] | 665 |
+| 174. | [frogermcs/LikeAnimation](https://github.com/frogermcs/LikeAnimation) <br/>Android like button with delightful star animation... | 667 |
+| 175. | [tangqi92/WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) <br/> An Android library providing to realize wave load... | 665 |
 | 176. | [dmytrodanylyk/shadow-layout](https://github.com/dmytrodanylyk/shadow-layout) <br/>Android Shadow Layout | 663 |
-| 177. | [afollestad/material-camera](https://github.com/afollestad/material-camera) <br/>One of the most difficult APIs on Android, made ea [...] | 663 |
+| 177. | [afollestad/material-camera](https://github.com/afollestad/material-camera) <br/>One of the most difficult APIs on Android, made ea... | 663 |
 | 178. | [iammert/MusicPlayerView](https://github.com/iammert/MusicPlayerView) <br/>Android custom view and progress for music player | 662 |
-| 179. | [lsjwzh/MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) <br/>MaterialLoadingProgressBar   provide a styled Prog [...] | 662 |
+| 179. | [lsjwzh/MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) <br/>MaterialLoadingProgressBar   provide a styled Prog... | 662 |
 | 180. | [hongyangAndroid/AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) <br/>一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity. | 660 |
 | 181. | [bingoogolapple/BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) <br/>Android徽章控件 | 656 |
-| 182. | [florent37/HollyViewPager](https://github.com/florent37/HollyViewPager) <br/>A different beautiful ViewPager, with quick swipe  [...] | 649 |
-| 183. | [klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity) <br/>Android library which allows you to swipe down fro [...] | 645 |
+| 182. | [florent37/HollyViewPager](https://github.com/florent37/HollyViewPager) <br/>A different beautiful ViewPager, with quick swipe... | 649 |
+| 183. | [klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity) <br/>Android library which allows you to swipe down fro... | 645 |
 | 184. | [google/santa-tracker-android](https://github.com/google/santa-tracker-android)  | 644 |
 | 185. | [antoniolg/MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp) <br/>Example of a Material App for Android | 643 |
-| 186. | [xmuSistone/android-vertical-slide-view](https://github.com/xmuSistone/android-vertical-slide-view) <br/>vertical slide to switch to the next fragment page [...] | 643 |
-| 187. | [googlesamples/google-services](https://github.com/googlesamples/google-services) <br/>A collection of quickstart samples demonstrating t [...] | 637 |
+| 186. | [xmuSistone/android-vertical-slide-view](https://github.com/xmuSistone/android-vertical-slide-view) <br/>vertical slide to switch to the next fragment page... | 643 |
+| 187. | [googlesamples/google-services](https://github.com/googlesamples/google-services) <br/>A collection of quickstart samples demonstrating t... | 637 |
 | 188. | [shell-software/fab](https://github.com/shell-software/fab) <br/>Floating Action Button Library for Android | 637 |
 | 189. | [ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout) <br/>A very simple arc layout library for Android | 633 |
-| 190. | [SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server) <br/>Enterprise machine learning platform for predictio [...] | 633 |
+| 190. | [SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server) <br/>Enterprise machine learning platform for predictio... | 633 |
 | 191. | [hongyangAndroid/FlowLayout](https://github.com/hongyangAndroid/FlowLayout) <br/>Android流式布局，支持单选、多选等，适合用于产品标签等。 | 631 |
-| 192. | [rahulrj/YahooNewsOnboarding](https://github.com/rahulrj/YahooNewsOnboarding) <br/>Demo of the onboarding animations of Yahoo News Ap [...] | 630 |
+| 192. | [rahulrj/YahooNewsOnboarding](https://github.com/rahulrj/YahooNewsOnboarding) <br/>Demo of the onboarding animations of Yahoo News Ap... | 630 |
 | 193. | [danoz73/RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) <br/>A Fast Scroller for the RecyclerView world! | 629 |
-| 194. | [wangjiegulu/RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton) <br/>Quick solutions for Floating Action Button，RapidFl [...] | 626 |
-| 195. | [afollestad/material-cab](https://github.com/afollestad/material-cab) <br/>A simple library for Android, which replaces the s [...] | 625 |
+| 194. | [wangjiegulu/RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton) <br/>Quick solutions for Floating Action Button，RapidFl... | 626 |
+| 195. | [afollestad/material-cab](https://github.com/afollestad/material-cab) <br/>A simple library for Android, which replaces the s... | 625 |
 | 196. | [MartinRGB/GiftCard-Android](https://github.com/MartinRGB/GiftCard-Android) <br/>Simply Implement Dribbble's popular shot | 623 |
 | 197. | [evernote/android-job](https://github.com/evernote/android-job) <br/>Android library to handle jobs in the background. | 622 |
-| 198. | [takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) <br/>Simple tool which help you to implement activity a [...] | 621 |
-| 199. | [drakeet/SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) <br/>A very beautiful and easy to use app: "SmsCodeHelp [...] | 620 |
-| 200. | [lgvalle/android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app) <br/>Example of how to implement an Android TODO App us [...] | 619 |
-| 201. | [antwankakki/FabricView](https://github.com/antwankakki/FabricView) <br/>A new canvas drawing library for Android. Aims to  [...] | 618 |
-| 202. | [Jungerr/GridPasswordView](https://github.com/Jungerr/GridPasswordView) <br/>An android password view that looks like the pay p [...] | 618 |
-| 203. | [architjn/Auro](https://github.com/architjn/Auro) <br/>1st Most Fastest, Latest Designed and open source  [...] | 607 |
+| 198. | [takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) <br/>Simple tool which help you to implement activity a... | 621 |
+| 199. | [drakeet/SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) <br/>A very beautiful and easy to use app: "SmsCodeHelp... | 620 |
+| 200. | [lgvalle/android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app) <br/>Example of how to implement an Android TODO App us... | 619 |
+| 201. | [antwankakki/FabricView](https://github.com/antwankakki/FabricView) <br/>A new canvas drawing library for Android. Aims to... | 618 |
+| 202. | [Jungerr/GridPasswordView](https://github.com/Jungerr/GridPasswordView) <br/>An android password view that looks like the pay p... | 618 |
+| 203. | [architjn/Auro](https://github.com/architjn/Auro) <br/>1st Most Fastest, Latest Designed and open source... | 607 |
 | 204. | [fenjuly/ArrowDownloadButton](https://github.com/fenjuly/ArrowDownloadButton) <br/>A download button with pretty cool animation | 601 |
-| 205. | [JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle) <br/>Material progress circle around any FloatingAction [...] | 600 |
-| 206. | [AigeStudio/MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) <br/>Light weight and simple Multi-Thread Downloader fo [...] | 596 |
-| 207. | [linroid/FilterMenu](https://github.com/linroid/FilterMenu) <br/>An implemention of  Filter Menu concept for androi [...] | 591 |
+| 205. | [JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle) <br/>Material progress circle around any FloatingAction... | 600 |
+| 206. | [AigeStudio/MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) <br/>Light weight and simple Multi-Thread Downloader fo... | 596 |
+| 207. | [linroid/FilterMenu](https://github.com/linroid/FilterMenu) <br/>An implemention of  Filter Menu concept for androi... | 591 |
 | 208. | [avjinder/Minimal-Todo](https://github.com/avjinder/Minimal-Todo) <br/>Material To-Do App | 591 |
 | 209. | [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) <br/>Twitter's heart animation for Android | 590 |
 | 210. | [arcadefire/nice-spinner](https://github.com/arcadefire/nice-spinner) <br/>A nice spinner for Android | 589 |
-| 211. | [bboyfeiyu/Colorful](https://github.com/bboyfeiyu/Colorful) <br/>基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日 [...] | 587 |
-| 212. | [LuckyJayce/MVCHelper](https://github.com/LuckyJayce/MVCHelper) <br/>实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意vie [...] | 586 |
-| 213. | [nowsecure/android-vts](https://github.com/nowsecure/android-vts) <br/>Android Vulnerability Test Suite - In the spirit o [...] | 586 |
+| 211. | [bboyfeiyu/Colorful](https://github.com/bboyfeiyu/Colorful) <br/>基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日... | 587 |
+| 212. | [LuckyJayce/MVCHelper](https://github.com/LuckyJayce/MVCHelper) <br/>实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意vie... | 586 |
+| 213. | [nowsecure/android-vts](https://github.com/nowsecure/android-vts) <br/>Android Vulnerability Test Suite - In the spirit o... | 586 |
 | 214. | [north2014/A-MusicView](https://github.com/north2014/A-MusicView) <br/>原创自定义控件之-Canvas实时绘制音乐波形图 | 577 |
-| 215. | [andreasschrade/android-design-template](https://github.com/andreasschrade/android-design-template) <br/>This is a State of the Art Android Material Design [...] | 576 |
-| 216. | [CommonUtils/android](https://github.com/CommonUtils/android) <br/>Common Utils library is developed to reduce effort [...] | 575 |
+| 215. | [andreasschrade/android-design-template](https://github.com/andreasschrade/android-design-template) <br/>This is a State of the Art Android Material Design... | 576 |
+| 216. | [CommonUtils/android](https://github.com/CommonUtils/android) <br/>Common Utils library is developed to reduce effort... | 575 |
 | 217. | [wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView) <br/>ImageView with a tag on android | 573 |
-| 218. | [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) <br/>Android Timeline View  is used to display views li [...] | 572 |
+| 218. | [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) <br/>Android Timeline View  is used to display views li... | 572 |
 | 219. | [noties/Scrollable](https://github.com/noties/Scrollable) <br/>Android scrollable tabs | 572 |
-| 220. | [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) <br/>This is a drop-down control, it is more beautiful  [...] | 566 |
+| 220. | [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) <br/>This is a drop-down control, it is more beautiful... | 566 |
 | 221. | [Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress) <br/>A circle progress animation view on Android | 564 |
-| 222. | [lyft/scoop](https://github.com/lyft/scoop) <br/>:icecream: micro framework for building view based [...] | 564 |
+| 222. | [lyft/scoop](https://github.com/lyft/scoop) <br/>:icecream: micro framework for building view based... | 564 |
 | 223. | [michaldrabik/TapBarMenu](https://github.com/michaldrabik/TapBarMenu) <br/>Tap Bar Menu | 564 |
 | 224. | [iammert/InteractivePlayerView](https://github.com/iammert/InteractivePlayerView) <br/>Custom android music player view. | 563 |
 | 225. | [StylingAndroid/Prism](https://github.com/StylingAndroid/Prism) <br/>A dynamic colouring library for Android | 560 |
 | 226. | [artem-zinnatullin/qualitymatters](https://github.com/artem-zinnatullin/qualitymatters) <br/>Android Development Culture | 559 |
-| 227. | [SparkTC/systemml](https://github.com/SparkTC/systemml) <br/>IBM's SystemML Machine Learning - Now Apache Syste [...] | 559 |
-| 228. | [lisawray/fontbinding](https://github.com/lisawray/fontbinding) <br/>A full example of custom fonts in XML using data b [...] | 558 |
-| 229. | [wingjay/BlurImageView](https://github.com/wingjay/BlurImageView) <br/>BlurImageView, you can load your image progressive [...] | 558 |
-| 230. | [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) <br/>Multitask、Breakpoint-resume、High-concurrency、Simpl [...] | 557 |
-| 231. | [H07000223/FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master) <br/>An Android Dialog Lib simplify customization. Supp [...] | 554 |
-| 232. | [lopspower/CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) <br/>Realize a beautiful circular fillable loaders to b [...] | 550 |
+| 227. | [SparkTC/systemml](https://github.com/SparkTC/systemml) <br/>IBM's SystemML Machine Learning - Now Apache Syste... | 559 |
+| 228. | [lisawray/fontbinding](https://github.com/lisawray/fontbinding) <br/>A full example of custom fonts in XML using data b... | 558 |
+| 229. | [wingjay/BlurImageView](https://github.com/wingjay/BlurImageView) <br/>BlurImageView, you can load your image progressive... | 558 |
+| 230. | [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) <br/>Multitask、Breakpoint-resume、High-concurrency、Simpl... | 557 |
+| 231. | [H07000223/FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master) <br/>An Android Dialog Lib simplify customization. Supp... | 554 |
+| 232. | [lopspower/CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) <br/>Realize a beautiful circular fillable loaders to b... | 550 |
 | 233. | [alibaba/f2etest](https://github.com/alibaba/f2etest) <br/>F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。 | 550 |
-| 234. | [lantouzi/WheelView-Android](https://github.com/lantouzi/WheelView-Android) <br/>Selector with wheel view, applicable to selecting  [...] | 548 |
-| 235. | [linkedin/PalDB](https://github.com/linkedin/PalDB) <br/>An embeddable write-once key-value store written i [...] | 548 |
-| 236. | [naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu) <br/>A demo of the power menu with Reveal and other ani [...] | 547 |
-| 237. | [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) <br/>Android library providing simple way to control di [...] | 545 |
-| 238. | [JakeWharton/ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix) <br/>Process Phoenix facilitates restarting your applic [...] | 543 |
-| 239. | [jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView) <br/>a RecyclerView that implements pullrefresh and loa [...] | 542 |
+| 234. | [lantouzi/WheelView-Android](https://github.com/lantouzi/WheelView-Android) <br/>Selector with wheel view, applicable to selecting... | 548 |
+| 235. | [linkedin/PalDB](https://github.com/linkedin/PalDB) <br/>An embeddable write-once key-value store written i... | 548 |
+| 236. | [naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu) <br/>A demo of the power menu with Reveal and other ani... | 547 |
+| 237. | [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) <br/>Android library providing simple way to control di... | 545 |
+| 238. | [JakeWharton/ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix) <br/>Process Phoenix facilitates restarting your applic... | 543 |
+| 239. | [jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView) <br/>a RecyclerView that implements pullrefresh and loa... | 542 |
 | 240. | [tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)  | 542 |
-| 241. | [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) <br/>android java and javascript bridge, inspired by we [...] | 542 |
-| 242. | [ZhaoKaiQiang/KLog](https://github.com/ZhaoKaiQiang/KLog) <br/>这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析 [...] | 539 |
-| 243. | [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) <br/>A Gradle plugin to report the number of method ref [...] | 539 |
+| 241. | [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) <br/>android java and javascript bridge, inspired by we... | 542 |
+| 242. | [ZhaoKaiQiang/KLog](https://github.com/ZhaoKaiQiang/KLog) <br/>这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析... | 539 |
+| 243. | [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) <br/>A Gradle plugin to report the number of method ref... | 539 |
 | 244. | [CycloneAxe/phphub-android](https://github.com/CycloneAxe/phphub-android) <br/>PHPHub for Android | 539 |
-| 245. | [borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) <br/>A material Date Range Picker based on wdullaers Ma [...] | 538 |
-| 246. | [AizazAZ/Android-Ultra-Photo-Selector](https://github.com/AizazAZ/Android-Ultra-Photo-Selector) <br/>Select images from Android devices made easy :-) S [...] | 536 |
-| 247. | [JMPergar/AwesomeText](https://github.com/JMPergar/AwesomeText) <br/>A tool that facilitates working with Spans on Text [...] | 534 |
-| 248. | [pulsarIO/realtime-analytics](https://github.com/pulsarIO/realtime-analytics) <br/>Realtime analytics, this includes the core compone [...] | 532 |
+| 245. | [borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) <br/>A material Date Range Picker based on wdullaers Ma... | 538 |
+| 246. | [AizazAZ/Android-Ultra-Photo-Selector](https://github.com/AizazAZ/Android-Ultra-Photo-Selector) <br/>Select images from Android devices made easy :-) S... | 536 |
+| 247. | [JMPergar/AwesomeText](https://github.com/JMPergar/AwesomeText) <br/>A tool that facilitates working with Spans on Text... | 534 |
+| 248. | [pulsarIO/realtime-analytics](https://github.com/pulsarIO/realtime-analytics) <br/>Realtime analytics, this includes the core compone... | 532 |
 | 249. | [googlesamples/easypermissions](https://github.com/googlesamples/easypermissions) <br/>Simplify Android M system permissions | 531 |
-| 250. | [vlonjatg/progress-activity](https://github.com/vlonjatg/progress-activity) <br/>Easily add loading, empty and error states in your [...] | 528 |
-| 251. | [TakeoffAndroid/AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation) <br/>AppIntroAnimation is a set of code snippets to mak [...] | 528 |
-| 252. | [florent37/GlidePalette](https://github.com/florent37/GlidePalette) <br/>Android Lollipop Palette is now easy to use with G [...] | 526 |
+| 250. | [vlonjatg/progress-activity](https://github.com/vlonjatg/progress-activity) <br/>Easily add loading, empty and error states in your... | 528 |
+| 251. | [TakeoffAndroid/AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation) <br/>AppIntroAnimation is a set of code snippets to mak... | 528 |
+| 252. | [florent37/GlidePalette](https://github.com/florent37/GlidePalette) <br/>Android Lollipop Palette is now easy to use with G... | 526 |
 | 253. | [iammert/ProgressLayout](https://github.com/iammert/ProgressLayout) <br/>custom progress layout view for Android | 521 |
-| 254. | [hzsweers/barber](https://github.com/hzsweers/barber) <br/>A custom view styling library for Android that gen [...] | 521 |
-| 255. | [DenisMondon/material-design-library](https://github.com/DenisMondon/material-design-library) <br/>A library that helps developers creating their And [...] | 519 |
-| 256. | [afollestad/drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) <br/>Easy to implement Google Photos style multi-select [...] | 517 |
+| 254. | [hzsweers/barber](https://github.com/hzsweers/barber) <br/>A custom view styling library for Android that gen... | 521 |
+| 255. | [DenisMondon/material-design-library](https://github.com/DenisMondon/material-design-library) <br/>A library that helps developers creating their And... | 519 |
+| 256. | [afollestad/drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) <br/>Easy to implement Google Photos style multi-select... | 517 |
 | 257. | [malmstein/yahnac](https://github.com/malmstein/yahnac) <br/>Yet Another Hacker News Android Client | 517 |
-| 258. | [spotify/apollo](https://github.com/spotify/apollo) <br/>Java libraries for writing composable microservice [...] | 516 |
-| 259. | [bmarrdev/android-DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) <br/>DecoView: Android arc based animated charting libr [...] | 516 |
+| 258. | [spotify/apollo](https://github.com/spotify/apollo) <br/>Java libraries for writing composable microservice... | 516 |
+| 259. | [bmarrdev/android-DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) <br/>DecoView: Android arc based animated charting libr... | 516 |
 | 260. | [kongnanlive/SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)  | 515 |
-| 261. | [nshmura/RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) <br/>An efficient TabLayout library implemented with Re [...] | 511 |
-| 262. | [ckurtm/FabButton](https://github.com/ckurtm/FabButton) <br/>Android Floating ActionButton with a progress indi [...] | 511 |
-| 263. | [Tibolte/AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) <br/>An Android project providing easy navigation betwe [...] | 511 |
-| 264. | [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) <br/>Smooth version of Google Support Design AppBarLayo [...] | 510 |
+| 261. | [nshmura/RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) <br/>An efficient TabLayout library implemented with Re... | 511 |
+| 262. | [ckurtm/FabButton](https://github.com/ckurtm/FabButton) <br/>Android Floating ActionButton with a progress indi... | 511 |
+| 263. | [Tibolte/AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) <br/>An Android project providing easy navigation betwe... | 511 |
+| 264. | [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) <br/>Smooth version of Google Support Design AppBarLayo... | 510 |
 | 265. | [yankai-victor/Loading](https://github.com/yankai-victor/Loading) <br/>Android loading view | 509 |
-| 266. | [k0shk0sh/PermissionHelper](https://github.com/k0shk0sh/PermissionHelper) <br/>Android Library to help you with your runtime Perm [...] | 508 |
-| 267. | [JayFang1993/DropDownMenu](https://github.com/JayFang1993/DropDownMenu) <br/>DropDownMenu for Android,Filter the list based on  [...] | 506 |
-| 268. | [hongyangAndroid/ChangeSkin](https://github.com/hongyangAndroid/ChangeSkin) <br/>基于插件式的Android换肤框架，支持app内和或者外部插件式提供资源的换肤方案，无需重启Acti [...] | 506 |
+| 266. | [k0shk0sh/PermissionHelper](https://github.com/k0shk0sh/PermissionHelper) <br/>Android Library to help you with your runtime Perm... | 508 |
+| 267. | [JayFang1993/DropDownMenu](https://github.com/JayFang1993/DropDownMenu) <br/>DropDownMenu for Android,Filter the list based on... | 506 |
+| 268. | [hongyangAndroid/ChangeSkin](https://github.com/hongyangAndroid/ChangeSkin) <br/>基于插件式的Android换肤框架，支持app内和或者外部插件式提供资源的换肤方案，无需重启Acti... | 506 |
 | 269. | [palaima/DebugDrawer](https://github.com/palaima/DebugDrawer) <br/>Android Debug Drawer for faster development | 502 |
-| 270. | [brianPlummer/TinyDancer](https://github.com/brianPlummer/TinyDancer) <br/>An android library for displaying fps from the cho [...] | 501 |
+| 270. | [brianPlummer/TinyDancer](https://github.com/brianPlummer/TinyDancer) <br/>An android library for displaying fps from the cho... | 501 |
 | 271. | [LuckyJayce/LargeImage](https://github.com/LuckyJayce/LargeImage) <br/>Android 加载大图  可以高清显示10000*10000像素的图片，轻松实现微博长图功能 | 497 |
-| 272. | [jkwiecien/EasyImage](https://github.com/jkwiecien/EasyImage) <br/>Library for picking pictures from gallery or camer [...] | 494 |
-| 273. | [pwittchen/ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) <br/>Android library listening network connection state [...] | 493 |
-| 274. | [saulmm/Avengers](https://github.com/saulmm/Avengers) <br/>[WIP] This project aims to work as a demo project  [...] | 490 |
-| 275. | [ProjectSeptemberInc/gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) <br/>OpenGL bindings for React Native to implement comp [...] | 489 |
-| 276. | [yqritc/Android-ScalableVideoView](https://github.com/yqritc/Android-ScalableVideoView) <br/>Android Texture VideoView having a variety of scal [...] | 488 |
-| 277. | [blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader) <br/>Super fast and easy way to create header for Andro [...] | 487 |
-| 278. | [spongebobrf/MaterialIntroTutorial](https://github.com/spongebobrf/MaterialIntroTutorial) <br/>Library demonstrating a material intro tutorial mu [...] | 486 |
-| 279. | [liaohuqiu/android-UCToast](https://github.com/liaohuqiu/android-UCToast) <br/>Demonstrate how UC browser display a system overla [...] | 485 |
-| 280. | [allan1st/JellyRefreshLayout](https://github.com/allan1st/JellyRefreshLayout) <br/>A pull-down-to-refresh layout inspired by Lollipop [...] | 485 |
-| 281. | [spring-guides/tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) <br/>Spring Security and Angular JS:: A tutorial on how [...] | 484 |
-| 282. | [yueban/DraggedViewPager](https://github.com/yueban/DraggedViewPager) <br/>A View whose pages and items both can be dragged,  [...] | 484 |
+| 272. | [jkwiecien/EasyImage](https://github.com/jkwiecien/EasyImage) <br/>Library for picking pictures from gallery or camer... | 494 |
+| 273. | [pwittchen/ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) <br/>Android library listening network connection state... | 493 |
+| 274. | [saulmm/Avengers](https://github.com/saulmm/Avengers) <br/>[WIP] This project aims to work as a demo project... | 490 |
+| 275. | [ProjectSeptemberInc/gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) <br/>OpenGL bindings for React Native to implement comp... | 489 |
+| 276. | [yqritc/Android-ScalableVideoView](https://github.com/yqritc/Android-ScalableVideoView) <br/>Android Texture VideoView having a variety of scal... | 488 |
+| 277. | [blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader) <br/>Super fast and easy way to create header for Andro... | 487 |
+| 278. | [spongebobrf/MaterialIntroTutorial](https://github.com/spongebobrf/MaterialIntroTutorial) <br/>Library demonstrating a material intro tutorial mu... | 486 |
+| 279. | [liaohuqiu/android-UCToast](https://github.com/liaohuqiu/android-UCToast) <br/>Demonstrate how UC browser display a system overla... | 485 |
+| 280. | [allan1st/JellyRefreshLayout](https://github.com/allan1st/JellyRefreshLayout) <br/>A pull-down-to-refresh layout inspired by Lollipop... | 485 |
+| 281. | [spring-guides/tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) <br/>Spring Security and Angular JS:: A tutorial on how... | 484 |
+| 282. | [yueban/DraggedViewPager](https://github.com/yueban/DraggedViewPager) <br/>A View whose pages and items both can be dragged,... | 484 |
 | 283. | [mthli/Ninja](https://github.com/mthli/Ninja) <br/>Yet another web browser for Android. | 483 |
 | 284. | [hongyangAndroid/Android-CircleMenu](https://github.com/hongyangAndroid/Android-CircleMenu) <br/>自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速旋转。 | 483 |
-| 285. | [florent37/MaterialLeanBack](https://github.com/florent37/MaterialLeanBack) <br/>A beautiful leanback port for Smartphones and Tabl [...] | 483 |
-| 286. | [tumblr/Bookends](https://github.com/tumblr/Bookends) <br/>A UI widget for adding headers and footers to Recy [...] | 483 |
+| 285. | [florent37/MaterialLeanBack](https://github.com/florent37/MaterialLeanBack) <br/>A beautiful leanback port for Smartphones and Tabl... | 483 |
+| 286. | [tumblr/Bookends](https://github.com/tumblr/Bookends) <br/>A UI widget for adding headers and footers to Recy... | 483 |
 | 287. | [zhaozhentao/InboxLayout](https://github.com/zhaozhentao/InboxLayout) <br/>模仿google inbox效果 | 481 |
-| 288. | [OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin) <br/>A Material design Android pincode library. Support [...] | 480 |
-| 289. | [jiangqqlmj/FastDev4Android](https://github.com/jiangqqlmj/FastDev4Android) <br/>本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用M [...] | 480 |
-| 290. | [mikepenz/wallsplash-android](https://github.com/mikepenz/wallsplash-android) <br/>wall:splash is a free open source android client f [...] | 480 |
+| 288. | [OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin) <br/>A Material design Android pincode library. Support... | 480 |
+| 289. | [jiangqqlmj/FastDev4Android](https://github.com/jiangqqlmj/FastDev4Android) <br/>本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用M... | 480 |
+| 290. | [mikepenz/wallsplash-android](https://github.com/mikepenz/wallsplash-android) <br/>wall:splash is a free open source android client f... | 480 |
 | 291. | [KeepSafe/ReLinker](https://github.com/KeepSafe/ReLinker) <br/>A robust native library loader for Android. | 479 |
 | 292. | [nuuneoi/Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary)  | 478 |
 | 293. | [fengjundev/Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader) <br/>一个通过动态加载本地皮肤包进行换肤的皮肤框架 | 475 |
 | 294. | [shekhargulati/java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) <br/>Java 8 for all of us | 475 |
-| 295. | [OrangeGangsters/SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) <br/>A SwipeRefreshLayout extension that allows to swip [...] | 474 |
-| 296. | [android10/frodo](https://github.com/android10/frodo) <br/>Android Library for Logging RxJava Observables and [...] | 474 |
-| 297. | [DavidPizarro/AutoLabelUI](https://github.com/DavidPizarro/AutoLabelUI) <br/>Android library to place labels next to another. I [...] | 472 |
+| 295. | [OrangeGangsters/SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) <br/>A SwipeRefreshLayout extension that allows to swip... | 474 |
+| 296. | [android10/frodo](https://github.com/android10/frodo) <br/>Android Library for Logging RxJava Observables and... | 474 |
+| 297. | [DavidPizarro/AutoLabelUI](https://github.com/DavidPizarro/AutoLabelUI) <br/>Android library to place labels next to another. I... | 472 |
 | 298. | [nimengbo/StickerView](https://github.com/nimengbo/StickerView)  | 472 |
 | 299. | [linkedin/FeatureFu](https://github.com/linkedin/FeatureFu) <br/>Library and tools for advanced feature engineering | 471 |
-| 300. | [wasabeef/picasso-transformations](https://github.com/wasabeef/picasso-transformations) <br/>An Android transformation library providing a vari [...] | 471 |
-| 301. | [AAkira/ExpandableLayout](https://github.com/AAkira/ExpandableLayout) <br/>An android library that brings the expandable layo [...] | 470 |
+| 300. | [wasabeef/picasso-transformations](https://github.com/wasabeef/picasso-transformations) <br/>An Android transformation library providing a vari... | 471 |
+| 301. | [AAkira/ExpandableLayout](https://github.com/AAkira/ExpandableLayout) <br/>An android library that brings the expandable layo... | 470 |
 | 302. | [florent37/ViewAnimator](https://github.com/florent37/ViewAnimator) <br/>A fluent Android animation library | 470 |
-| 303. | [DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI) <br/>Android library to display a list of items for pic [...] | 468 |
-| 304. | [DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) <br/>Material Design ProgressBar with consistent appear [...] | 467 |
+| 303. | [DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI) <br/>Android library to display a list of items for pic... | 468 |
+| 304. | [DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) <br/>Material Design ProgressBar with consistent appear... | 467 |
 | 305. | [jariz/MaterialUp](https://github.com/jariz/MaterialUp) <br/>MaterialUp Android App | 467 |
 | 306. | [ashqal/NightOwl](https://github.com/ashqal/NightOwl)  | 467 |
 | 307. | [glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view) <br/>A velocimeter View for Android | 466 |
 | 308. | [tumblr/Remember](https://github.com/tumblr/Remember) <br/>A preferences-backed key-value store | 465 |
 | 309. | [android-cjj/BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) <br/>A bueautiful RefreshLayout | 465 |
 | 310. | [satorufujiwara/material-scrolling](https://github.com/satorufujiwara/material-scrolling) <br/>Android library for material scrolling techniques. | 465 |
-| 311. | [kaelaela/VerticalViewPager](https://github.com/kaelaela/VerticalViewPager) <br/>Vertically ViewPager and vertically transformer fo [...] | 465 |
-| 312. | [tuesda/Watch](https://github.com/tuesda/Watch) <br/>A project which demonstrate how to develop a custo [...] | 464 |
+| 311. | [kaelaela/VerticalViewPager](https://github.com/kaelaela/VerticalViewPager) <br/>Vertically ViewPager and vertically transformer fo... | 465 |
+| 312. | [tuesda/Watch](https://github.com/tuesda/Watch) <br/>A project which demonstrate how to develop a custo... | 464 |
 | 313. | [mxn21/SlidingCard](https://github.com/mxn21/SlidingCard) <br/>Sliding cards with pretty gallery effects. | 463 |
 | 314. | [lfkdsk/JustWeEngine](https://github.com/lfkdsk/JustWeEngine) <br/>An easy open source Android game engine | 462 |
-| 315. | [vinaygaba/CreditCardView](https://github.com/vinaygaba/CreditCardView) <br/>CreditCardView is an Android library that allows d [...] | 461 |
-| 316. | [UnderwaterApps/overlap2d](https://github.com/UnderwaterApps/overlap2d) <br/>Overlap2D Game development toolkit for UI and Leve [...] | 461 |
+| 315. | [vinaygaba/CreditCardView](https://github.com/vinaygaba/CreditCardView) <br/>CreditCardView is an Android library that allows d... | 461 |
+| 316. | [UnderwaterApps/overlap2d](https://github.com/UnderwaterApps/overlap2d) <br/>Overlap2D Game development toolkit for UI and Leve... | 461 |
 | 317. | [hidroh/materialistic](https://github.com/hidroh/materialistic) <br/>A material-design Hacker News Android reader | 461 |
-| 318. | [lawloretienne/Trestle](https://github.com/lawloretienne/Trestle) <br/>A framework used to bridge one or more spans for u [...] | 460 |
-| 319. | [jlmd/UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) <br/>Sample project of MVP and Material Design using as [...] | 459 |
+| 318. | [lawloretienne/Trestle](https://github.com/lawloretienne/Trestle) <br/>A framework used to bridge one or more spans for u... | 460 |
+| 319. | [jlmd/UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) <br/>Sample project of MVP and Material Design using as... | 459 |
 | 320. | [glomadrian/material-code-input](https://github.com/glomadrian/material-code-input) <br/>A material style input for codes | 458 |
-| 321. | [fenjuly/ToggleExpandLayout](https://github.com/fenjuly/ToggleExpandLayout) <br/>A togglelayout that can be used in setting interfa [...] | 456 |
-| 322. | [google/gcm](https://github.com/google/gcm) <br/>Google Cloud Messaging - client libraries and samp [...] | 455 |
-| 323. | [wujingchao/MultiCardMenu](https://github.com/wujingchao/MultiCardMenu) <br/>A multicard menu that can open and close with anim [...] | 454 |
+| 321. | [fenjuly/ToggleExpandLayout](https://github.com/fenjuly/ToggleExpandLayout) <br/>A togglelayout that can be used in setting interfa... | 456 |
+| 322. | [google/gcm](https://github.com/google/gcm) <br/>Google Cloud Messaging - client libraries and samp... | 455 |
+| 323. | [wujingchao/MultiCardMenu](https://github.com/wujingchao/MultiCardMenu) <br/>A multicard menu that can open and close with anim... | 454 |
 | 324. | [capitalone/Hygieia](https://github.com/capitalone/Hygieia) <br/>CapitalOne  DevOps Dashboard | 454 |
 | 325. | [gelitenight/WaveView](https://github.com/gelitenight/WaveView) <br/>waveview for android | 454 |
-| 326. | [xiongwei-git/AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer) <br/>Android Video Player , Like NetEaseNews Video Play [...] | 450 |
-| 327. | [yigit/dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo) <br/>The demo application that we've used in the Archit [...] | 445 |
+| 326. | [xiongwei-git/AndroidVideoPlayer](https://github.com/xiongwei-git/AndroidVideoPlayer) <br/>Android Video Player , Like NetEaseNews Video Play... | 450 |
+| 327. | [yigit/dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo) <br/>The demo application that we've used in the Archit... | 445 |
 | 328. | [THEONE10211024/WaterDropListView](https://github.com/THEONE10211024/WaterDropListView) <br/>WaterDropListView，just like the iOS | 445 |
 | 329. | [sacot41/SCViewPager](https://github.com/sacot41/SCViewPager)  | 444 |
 | 330. | [ashqal/ChromeLikeSwipeLayout](https://github.com/ashqal/ChromeLikeSwipeLayout) <br/>Pull down, and execute more action! | 444 |
 | 331. | [wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid) <br/>可展开，可拖动，可排序，可删除，固定更多的GridView | 442 |
 | 332. | [florent37/MaterialTextField](https://github.com/florent37/MaterialTextField) <br/>A different beautiful Floating Edit Text | 438 |
-| 333. | [Danylo2006/LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) <br/>A Layoutmanager that must be used with RecyclerVie [...] | 438 |
+| 333. | [Danylo2006/LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) <br/>A Layoutmanager that must be used with RecyclerVie... | 438 |
 | 334. | [lingochamp/ShareLoginLib](https://github.com/lingochamp/ShareLoginLib) <br/>ThirdParty login and share lib | 436 |
 | 335. | [brucetoo/PickView](https://github.com/brucetoo/PickView) <br/>Date and Province WheelView like IOS | 436 |
 | 336. | [googlesamples/android-vision](https://github.com/googlesamples/android-vision)  | 436 |
-| 337. | [AigeStudio/WheelPicker](https://github.com/AigeStudio/WheelPicker) <br/>Simple & Wonderful wheel view in realistic effect  [...] | 435 |
+| 337. | [AigeStudio/WheelPicker](https://github.com/AigeStudio/WheelPicker) <br/>Simple & Wonderful wheel view in realistic effect... | 435 |
 | 338. | [googlesamples/io2015-codelabs](https://github.com/googlesamples/io2015-codelabs) <br/>codelabs for Google I/O 2015 | 433 |
 | 339. | [hanks-zyh/SmallBang](https://github.com/hanks-zyh/SmallBang) <br/>twitter like animation for any view :heartbeat: | 432 |
 | 340. | [GoogleChrome/custom-tabs-client](https://github.com/GoogleChrome/custom-tabs-client) <br/>Chrome custom tabs examples | 431 |
-| 341. | [Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView) <br/>Android View that displays different content based [...] | 430 |
+| 341. | [Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView) <br/>Android View that displays different content based... | 430 |
 | 342. | [motianhuo/VCameraDemo](https://github.com/motianhuo/VCameraDemo) <br/>微信小视频+秒拍 | 429 |
-| 343. | [jenzz/Android-MaterialPreference](https://github.com/jenzz/Android-MaterialPreference) <br/>A simple backward-compatible implementation of a M [...] | 427 |
-| 344. | [MarkoMilos/Paginate](https://github.com/MarkoMilos/Paginate) <br/>Library for creating simple pagination functionali [...] | 426 |
+| 343. | [jenzz/Android-MaterialPreference](https://github.com/jenzz/Android-MaterialPreference) <br/>A simple backward-compatible implementation of a M... | 427 |
+| 344. | [MarkoMilos/Paginate](https://github.com/MarkoMilos/Paginate) <br/>Library for creating simple pagination functionali... | 426 |
 | 345. | [ppamorim/Cult](https://github.com/ppamorim/Cult) <br/>Toolbar is so boring | 424 |
-| 346. | [elevenetc/DraggableView](https://github.com/elevenetc/DraggableView) <br/>Draggable views with rotation and skew/scale effec [...] | 424 |
+| 346. | [elevenetc/DraggableView](https://github.com/elevenetc/DraggableView) <br/>Draggable views with rotation and skew/scale effec... | 424 |
 | 347. | [ZhaoKaiQiang/JianDan](https://github.com/ZhaoKaiQiang/JianDan) <br/>高仿煎蛋客户端 | 423 |
 | 348. | [googlesamples/easygoogle](https://github.com/googlesamples/easygoogle) <br/>Simple wrapper library for Google APIs | 423 |
 | 349. | [pyricau/fragnums](https://github.com/pyricau/fragnums) <br/>An enum based library to replace fragments. | 423 |
-| 350. | [FireZenk/AudioWaves](https://github.com/FireZenk/AudioWaves) <br/>Shows a graphic representation of the sounds captu [...] | 422 |
-| 351. | [txusballesteros/fit-chart](https://github.com/txusballesteros/fit-chart) <br/>Fit Chart is an Android view similar to Google Fit [...] | 420 |
+| 350. | [FireZenk/AudioWaves](https://github.com/FireZenk/AudioWaves) <br/>Shows a graphic representation of the sounds captu... | 422 |
+| 351. | [txusballesteros/fit-chart](https://github.com/txusballesteros/fit-chart) <br/>Fit Chart is an Android view similar to Google Fit... | 420 |
 | 352. | [boycy815/PinchImageView](https://github.com/boycy815/PinchImageView) <br/>体验最好的图片手势控件，不同分辨率无缝切换，可与ViewPager结合使用。 | 420 |
-| 353. | [JlUgia/beauty-treatment-android-animations](https://github.com/JlUgia/beauty-treatment-android-animations) <br/>Set of samples of views with slick interaction pat [...] | 419 |
-| 354. | [jjobes/SlideDateTimePicker](https://github.com/jjobes/SlideDateTimePicker) <br/>A combined DatePicker and TimePicker in a DialogFr [...] | 419 |
-| 355. | [cimi-chen/EaseInterpolator](https://github.com/cimi-chen/EaseInterpolator) <br/>Thirty different easing animation interpolators fo [...] | 417 |
-| 356. | [truizlop/FABRevealLayout](https://github.com/truizlop/FABRevealLayout) <br/>A layout to transition between two views using a F [...] | 417 |
-| 357. | [xmuSistone/android-animate-RichEditor](https://github.com/xmuSistone/android-animate-RichEditor) <br/>android rich text editor which enables users to in [...] | 415 |
-| 358. | [kaichunlin/android-transition](https://github.com/kaichunlin/android-transition) <br/>Allows the easy creation of animated transition ef [...] | 415 |
+| 353. | [JlUgia/beauty-treatment-android-animations](https://github.com/JlUgia/beauty-treatment-android-animations) <br/>Set of samples of views with slick interaction pat... | 419 |
+| 354. | [jjobes/SlideDateTimePicker](https://github.com/jjobes/SlideDateTimePicker) <br/>A combined DatePicker and TimePicker in a DialogFr... | 419 |
+| 355. | [cimi-chen/EaseInterpolator](https://github.com/cimi-chen/EaseInterpolator) <br/>Thirty different easing animation interpolators fo... | 417 |
+| 356. | [truizlop/FABRevealLayout](https://github.com/truizlop/FABRevealLayout) <br/>A layout to transition between two views using a F... | 417 |
+| 357. | [xmuSistone/android-animate-RichEditor](https://github.com/xmuSistone/android-animate-RichEditor) <br/>android rich text editor which enables users to in... | 415 |
+| 358. | [kaichunlin/android-transition](https://github.com/kaichunlin/android-transition) <br/>Allows the easy creation of animated transition ef... | 415 |
 | 359. | [nkzawa/socket.io-android-chat](https://github.com/nkzawa/socket.io-android-chat) <br/>A simple chat demo for socket.io and Android | 414 |
-| 360. | [hongyangAndroid/Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout) <br/>An android library for navigator that stick on the [...] | 412 |
+| 360. | [hongyangAndroid/Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout) <br/>An android library for navigator that stick on the... | 412 |
 | 361. | [xingrz/GankMeizhi](https://github.com/xingrz/GankMeizhi) <br/>干·妹纸 (Gān Mèizhi) | 412 |
-| 362. | [ISchwarz23/SortableTableView](https://github.com/ISchwarz23/SortableTableView) <br/>An Android library containing a simple TableView a [...] | 410 |
-| 363. | [hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News) <br/>Android MVVM experiment project using the official [...] | 410 |
+| 362. | [ISchwarz23/SortableTableView](https://github.com/ISchwarz23/SortableTableView) <br/>An Android library containing a simple TableView a... | 410 |
+| 363. | [hitherejoe/MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News) <br/>Android MVVM experiment project using the official... | 410 |
 | 364. | [liuling07/SimpleNews](https://github.com/liuling07/SimpleNews) <br/>基于Material Design和MVP的新闻客户端 | 407 |
 | 365. | [mcxiaoke/packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) <br/>下一代Android打包工具，1000个渠道包只需要5秒钟 | 406 |
 | 366. | [tyrantgit/HeartLayout](https://github.com/tyrantgit/HeartLayout) <br/>periscope like heartlayout | 405 |
 | 367. | [binaryfork/Spanny](https://github.com/binaryfork/Spanny)  | 403 |
 | 368. | [tittojose/TimeRangePicker](https://github.com/tittojose/TimeRangePicker) <br/>Android time range picker | 402 |
 | 369. | [Serchinastico/CoolSwitch](https://github.com/Serchinastico/CoolSwitch) <br/>Custom switch with a circular reveal effect | 402 |
-| 370. | [shehabic/Droppy](https://github.com/shehabic/Droppy) <br/>A simple yet-powerful and fully customizable Andro [...] | 402 |
+| 370. | [shehabic/Droppy](https://github.com/shehabic/Droppy) <br/>A simple yet-powerful and fully customizable Andro... | 402 |
 | 371. | [dodola/HotFix](https://github.com/dodola/HotFix) <br/>安卓App热补丁动态修复框架 | 401 |
-| 372. | [sleekbyte/tailor](https://github.com/sleekbyte/tailor) <br/>Cross-platform static analyzer and linter for Swif [...] | 400 |
+| 372. | [sleekbyte/tailor](https://github.com/sleekbyte/tailor) <br/>Cross-platform static analyzer and linter for Swif... | 400 |
 | 373. | [soarcn/Favor](https://github.com/soarcn/Favor) <br/>A easy way to use android sharepreference | 400 |
-| 374. | [wasabeef/fresco-processors](https://github.com/wasabeef/fresco-processors) <br/>An Android image processor library providing a var [...] | 399 |
-| 375. | [laowch/GithubTrends](https://github.com/laowch/GithubTrends) <br/>It's a GitHub Trending repositories Viewer with Ma [...] | 397 |
+| 374. | [wasabeef/fresco-processors](https://github.com/wasabeef/fresco-processors) <br/>An Android image processor library providing a var... | 399 |
+| 375. | [laowch/GithubTrends](https://github.com/laowch/GithubTrends) <br/>It's a GitHub Trending repositories Viewer with Ma... | 397 |
 | 376. | [kymjs/EmojiChat](https://github.com/kymjs/EmojiChat) <br/>Android聊天界面+emoji表情+大表情实现 | 397 |
-| 377. | [jaredsburrows/android-gradle-java-template](https://github.com/jaredsburrows/android-gradle-java-template) <br/>Gradle + Android Studio + Robolectric + Espresso + [...] | 396 |
+| 377. | [jaredsburrows/android-gradle-java-template](https://github.com/jaredsburrows/android-gradle-java-template) <br/>Gradle + Android Studio + Robolectric + Espresso +... | 396 |
 | 378. | [zzhoujay/RichText](https://github.com/zzhoujay/RichText) <br/>Android平台下的富文本显示控件 | 395 |
-| 379. | [blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView) <br/>An Android library introducing a stack of Views wi [...] | 394 |
+| 379. | [blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView) <br/>An Android library introducing a stack of Views wi... | 394 |
 | 380. | [kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel) <br/>底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView | 393 |
 | 381. | [xuyisheng/DesignSupportLibraryDemo](https://github.com/xuyisheng/DesignSupportLibraryDemo) <br/>Android Design Support Library Demo | 393 |
 | 382. | [w446108264/XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim) <br/>小红书欢迎引导第二版 | 392 |
-| 383. | [konifar/fab-transformation](https://github.com/konifar/fab-transformation) <br/>Support Floating Action Button transformation for  [...] | 391 |
-| 384. | [yydcdut/PhotoNoter](https://github.com/yydcdut/PhotoNoter) <br/>:notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+Rx [...] | 390 |
-| 385. | [glomadrian/dashed-circular-progress](https://github.com/glomadrian/dashed-circular-progress) <br/>A Circular progress animated where you can put any [...] | 389 |
-| 386. | [dangdangdotcom/elastic-job](https://github.com/dangdangdotcom/elastic-job) <br/>Elastic-Job is a distributed scheduled job framewo [...] | 387 |
+| 383. | [konifar/fab-transformation](https://github.com/konifar/fab-transformation) <br/>Support Floating Action Button transformation for... | 391 |
+| 384. | [yydcdut/PhotoNoter](https://github.com/yydcdut/PhotoNoter) <br/>:notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+Rx... | 390 |
+| 385. | [glomadrian/dashed-circular-progress](https://github.com/glomadrian/dashed-circular-progress) <br/>A Circular progress animated where you can put any... | 389 |
+| 386. | [dangdangdotcom/elastic-job](https://github.com/dangdangdotcom/elastic-job) <br/>Elastic-Job is a distributed scheduled job framewo... | 387 |
 | 387. | [jfoenixadmin/JFoenix](https://github.com/jfoenixadmin/JFoenix) <br/>JavaFX Material Design Library | 387 |
 | 388. | [florent37/Carpaccio](https://github.com/florent37/Carpaccio) <br/>Data Mapping & Smarter Views framework for android | 386 |
 | 389. | [xujinyang/BiuEditText](https://github.com/xujinyang/BiuEditText) <br/>biu，biu，一个有趣的EditText | 386 |
 | 390. | [iKrelve/KuaiHu](https://github.com/iKrelve/KuaiHu) <br/>高仿知乎日报——krelve.com | 385 |
-| 391. | [DanielMartinus/Pixelate](https://github.com/DanielMartinus/Pixelate) <br/>Transform images into pixel versions of itself in  [...] | 385 |
+| 391. | [DanielMartinus/Pixelate](https://github.com/DanielMartinus/Pixelate) <br/>Transform images into pixel versions of itself in... | 385 |
 | 392. | [Qixingchen/MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) <br/>Material Design 版 BiliBili Android 客户端 | 385 |
 | 393. | [PaNaVTEC/Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) <br/>Clean implementation on Android | 385 |
 | 394. | [openproject/AndroidDigest](https://github.com/openproject/AndroidDigest) <br/>android相关的干货(文摘，名博，github等等) | 384 |
-| 395. | [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) <br/>screenshot-test-for-android is a library that can  [...] | 384 |
-| 396. | [canelmas/let](https://github.com/canelmas/let) <br/>Annotation based simple API flavoured with AOP to  [...] | 384 |
-| 397. | [wingjay/jianshi](https://github.com/wingjay/jianshi) <br/>A beautiful app 简诗 for recording anything in your  [...] | 383 |
+| 395. | [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) <br/>screenshot-test-for-android is a library that can... | 384 |
+| 396. | [canelmas/let](https://github.com/canelmas/let) <br/>Annotation based simple API flavoured with AOP to... | 384 |
+| 397. | [wingjay/jianshi](https://github.com/wingjay/jianshi) <br/>A beautiful app 简诗 for recording anything in your... | 383 |
 | 398. | [zzz40500/Android-PullToNextLayout](https://github.com/zzz40500/Android-PullToNextLayout) <br/>Android-PullToNextLayout | 382 |
 | 399. | [nuptboyzhb/SuperSwipeRefreshLayout](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout) <br/>A Custom SwipeRefreshLayout | 380 |
 | 400. | [dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView) <br/>Android Bubble View | 378 |
-| 401. | [devsoulwolf/Android-RatioLayout](https://github.com/devsoulwolf/Android-RatioLayout) <br/>This is a specified proportion to the size of the  [...] | 377 |
-| 402. | [EverythingMe/overscroll-decor](https://github.com/EverythingMe/overscroll-decor) <br/>Android: iOS-like over-scrolling effect applicable [...] | 375 |
-| 403. | [mzgreen/HideOnScrollExample](https://github.com/mzgreen/HideOnScrollExample) <br/>This is an example on how to show/hide views when  [...] | 374 |
+| 401. | [devsoulwolf/Android-RatioLayout](https://github.com/devsoulwolf/Android-RatioLayout) <br/>This is a specified proportion to the size of the... | 377 |
+| 402. | [EverythingMe/overscroll-decor](https://github.com/EverythingMe/overscroll-decor) <br/>Android: iOS-like over-scrolling effect applicable... | 375 |
+| 403. | [mzgreen/HideOnScrollExample](https://github.com/mzgreen/HideOnScrollExample) <br/>This is an example on how to show/hide views when... | 374 |
 | 404. | [ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner) <br/>Spinner with Material Design - Down to API 9 | 374 |
 | 405. | [recruit-lifestyle/FloatingView](https://github.com/recruit-lifestyle/FloatingView)  | 374 |
 | 406. | [gotokatsuya/BlurredGridMenu](https://github.com/gotokatsuya/BlurredGridMenu) <br/>Cool blurred grid menu for Android. | 372 |
 | 407. | [chenyangcun/MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) <br/>本APP用来演示Material Design控件的使用。 | 372 |
-| 408. | [taoliuh/CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) <br/>Based on https://github.com/xmuSistone/android-car [...] | 371 |
+| 408. | [taoliuh/CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) <br/>Based on https://github.com/xmuSistone/android-car... | 371 |
 | 409. | [alafighting/CharacterPickerView](https://github.com/alafighting/CharacterPickerView) <br/>可实现三级联动的选择器，高仿iOS的滚轮控件 | 370 |
 | 410. | [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) <br/>Android  Plugin Framework 插件开发框架及示例程序，原理介绍等 | 369 |
 | 411. | [oxoooo/pull-back-layout](https://github.com/oxoooo/pull-back-layout) <br/>Pull down to finish an Activity. | 369 |
-| 412. | [fabiendevos/nanotasks](https://github.com/fabiendevos/nanotasks) <br/>Extremely light way to execute code in the backgro [...] | 369 |
-| 413. | [Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch) <br/>A widget you can slide it to open or close somethi [...] | 364 |
-| 414. | [square/haha](https://github.com/square/haha) <br/>Java library to automate the analysis of Android h [...] | 363 |
+| 412. | [fabiendevos/nanotasks](https://github.com/fabiendevos/nanotasks) <br/>Extremely light way to execute code in the backgro... | 369 |
+| 413. | [Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch) <br/>A widget you can slide it to open or close somethi... | 364 |
+| 414. | [square/haha](https://github.com/square/haha) <br/>Java library to automate the analysis of Android h... | 363 |
 | 415. | [NicodeLee/Beautyacticle](https://github.com/NicodeLee/Beautyacticle) <br/>Share the most beautiful words | 363 |
 | 416. | [jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView) <br/>Circular timer on Android platform. | 362 |
 | 417. | [iwgang/CountdownView](https://github.com/iwgang/CountdownView) <br/>Android Countdown Widget | 362 |
-| 418. | [tajchert/Nammu](https://github.com/tajchert/Nammu) <br/>Permission helper for Android M - background check [...] | 362 |
+| 418. | [tajchert/Nammu](https://github.com/tajchert/Nammu) <br/>Permission helper for Android M - background check... | 362 |
 | 419. | [apache/incubator-geode](https://github.com/apache/incubator-geode) <br/>Mirror of Apache Geode (Incubating) | 361 |
-| 420. | [hitherejoe/Tabby](https://github.com/hitherejoe/Tabby) <br/>A demo application for the new Android Custom Tabs [...] | 360 |
+| 420. | [hitherejoe/Tabby](https://github.com/hitherejoe/Tabby) <br/>A demo application for the new Android Custom Tabs... | 360 |
 | 421. | [xuyisheng/ShortcutHelper](https://github.com/xuyisheng/ShortcutHelper) <br/>a shortcut lib for easy use shortcut | 359 |
-| 422. | [sockeqwe/AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) <br/>"Favor composition over inheritance" for RecyclerV [...] | 359 |
-| 423. | [Karumi/Dividers](https://github.com/Karumi/Dividers) <br/>Dividers is a simple Android library to create eas [...] | 358 |
-| 424. | [FreeTymeKiyan/LeetCode-Sol-Res](https://github.com/FreeTymeKiyan/LeetCode-Sol-Res) <br/>Clean, Understandable Solutions and Resources for  [...] | 357 |
+| 422. | [sockeqwe/AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) <br/>"Favor composition over inheritance" for RecyclerV... | 359 |
+| 423. | [Karumi/Dividers](https://github.com/Karumi/Dividers) <br/>Dividers is a simple Android library to create eas... | 358 |
+| 424. | [FreeTymeKiyan/LeetCode-Sol-Res](https://github.com/FreeTymeKiyan/LeetCode-Sol-Res) <br/>Clean, Understandable Solutions and Resources for... | 357 |
 | 425. | [Jawnnypoo/PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) <br/>Android layout that simulates physics using JBox2D | 356 |
-| 426. | [Karumi/ExpandableSelector](https://github.com/Karumi/ExpandableSelector) <br/>ExpandableSelector is an Android library created t [...] | 356 |
+| 426. | [Karumi/ExpandableSelector](https://github.com/Karumi/ExpandableSelector) <br/>ExpandableSelector is an Android library created t... | 356 |
 | 427. | [bignerdranch/expandable-recycler-view](https://github.com/bignerdranch/expandable-recycler-view) <br/>Expandable Recycler View | 356 |
 | 428. | [linroid/Sky31Radio](https://github.com/linroid/Sky31Radio) <br/>湘潭大学三翼校园"四季电台" Android客户端 | 354 |
 | 429. | [SinaMSRE/HTTPDNSLib](https://github.com/SinaMSRE/HTTPDNSLib)  | 354 |
-| 430. | [vitovalov/TabbedCoordinatorLayout](https://github.com/vitovalov/TabbedCoordinatorLayout) <br/>TabbedCoordinatorLayout is a Sample project demost [...] | 353 |
+| 430. | [vitovalov/TabbedCoordinatorLayout](https://github.com/vitovalov/TabbedCoordinatorLayout) <br/>TabbedCoordinatorLayout is a Sample project demost... | 353 |
 | 431. | [zhaozhentao/BooheeScrollView](https://github.com/zhaozhentao/BooheeScrollView) <br/>interesting scrollview | 352 |
-| 432. | [cyndibaby905/TwitterCover-Android](https://github.com/cyndibaby905/TwitterCover-Android) <br/>The Android version of  https://github.com/cyndiba [...] | 351 |
-| 433. | [yesidlazaro/BadgedImageview](https://github.com/yesidlazaro/BadgedImageview) <br/>BadgedImageview allow you show a badge into a Imag [...] | 351 |
-| 434. | [gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView) <br/>android下自定义View之雷达扫描 The Radar (Scanning) View on  [...] | 351 |
+| 432. | [cyndibaby905/TwitterCover-Android](https://github.com/cyndibaby905/TwitterCover-Android) <br/>The Android version of  https://github.com/cyndiba... | 351 |
+| 433. | [yesidlazaro/BadgedImageview](https://github.com/yesidlazaro/BadgedImageview) <br/>BadgedImageview allow you show a badge into a Imag... | 351 |
+| 434. | [gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView) <br/>android下自定义View之雷达扫描 The Radar (Scanning) View on... | 351 |
 | 435. | [ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) <br/>Awesome-looking customizable splash screen | 350 |
 | 436. | [himanshu-soni/ChatMessageView](https://github.com/himanshu-soni/ChatMessageView) <br/>Android library to create chat message view easily | 349 |
-| 437. | [M66B/NetGuard](https://github.com/M66B/NetGuard) <br/>A simple way to block access to the internet per a [...] | 349 |
+| 437. | [M66B/NetGuard](https://github.com/M66B/NetGuard) <br/>A simple way to block access to the internet per a... | 349 |
 | 438. | [Cutta/GifView](https://github.com/Cutta/GifView) <br/>Library for playing gifs on Android | 349 |
 | 439. | [cesarferreira/colorize](https://github.com/cesarferreira/colorize) <br/>Android access to 1000+ colors! | 349 |
 | 440. | [7heaven/bitmapMesh](https://github.com/7heaven/bitmapMesh) <br/>bitmapMesh demo | 349 |
-| 441. | [worldline/FoldableLayout](https://github.com/worldline/FoldableLayout) <br/>An Android demo of a foldable layout implementatio [...] | 349 |
-| 442. | [Danylo2006/HashTagHelper](https://github.com/Danylo2006/HashTagHelper) <br/>This is a library designed for highlighting hashta [...] | 348 |
+| 441. | [worldline/FoldableLayout](https://github.com/worldline/FoldableLayout) <br/>An Android demo of a foldable layout implementatio... | 349 |
+| 442. | [Danylo2006/HashTagHelper](https://github.com/Danylo2006/HashTagHelper) <br/>This is a library designed for highlighting hashta... | 348 |
 | 443. | [alexzaitsev/freepager](https://github.com/alexzaitsev/freepager) <br/>ViewPagers library for Android | 348 |
 | 444. | [nuptboyzhb/TreeRecyclerView](https://github.com/nuptboyzhb/TreeRecyclerView) <br/>TreeRecyclerView Demo | 347 |
 | 445. | [rubengees/introduction](https://github.com/rubengees/introduction) <br/>An Android library to show an intro to your users. | 345 |
 | 446. | [waylife/RedEnvelopeAssistant](https://github.com/waylife/RedEnvelopeAssistant) <br/>RedEnvelopeAssistant 微信/支付宝红包助手 | 344 |
-| 447. | [JorgeCastilloPrz/EasyMVP](https://github.com/JorgeCastilloPrz/EasyMVP) <br/>Model-View-Presenter Android implementation plus D [...] | 342 |
+| 447. | [JorgeCastilloPrz/EasyMVP](https://github.com/JorgeCastilloPrz/EasyMVP) <br/>Model-View-Presenter Android implementation plus D... | 342 |
 | 448. | [hujiaweibujidao/FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) <br/>Fab and Dialog Morphing Animation on Android | 341 |
 | 449. | [tianzhijiexian/ExRecyclerView](https://github.com/tianzhijiexian/ExRecyclerView) <br/>扩展的RecyclerView，拥有添加头、底等多种操作 | 340 |
 | 450. | [recruit-lifestyle/BeerSwipeRefresh](https://github.com/recruit-lifestyle/BeerSwipeRefresh)  | 339 |
 | 451. | [lawloretienne/ImageGallery](https://github.com/lawloretienne/ImageGallery) <br/>A gallery used to host an array of images | 338 |
 | 452. | [SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur) <br/>用RxJava处理和操作高斯模糊效果的简单用例。 | 338 |
-| 453. | [naman14/PlayAnimations](https://github.com/naman14/PlayAnimations) <br/>A demo of various animation in latest PlayGames ap [...] | 338 |
-| 454. | [android-cjj/SnailBar](https://github.com/android-cjj/SnailBar) <br/>A lovely snail,You can use it as a seekbar or prog [...] | 337 |
-| 455. | [06peng/FrescoDemo](https://github.com/06peng/FrescoDemo) <br/>A demo use Fresco to load image and base on Chris  [...] | 337 |
-| 456. | [truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView) <br/>An adapter to create Android RecyclerViews with se [...] | 336 |
+| 453. | [naman14/PlayAnimations](https://github.com/naman14/PlayAnimations) <br/>A demo of various animation in latest PlayGames ap... | 338 |
+| 454. | [android-cjj/SnailBar](https://github.com/android-cjj/SnailBar) <br/>A lovely snail,You can use it as a seekbar or prog... | 337 |
+| 455. | [06peng/FrescoDemo](https://github.com/06peng/FrescoDemo) <br/>A demo use Fresco to load image and base on Chris... | 337 |
+| 456. | [truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView) <br/>An adapter to create Android RecyclerViews with se... | 336 |
 | 457. | [z56402344/AnimTextView](https://github.com/z56402344/AnimTextView)  | 336 |
 | 458. | [ZhaoKaiQiang/ParticleLayout](https://github.com/ZhaoKaiQiang/ParticleLayout) <br/>左滑粒子效果 | 335 |
-| 459. | [H07000223/FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) <br/>A Page Indicator Lib is realized in a different wa [...] | 335 |
-| 460. | [pedrovgs/Lynx](https://github.com/pedrovgs/Lynx) <br/>Lynx is an Android library created to show a custo [...] | 335 |
-| 461. | [d-max/spots-dialog](https://github.com/d-max/spots-dialog) <br/>Android AlertDialog with mowing dots progress indi [...] | 335 |
+| 459. | [H07000223/FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator) <br/>A Page Indicator Lib is realized in a different wa... | 335 |
+| 460. | [pedrovgs/Lynx](https://github.com/pedrovgs/Lynx) <br/>Lynx is an Android library created to show a custo... | 335 |
+| 461. | [d-max/spots-dialog](https://github.com/d-max/spots-dialog) <br/>Android AlertDialog with mowing dots progress indi... | 335 |
 | 462. | [google/google-http-java-client](https://github.com/google/google-http-java-client) <br/>Google HTTP Client Library for Java | 334 |
 | 463. | [cooltechworks/BitmapMerger](https://github.com/cooltechworks/BitmapMerger) <br/>Play with bitmaps | 334 |
 | 464. | [dodola/OverscrollScale](https://github.com/dodola/OverscrollScale) <br/>ListView overscroll scale | 334 |
 | 465. | [H07000223/FlycoLabelView](https://github.com/H07000223/FlycoLabelView) <br/>A Simple Android LabelView. | 333 |
 | 466. | [IvBaranov/MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton) <br/>Animated favorite/star/like button | 333 |
-| 467. | [kaedea/Android-Cloud-TagView-Plus](https://github.com/kaedea/Android-Cloud-TagView-Plus) <br/>An Android Cloud Tag Widget. You can edit the tag' [...] | 332 |
-| 468. | [h6ah4i/android-materialshadowninepatch](https://github.com/h6ah4i/android-materialshadowninepatch) <br/>Provides 9-patch based drop shadow for view elemen [...] | 331 |
-| 469. | [cundong/HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) <br/>支持addHeaderView、 addFooterView、分页加载的RecyclerView解决 [...] | 331 |
+| 467. | [kaedea/Android-Cloud-TagView-Plus](https://github.com/kaedea/Android-Cloud-TagView-Plus) <br/>An Android Cloud Tag Widget. You can edit the tag'... | 332 |
+| 468. | [h6ah4i/android-materialshadowninepatch](https://github.com/h6ah4i/android-materialshadowninepatch) <br/>Provides 9-patch based drop shadow for view elemen... | 331 |
+| 469. | [cundong/HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) <br/>支持addHeaderView、 addFooterView、分页加载的RecyclerView解决... | 331 |
 | 470. | [hongyangAndroid/MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView) <br/>支持Android图文混排、文字环绕图片等效果 | 331 |
-| 471. | [tianzhijiexian/CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) <br/>通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adap [...] | 331 |
+| 471. | [tianzhijiexian/CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) <br/>通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adap... | 331 |
 | 472. | [sues-lee/SuesNews](https://github.com/sues-lee/SuesNews) <br/>一个符合 Google Material Design 的 Android 校园新闻客户端 | 330 |
 | 473. | [googlesamples/android-RuntimePermissions](https://github.com/googlesamples/android-RuntimePermissions)  | 330 |
-| 474. | [baoyongzhang/Treasure](https://github.com/baoyongzhang/Treasure) <br/>Very easy to use wrapper library for Android Share [...] | 330 |
+| 474. | [baoyongzhang/Treasure](https://github.com/baoyongzhang/Treasure) <br/>Very easy to use wrapper library for Android Share... | 330 |
 | 475. | [Leaking/WeGit](https://github.com/Leaking/WeGit) <br/>An Android App for Github | 328 |
 | 476. | [flyfei/CustomMenu](https://github.com/flyfei/CustomMenu) <br/>CustomMenu quickly realize about the menu | 328 |
 | 477. | [scouter-project/scouter](https://github.com/scouter-project/scouter) <br/>Scouter is an APM for open source softwares. | 328 |
 | 478. | [dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView) <br/>A 'Google Fit' like activity indicator for Android | 327 |
-| 479. | [drakeet/AndroidUIView](https://github.com/drakeet/AndroidUIView) <br/>It's a very simple custom views library according  [...] | 327 |
+| 479. | [drakeet/AndroidUIView](https://github.com/drakeet/AndroidUIView) <br/>It's a very simple custom views library according... | 327 |
 | 480. | [lguipeng/BubbleView](https://github.com/lguipeng/BubbleView) <br/>Bubble View | 326 |
 | 481. | [l123456789jy/Lazy](https://github.com/l123456789jy/Lazy) <br/>自己整理的常用的工具类 | 325 |
-| 482. | [naman14/WashingMachineView](https://github.com/naman14/WashingMachineView) <br/>An interactive view with water waves flowing like  [...] | 325 |
-| 483. | [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) <br/>A application show technical information every wor [...] | 324 |
+| 482. | [naman14/WashingMachineView](https://github.com/naman14/WashingMachineView) <br/>An interactive view with water waves flowing like... | 325 |
+| 483. | [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) <br/>A application show technical information every wor... | 324 |
 | 484. | [yangxu4536/MeiTuanLocateCity](https://github.com/yangxu4536/MeiTuanLocateCity) <br/>仿美团城市选择界面，可直接用在实际项目中 | 324 |
 | 485. | [hongyangAndroid/Android_Blog_Demos](https://github.com/hongyangAndroid/Android_Blog_Demos) <br/>source code in blog~ | 324 |
 | 486. | [nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment)  | 321 |
-| 487. | [elevenetc/InteractiveCanvas](https://github.com/elevenetc/InteractiveCanvas) <br/>Library for distribution canvas animation over set [...] | 321 |
+| 487. | [elevenetc/InteractiveCanvas](https://github.com/elevenetc/InteractiveCanvas) <br/>Library for distribution canvas animation over set... | 321 |
 | 488. | [SeniorZhai/ScoreBoard](https://github.com/SeniorZhai/ScoreBoard)  | 321 |
 | 489. | [pyricau/frenchtoast](https://github.com/pyricau/frenchtoast) <br/>Stale Android Toasts made tasty. | 321 |
-| 490. | [tosslife/FoldingTabBar.Android](https://github.com/tosslife/FoldingTabBar.Android) <br/>folding tabbar menu for Android. This is a menu li [...] | 321 |
+| 490. | [tosslife/FoldingTabBar.Android](https://github.com/tosslife/FoldingTabBar.Android) <br/>folding tabbar menu for Android. This is a menu li... | 321 |
 | 491. | [zzz40500/ThemeDemo](https://github.com/zzz40500/ThemeDemo) <br/>日夜间模式切换 | 320 |
 | 492. | [fafaldo/FABToolbar](https://github.com/fafaldo/FABToolbar) <br/>Floating Action Button transforming into toolbar | 320 |
 | 493. | [google/re2j](https://github.com/google/re2j) <br/>linear time regular expression matching in Java | 319 |
 | 494. | [recruit-lifestyle/ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading)  | 319 |
-| 495. | [konifar/material-cat](https://github.com/konifar/material-cat) <br/>Cat photos app for Material Design Animation sampl [...] | 319 |
+| 495. | [konifar/material-cat](https://github.com/konifar/material-cat) <br/>Cat photos app for Material Design Animation sampl... | 319 |
 | 496. | [kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView) <br/>支持 SingleLine 模式的标签云效果 | 319 |
-| 497. | [geftimov/android-patternview](https://github.com/geftimov/android-patternview) <br/>Pattern view for android.That one using lock or un [...] | 318 |
+| 497. | [geftimov/android-patternview](https://github.com/geftimov/android-patternview) <br/>Pattern view for android.That one using lock or un... | 318 |
 | 498. | [Kyson/WhorlView](https://github.com/Kyson/WhorlView) <br/>Progressbar with whorl style | 316 |
 | 499. | [googlesamples/android-FingerprintDialog](https://github.com/googlesamples/android-FingerprintDialog)  | 315 |
 | 500. | [spotify/heroic](https://github.com/spotify/heroic) <br/>The Heroic Time Series Database | 315 |

@@ -5,18 +5,18 @@
 | | Repo | Stars |
 |---|---|---|
 | 1. | [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) <br/>A curated list of engineering blogs | 7187 |
-| 2. | [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) <br/>An "awesome" type curated list of React Native com [...] | 2312 |
-| 3. | [thoughtbot/administrate](https://github.com/thoughtbot/administrate) <br/>A Rails engine that helps you put together a super [...] | 2001 |
+| 2. | [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) <br/>An "awesome" type curated list of React Native com... | 2312 |
+| 3. | [thoughtbot/administrate](https://github.com/thoughtbot/administrate) <br/>A Rails engine that helps you put together a super... | 2001 |
 | 4. | [oa414/objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) <br/>ObjC Zen Book 中文翻译 | 1790 |
-| 5. | [franzejr/best-ruby](https://github.com/franzejr/best-ruby) <br/>Ruby Tricks, Idiomatic Ruby, Refactorings and Best [...] | 1712 |
-| 6. | [rails/actioncable](https://github.com/rails/actioncable) <br/>Framework for real-time communication over websock [...] | 1113 |
+| 5. | [franzejr/best-ruby](https://github.com/franzejr/best-ruby) <br/>Ruby Tricks, Idiomatic Ruby, Refactorings and Best... | 1712 |
+| 6. | [rails/actioncable](https://github.com/rails/actioncable) <br/>Framework for real-time communication over websock... | 1113 |
 | 7. | [michenriksen/gitrob](https://github.com/michenriksen/gitrob) <br/>Reconnaissance tool for GitHub organizations | 1108 |
-| 8. | [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) <br/>Beautiful flag icons for usage in apps and on the  [...] | 1034 |
-| 9. | [sotownsend/BooJS](https://github.com/sotownsend/BooJS) <br/>Unix swiss army knife for headless browser javascr [...] | 870 |
+| 8. | [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) <br/>Beautiful flag icons for usage in apps and on the... | 1034 |
+| 9. | [sotownsend/BooJS](https://github.com/sotownsend/BooJS) <br/>Unix swiss army knife for headless browser javascr... | 870 |
 | 10. | [denkGroot/Spina](https://github.com/denkGroot/Spina) <br/>Spina CMS | 735 |
-| 11. | [evilsocket/bettercap](https://github.com/evilsocket/bettercap) <br/>A complete, modular, portable and easily extensibl [...] | 724 |
+| 11. | [evilsocket/bettercap](https://github.com/evilsocket/bettercap) <br/>A complete, modular, portable and easily extensibl... | 724 |
 | 12. | [TheBlasfem/ruby-patterns](https://github.com/TheBlasfem/ruby-patterns) <br/>Examples of Patterns in Ruby | 703 |
-| 13. | [fastlane/spaceship](https://github.com/fastlane/spaceship) <br/>Ruby library to access the Apple Dev Center and iT [...] | 644 |
+| 13. | [fastlane/spaceship](https://github.com/fastlane/spaceship) <br/>Ruby library to access the Apple Dev Center and iT... | 644 |
 | 14. | [igorkasyanchuk/rails_db](https://github.com/igorkasyanchuk/rails_db) <br/>Rails Database Viewer and SQL Query Runner | 639 |
 | 15. | [fastlane/gym](https://github.com/fastlane/gym) <br/>Building your iOS apps has never been easier | 600 |
 | 16. | [codeclimate/codeclimate](https://github.com/codeclimate/codeclimate) <br/>Code Climate CLI | 588 |
@@ -24,150 +24,150 @@
 | 18. | [solidusio/solidus](https://github.com/solidusio/solidus) <br/>Solidus, Rails eCommerce System | 570 |
 | 19. | [janko-m/shrine](https://github.com/janko-m/shrine) <br/>File upload toolkit for Ruby | 567 |
 | 20. | [ko1/pretty_backtrace](https://github.com/ko1/pretty_backtrace) <br/>Pretty your exception backtrace. | 557 |
-| 21. | [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) <br/>Integration of React + Webpack + Rails to build Un [...] | 548 |
+| 21. | [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) <br/>Integration of React + Webpack + Rails to build Un... | 548 |
 | 22. | [MadRabbit/ruby-fighter](https://github.com/MadRabbit/ruby-fighter) <br/>Street Fighter II in Ruby! | 543 |
-| 23. | [SUSE/Portus](https://github.com/SUSE/Portus) <br/>Authorization service and frontend for Docker regi [...] | 520 |
-| 24. | [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) <br/>:coffee: Try the demo project of any Android Libra [...] | 518 |
+| 23. | [SUSE/Portus](https://github.com/SUSE/Portus) <br/>Authorization service and frontend for Docker regi... | 520 |
+| 24. | [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) <br/>:coffee: Try the demo project of any Android Libra... | 518 |
 | 25. | [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) <br/>Ruby implementation of Facebook's GraphQL | 517 |
-| 26. | [kontena/kontena](https://github.com/kontena/kontena) <br/>Container platform built to maximize developer hap [...] | 515 |
-| 27. | [vigetlabs/gulp-rails-pipeline](https://github.com/vigetlabs/gulp-rails-pipeline) <br/>Ditch the Rails Asset Pipeline and roll your own w [...] | 508 |
+| 26. | [kontena/kontena](https://github.com/kontena/kontena) <br/>Container platform built to maximize developer hap... | 515 |
+| 27. | [vigetlabs/gulp-rails-pipeline](https://github.com/vigetlabs/gulp-rails-pipeline) <br/>Ditch the Rails Asset Pipeline and roll your own w... | 508 |
 | 28. | [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) <br/>A curated list of podcasts we like to listen to. | 499 |
-| 29. | [DamirSvrtan/fasterer](https://github.com/DamirSvrtan/fasterer) <br/>Don't make your Rubies go fast. Make them go faste [...] | 498 |
+| 29. | [DamirSvrtan/fasterer](https://github.com/DamirSvrtan/fasterer) <br/>Don't make your Rubies go fast. Make them go faste... | 498 |
 | 30. | [jsomers/git-game](https://github.com/jsomers/git-game) <br/>The git committer guessing game! | 437 |
 | 31. | [neonichu/xcode-install](https://github.com/neonichu/xcode-install) <br/>Install and update your Xcodes. | 431 |
 | 32. | [zetachang/react.rb](https://github.com/zetachang/react.rb) <br/>Opal Ruby wrapper of React.js library. | 427 |
 | 33. | [ankane/the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) <br/>:clock4: | 408 |
-| 34. | [IFTTT/polo](https://github.com/IFTTT/polo) <br/>Polo travels through your database and creates sam [...] | 380 |
-| 35. | [mattbrictson/airbrussh](https://github.com/mattbrictson/airbrussh) <br/>Airbrussh pretties up your SSHKit and Capistrano o [...] | 372 |
+| 34. | [IFTTT/polo](https://github.com/IFTTT/polo) <br/>Polo travels through your database and creates sam... | 380 |
+| 35. | [mattbrictson/airbrussh](https://github.com/mattbrictson/airbrussh) <br/>Airbrussh pretties up your SSHKit and Capistrano o... | 372 |
 | 36. | [k0kubun/md2key](https://github.com/k0kubun/md2key) <br/>Convert markdown to keynote | 365 |
-| 37. | [plashchynski/crono](https://github.com/plashchynski/crono) <br/>A time-based background job scheduler daemon (just [...] | 361 |
-| 38. | [OpenHunting/openhunt](https://github.com/OpenHunting/openhunt) <br/>discover new products, give feedback, help each ot [...] | 360 |
-| 39. | [m1foley/fit-commit](https://github.com/m1foley/fit-commit) <br/>A Git hook to validate your commit messages based  [...] | 352 |
-| 40. | [matsumoto-r/rcon](https://github.com/matsumoto-r/rcon) <br/>rcon is a lightweight resource virtualization tool [...] | 347 |
+| 37. | [plashchynski/crono](https://github.com/plashchynski/crono) <br/>A time-based background job scheduler daemon (just... | 361 |
+| 38. | [OpenHunting/openhunt](https://github.com/OpenHunting/openhunt) <br/>discover new products, give feedback, help each ot... | 360 |
+| 39. | [m1foley/fit-commit](https://github.com/m1foley/fit-commit) <br/>A Git hook to validate your commit messages based... | 352 |
+| 40. | [matsumoto-r/rcon](https://github.com/matsumoto-r/rcon) <br/>rcon is a lightweight resource virtualization tool... | 347 |
 | 41. | [zetachang/opal-native](https://github.com/zetachang/opal-native) <br/>React Native in Ruby | 345 |
 | 42. | [captaintrain/stations](https://github.com/captaintrain/stations) <br/>List of stations and associated metadata | 340 |
 | 43. | [tpope/gem-shut-the-fuck-up](https://github.com/tpope/gem-shut-the-fuck-up) <br/>Gem SHUT THE FUCK UP | 321 |
-| 44. | [fastlane/itc-api-docs](https://github.com/fastlane/itc-api-docs) <br/>The unofficial documentation of the iTunes Connect [...] | 316 |
+| 44. | [fastlane/itc-api-docs](https://github.com/fastlane/itc-api-docs) <br/>The unofficial documentation of the iTunes Connect... | 316 |
 | 45. | [jamis/bulk_insert](https://github.com/jamis/bulk_insert) <br/>Efficient bulk inserts with ActiveRecord | 315 |
 | 46. | [davydovanton/sidekiq-statistic](https://github.com/davydovanton/sidekiq-statistic) <br/>See statistic about your workers | 305 |
 | 47. | [k0kubun/hamlit](https://github.com/k0kubun/hamlit) <br/>High Performance Haml Implementation | 304 |
-| 48. | [calonso/ruby-push-notifications](https://github.com/calonso/ruby-push-notifications) <br/>iOS, Android and Windows Phone Push Notifications  [...] | 302 |
-| 49. | [education/classroom](https://github.com/education/classroom) <br/>Classroom for GitHub automates repository creation [...] | 300 |
-| 50. | [consul/consul](https://github.com/consul/consul) <br/>Consul - Open Government and E-Participation Web S [...] | 295 |
+| 48. | [calonso/ruby-push-notifications](https://github.com/calonso/ruby-push-notifications) <br/>iOS, Android and Windows Phone Push Notifications... | 302 |
+| 49. | [education/classroom](https://github.com/education/classroom) <br/>Classroom for GitHub automates repository creation... | 300 |
+| 50. | [consul/consul](https://github.com/consul/consul) <br/>Consul - Open Government and E-Participation Web S... | 295 |
 | 51. | [donmelton/video_transcoding](https://github.com/donmelton/video_transcoding) <br/>Tools to transcode, inspect and convert videos. | 294 |
 | 52. | [nsarno/knock](https://github.com/nsarno/knock) <br/>Seamless JWT authentication for Rails API | 289 |
-| 53. | [fastlane/match](https://github.com/fastlane/match) <br/>Easily sync your certificates and profiles across  [...] | 287 |
-| 54. | [fastlane/boarding](https://github.com/fastlane/boarding) <br/>Instantly create a simple signup page for TestFlig [...] | 281 |
-| 55. | [dtan4/terraforming](https://github.com/dtan4/terraforming) <br/>Export existing AWS resources to Terraform style ( [...] | 280 |
+| 53. | [fastlane/match](https://github.com/fastlane/match) <br/>Easily sync your certificates and profiles across... | 287 |
+| 54. | [fastlane/boarding](https://github.com/fastlane/boarding) <br/>Instantly create a simple signup page for TestFlig... | 281 |
+| 55. | [dtan4/terraforming](https://github.com/dtan4/terraforming) <br/>Export existing AWS resources to Terraform style (... | 280 |
 | 56. | [BrewhouseTeam/csv-importer](https://github.com/BrewhouseTeam/csv-importer) <br/>CSV Import for humans on Ruby / Ruby on Rails | 275 |
-| 57. | [Genki-S/ttnt](https://github.com/Genki-S/ttnt) <br/>Test This, Not That! (Google Summer of Code 2015 p [...] | 271 |
+| 57. | [Genki-S/ttnt](https://github.com/Genki-S/ttnt) <br/>Test This, Not That! (Google Summer of Code 2015 p... | 271 |
 | 58. | [neonichu/Rome](https://github.com/neonichu/Rome) <br/>Rome makes it easy to build a list of frameworks. | 269 |
-| 59. | [adamcooke/staytus](https://github.com/adamcooke/staytus) <br/>An open source solution for publishing the status  [...] | 266 |
-| 60. | [fastlane/pilot](https://github.com/fastlane/pilot) <br/>The best way to manage your TestFlight testers and [...] | 264 |
+| 59. | [adamcooke/staytus](https://github.com/adamcooke/staytus) <br/>An open source solution for publishing the status... | 266 |
+| 60. | [fastlane/pilot](https://github.com/fastlane/pilot) <br/>The best way to manage your TestFlight testers and... | 264 |
 | 61. | [cesarferreira/alfi](https://github.com/cesarferreira/alfi) <br/>Android Library Finder | 262 |
-| 62. | [huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha) <br/>This is a Captcha gem for Rails Application. It ru [...] | 260 |
-| 63. | [davidesantangelo/webinspector](https://github.com/davidesantangelo/webinspector) <br/>Ruby gem to inspect completely a web page. It scra [...] | 258 |
+| 62. | [huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha) <br/>This is a Captcha gem for Rails Application. It ru... | 260 |
+| 63. | [davidesantangelo/webinspector](https://github.com/davidesantangelo/webinspector) <br/>Ruby gem to inspect completely a web page. It scra... | 258 |
 | 64. | [bundler/gemstash](https://github.com/bundler/gemstash)  | 256 |
-| 65. | [IFTTT/dash](https://github.com/IFTTT/dash) <br/>A self-contained, mostly zero-configuration enviro [...] | 253 |
+| 65. | [IFTTT/dash](https://github.com/IFTTT/dash) <br/>A self-contained, mostly zero-configuration enviro... | 253 |
 | 66. | [andreychernih/railsbox](https://github.com/andreychernih/railsbox) <br/>Fast and easy Ruby on Rails virtual machines | 242 |
-| 67. | [lowescott/learning-tools](https://github.com/lowescott/learning-tools) <br/>A collection of tools and files for learning new t [...] | 237 |
+| 67. | [lowescott/learning-tools](https://github.com/lowescott/learning-tools) <br/>A collection of tools and files for learning new t... | 237 |
 | 68. | [rails/actioncable-examples](https://github.com/rails/actioncable-examples) <br/>Action Cable Examples | 231 |
 | 69. | [pazdera/catpix](https://github.com/pazdera/catpix) <br/>Print images in the terminal using Ruby. | 225 |
 | 70. | [zendesk/biz](https://github.com/zendesk/biz) <br/>Time calculations using business hours. | 222 |
 | 71. | [dkhamsing/frankenstein](https://github.com/dkhamsing/frankenstein) <br/>:octocat: Correct README Redirects | 221 |
-| 72. | [bmichotte/HSTracker](https://github.com/bmichotte/HSTracker) <br/>HSTracker is a Hearthstone deck tracker for Mac Os [...] | 216 |
-| 73. | [toddwschneider/coordstagram](https://github.com/toddwschneider/coordstagram) <br/>Instagram viewer by latitude and longitude. Easy t [...] | 214 |
-| 74. | [IFTTT/kashmir](https://github.com/IFTTT/kashmir) <br/>Kashmir is a Ruby DSL that makes serializing and c [...] | 212 |
+| 72. | [bmichotte/HSTracker](https://github.com/bmichotte/HSTracker) <br/>HSTracker is a Hearthstone deck tracker for Mac Os... | 216 |
+| 73. | [toddwschneider/coordstagram](https://github.com/toddwschneider/coordstagram) <br/>Instagram viewer by latitude and longitude. Easy t... | 214 |
+| 74. | [IFTTT/kashmir](https://github.com/IFTTT/kashmir) <br/>Kashmir is a Ruby DSL that makes serializing and c... | 212 |
 | 75. | [k1LoW/awspec](https://github.com/k1LoW/awspec) <br/>RSpec tests for your AWS resources. | 211 |
-| 76. | [hone/mruby-cli](https://github.com/hone/mruby-cli) <br/>A utility for setting up a CLI with mruby that com [...] | 210 |
-| 77. | [dryrb/dry-validation](https://github.com/dryrb/dry-validation) <br/>Data validation library based on predicate logic a [...] | 206 |
+| 76. | [hone/mruby-cli](https://github.com/hone/mruby-cli) <br/>A utility for setting up a CLI with mruby that com... | 210 |
+| 77. | [dryrb/dry-validation](https://github.com/dryrb/dry-validation) <br/>Data validation library based on predicate logic a... | 206 |
 | 78. | [chef/inspec](https://github.com/chef/inspec) <br/>InSpec: Auditing and Testing Framework | 202 |
-| 79. | [fastlane/scan](https://github.com/fastlane/scan) <br/>The easiest way to run tests of your iOS and Mac a [...] | 195 |
+| 79. | [fastlane/scan](https://github.com/fastlane/scan) <br/>The easiest way to run tests of your iOS and Mac a... | 195 |
 | 80. | [undercase/proof](https://github.com/undercase/proof) <br/>Secure Authentication for Single Page Applications | 191 |
-| 81. | [emcien/iso_latte](https://github.com/emcien/iso_latte) <br/>Ruby gem for isolating code execution into a subpr [...] | 189 |
-| 82. | [fastlane/watchbuild](https://github.com/fastlane/watchbuild) <br/>Get a notification once your iTunes Connect build  [...] | 183 |
+| 81. | [emcien/iso_latte](https://github.com/emcien/iso_latte) <br/>Ruby gem for isolating code execution into a subpr... | 189 |
+| 82. | [fastlane/watchbuild](https://github.com/fastlane/watchbuild) <br/>Get a notification once your iTunes Connect build... | 183 |
 | 83. | [devxoul/CocoaSeeds](https://github.com/devxoul/CocoaSeeds) <br/>Git Submodule Alternative for Cocoa. | 182 |
-| 84. | [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed) <br/>:memo: A Jekyll plugin to generate an Atom (RSS-li [...] | 181 |
-| 85. | [commander-rb/commander](https://github.com/commander-rb/commander) <br/>The complete solution for Ruby command-line execut [...] | 181 |
+| 84. | [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed) <br/>:memo: A Jekyll plugin to generate an Atom (RSS-li... | 181 |
+| 85. | [commander-rb/commander](https://github.com/commander-rb/commander) <br/>The complete solution for Ruby command-line execut... | 181 |
 | 86. | [bydmm/Startup-Game](https://github.com/bydmm/Startup-Game) <br/>创业者的游戏： 中关村启示录 | 181 |
 | 87. | [MightySignal/slackiq](https://github.com/MightySignal/slackiq) <br/>Slackiq = Slack + Sidekiq | 178 |
-| 88. | [fastlane/produce](https://github.com/fastlane/produce) <br/>Create new iOS apps on iTunes Connect and Dev Port [...] | 164 |
+| 88. | [fastlane/produce](https://github.com/fastlane/produce) <br/>Create new iOS apps on iTunes Connect and Dev Port... | 164 |
 | 89. | [usmanbashir/haikunator](https://github.com/usmanbashir/haikunator) <br/>Heroku-like random name generator. | 163 |
-| 90. | [rdsubhas/ruby-deploy-kickstart](https://github.com/rdsubhas/ruby-deploy-kickstart) <br/>Ruby (and Rails) deployment kickstart with dotEnv, [...] | 162 |
-| 91. | [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) <br/>Bootstrap 4 Ruby Gem for Rails / Sprockets and Com [...] | 159 |
+| 90. | [rdsubhas/ruby-deploy-kickstart](https://github.com/rdsubhas/ruby-deploy-kickstart) <br/>Ruby (and Rails) deployment kickstart with dotEnv,... | 162 |
+| 91. | [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) <br/>Bootstrap 4 Ruby Gem for Rails / Sprockets and Com... | 159 |
 | 92. | [eagletmt/faml](https://github.com/eagletmt/faml) <br/>Faster implementation of Haml template language | 158 |
 | 93. | [ankane/strong_migrations](https://github.com/ankane/strong_migrations) <br/>Catch unsafe migrations at dev time | 158 |
-| 94. | [ashmckenzie/percheron](https://github.com/ashmckenzie/percheron) <br/>Organise your Docker containers with muscle and in [...] | 156 |
-| 95. | [ndea/regressor](https://github.com/ndea/regressor) <br/>Generate specs for your rails application the easy [...] | 156 |
+| 94. | [ashmckenzie/percheron](https://github.com/ashmckenzie/percheron) <br/>Organise your Docker containers with muscle and in... | 156 |
+| 95. | [ndea/regressor](https://github.com/ndea/regressor) <br/>Generate specs for your rails application the easy... | 156 |
 | 96. | [smartvpnbiz/openvpn-http-hooks](https://github.com/smartvpnbiz/openvpn-http-hooks) <br/>OpenVPN server wrapper | 154 |
 | 97. | [chriseidhof/pomotv](https://github.com/chriseidhof/pomotv)  | 154 |
-| 98. | [ndea/rockflow](https://github.com/ndea/rockflow) <br/>Create simple or complex workflows and rock your a [...] | 153 |
-| 99. | [fastlane/cert](https://github.com/fastlane/cert) <br/>Automatically create and maintain iOS code signing [...] | 153 |
-| 100. | [fastlane/supply](https://github.com/fastlane/supply) <br/>Command line tool for updating Android apps and th [...] | 153 |
+| 98. | [ndea/rockflow](https://github.com/ndea/rockflow) <br/>Create simple or complex workflows and rock your a... | 153 |
+| 99. | [fastlane/cert](https://github.com/fastlane/cert) <br/>Automatically create and maintain iOS code signing... | 153 |
+| 100. | [fastlane/supply](https://github.com/fastlane/supply) <br/>Command line tool for updating Android apps and th... | 153 |
 | 101. | [leighmcculloch/vagrant-docker-compose](https://github.com/leighmcculloch/vagrant-docker-compose) <br/>A Vagrant provisioner for docker compose. | 148 |
 | 102. | [boxcutter/windows](https://github.com/boxcutter/windows) <br/>Virtual machine templates for Windows | 147 |
 | 103. | [atipugin/telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) <br/>Ruby wrapper for Telegram's Bot API | 146 |
 | 104. | [Fullscreen/squid](https://github.com/Fullscreen/squid) <br/>A Ruby library to plot charts in PDF files | 145 |
 | 105. | [dabrorius/jobless](https://github.com/dabrorius/jobless) <br/>A ruby DSL for generating CVs. | 144 |
-| 106. | [eliotsykes/real-world-rails](https://github.com/eliotsykes/real-world-rails) <br/>Real World Rails applications and their open sourc [...] | 144 |
-| 107. | [gmailgem/gmail](https://github.com/gmailgem/gmail) <br/>A Rubyesque interface to Gmail, with all the tools [...] | 144 |
+| 106. | [eliotsykes/real-world-rails](https://github.com/eliotsykes/real-world-rails) <br/>Real World Rails applications and their open sourc... | 144 |
+| 107. | [gmailgem/gmail](https://github.com/gmailgem/gmail) <br/>A Rubyesque interface to Gmail, with all the tools... | 144 |
 | 108. | [alaa/oh-my-vpn](https://github.com/alaa/oh-my-vpn) <br/>Setup your own OpenVPN server in 30 seconds! | 143 |
 | 109. | [fastlane/examples](https://github.com/fastlane/examples) <br/>A collection of example fastlane setups | 140 |
 | 110. | [FIRHQ/fir-cli](https://github.com/FIRHQ/fir-cli) <br/>fir.im command-line interface | 136 |
-| 111. | [adamniedzielski/tiddle](https://github.com/adamniedzielski/tiddle) <br/>Devise strategy for token authentication in API-on [...] | 136 |
-| 112. | [statusify/statusify](https://github.com/statusify/statusify) <br/>Statusify is a web-application status app, written [...] | 134 |
-| 113. | [drsound/fault_tolerant_router](https://github.com/drsound/fault_tolerant_router) <br/>A daemon, running in background on a Linux router  [...] | 134 |
-| 114. | [MadRabbit/git-wayback-machine](https://github.com/MadRabbit/git-wayback-machine) <br/>A simple script to quickly navigate a project's st [...] | 132 |
+| 111. | [adamniedzielski/tiddle](https://github.com/adamniedzielski/tiddle) <br/>Devise strategy for token authentication in API-on... | 136 |
+| 112. | [statusify/statusify](https://github.com/statusify/statusify) <br/>Statusify is a web-application status app, written... | 134 |
+| 113. | [drsound/fault_tolerant_router](https://github.com/drsound/fault_tolerant_router) <br/>A daemon, running in background on a Linux router... | 134 |
+| 114. | [MadRabbit/git-wayback-machine](https://github.com/MadRabbit/git-wayback-machine) <br/>A simple script to quickly navigate a project's st... | 132 |
 | 115. | [jgnatch/mountain_view](https://github.com/jgnatch/mountain_view) <br/>Living styleguide for Rails | 132 |
 | 116. | [6david9/WWDC2015](https://github.com/6david9/WWDC2015) <br/>WWDC2015下载链接 | 131 |
-| 117. | [garybernhardt/serveit](https://github.com/garybernhardt/serveit) <br/>ServeIt, a synchronous server and rebuilder of sta [...] | 130 |
-| 118. | [yahoo/rtrace](https://github.com/yahoo/rtrace) <br/>Rtrace is an x86/x86_64 native code debugger writt [...] | 129 |
+| 117. | [garybernhardt/serveit](https://github.com/garybernhardt/serveit) <br/>ServeIt, a synchronous server and rebuilder of sta... | 130 |
+| 118. | [yahoo/rtrace](https://github.com/yahoo/rtrace) <br/>Rtrace is an x86/x86_64 native code debugger writt... | 129 |
 | 119. | [square/git-fastclone](https://github.com/square/git-fastclone) <br/>git clone --recursive on steroids | 129 |
-| 120. | [xing/hardcover](https://github.com/xing/hardcover) <br/>Hardcover takes your coverage reports and stores t [...] | 129 |
+| 120. | [xing/hardcover](https://github.com/xing/hardcover) <br/>Hardcover takes your coverage reports and stores t... | 129 |
 | 121. | [ybur-yug/gkv](https://github.com/ybur-yug/gkv) <br/>Git as a KV store | 128 |
-| 122. | [MaximeD/gem_updater](https://github.com/MaximeD/gem_updater) <br/>Update gems in your Gemfile and fetch their change [...] | 126 |
-| 123. | [stitchfix/stitches](https://github.com/stitchfix/stitches) <br/>Rails Engine and supporting classes for easily exp [...] | 126 |
+| 122. | [MaximeD/gem_updater](https://github.com/MaximeD/gem_updater) <br/>Update gems in your Gemfile and fetch their change... | 126 |
+| 123. | [stitchfix/stitches](https://github.com/stitchfix/stitches) <br/>Rails Engine and supporting classes for easily exp... | 126 |
 | 124. | [pote/disc](https://github.com/pote/disc) <br/>Simple Disque-powered Ruby Jobs | 125 |
-| 125. | [nasa/earthdata-search](https://github.com/nasa/earthdata-search) <br/>Earthdata Search is a web application developed by [...] | 125 |
-| 126. | [karafka/karafka](https://github.com/karafka/karafka) <br/>Microframework used to simplify Apache Kafka based [...] | 124 |
+| 125. | [nasa/earthdata-search](https://github.com/nasa/earthdata-search) <br/>Earthdata Search is a web application developed by... | 125 |
+| 126. | [karafka/karafka](https://github.com/karafka/karafka) <br/>Microframework used to simplify Apache Kafka based... | 124 |
 | 127. | [ndea/rimportor](https://github.com/ndea/rimportor) <br/>Modern bulk import for ruby on rails. | 123 |
-| 128. | [delvelabs/vane](https://github.com/delvelabs/vane) <br/>A GPL fork of the popular wordpress vulnerability  [...] | 123 |
+| 128. | [delvelabs/vane](https://github.com/delvelabs/vane) <br/>A GPL fork of the popular wordpress vulnerability... | 123 |
 | 129. | [chrisvfritz/isabella](https://github.com/chrisvfritz/isabella) <br/>A voice-computing assistant built in Ruby. | 121 |
-| 130. | [diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) <br/>Pragmatic Segmenter is a rule-based sentence bound [...] | 119 |
-| 131. | [girishso/pluck_to_hash](https://github.com/girishso/pluck_to_hash) <br/>Extend ActiveRecord pluck to return array of hashe [...] | 118 |
+| 130. | [diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) <br/>Pragmatic Segmenter is a rule-based sentence bound... | 119 |
+| 131. | [girishso/pluck_to_hash](https://github.com/girishso/pluck_to_hash) <br/>Extend ActiveRecord pluck to return array of hashe... | 118 |
 | 132. | [rob-murray/five-star](https://github.com/rob-murray/five-star) <br/>:star: A Ruby generic rating library :star: | 118 |
 | 133. | [iamwilhelm/prolly](https://github.com/iamwilhelm/prolly) <br/>DSL to express and query probabilities in code | 118 |
 | 134. | [DarthSim/carrierwave-bombshelter](https://github.com/DarthSim/carrierwave-bombshelter) <br/>Protects your carrierwave from image bombs | 117 |
-| 135. | [linuxfoundation/cii-best-practices-badge](https://github.com/linuxfoundation/cii-best-practices-badge) <br/>Core Infrastructure Initiative Best Practices Badg [...] | 117 |
-| 136. | [peter-murach/tty-prompt](https://github.com/peter-murach/tty-prompt) <br/>A beautiful and powerful interactive command line  [...] | 116 |
-| 137. | [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) <br/>Application template for Rails 4.2 projects; prelo [...] | 116 |
+| 135. | [linuxfoundation/cii-best-practices-badge](https://github.com/linuxfoundation/cii-best-practices-badge) <br/>Core Infrastructure Initiative Best Practices Badg... | 117 |
+| 136. | [peter-murach/tty-prompt](https://github.com/peter-murach/tty-prompt) <br/>A beautiful and powerful interactive command line... | 116 |
+| 137. | [mattbrictson/rails-template](https://github.com/mattbrictson/rails-template) <br/>Application template for Rails 4.2 projects; prelo... | 116 |
 | 138. | [altmetric/embiggen](https://github.com/altmetric/embiggen) <br/>A Ruby library to expand shortened URLs | 115 |
 | 139. | [seattlerb/debride](https://github.com/seattlerb/debride)  | 114 |
 | 140. | [madzhuga/rails_workflow](https://github.com/madzhuga/rails_workflow)  | 114 |
-| 141. | [codelittinc/slacked](https://github.com/codelittinc/slacked) <br/>A simple and easy way to send notifications to Sla [...] | 114 |
+| 141. | [codelittinc/slacked](https://github.com/codelittinc/slacked) <br/>A simple and easy way to send notifications to Sla... | 114 |
 | 142. | [rancher/os-vagrant](https://github.com/rancher/os-vagrant)  | 112 |
-| 143. | [18F/open-data-maker](https://github.com/18F/open-data-maker) <br/>make it easy to turn a lot of potentially large cs [...] | 112 |
+| 143. | [18F/open-data-maker](https://github.com/18F/open-data-maker) <br/>make it easy to turn a lot of potentially large cs... | 112 |
 | 144. | [TannerRogalsky/sprockets-es6](https://github.com/TannerRogalsky/sprockets-es6) <br/>Sprockets ES6 transformer | 112 |
-| 145. | [arkency/rails_event_store](https://github.com/arkency/rails_event_store) <br/>A Ruby implementation of an EventStore based on Ac [...] | 112 |
+| 145. | [arkency/rails_event_store](https://github.com/arkency/rails_event_store) <br/>A Ruby implementation of an EventStore based on Ac... | 112 |
 | 146. | [michelson/chaskiq](https://github.com/michelson/chaskiq) <br/>Newsletter Rails engine | 111 |
 | 147. | [janlelis/productive-sublime-snippets-ruby](https://github.com/janlelis/productive-sublime-snippets-ruby) <br/>Ruby Snippets for Sublime Text | 110 |
 | 148. | [stevekinney/pizza](https://github.com/stevekinney/pizza) <br/>Where is the best :pizza: in a given city? | 109 |
-| 149. | [fastlane/codes](https://github.com/fastlane/codes) <br/>Create promo codes for iOS Apps using the command  [...] | 107 |
+| 149. | [fastlane/codes](https://github.com/fastlane/codes) <br/>Create promo codes for iOS Apps using the command... | 107 |
 | 150. | [eldr-rb/eldr](https://github.com/eldr-rb/eldr) <br/>A minimal Ruby framework with fire in its heart | 107 |
 | 151. | [choonkeat/attache](https://github.com/choonkeat/attache) <br/>Yet another approach to file upload | 106 |
 | 152. | [rambler-ios/Generamba](https://github.com/rambler-ios/Generamba) <br/>This codegenerator is too brilliant to be real! | 106 |
-| 153. | [amatsuda/motorhead](https://github.com/amatsuda/motorhead) <br/>A Rails Engine framework that helps safe and rapid [...] | 105 |
+| 153. | [amatsuda/motorhead](https://github.com/amatsuda/motorhead) <br/>A Rails Engine framework that helps safe and rapid... | 105 |
 | 154. | [st0012/SafeFinder](https://github.com/st0012/SafeFinder) <br/>When NullObject meets ActiveRecord | 105 |
-| 155. | [RoxasShadow/EDB](https://github.com/RoxasShadow/EDB) <br/>A framework to make and manage backups of your dat [...] | 105 |
+| 155. | [RoxasShadow/EDB](https://github.com/RoxasShadow/EDB) <br/>A framework to make and manage backups of your dat... | 105 |
 | 156. | [state-machines/state_machines-activerecord](https://github.com/state-machines/state_machines-activerecord) <br/>StateMachines Active Record Integration | 105 |
-| 157. | [fotinakis/jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers) <br/>Pure Ruby readonly serializers for the JSON:API sp [...] | 104 |
-| 158. | [adamcooke/rails-safe-tasks](https://github.com/adamcooke/rails-safe-tasks) <br/>Automatically disable dangerous Rake tasks in prod [...] | 103 |
-| 159. | [Xcode-Snippets/xcodesnippet](https://github.com/Xcode-Snippets/xcodesnippet) <br/>A command-line interface for installing Xcode Snip [...] | 102 |
-| 160. | [inesita-rb/inesita](https://github.com/inesita-rb/inesita) <br/>Frontend web application framework in Ruby using O [...] | 102 |
+| 157. | [fotinakis/jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers) <br/>Pure Ruby readonly serializers for the JSON:API sp... | 104 |
+| 158. | [adamcooke/rails-safe-tasks](https://github.com/adamcooke/rails-safe-tasks) <br/>Automatically disable dangerous Rake tasks in prod... | 103 |
+| 159. | [Xcode-Snippets/xcodesnippet](https://github.com/Xcode-Snippets/xcodesnippet) <br/>A command-line interface for installing Xcode Snip... | 102 |
+| 160. | [inesita-rb/inesita](https://github.com/inesita-rb/inesita) <br/>Frontend web application framework in Ruby using O... | 102 |
 | 161. | [rails/sprockets](https://github.com/rails/sprockets) <br/>Rack-based asset packaging system | 102 |
 | 162. | [janko-m/as-duration](https://github.com/janko-m/as-duration) <br/>Extraction of ActiveSupport::Duration from Rails | 101 |
 | 163. | [nestproject/Nest](https://github.com/nestproject/Nest) <br/>Swift Web Server Gateway Interface | 101 |
-| 164. | [sandrew/from-scratch](https://github.com/sandrew/from-scratch) <br/>One last command to bootstrap typical Rails produc [...] | 100 |
+| 164. | [sandrew/from-scratch](https://github.com/sandrew/from-scratch) <br/>One last command to bootstrap typical Rails produc... | 100 |
 
 ## Most-Starred Users: Ruby
 

@@ -4,14 +4,14 @@
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <br/>Have your own Slack like online chat, built with M [...] | 5227 |
-| 2. | [riccardoscalco/textures](https://github.com/riccardoscalco/textures) <br/>Textures.js is a JavaScript library for creating S [...] | 3246 |
-| 3. | [JoelBesada/activate-power-mode](https://github.com/JoelBesada/activate-power-mode) <br/>Atom package - Activate POWER MODE to write your c [...] | 2127 |
+| 1. | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <br/>Have your own Slack like online chat, built with M... | 5227 |
+| 2. | [riccardoscalco/textures](https://github.com/riccardoscalco/textures) <br/>Textures.js is a JavaScript library for creating S... | 3246 |
+| 3. | [JoelBesada/activate-power-mode](https://github.com/JoelBesada/activate-power-mode) <br/>Atom package - Activate POWER MODE to write your c... | 2127 |
 | 4. | [sgentle/caniuse-cmd](https://github.com/sgentle/caniuse-cmd) <br/>Caniuse command line tool | 909 |
 | 5. | [willwhitney/hydrogen](https://github.com/willwhitney/hydrogen) <br/>Run code inline in Atom using Jupyter kernels | 361 |
 | 6. | [dmotz/natal](https://github.com/dmotz/natal) <br/>Bootstrap ClojureScript React Native apps | 331 |
 | 7. | [xixixao/Shem](https://github.com/xixixao/Shem) <br/>The compiler of the programming language Shem | 313 |
-| 8. | [rockets/rockets](https://github.com/rockets/rockets) <br/>Streams new posts and comments as they are created [...] | 311 |
+| 8. | [rockets/rockets](https://github.com/rockets/rockets) <br/>Streams new posts and comments as they are created... | 311 |
 | 9. | [poooi/poi](https://github.com/poooi/poi) <br/>Scalable KanColle browser and tool. | 311 |
 | 10. | [yakyak/yakyak](https://github.com/yakyak/yakyak) <br/>Desktop chat client for Google Hangouts | 289 |
 | 11. | [peerlibrary/meteor-blaze-components](https://github.com/peerlibrary/meteor-blaze-components) <br/>Reusable components for Blaze | 289 |
@@ -19,22 +19,22 @@
 | 13. | [SegmentFault/deploy-robot](https://github.com/SegmentFault/deploy-robot) <br/>GitHub 自动部署机器人 | 236 |
 | 14. | [coolwanglu/neovim-e](https://github.com/coolwanglu/neovim-e) <br/>Electron UI for Neovim | 215 |
 | 15. | [mizchi/arda](https://github.com/mizchi/arda) <br/>Meta-Flux Framework | 206 |
-| 16. | [Tomtomgo/phearjs](https://github.com/Tomtomgo/phearjs) <br/>PhearJS - render any dynamic Javascript webpage to [...] | 195 |
-| 17. | [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) <br/>An opinionated toolkit for building websites with  [...] | 177 |
-| 18. | [trello/iconathon](https://github.com/trello/iconathon) <br/>An icon task runner that convert Sketch files to m [...] | 175 |
+| 16. | [Tomtomgo/phearjs](https://github.com/Tomtomgo/phearjs) <br/>PhearJS - render any dynamic Javascript webpage to... | 195 |
+| 17. | [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) <br/>An opinionated toolkit for building websites with... | 177 |
+| 18. | [trello/iconathon](https://github.com/trello/iconathon) <br/>An icon task runner that convert Sketch files to m... | 175 |
 | 19. | [sadne/starry](https://github.com/sadne/starry) <br/>starry.so 完成一个故事 | 162 |
 | 20. | [digitalocean/heartbot](https://github.com/digitalocean/heartbot) <br/>A shot of love for your favorite chat client. | 137 |
 | 21. | [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom) <br/>Hide your header until you need it | 135 |
 | 22. | [marekhrabe/messenger](https://github.com/marekhrabe/messenger) <br/>Unofficial Facebook Mesenger for Mac | 131 |
-| 23. | [iroy2000/react-reflux-boilerplate-with-webpack](https://github.com/iroy2000/react-reflux-boilerplate-with-webpack) <br/>React + Reflux + CoffeeScript + Stylus Boilerplate [...] | 124 |
+| 23. | [iroy2000/react-reflux-boilerplate-with-webpack](https://github.com/iroy2000/react-reflux-boilerplate-with-webpack) <br/>React + Reflux + CoffeeScript + Stylus Boilerplate... | 124 |
 | 24. | [twitter-fabric/galley](https://github.com/twitter-fabric/galley) <br/>Orchestrator for local Docker containers | 124 |
 | 25. | [ccorcos/meteor-any-db](https://github.com/ccorcos/meteor-any-db) <br/>A database API for Meteor | 123 |
-| 26. | [abe33/atom-pigments](https://github.com/abe33/atom-pigments) <br/>An Atom package to display colors in project and f [...] | 123 |
-| 27. | [sagemathinc/smc](https://github.com/sagemathinc/smc) <br/>SageMathCloud's complete current source code repos [...] | 120 |
-| 28. | [heyadem/stackgrid.js](https://github.com/heyadem/stackgrid.js) <br/>A very fast and simple javascript plugin to help y [...] | 107 |
+| 26. | [abe33/atom-pigments](https://github.com/abe33/atom-pigments) <br/>An Atom package to display colors in project and f... | 123 |
+| 27. | [sagemathinc/smc](https://github.com/sagemathinc/smc) <br/>SageMathCloud's complete current source code repos... | 120 |
+| 28. | [heyadem/stackgrid.js](https://github.com/heyadem/stackgrid.js) <br/>A very fast and simple javascript plugin to help y... | 107 |
 | 29. | [franzenzenhofer/lsd](https://github.com/franzenzenhofer/lsd) <br/>LSD - line-square-dot: an addicting game | 107 |
 | 30. | [andischerer/atom-keyboard-localization](https://github.com/andischerer/atom-keyboard-localization) <br/>Foreign language keyboard support for atom. | 106 |
-| 31. | [Aluxian/electron-superkit](https://github.com/Aluxian/electron-superkit) <br/>:zap: An Electron starter kit with super powers. : [...] | 103 |
+| 31. | [Aluxian/electron-superkit](https://github.com/Aluxian/electron-superkit) <br/>:zap: An Electron starter kit with super powers. :... | 103 |
 | 32. | [k0kubun/Nocturn](https://github.com/k0kubun/Nocturn) <br/>YoruFukurou-like Twitter Client built on Electron | 102 |
 
 ## Most-Starred Users: CoffeeScript
