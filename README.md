@@ -39,7 +39,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great way to disc
 
 ## Method
 
-`gh-stats` is powered by the [GitHub API](https://developer.github.com/v3/).  You can verify the results through [GitHub Search](https://github.com/search).  For example, to view the [Most Starred Javascript Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/javascript.md#most-starred-repos-javascript) you can run the following query on [GitHub Search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D100+language%3Ajavascript&ref=simplesearch):
+`gh-stats` is powered by the [GitHub API](https://developer.github.com/v3/).  You can verify the results through [GitHub Search](https://github.com/search).  For example, to view the [Most-Starred Javascript Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/javascript.md#most-starred-repos-javascript) you can run the following query on [GitHub Search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D100+language%3Ajavascript&ref=simplesearch):
 
     created:>=2015-01-01 stars:>=100 language:javascript
 
@@ -102,8 +102,8 @@ The **100 overall most-starred**:
 
 Check out the [Language Index](#language-index) to view:
 
-* Up to the 500 most-starred repos, users, and orgs, overall.
-* Up to the 500 most-starred repos, users, and orgs, organized by language.
+* Up to 500 of the most-starred repos, users, and orgs, overall.
+* Up to 500 of the most-starred repos, users, and orgs, organized by language.
 
 ## Most-Starred Repos: Overall
 
@@ -423,7 +423,7 @@ Check out the [Language Index](#language-index) to view:
 ## Language Index
 
 
-View up to the 500 most-starred repos, users, and orgs, organized by language.
+View up to 500 of the most-starred repos, users, and orgs, organized by language.
 
 Because of the large number of languages tracked and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).
 
