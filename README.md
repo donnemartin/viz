@@ -199,7 +199,7 @@ Check out the [Language Index](#language-index) to view:
 | 88. | [facebook/stetho](https://github.com/facebook/stetho) <br/>Stetho is a debug bridge for Android applications,... | 3797 |
 | 89. | [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) <br/>The flexible, easy to use, all in one drawer libra... | 3738 |
 | 90. | [fchollet/keras](https://github.com/fchollet/keras) <br/>Deep Learning library for Python. Convnets, recurr... | 3731 |
-| 91. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 | 3674 |
+| 91. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、... | 3674 |
 | 92. | [tmux/tmux](https://github.com/tmux/tmux) <br/>tmux source code | 3639 |
 | 93. | [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br/>:iphone: Collaborative List of Open-Source iOS App... | 3604 |
 | 94. | [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) <br/>Android Transition animations explanation with exa... | 3588 |
