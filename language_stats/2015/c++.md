@@ -5,233 +5,233 @@
 | | Repo | Stars |
 |---|---|---|
 | 1. | [apple/swift](https://github.com/apple/swift) <br/>The Swift Programming Language | 24882 |
-| 2. | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) <br/> Open source software library for numerical comput [...] | 15543 |
+| 2. | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) <br/> Open source software library for numerical comput... | 15543 |
 | 3. | [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) <br/>Notepad++ official repository | 2269 |
-| 4. | [alibaba/AndFix](https://github.com/alibaba/AndFix) <br/>AndFix is a library that offer hot-fix for Android [...] | 2252 |
-| 5. | [dmlc/mxnet](https://github.com/dmlc/mxnet) <br/>Lightweight, Portable, Flexible Distributed/Mobile [...] | 2134 |
+| 4. | [alibaba/AndFix](https://github.com/alibaba/AndFix) <br/>AndFix is a library that offer hot-fix for Android... | 2252 |
+| 5. | [dmlc/mxnet](https://github.com/dmlc/mxnet) <br/>Lightweight, Portable, Flexible Distributed/Mobile... | 2134 |
 | 6. | [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) <br/>Free Lossless Image Format | 1954 |
 | 7. | [esp8266/Arduino](https://github.com/esp8266/Arduino) <br/>ESP8266 core for Arduino | 1713 |
-| 8. | [mapsme/omim](https://github.com/mapsme/omim) <br/>MAPS.ME - Offline OpenStreetMap maps for iOS/Andro [...] | 1558 |
-| 9. | [koekeishiya/kwm](https://github.com/koekeishiya/kwm) <br/>Tiling window manager with focus follows mouse for [...] | 1428 |
+| 8. | [mapsme/omim](https://github.com/mapsme/omim) <br/>MAPS.ME - Offline OpenStreetMap maps for iOS/Andro... | 1558 |
+| 9. | [koekeishiya/kwm](https://github.com/koekeishiya/kwm) <br/>Tiling window manager with focus follows mouse for... | 1428 |
 | 10. | [Z3Prover/z3](https://github.com/Z3Prover/z3) <br/>The Z3 Theorem Prover | 1356 |
-| 11. | [tdenniston/bish](https://github.com/tdenniston/bish) <br/>Bish is a language that compiles to Bash. It's des [...] | 1327 |
-| 12. | [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) <br/>Unreal.js: Javascript runtime built for UnrealEngi [...] | 1215 |
+| 11. | [tdenniston/bish](https://github.com/tdenniston/bish) <br/>Bish is a language that compiles to Bash. It's des... | 1327 |
+| 12. | [ncsoft/Unreal.js](https://github.com/ncsoft/Unreal.js) <br/>Unreal.js: Javascript runtime built for UnrealEngi... | 1215 |
 | 13. | [Microsoft/GSL](https://github.com/Microsoft/GSL) <br/>Guidelines Support Library | 1150 |
 | 14. | [google/googletest](https://github.com/google/googletest) <br/>Google Test | 1133 |
-| 15. | [Samsung/jerryscript](https://github.com/Samsung/jerryscript) <br/>Ultra-lightweight JavaScript engine for Internet o [...] | 1051 |
+| 15. | [Samsung/jerryscript](https://github.com/Samsung/jerryscript) <br/>Ultra-lightweight JavaScript engine for Internet o... | 1051 |
 | 16. | [ry/v8worker](https://github.com/ry/v8worker) <br/>Minimal golang binding to V8 | 969 |
-| 17. | [dotnet/llilc](https://github.com/dotnet/llilc) <br/>This repo contains LLILC, an LLVM based compiler f [...] | 951 |
-| 18. | [CtripMobile/DynamicAPK](https://github.com/CtripMobile/DynamicAPK) <br/>Solution to implement multi apk dynamic loading an [...] | 932 |
+| 17. | [dotnet/llilc](https://github.com/dotnet/llilc) <br/>This repo contains LLILC, an LLVM based compiler f... | 951 |
+| 18. | [CtripMobile/DynamicAPK](https://github.com/CtripMobile/DynamicAPK) <br/>Solution to implement multi apk dynamic loading an... | 932 |
 | 19. | [google/or-tools](https://github.com/google/or-tools) <br/>Google's Operations Research tools | 884 |
-| 20. | [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) <br/>A science fiction desktop running on Linux. Awesom [...] | 863 |
-| 21. | [cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay) <br/>ImagePlay is a rapid prototyping application for i [...] | 862 |
+| 20. | [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) <br/>A science fiction desktop running on Linux. Awesom... | 863 |
+| 21. | [cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay) <br/>ImagePlay is a rapid prototyping application for i... | 862 |
 | 22. | [flutter/engine](https://github.com/flutter/engine) <br/>The Flutter engine | 846 |
 | 23. | [wjakob/pybind11](https://github.com/wjakob/pybind11) <br/>Seamless operability between C++11 and Python | 830 |
 | 24. | [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) <br/>Presentation Materials from CppCon 2015 | 812 |
 | 25. | [googlesamples/android-ndk](https://github.com/googlesamples/android-ndk) <br/>Android NDK samples | 776 |
-| 26. | [Samsung/iotjs](https://github.com/Samsung/iotjs) <br/>Platform for Internet of Things with JavaScript ht [...] | 763 |
+| 26. | [Samsung/iotjs](https://github.com/Samsung/iotjs) <br/>Platform for Internet of Things with JavaScript ht... | 763 |
 | 27. | [4Lang/4](https://github.com/4Lang/4) <br/>A completely emoji-based programming language | 708 |
 | 28. | [Samsung/veles](https://github.com/Samsung/veles) <br/>Distributed machine learning platform | 664 |
-| 29. | [ryanries/UniversalPauseButton](https://github.com/ryanries/UniversalPauseButton) <br/>A pause button that pauses the unpausable. Handy f [...] | 663 |
+| 29. | [ryanries/UniversalPauseButton](https://github.com/ryanries/UniversalPauseButton) <br/>A pause button that pauses the unpausable. Handy f... | 663 |
 | 30. | [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) <br/>A binary library for face detection in images. | 641 |
-| 31. | [Microsoft/Windows-Driver-Frameworks](https://github.com/Microsoft/Windows-Driver-Frameworks) <br/>WDF makes it easy to write high-quality Windows dr [...] | 597 |
-| 32. | [hugoam/kiui](https://github.com/hugoam/kiui) <br/>Auto-layout Ui library, lightweight, skinnable and [...] | 552 |
+| 31. | [Microsoft/Windows-Driver-Frameworks](https://github.com/Microsoft/Windows-Driver-Frameworks) <br/>WDF makes it easy to write high-quality Windows dr... | 597 |
+| 32. | [hugoam/kiui](https://github.com/hugoam/kiui) <br/>Auto-layout Ui library, lightweight, skinnable and... | 552 |
 | 33. | [sphinxsearch/sphinx](https://github.com/sphinxsearch/sphinx) <br/>Sphinx search server | 552 |
 | 34. | [ValveSoftware/openvr](https://github.com/ValveSoftware/openvr) <br/>OpenVR SDK | 536 |
-| 35. | [denandz/KeeFarce](https://github.com/denandz/KeeFarce) <br/>Extracts passwords from a KeePass 2.x database, di [...] | 527 |
+| 35. | [denandz/KeeFarce](https://github.com/denandz/KeeFarce) <br/>Extracts passwords from a KeePass 2.x database, di... | 527 |
 | 36. | [vnpy/vnpy](https://github.com/vnpy/vnpy) <br/>基于python的开源交易平台开发框架 | 525 |
-| 37. | [google/zopfli](https://github.com/google/zopfli) <br/>Zopfli Compression Algorithm is a compression libr [...] | 524 |
-| 38. | [sftrabbit/CppSamples-Samples](https://github.com/sftrabbit/CppSamples-Samples) <br/>A repository of modern C++ samples curated by the  [...] | 524 |
+| 37. | [google/zopfli](https://github.com/google/zopfli) <br/>Zopfli Compression Algorithm is a compression libr... | 524 |
+| 38. | [sftrabbit/CppSamples-Samples](https://github.com/sftrabbit/CppSamples-Samples) <br/>A repository of modern C++ samples curated by the... | 524 |
 | 39. | [Qihoo360/QConf](https://github.com/Qihoo360/QConf) <br/>Qihoo Distrubuted Configuration Management System | 520 |
 | 40. | [google/glog](https://github.com/google/glog) <br/>C++ implementation of the Google logging module | 517 |
-| 41. | [Microsoft/microsoft-pdb](https://github.com/Microsoft/microsoft-pdb) <br/>Information from Microsoft about the PDB format.   [...] | 485 |
-| 42. | [Microsoft/IEDiagnosticsAdapter](https://github.com/Microsoft/IEDiagnosticsAdapter) <br/>IE Diagnostics Adapter is a standalone exe that en [...] | 476 |
+| 41. | [Microsoft/microsoft-pdb](https://github.com/Microsoft/microsoft-pdb) <br/>Information from Microsoft about the PDB format. ... | 485 |
+| 42. | [Microsoft/IEDiagnosticsAdapter](https://github.com/Microsoft/IEDiagnosticsAdapter) <br/>IE Diagnostics Adapter is a standalone exe that en... | 476 |
 | 43. | [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) <br/>Space exploration, trading, and combat game. | 460 |
 | 44. | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) <br/>An open-source x64/x32 debugger for windows. | 460 |
-| 45. | [google/rowhammer-test](https://github.com/google/rowhammer-test) <br/>Test DRAM for bit flips caused by the rowhammer pr [...] | 443 |
+| 45. | [google/rowhammer-test](https://github.com/google/rowhammer-test) <br/>Test DRAM for bit flips caused by the rowhammer pr... | 443 |
 | 46. | [apache/incubator-singa](https://github.com/apache/incubator-singa) <br/>Mirror of Apache Singa (Incubating) | 435 |
-| 47. | [Microsoft/rDSN](https://github.com/Microsoft/rDSN) <br/>Robust Distributed System Nucleus (rDSN) is an ope [...] | 426 |
-| 48. | [google/kythe](https://github.com/google/kythe) <br/>Kythe is a pluggable, (mostly) language-agnostic e [...] | 419 |
+| 47. | [Microsoft/rDSN](https://github.com/Microsoft/rDSN) <br/>Robust Distributed System Nucleus (rDSN) is an ope... | 426 |
+| 48. | [google/kythe](https://github.com/google/kythe) <br/>Kythe is a pluggable, (mostly) language-agnostic e... | 419 |
 | 49. | [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) <br/>C++11 implementation of Socket.IO client | 410 |
-| 50. | [ossrs/srs](https://github.com/ossrs/srs) <br/>SRS is industrial-strength live streaming cluster, [...] | 379 |
-| 51. | [Microsoft/DirectXTK](https://github.com/Microsoft/DirectXTK) <br/>The DirectX Tool Kit (aka DirectXTK) is a collecti [...] | 373 |
-| 52. | [tomlooman/EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) <br/>Third person survival game (tutorial) series for U [...] | 369 |
-| 53. | [sektioneins/SUIDGuard](https://github.com/sektioneins/SUIDGuard) <br/>SUIDGuard - a TrustedBSD Kernel Extension that add [...] | 366 |
+| 50. | [ossrs/srs](https://github.com/ossrs/srs) <br/>SRS is industrial-strength live streaming cluster,... | 379 |
+| 51. | [Microsoft/DirectXTK](https://github.com/Microsoft/DirectXTK) <br/>The DirectX Tool Kit (aka DirectXTK) is a collecti... | 373 |
+| 52. | [tomlooman/EpicSurvivalGameSeries](https://github.com/tomlooman/EpicSurvivalGameSeries) <br/>Third person survival game (tutorial) series for U... | 369 |
+| 53. | [sektioneins/SUIDGuard](https://github.com/sektioneins/SUIDGuard) <br/>SUIDGuard - a TrustedBSD Kernel Extension that add... | 366 |
 | 54. | [dato-code/Dato-Core](https://github.com/dato-code/Dato-Core) <br/>The open source core of the GraphLab ML library | 365 |
-| 55. | [dalboris/vpaint](https://github.com/dalboris/vpaint) <br/>Experimental vector graphics and 2D animation edit [...] | 354 |
+| 55. | [dalboris/vpaint](https://github.com/dalboris/vpaint) <br/>Experimental vector graphics and 2D animation edit... | 354 |
 | 56. | [apple/swift-llvm](https://github.com/apple/swift-llvm)  | 353 |
-| 57. | [Yangqing/caffe2](https://github.com/Yangqing/caffe2) <br/>This is currently an experimental refactoring of C [...] | 344 |
-| 58. | [Microsoft/multiverso](https://github.com/Microsoft/multiverso) <br/>Parameter server framework for distributed machine [...] | 342 |
-| 59. | [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI) <br/>GPU Accelerated C++ User Interface, with WYSIWYG d [...] | 342 |
+| 57. | [Yangqing/caffe2](https://github.com/Yangqing/caffe2) <br/>This is currently an experimental refactoring of C... | 344 |
+| 58. | [Microsoft/multiverso](https://github.com/Microsoft/multiverso) <br/>Parameter server framework for distributed machine... | 342 |
+| 59. | [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI) <br/>GPU Accelerated C++ User Interface, with WYSIWYG d... | 342 |
 | 60. | [happynear/caffe-windows](https://github.com/happynear/caffe-windows) <br/>Configure Caffe in one hour for Windows users. | 341 |
 | 61. | [acemod/ACE3](https://github.com/acemod/ACE3) <br/>Open-source realism mod for Arma 3 | 341 |
-| 62. | [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) <br/>This is now the official location of the Kaldi pro [...] | 340 |
-| 63. | [whoshuu/cpr](https://github.com/whoshuu/cpr) <br/>C++ Requests: Curl for People, a spiritual port of [...] | 324 |
-| 64. | [TencentOpen/behaviac](https://github.com/TencentOpen/behaviac) <br/>behaviac is a framework of the game AI development [...] | 324 |
-| 65. | [douban/libmc](https://github.com/douban/libmc) <br/>Fast and light-weight memcached client for C++ / # [...] | 317 |
+| 62. | [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) <br/>This is now the official location of the Kaldi pro... | 340 |
+| 63. | [whoshuu/cpr](https://github.com/whoshuu/cpr) <br/>C++ Requests: Curl for People, a spiritual port of... | 324 |
+| 64. | [TencentOpen/behaviac](https://github.com/TencentOpen/behaviac) <br/>behaviac is a framework of the game AI development... | 324 |
+| 65. | [douban/libmc](https://github.com/douban/libmc) <br/>Fast and light-weight memcached client for C++ / #... | 317 |
 | 66. | [devsisters/libquic](https://github.com/devsisters/libquic) <br/>QUIC, a multiplexed stream transport over UDP | 309 |
 | 67. | [apple/swift-clang](https://github.com/apple/swift-clang)  | 309 |
 | 68. | [gto76/comp-cpp](https://github.com/gto76/comp-cpp) <br/>Simple 4-bit virtual computer | 308 |
-| 69. | [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) <br/>Source code for pbrt, the renderer described in th [...] | 306 |
-| 70. | [01org/hyperscan](https://github.com/01org/hyperscan) <br/>High-performance regular expression matching libra [...] | 301 |
+| 69. | [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) <br/>Source code for pbrt, the renderer described in th... | 306 |
+| 70. | [01org/hyperscan](https://github.com/01org/hyperscan) <br/>High-performance regular expression matching libra... | 301 |
 | 71. | [topcpporg/cinatra](https://github.com/topcpporg/cinatra) <br/>A sinatra inspired modern c++ web framework | 299 |
 | 72. | [Gladdy/EasyOpenCL](https://github.com/Gladdy/EasyOpenCL) <br/>The easiest way to get started with OpenCL! | 293 |
-| 73. | [richgel999/lzham_codec](https://github.com/richgel999/lzham_codec) <br/>Lossless data compression codec with LZMA-like rat [...] | 291 |
+| 73. | [richgel999/lzham_codec](https://github.com/richgel999/lzham_codec) <br/>Lossless data compression codec with LZMA-like rat... | 291 |
 | 74. | [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) <br/>helps you write concise and readable C++ code. | 290 |
 | 75. | [Ableton/atria](https://github.com/Ableton/atria) <br/>A toolkit for modern C++ development | 289 |
-| 76. | [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) <br/>A Pin-based dynamic symbolic execution (DSE) frame [...] | 289 |
-| 77. | [dmlc/wormhole](https://github.com/dmlc/wormhole) <br/>Portable, Scalable and Reliable Distributed Machin [...] | 285 |
-| 78. | [zeroc-ice/ice](https://github.com/zeroc-ice/ice) <br/>Comprehensive RPC framework with support for C++,  [...] | 282 |
+| 76. | [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) <br/>A Pin-based dynamic symbolic execution (DSE) frame... | 289 |
+| 77. | [dmlc/wormhole](https://github.com/dmlc/wormhole) <br/>Portable, Scalable and Reliable Distributed Machin... | 285 |
+| 78. | [zeroc-ice/ice](https://github.com/zeroc-ice/ice) <br/>Comprehensive RPC framework with support for C++,... | 282 |
 | 79. | [devsisters/goquic](https://github.com/devsisters/goquic) <br/>QUIC support for Go | 278 |
 | 80. | [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) <br/>Android File Transfer for Linux | 273 |
-| 81. | [samyk/opensesame](https://github.com/samyk/opensesame) <br/>OpenSesame attacks wireless garages and can open m [...] | 273 |
-| 82. | [dannagle/PacketSender](https://github.com/dannagle/PacketSender) <br/>A network test utility for sending / receiving TCP [...] | 273 |
-| 83. | [apple/swift-lldb](https://github.com/apple/swift-lldb) <br/>This is the version of LLDB that supports the Swif [...] | 269 |
-| 84. | [arvidn/libtorrent](https://github.com/arvidn/libtorrent) <br/>an efficient feature complete C++ bittorrent imple [...] | 264 |
-| 85. | [RSATom/WebChimera.js](https://github.com/RSATom/WebChimera.js) <br/>libvlc binding for node.js/io.js/Node-Webkit/NW.js [...] | 262 |
+| 81. | [samyk/opensesame](https://github.com/samyk/opensesame) <br/>OpenSesame attacks wireless garages and can open m... | 273 |
+| 82. | [dannagle/PacketSender](https://github.com/dannagle/PacketSender) <br/>A network test utility for sending / receiving TCP... | 273 |
+| 83. | [apple/swift-lldb](https://github.com/apple/swift-lldb) <br/>This is the version of LLDB that supports the Swif... | 269 |
+| 84. | [arvidn/libtorrent](https://github.com/arvidn/libtorrent) <br/>an efficient feature complete C++ bittorrent imple... | 264 |
+| 85. | [RSATom/WebChimera.js](https://github.com/RSATom/WebChimera.js) <br/>libvlc binding for node.js/io.js/Node-Webkit/NW.js... | 262 |
 | 86. | [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) <br/>Instant Meshes | 260 |
-| 87. | [zyq8709/DexHunter](https://github.com/zyq8709/DexHunter) <br/>General Automatic Unpacking Tool for Android Dex F [...] | 258 |
+| 87. | [zyq8709/DexHunter](https://github.com/zyq8709/DexHunter) <br/>General Automatic Unpacking Tool for Android Dex F... | 258 |
 | 88. | [stealth/opmsg](https://github.com/stealth/opmsg) <br/>opmsg message encryption | 257 |
 | 89. | [qiniu/cerl](https://github.com/qiniu/cerl) <br/>CERL2.0 - Erlang Model for C++ | 257 |
 | 90. | [ofZach/inkSpace](https://github.com/ofZach/inkSpace) <br/>android drawing tool | 255 |
 | 91. | [iovisor/bcc](https://github.com/iovisor/bcc) <br/>BPF Compiler Collection | 251 |
 | 92. | [LightIO/LightQ](https://github.com/LightIO/LightQ)  | 248 |
-| 93. | [apple/swift-llbuild](https://github.com/apple/swift-llbuild) <br/>A low-level build system, used by the Swift Packag [...] | 248 |
+| 93. | [apple/swift-llbuild](https://github.com/apple/swift-llbuild) <br/>A low-level build system, used by the Swift Packag... | 248 |
 | 94. | [SteveRabin/JPSPlusWithGoalBounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) <br/>JPS+ and Goal Bounding | 248 |
-| 95. | [Microsoft/lightlda](https://github.com/Microsoft/lightlda) <br/>Scalable, fast, and lightweight system for large-s [...] | 244 |
+| 95. | [Microsoft/lightlda](https://github.com/Microsoft/lightlda) <br/>Scalable, fast, and lightweight system for large-s... | 244 |
 | 96. | [nwhitehead/pineapple](https://github.com/nwhitehead/pineapple)  | 242 |
 | 97. | [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) <br/>waifu2xのCaffe版 | 239 |
-| 98. | [torrvision/crfasrnn](https://github.com/torrvision/crfasrnn) <br/>This repository contains the source code for the s [...] | 239 |
+| 98. | [torrvision/crfasrnn](https://github.com/torrvision/crfasrnn) <br/>This repository contains the source code for the s... | 239 |
 | 99. | [01org/idlf](https://github.com/01org/idlf) <br/>Intel® Deep Learning Framework | 237 |
-| 100. | [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) <br/>Code repository of all tutorials found at http://l [...] | 232 |
+| 100. | [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) <br/>Code repository of all tutorials found at http://l... | 232 |
 | 101. | [hadley/readxl](https://github.com/hadley/readxl) <br/>Read excel files (.xls and .xlsx) into R | 231 |
 | 102. | [liudong1983/mybus](https://github.com/liudong1983/mybus) <br/>MySQL数据库同redis以及hbase高速全量，增量同步工具 | 231 |
 | 103. | [kennykerr/modern](https://github.com/kennykerr/modern) <br/>Modern C++ for the Windows Runtime | 230 |
 | 104. | [purine/purine2](https://github.com/purine/purine2) <br/>Purified Purine. | 230 |
-| 105. | [ChenglongChen/Kaggle_CrowdFlower](https://github.com/ChenglongChen/Kaggle_CrowdFlower) <br/>1st Place Solution for Search Results Relevance Co [...] | 229 |
-| 106. | [dmlc/dmlc-core](https://github.com/dmlc/dmlc-core) <br/>A common code-base for Distributed Machine Learnin [...] | 228 |
+| 105. | [ChenglongChen/Kaggle_CrowdFlower](https://github.com/ChenglongChen/Kaggle_CrowdFlower) <br/>1st Place Solution for Search Results Relevance Co... | 229 |
+| 106. | [dmlc/dmlc-core](https://github.com/dmlc/dmlc-core) <br/>A common code-base for Distributed Machine Learnin... | 228 |
 | 107. | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) <br/>A YAML parser and emitter in C++ | 228 |
-| 108. | [facebook/Stack-RNN](https://github.com/facebook/Stack-RNN) <br/>This is the code used for the paper "Inferring alg [...] | 228 |
+| 108. | [facebook/Stack-RNN](https://github.com/facebook/Stack-RNN) <br/>This is the code used for the paper "Inferring alg... | 228 |
 | 109. | [paypal/seifnode](https://github.com/paypal/seifnode)  | 226 |
 | 110. | [dato-code/SFrame](https://github.com/dato-code/SFrame) <br/>SFrame, SArray, SGraph | 223 |
-| 111. | [douban/paracel](https://github.com/douban/paracel) <br/>Distributed training framework with parameter serv [...] | 222 |
+| 111. | [douban/paracel](https://github.com/douban/paracel) <br/>Distributed training framework with parameter serv... | 222 |
 | 112. | [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) <br/>A GraphQL query parser in C++ with C and C++ APIs | 222 |
 | 113. | [decaf-emu/decaf-emu](https://github.com/decaf-emu/decaf-emu) <br/>Researching Wii U emulation. | 221 |
 | 114. | [cat/cat](https://github.com/cat/cat) <br/>C++14 functional library | 218 |
-| 115. | [frogermcs/FlatBuffs](https://github.com/frogermcs/FlatBuffs) <br/>Example app showing FlatBuffers implementation in  [...] | 217 |
+| 115. | [frogermcs/FlatBuffs](https://github.com/frogermcs/FlatBuffs) <br/>Example app showing FlatBuffers implementation in... | 217 |
 | 116. | [mattbierner/Super-Template-Tetris](https://github.com/mattbierner/Super-Template-Tetris) <br/>Tetris as a C++ Template Metaprogram | 215 |
-| 117. | [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) <br/>A tool for use with clang to analyze #includes in  [...] | 211 |
+| 117. | [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) <br/>A tool for use with clang to analyze #includes in... | 211 |
 | 118. | [raulmur/ORB_SLAM](https://github.com/raulmur/ORB_SLAM) <br/>A Versatile and Accurate Monocular SLAM | 210 |
 | 119. | [kevinlawler/kerf](https://github.com/kevinlawler/kerf) <br/>Kerf | 210 |
 | 120. | [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) <br/>Zulip desktop app | 209 |
-| 121. | [Proj-Ascension/Client](https://github.com/Proj-Ascension/Client) <br/>Client repository for the Project Ascension game l [...] | 209 |
-| 122. | [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) <br/>Libraries for embedded hardware to work with Blynk [...] | 208 |
+| 121. | [Proj-Ascension/Client](https://github.com/Proj-Ascension/Client) <br/>Client repository for the Project Ascension game l... | 209 |
+| 122. | [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) <br/>Libraries for embedded hardware to work with Blynk... | 208 |
 | 123. | [artoolkit/artoolkit5](https://github.com/artoolkit/artoolkit5) <br/>ARToolKit v5.x | 207 |
-| 124. | [WL-Amigo/waifu2x-converter-cpp](https://github.com/WL-Amigo/waifu2x-converter-cpp) <br/>waifu2x(original : https://github.com/nagadomi/wai [...] | 207 |
-| 125. | [itead/ITEADLIB_Arduino_WeeESP8266](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266) <br/>An easy-to-use Arduino ESP8266 library besed on AT [...] | 206 |
+| 124. | [WL-Amigo/waifu2x-converter-cpp](https://github.com/WL-Amigo/waifu2x-converter-cpp) <br/>waifu2x(original : https://github.com/nagadomi/wai... | 207 |
+| 125. | [itead/ITEADLIB_Arduino_WeeESP8266](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266) <br/>An easy-to-use Arduino ESP8266 library besed on AT... | 206 |
 | 126. | [lloeki/xbox_one_controller](https://github.com/lloeki/xbox_one_controller) <br/>HID-compliant Xbox One Controller driver for OS X | 205 |
 | 127. | [plexinc/plex-media-player](https://github.com/plexinc/plex-media-player) <br/>Next generation Plex Desktop/Embedded Client | 199 |
-| 128. | [plv8/plv8](https://github.com/plv8/plv8) <br/> V8 Engine Javascript Procedural Language add-on f [...] | 197 |
-| 129. | [golosio/annabell](https://github.com/golosio/annabell) <br/>A cognitive neural architecture able to learn and  [...] | 195 |
-| 130. | [tmbdev/clstm](https://github.com/tmbdev/clstm) <br/>A small C++ implementation of LSTM networks, focus [...] | 194 |
-| 131. | [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore) <br/>Various synchronization primitives for multithread [...] | 192 |
+| 128. | [plv8/plv8](https://github.com/plv8/plv8) <br/> V8 Engine Javascript Procedural Language add-on f... | 197 |
+| 129. | [golosio/annabell](https://github.com/golosio/annabell) <br/>A cognitive neural architecture able to learn and... | 195 |
+| 130. | [tmbdev/clstm](https://github.com/tmbdev/clstm) <br/>A small C++ implementation of LSTM networks, focus... | 194 |
+| 131. | [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore) <br/>Various synchronization primitives for multithread... | 192 |
 | 132. | [awslabs/aws-sdk-cpp](https://github.com/awslabs/aws-sdk-cpp) <br/>AWS SDK for C++ | 192 |
-| 133. | [gongminmin/KlayGE](https://github.com/gongminmin/KlayGE) <br/>KlayGE is a cross-platform open source game engine [...] | 191 |
-| 134. | [2shou/TextGrocery](https://github.com/2shou/TextGrocery) <br/>A simple short-text classification tool based on L [...] | 189 |
+| 133. | [gongminmin/KlayGE](https://github.com/gongminmin/KlayGE) <br/>KlayGE is a cross-platform open source game engine... | 191 |
+| 134. | [2shou/TextGrocery](https://github.com/2shou/TextGrocery) <br/>A simple short-text classification tool based on L... | 189 |
 | 135. | [tuanpmt/espduino](https://github.com/tuanpmt/espduino) <br/>ESP8266 network client (mqtt, restful) for Arduino | 185 |
-| 136. | [networkMe/missinghud2](https://github.com/networkMe/missinghud2) <br/>Binding of Isaac: Rebirth/Afterbirth Statistics HU [...] | 184 |
+| 136. | [networkMe/missinghud2](https://github.com/networkMe/missinghud2) <br/>Binding of Isaac: Rebirth/Afterbirth Statistics HU... | 184 |
 | 137. | [WebAssembly/v8-native-prototype](https://github.com/WebAssembly/v8-native-prototype) <br/>Prototype native decoder that targets TurboFan | 182 |
-| 138. | [mtytel/helm](https://github.com/mtytel/helm) <br/>Helm - a free polyphonic synth with lots of modula [...] | 179 |
+| 138. | [mtytel/helm](https://github.com/mtytel/helm) <br/>Helm - a free polyphonic synth with lots of modula... | 179 |
 | 139. | [ideawu/sim](https://github.com/ideawu/sim) <br/>Simple C++ network server framework | 178 |
 | 140. | [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) <br/>Secure Socket Funneling - Network tool and toolkit | 178 |
-| 141. | [facebook/fboss](https://github.com/facebook/fboss) <br/>Facebook Open Switching SystemSoftware for contr [...] | 175 |
-| 142. | [beniz/deepdetect](https://github.com/beniz/deepdetect) <br/>Deep Learning API and Server in C++11 with Python  [...] | 173 |
-| 143. | [Microsoft/FFmpegInterop](https://github.com/Microsoft/FFmpegInterop) <br/> This is a code sample to make it easier to use FF [...] | 173 |
+| 141. | [facebook/fboss](https://github.com/facebook/fboss) <br/>Facebook Open Switching SystemSoftware for contr... | 175 |
+| 142. | [beniz/deepdetect](https://github.com/beniz/deepdetect) <br/>Deep Learning API and Server in C++11 with Python... | 173 |
+| 143. | [Microsoft/FFmpegInterop](https://github.com/Microsoft/FFmpegInterop) <br/> This is a code sample to make it easier to use FF... | 173 |
 | 144. | [dropbox/nn](https://github.com/dropbox/nn) <br/>Non-nullable pointers for C++ | 173 |
-| 145. | [PrincetonVision/marvin](https://github.com/PrincetonVision/marvin) <br/>Marvin: A Minimalist GPU-only N-Dimensional ConvNe [...] | 172 |
+| 145. | [PrincetonVision/marvin](https://github.com/PrincetonVision/marvin) <br/>Marvin: A Minimalist GPU-only N-Dimensional ConvNe... | 172 |
 | 146. | [HunanTV/redis-cerberus](https://github.com/HunanTV/redis-cerberus) <br/>Redis Cluster Proxy | 170 |
 | 147. | [TheCherno/Sparky](https://github.com/TheCherno/Sparky) <br/>The Sparky engine! | 167 |
 | 148. | [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) <br/>Khronos reference front-end for GLSL and ESSL | 161 |
-| 149. | [WebAssembly/polyfill-prototype-1](https://github.com/WebAssembly/polyfill-prototype-1) <br/>Experimental WebAssembly polyfill library and tool [...] | 161 |
-| 150. | [pagespeed/mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) <br/>Apache module for rewriting web pages to reduce la [...] | 160 |
-| 151. | [mbrenman/TetrisPlayground](https://github.com/mbrenman/TetrisPlayground) <br/>A final project for Advanced Machine Learning. Bui [...] | 158 |
-| 152. | [IAIK/rowhammerjs](https://github.com/IAIK/rowhammerjs) <br/>Rowhammer.js - A Remote Software-Induced Fault Att [...] | 157 |
-| 153. | [Tarsnap/tarsnap-gui](https://github.com/Tarsnap/tarsnap-gui) <br/>Cross platform GUI for the Tarsnap command line cl [...] | 157 |
+| 149. | [WebAssembly/polyfill-prototype-1](https://github.com/WebAssembly/polyfill-prototype-1) <br/>Experimental WebAssembly polyfill library and tool... | 161 |
+| 150. | [pagespeed/mod_pagespeed](https://github.com/pagespeed/mod_pagespeed) <br/>Apache module for rewriting web pages to reduce la... | 160 |
+| 151. | [mbrenman/TetrisPlayground](https://github.com/mbrenman/TetrisPlayground) <br/>A final project for Advanced Machine Learning. Bui... | 158 |
+| 152. | [IAIK/rowhammerjs](https://github.com/IAIK/rowhammerjs) <br/>Rowhammer.js - A Remote Software-Induced Fault Att... | 157 |
+| 153. | [Tarsnap/tarsnap-gui](https://github.com/Tarsnap/tarsnap-gui) <br/>Cross platform GUI for the Tarsnap command line cl... | 157 |
 | 154. | [Russell91/nlpcaffe](https://github.com/Russell91/nlpcaffe) <br/>natural language processing with Caffe | 154 |
 | 155. | [typcn/LeanClub](https://github.com/typcn/LeanClub) <br/>C++ forum system | 151 |
 | 156. | [nzbget/nzbget](https://github.com/nzbget/nzbget) <br/>Efficient Usenet Downloader | 149 |
 | 157. | [UE4-OceanProject/OceanProject](https://github.com/UE4-OceanProject/OceanProject) <br/>An Ocean Simulation project for Unreal Engine 4 | 147 |
-| 158. | [aliceatlas/hexagen](https://github.com/aliceatlas/hexagen) <br/>true coroutines for Swift, and some familiar concu [...] | 147 |
+| 158. | [aliceatlas/hexagen](https://github.com/aliceatlas/hexagen) <br/>true coroutines for Swift, and some familiar concu... | 147 |
 | 159. | [ElementsProject/elements](https://github.com/ElementsProject/elements) <br/>Feature experiments to advance the art of Bitcoin | 145 |
 | 160. | [eteran/edb-debugger](https://github.com/eteran/edb-debugger) <br/>edb is a cross platform x86/x86-64 debugger. | 145 |
 | 161. | [frewsxcv/afl.rs](https://github.com/frewsxcv/afl.rs) <br/>Fuzzing Rust code with american-fuzzy-lop | 145 |
 | 162. | [darkwallet/darkleaks](https://github.com/darkwallet/darkleaks) <br/>Decentralised Information Black Market | 145 |
 | 163. | [rollbear/basicpp](https://github.com/rollbear/basicpp) <br/>BASIC in C++ | 144 |
-| 164. | [google/UIforETW](https://github.com/google/UIforETW) <br/>User interface for recording and managing ETW trac [...] | 144 |
+| 164. | [google/UIforETW](https://github.com/google/UIforETW) <br/>User interface for recording and managing ETW trac... | 144 |
 | 165. | [google/ngx_brotli](https://github.com/google/ngx_brotli) <br/>nginx module for Brotli compression | 142 |
-| 166. | [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave) <br/>a C++ and DotNet library to control Z-Wave Network [...] | 142 |
-| 167. | [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) <br/>Mod manager for various PC games (currently: Skyri [...] | 141 |
+| 166. | [OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave) <br/>a C++ and DotNet library to control Z-Wave Network... | 142 |
+| 167. | [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) <br/>Mod manager for various PC games (currently: Skyri... | 141 |
 | 168. | [gto76/comp-m2](https://github.com/gto76/comp-m2) <br/>Simple 4-bit virtual computer | 139 |
-| 169. | [Corvusoft/restbed](https://github.com/Corvusoft/restbed) <br/>Corvusoft's Restbed framework brings asynchronous  [...] | 139 |
+| 169. | [Corvusoft/restbed](https://github.com/Corvusoft/restbed) <br/>Corvusoft's Restbed framework brings asynchronous... | 139 |
 | 170. | [smartdec/smartdec](https://github.com/smartdec/smartdec) <br/>SmartDec decompiler | 138 |
-| 171. | [google/mozc](https://github.com/google/mozc) <br/>Mozc - a Japanese Input Method Editor designed for [...] | 138 |
-| 172. | [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) <br/>A powerful cross-platform raw photo processing pro [...] | 138 |
+| 171. | [google/mozc](https://github.com/google/mozc) <br/>Mozc - a Japanese Input Method Editor designed for... | 138 |
+| 172. | [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) <br/>A powerful cross-platform raw photo processing pro... | 138 |
 | 173. | [Microsoft/DirectXTex](https://github.com/Microsoft/DirectXTex) <br/>DirectXTex texture processing library | 137 |
-| 174. | [BOINC/boinc](https://github.com/BOINC/boinc) <br/>Open-source software for volunteer computing and g [...] | 136 |
+| 174. | [BOINC/boinc](https://github.com/BOINC/boinc) <br/>Open-source software for volunteer computing and g... | 136 |
 | 175. | [webyog/sqlyog-community](https://github.com/webyog/sqlyog-community)  | 135 |
-| 176. | [agajews/ApricityOS](https://github.com/agajews/ApricityOS) <br/>A modern, intuitive operating system for the cloud [...] | 134 |
-| 177. | [crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) <br/>An ASI plugin for Grand Theft Auto V, which allows [...] | 134 |
-| 178. | [google/shaderc](https://github.com/google/shaderc) <br/>A collection of tools, libraries and tests for sha [...] | 133 |
-| 179. | [amd/OpenCL-caffe](https://github.com/amd/OpenCL-caffe) <br/>OpenCL version of caffe developed by AMD research  [...] | 133 |
+| 176. | [agajews/ApricityOS](https://github.com/agajews/ApricityOS) <br/>A modern, intuitive operating system for the cloud... | 134 |
+| 177. | [crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) <br/>An ASI plugin for Grand Theft Auto V, which allows... | 134 |
+| 178. | [google/shaderc](https://github.com/google/shaderc) <br/>A collection of tools, libraries and tests for sha... | 133 |
+| 179. | [amd/OpenCL-caffe](https://github.com/amd/OpenCL-caffe) <br/>OpenCL version of caffe developed by AMD research... | 133 |
 | 180. | [HiraokaTakuya/apery](https://github.com/HiraokaTakuya/apery) <br/>a USI Shogi engine. | 133 |
 | 181. | [sony/v8eval](https://github.com/sony/v8eval) <br/>Multi-language bindings to JavaScript engine V8 | 131 |
 | 182. | [mbunkus/mkvtoolnix](https://github.com/mbunkus/mkvtoolnix) <br/>Creating and working with Matroska files | 131 |
-| 183. | [google/zooshi](https://github.com/google/zooshi) <br/>Multi-platform game where you feed well dressed an [...] | 131 |
-| 184. | [jandrewrogers/MetroHash](https://github.com/jandrewrogers/MetroHash) <br/>Exceptionally fast and statistically robust hash f [...] | 131 |
-| 185. | [cppit/jucipp](https://github.com/cppit/jucipp) <br/>juCi++ a lightweight C++-IDE with support for C++1 [...] | 131 |
+| 183. | [google/zooshi](https://github.com/google/zooshi) <br/>Multi-platform game where you feed well dressed an... | 131 |
+| 184. | [jandrewrogers/MetroHash](https://github.com/jandrewrogers/MetroHash) <br/>Exceptionally fast and statistically robust hash f... | 131 |
+| 185. | [cppit/jucipp](https://github.com/cppit/jucipp) <br/>juCi++ a lightweight C++-IDE with support for C++1... | 131 |
 | 186. | [jwcrawley/uWho](https://github.com/jwcrawley/uWho) <br/>OpenCV based facial recognition and tracker | 130 |
 | 187. | [edouarda/brigand](https://github.com/edouarda/brigand) <br/>small and powerful C++ 11 MPL | 130 |
 | 188. | [sandstorm-io/ekam](https://github.com/sandstorm-io/ekam) <br/>Ekam Build System | 130 |
-| 189. | [BromiumLabs/PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) <br/>C++ application that uses memory and code hooks to [...] | 130 |
+| 189. | [BromiumLabs/PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) <br/>C++ application that uses memory and code hooks to... | 130 |
 | 190. | [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) <br/>enki Task Scheduler | 129 |
 | 191. | [xlgames-inc/XLE](https://github.com/xlgames-inc/XLE) <br/>XLE prototype 3D game engine | 127 |
-| 192. | [RichieSams/FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) <br/>A library for enabling task-based multi-threading. [...] | 127 |
+| 192. | [RichieSams/FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) <br/>A library for enabling task-based multi-threading.... | 127 |
 | 193. | [AustinBrunkhorst/CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) <br/>C++ Reflection Parser / Runtime Skeleton | 126 |
 | 194. | [kevsmithpublic/MameAppleTV](https://github.com/kevsmithpublic/MameAppleTV) <br/>Mame for tvOS | 125 |
-| 195. | [RipcordSoftware/AvanceDB](https://github.com/RipcordSoftware/AvanceDB) <br/>An in-memory database based on the CouchDB REST AP [...] | 123 |
+| 195. | [RipcordSoftware/AvanceDB](https://github.com/RipcordSoftware/AvanceDB) <br/>An in-memory database based on the CouchDB REST AP... | 123 |
 | 196. | [systemed/tilemaker](https://github.com/systemed/tilemaker) <br/>Make OpenStreetMap vector tiles without the stack | 122 |
-| 197. | [johnno1962/Refactorator](https://github.com/johnno1962/Refactorator) <br/>SourceKit based Plugin for Xcode that Refactors Sw [...] | 122 |
+| 197. | [johnno1962/Refactorator](https://github.com/johnno1962/Refactorator) <br/>SourceKit based Plugin for Xcode that Refactors Sw... | 122 |
 | 198. | [james91b/ida_ipython](https://github.com/james91b/ida_ipython) <br/>An IDA Pro Plugin for embedding an IPython Kernel | 121 |
-| 199. | [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) <br/>ESP8266 WiFi Connection manager with web captive p [...] | 121 |
+| 199. | [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) <br/>ESP8266 WiFi Connection manager with web captive p... | 121 |
 | 200. | [dji-sdk/Onboard-SDK](https://github.com/dji-sdk/Onboard-SDK) <br/>DJI Onboard API Samples | 119 |
-| 201. | [btgraham/SparseConvNet](https://github.com/btgraham/SparseConvNet) <br/>Spatially-sparse convolutional networks. Allows pr [...] | 117 |
-| 202. | [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) <br/>Network file transfer application for Windows, OS  [...] | 116 |
+| 201. | [btgraham/SparseConvNet](https://github.com/btgraham/SparseConvNet) <br/>Spatially-sparse convolutional networks. Allows pr... | 117 |
+| 202. | [nitroshare/nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) <br/>Network file transfer application for Windows, OS... | 116 |
 | 203. | [emilk/loguru](https://github.com/emilk/loguru) <br/>A lightweight C++ logging library | 115 |
 | 204. | [tangjianpku/LINE](https://github.com/tangjianpku/LINE) <br/>LINE: Large-scale information network embedding | 115 |
 | 205. | [google/flatui](https://github.com/google/flatui) <br/>Efficient Immediate Mode UI for Games | 114 |
 | 206. | [google/omaha](https://github.com/google/omaha) <br/>Google Update for Windows | 114 |
 | 207. | [andreasmuller/NoiseWorkshop](https://github.com/andreasmuller/NoiseWorkshop)  | 113 |
 | 208. | [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) <br/>Free news feeds reader | 113 |
-| 209. | [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) <br/>Multi Theft Auto is an open-source game engine tha [...] | 113 |
+| 209. | [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue) <br/>Multi Theft Auto is an open-source game engine tha... | 113 |
 | 210. | [cseed/arachne-pnr](https://github.com/cseed/arachne-pnr) <br/>Place and route tool for FGPAs | 112 |
-| 211. | [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) <br/>RetroShare is a Free and Open Source cross-platfor [...] | 111 |
-| 212. | [sui77/rc-switch](https://github.com/sui77/rc-switch) <br/>Automatically exported from code.google.com/p/rc-s [...] | 111 |
-| 213. | [HowardHinnant/date](https://github.com/HowardHinnant/date) <br/>A date and time library based on the C++11 (and be [...] | 110 |
-| 214. | [ryankennedyio/deep-dream-generator](https://github.com/ryankennedyio/deep-dream-generator) <br/>#deepdream in a docker environment, to save you 8  [...] | 110 |
+| 211. | [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) <br/>RetroShare is a Free and Open Source cross-platfor... | 111 |
+| 212. | [sui77/rc-switch](https://github.com/sui77/rc-switch) <br/>Automatically exported from code.google.com/p/rc-s... | 111 |
+| 213. | [HowardHinnant/date](https://github.com/HowardHinnant/date) <br/>A date and time library based on the C++11 (and be... | 110 |
+| 214. | [ryankennedyio/deep-dream-generator](https://github.com/ryankennedyio/deep-dream-generator) <br/>#deepdream in a docker environment, to save you 8... | 110 |
 | 215. | [weidai11/cryptopp](https://github.com/weidai11/cryptopp)  | 110 |
-| 216. | [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) <br/>Automatically exported from code.google.com/p/test [...] | 109 |
-| 217. | [gingerBill/Dunjun](https://github.com/gingerBill/Dunjun) <br/>A project documenting and demonstrating the proces [...] | 109 |
-| 218. | [FreeRCT/FreeRCT](https://github.com/FreeRCT/FreeRCT) <br/>FreeRCT aims to be a free and open source game whi [...] | 108 |
-| 219. | [aantron/better-enums](https://github.com/aantron/better-enums) <br/>Compile-time enum to string, iteration, in a singl [...] | 107 |
+| 216. | [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) <br/>Automatically exported from code.google.com/p/test... | 109 |
+| 217. | [gingerBill/Dunjun](https://github.com/gingerBill/Dunjun) <br/>A project documenting and demonstrating the proces... | 109 |
+| 218. | [FreeRCT/FreeRCT](https://github.com/FreeRCT/FreeRCT) <br/>FreeRCT aims to be a free and open source game whi... | 108 |
+| 219. | [aantron/better-enums](https://github.com/aantron/better-enums) <br/>Compile-time enum to string, iteration, in a singl... | 107 |
 | 220. | [CLD2Owners/cld2](https://github.com/CLD2Owners/cld2) <br/>Compact Language Detector 2 | 106 |
 | 221. | [kamyu104/LintCode](https://github.com/kamyu104/LintCode) <br/>C++ 11 Solutions of All 257 LintCode Problems | 106 |
-| 222. | [eijah/demoncrypt](https://github.com/eijah/demoncrypt) <br/>Believe in the Right to Share.  Secure, Anonymous, [...] | 106 |
-| 223. | [mafintosh/fuse-bindings](https://github.com/mafintosh/fuse-bindings) <br/>Fully maintained FUSE bindings for Node that aims  [...] | 105 |
+| 222. | [eijah/demoncrypt](https://github.com/eijah/demoncrypt) <br/>Believe in the Right to Share.  Secure, Anonymous,... | 106 |
+| 223. | [mafintosh/fuse-bindings](https://github.com/mafintosh/fuse-bindings) <br/>Fully maintained FUSE bindings for Node that aims... | 105 |
 | 224. | [blankwall/Python_Pin](https://github.com/blankwall/Python_Pin)  | 105 |
-| 225. | [yandex/faster-rnnlm](https://github.com/yandex/faster-rnnlm) <br/>Faster Recurrent Neural Network Language Modeling  [...] | 102 |
+| 225. | [yandex/faster-rnnlm](https://github.com/yandex/faster-rnnlm) <br/>Faster Recurrent Neural Network Language Modeling... | 102 |
 | 226. | [nbsdx/ThreadPool](https://github.com/nbsdx/ThreadPool) <br/>Lightweight, Generic, Pure C++11 ThreadPool | 102 |
 | 227. | [vapourismo/luwra](https://github.com/vapourismo/luwra) <br/>Minimal-overhead Lua wrapper for C++ | 101 |
-| 228. | [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) <br/>Automatically exported from code.google.com/p/spar [...] | 100 |
+| 228. | [sparsehash/sparsehash](https://github.com/sparsehash/sparsehash) <br/>Automatically exported from code.google.com/p/spar... | 100 |
 | 229. | [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) <br/>A tiny, hackable BitTorrent client. | 100 |
 | 230. | [LuminanceHDR/LuminanceHDR](https://github.com/LuminanceHDR/LuminanceHDR) <br/>A complete workflow for HDR imaging | 100 |
 

@@ -5,316 +5,316 @@
 | | Repo | Stars |
 |---|---|---|
 | 1. | [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) <br/>A curated list of delightful iOS resources. | 4514 |
-| 2. | [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) <br/>ResearchKit is an open source software framework t [...] | 4230 |
-| 3. | [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) <br/>Template auto layout cell for automatically UITabl [...] | 4069 |
-| 4. | [git-up/GitUp](https://github.com/git-up/GitUp) <br/>The Git interface you've been missing all your lif [...] | 3958 |
-| 5. | [ibireme/YYText](https://github.com/ibireme/YYText) <br/>Powerful text framework for iOS to display and edi [...] | 3882 |
-| 6. | [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br/>:iphone: Collaborative List of Open-Source iOS App [...] | 3604 |
+| 2. | [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) <br/>ResearchKit is an open source software framework t... | 4230 |
+| 3. | [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) <br/>Template auto layout cell for automatically UITabl... | 4069 |
+| 4. | [git-up/GitUp](https://github.com/git-up/GitUp) <br/>The Git interface you've been missing all your lif... | 3958 |
+| 5. | [ibireme/YYText](https://github.com/ibireme/YYText) <br/>Powerful text framework for iOS to display and edi... | 3882 |
+| 6. | [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br/>:iphone: Collaborative List of Open-Source iOS App... | 3604 |
 | 7. | [ChenYilong/iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) <br/>iOS9适配系列教程（iOS9开发学习交流群：523070828） | 3207 |
 | 8. | [insidegui/WWDC](https://github.com/insidegui/WWDC) <br/>WWDC app for OS X | 2763 |
-| 9. | [ltebean/LTNavigationBar](https://github.com/ltebean/LTNavigationBar) <br/>UINavigationBar Category which allows you to chang [...] | 2394 |
+| 9. | [ltebean/LTNavigationBar](https://github.com/ltebean/LTNavigationBar) <br/>UINavigationBar Category which allows you to chang... | 2394 |
 | 10. | [mogujie/TeamTalk](https://github.com/mogujie/TeamTalk) <br/>TeamTalk is a solution for enterprise IM | 2230 |
 | 11. | [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) <br/>iOS面试题集锦（附答案）--学习交流群458884057 | 2183 |
-| 12. | [jhurray/JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) <br/>Easy to read and write chainable animations in Obj [...] | 2182 |
-| 13. | [bryankeller/BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) <br/>Create condensing header bars like those seen in t [...] | 2147 |
+| 12. | [jhurray/JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) <br/>Easy to read and write chainable animations in Obj... | 2182 |
+| 13. | [bryankeller/BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) <br/>Create condensing header bars like those seen in t... | 2147 |
 | 14. | [Yalantis/FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) <br/>Folding Tab Bar and Tab Bar Controller | 2145 |
-| 15. | [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) <br/>A thread safe, performant, feature rich image fetc [...] | 1999 |
+| 15. | [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) <br/>A thread safe, performant, feature rich image fetc... | 1999 |
 | 16. | [tonsky/AnyBar](https://github.com/tonsky/AnyBar) <br/>OS X menubar status indicator | 1887 |
-| 17. | [forkingdog/FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) <br/>A UINavigationController's category to enable full [...] | 1831 |
+| 17. | [forkingdog/FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) <br/>A UINavigationController's category to enable full... | 1831 |
 | 18. | [XcodeGhostSource/XcodeGhost](https://github.com/XcodeGhostSource/XcodeGhost) <br/>"XcodeGhost" Source | 1765 |
 | 19. | [ibireme/YYWebImage](https://github.com/ibireme/YYWebImage) <br/>Asynchronous image loading framework. | 1726 |
 | 20. | [ParsePlatform/Parse-SDK-iOS-OSX](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX) <br/>Parse SDK for iOS/OS X | 1664 |
-| 21. | [Yalantis/Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS) <br/>This project aims to provide a simple and customiz [...] | 1639 |
+| 21. | [Yalantis/Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS) <br/>This project aims to provide a simple and customiz... | 1639 |
 | 22. | [oarrabi/OAStackView](https://github.com/oarrabi/OAStackView) <br/>Porting UIStackView to iOS 7+ | 1586 |
 | 23. | [stonesam92/ChitChat](https://github.com/stonesam92/ChitChat) <br/>A native Mac app wrapper for WhatsApp Web | 1568 |
-| 24. | [cparnot/ASCIImage](https://github.com/cparnot/ASCIImage) <br/>Create UIImage / NSImage instances with NSString a [...] | 1500 |
+| 24. | [cparnot/ASCIImage](https://github.com/cparnot/ASCIImage) <br/>Create UIImage / NSImage instances with NSString a... | 1500 |
 | 25. | [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) <br/>Build a Swift App as a designer | 1489 |
 | 26. | [forkingdog/FDStackView](https://github.com/forkingdog/FDStackView) <br/>Use UIStackView directly in iOS6+ | 1485 |
 | 27. | [100apps/openshare](https://github.com/100apps/openshare) <br/>不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。 | 1467 |
-| 28. | [square/Valet](https://github.com/square/Valet) <br/>Valet lets you securely store data in the iOS or O [...] | 1459 |
-| 29. | [Draveness/DKNightVersion](https://github.com/Draveness/DKNightVersion) <br/>:full_moon: Integrate night mode/theme to your iOS [...] | 1391 |
-| 30. | [dsxNiubility/SXNews](https://github.com/dsxNiubility/SXNews) <br/>High imitation Neteasy News. (include list,detail, [...] | 1367 |
+| 28. | [square/Valet](https://github.com/square/Valet) <br/>Valet lets you securely store data in the iOS or O... | 1459 |
+| 29. | [Draveness/DKNightVersion](https://github.com/Draveness/DKNightVersion) <br/>:full_moon: Integrate night mode/theme to your iOS... | 1391 |
+| 30. | [dsxNiubility/SXNews](https://github.com/dsxNiubility/SXNews) <br/>High imitation Neteasy News. (include list,detail,... | 1367 |
 | 31. | [DeskConnect/SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) <br/>3D Touch shortcuts in the Simulator | 1330 |
-| 32. | [IFTTT/FastttCamera](https://github.com/IFTTT/FastttCamera) <br/>Fasttt and easy camera framework for iOS with cust [...] | 1312 |
+| 32. | [IFTTT/FastttCamera](https://github.com/IFTTT/FastttCamera) <br/>Fasttt and easy camera framework for iOS with cust... | 1312 |
 | 33. | [ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) <br/>最低只需传两个数组即可完成主流App框架搭建 | 1286 |
 | 34. | [JVillella/JVFloatingDrawer](https://github.com/JVillella/JVFloatingDrawer) <br/>An easy to use floating drawer view controller. | 1261 |
-| 35. | [fpt-software/Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) <br/>Many Google Material Design Controls for iOS nativ [...] | 1242 |
-| 36. | [overboming/ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) <br/>UILabel replacement with fine-grain appear/disappe [...] | 1221 |
-| 37. | [Yalantis/Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) <br/>You can easily add awesome animated context menu t [...] | 1221 |
-| 38. | [IFTTT/jot](https://github.com/IFTTT/jot) <br/>An iOS framework for easily adding drawings and te [...] | 1221 |
+| 35. | [fpt-software/Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) <br/>Many Google Material Design Controls for iOS nativ... | 1242 |
+| 36. | [overboming/ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) <br/>UILabel replacement with fine-grain appear/disappe... | 1221 |
+| 37. | [Yalantis/Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) <br/>You can easily add awesome animated context menu t... | 1221 |
+| 38. | [IFTTT/jot](https://github.com/IFTTT/jot) <br/>An iOS framework for easily adding drawings and te... | 1221 |
 | 39. | [KittenYang/KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) <br/>A not bad gooey effects menu. | 1188 |
 | 40. | [pdcgomes/XCActionBar](https://github.com/pdcgomes/XCActionBar) <br/>"Alfred for Xcode" plugin | 1186 |
 | 41. | [NYTimes/NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer)  | 1184 |
-| 42. | [kevin0571/STPopup](https://github.com/kevin0571/STPopup) <br/>STPopup provides STPopupController, which works ju [...] | 1166 |
-| 43. | [facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) <br/>A Mac OS X library for managing and manipulating i [...] | 1160 |
-| 44. | [12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) <br/>TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混 [...] | 1152 |
+| 42. | [kevin0571/STPopup](https://github.com/kevin0571/STPopup) <br/>STPopup provides STPopupController, which works ju... | 1166 |
+| 43. | [facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) <br/>A Mac OS X library for managing and manipulating i... | 1160 |
+| 44. | [12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) <br/>TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混... | 1152 |
 | 45. | [ZhongTaoTian/WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity) <br/>高仿城觅by-objective-c | 1124 |
 | 46. | [36Kr-Mobile/KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) <br/>类似Weico的播放器，支持竖屏模式下全屏播放 | 1123 |
 | 47. | [zpz1237/NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0) <br/>Swift精仿知乎日报iOS端 | 1115 |
-| 48. | [artsy/eigen](https://github.com/artsy/eigen) <br/>The Art World in Your Pocket or Your Trendy Tech C [...] | 1098 |
+| 48. | [artsy/eigen](https://github.com/artsy/eigen) <br/>The Art World in Your Pocket or Your Trendy Tech C... | 1098 |
 | 49. | [gsdios/SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) <br/>无限循环图片轮播器。Autoscroll Banner。 | 1075 |
-| 50. | [AlexeyBelezeko/TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) <br/>TBIconTransitionKit is an easy to use icon transit [...] | 1071 |
-| 51. | [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) <br/>Plugin that adds CSS support to Sketch 3 for a fas [...] | 1068 |
+| 50. | [AlexeyBelezeko/TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) <br/>TBIconTransitionKit is an easy to use icon transit... | 1071 |
+| 51. | [JohnCoates/CSSketch](https://github.com/JohnCoates/CSSketch) <br/>Plugin that adds CSS support to Sketch 3 for a fas... | 1068 |
 | 52. | [johnil/VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo) <br/>VVebo剥离的TableView绘制 | 1066 |
 | 53. | [EnjoySR/ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode) <br/>将JSON格式化输出为模型的属性 | 1064 |
-| 54. | [terminatorover/RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout) <br/>This is a layout that clones the interaction of go [...] | 1059 |
+| 54. | [terminatorover/RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout) <br/>This is a layout that clones the interaction of go... | 1059 |
 | 55. | [Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) <br/>An elegant and simple iOS music player. | 1044 |
 | 56. | [ibireme/YYModel](https://github.com/ibireme/YYModel) <br/>High performance model framework for iOS. | 1042 |
 | 57. | [ChenYilong/ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) <br/>Facebook开源的Parse源码分析【系列】 | 1038 |
 | 58. | [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) <br/>An unofficial bilibili client for mac | 1037 |
-| 59. | [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController) <br/>LNPopupController is a framework for presenting vi [...] | 1022 |
+| 59. | [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController) <br/>LNPopupController is a framework for presenting vi... | 1022 |
 | 60. | [CharlinFeng/CorePhotoBroswerVC](https://github.com/CharlinFeng/CorePhotoBroswerVC) <br/>快速集成高性能照片浏览器，支持本地及网络相册 | 999 |
 | 61. | [leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) <br/>GitBucket iOS App | 974 |
-| 62. | [ZhipingYang/UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) <br/>Cocoa UI component for group or private chat bubbl [...] | 966 |
-| 63. | [recruit-mp/RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator) <br/>A custom zooming transition animation for UIViewCo [...] | 961 |
-| 64. | [Yalantis/PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) <br/>Custom animated pull-to-refresh that can be easily [...] | 930 |
-| 65. | [coderyi/Monkey](https://github.com/coderyi/Monkey) <br/>Monkey is a GitHub third party client for iOS,to s [...] | 902 |
-| 66. | [gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) <br/>DGActivityIndicatorView is a great way to make loa [...] | 897 |
+| 62. | [ZhipingYang/UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) <br/>Cocoa UI component for group or private chat bubbl... | 966 |
+| 63. | [recruit-mp/RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator) <br/>A custom zooming transition animation for UIViewCo... | 961 |
+| 64. | [Yalantis/PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) <br/>Custom animated pull-to-refresh that can be easily... | 930 |
+| 65. | [coderyi/Monkey](https://github.com/coderyi/Monkey) <br/>Monkey is a GitHub third party client for iOS,to s... | 902 |
+| 66. | [gontovnik/DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) <br/>DGActivityIndicatorView is a great way to make loa... | 897 |
 | 67. | [Boris-Em/BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) <br/>Tasteful Checkbox for iOS. (Check box) | 873 |
 | 68. | [AaronRandall/Screentendo](https://github.com/AaronRandall/Screentendo) <br/>Turn your screen into a playable level of Mario | 871 |
-| 69. | [GabrielAlva/Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) <br/>A fully customisable and modern camera implementat [...] | 866 |
+| 69. | [GabrielAlva/Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) <br/>A fully customisable and modern camera implementat... | 866 |
 | 70. | [PavelKatunin/DownloadButton](https://github.com/PavelKatunin/DownloadButton) <br/>Customizable App Store style download button | 856 |
 | 71. | [DavdRoman/Bohr](https://github.com/DavdRoman/Bohr) <br/>Settings screen composing framework | 852 |
-| 72. | [lookingstars/meituan](https://github.com/lookingstars/meituan) <br/>高仿美团iOS版，版本号5.7。/**作者：ljz ; Q Q：863784757  ;  注明：版 [...] | 851 |
+| 72. | [lookingstars/meituan](https://github.com/lookingstars/meituan) <br/>高仿美团iOS版，版本号5.7。/**作者：ljz ; Q Q：863784757  ;  注明：版... | 851 |
 | 73. | [fdzsergio/SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) <br/>UICollectionViewLayout with focused content | 844 |
 | 74. | [dsxNiubility/SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate) <br/>Achieve beautiful wavewater animate. | 839 |
-| 75. | [Instagram/IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) <br/>A category on WKInterfaceTable that makes configur [...] | 833 |
-| 76. | [adad184/MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) <br/>A extension of POP(from facebook) custom animation [...] | 830 |
-| 77. | [adad184/MMPopupView](https://github.com/adad184/MMPopupView) <br/>Pop-up based view(e.g. alert sheet), can easily cu [...] | 819 |
+| 75. | [Instagram/IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) <br/>A category on WKInterfaceTable that makes configur... | 833 |
+| 76. | [adad184/MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) <br/>A extension of POP(from facebook) custom animation... | 830 |
+| 77. | [adad184/MMPopupView](https://github.com/adad184/MMPopupView) <br/>Pop-up based view(e.g. alert sheet), can easily cu... | 819 |
 | 78. | [jefferyleo/f.lux](https://github.com/jefferyleo/f.lux) <br/>flux for iOS | 818 |
 | 79. | [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) <br/>Coding iOS 客户端源代码 | 811 |
 | 80. | [KittenYang/KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) <br/>A custom UIPageControl with multiple animations | 800 |
 | 81. | [corymsmith/react-native-icons](https://github.com/corymsmith/react-native-icons) <br/>Quick and easy icons in React Native | 793 |
 | 82. | [AugustRush/ARSegmentPager](https://github.com/AugustRush/ARSegmentPager) <br/>segment tab controller with parallax Header | 774 |
-| 83. | [Naituw/WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) <br/>In-App debug console for your UIWebView & WKWebVie [...] | 768 |
+| 83. | [Naituw/WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) <br/>In-App debug console for your UIWebView & WKWebVie... | 768 |
 | 84. | [MartinRGB/Replace-iOS](https://github.com/MartinRGB/Replace-iOS) <br/>Simply Implement Zee Young's animation | 766 |
-| 85. | [coolnameismy/BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) <br/>The easiest way to use Bluetooth (BLE )in ios/os , [...] | 759 |
-| 86. | [onevcat/VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) <br/>A simple way to present a view controller with kee [...] | 752 |
-| 87. | [pinterest/PINCache](https://github.com/pinterest/PINCache) <br/>Fast, non-deadlocking parallel object cache for iO [...] | 747 |
-| 88. | [forkingdog/UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) <br/>Builds to collapse a view and its relevant layout  [...] | 743 |
-| 89. | [inspace-io/INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh) <br/>A simple to use very generic pull-to-refresh and i [...] | 733 |
-| 90. | [rounak/RJImageLoader](https://github.com/rounak/RJImageLoader) <br/>A recreation of the image loader animation created [...] | 726 |
-| 91. | [qfish/XActivatePowerMode](https://github.com/qfish/XActivatePowerMode) <br/>An Xcode plug-in makes POWER MODE happen in your X [...] | 706 |
-| 92. | [Aufree/phphub-ios](https://github.com/Aufree/phphub-ios) <br/>PHPHub for iOS is the universal iPhone and iPad ap [...] | 705 |
+| 85. | [coolnameismy/BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) <br/>The easiest way to use Bluetooth (BLE )in ios/os ,... | 759 |
+| 86. | [onevcat/VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) <br/>A simple way to present a view controller with kee... | 752 |
+| 87. | [pinterest/PINCache](https://github.com/pinterest/PINCache) <br/>Fast, non-deadlocking parallel object cache for iO... | 747 |
+| 88. | [forkingdog/UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) <br/>Builds to collapse a view and its relevant layout... | 743 |
+| 89. | [inspace-io/INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh) <br/>A simple to use very generic pull-to-refresh and i... | 733 |
+| 90. | [rounak/RJImageLoader](https://github.com/rounak/RJImageLoader) <br/>A recreation of the image loader animation created... | 726 |
+| 91. | [qfish/XActivatePowerMode](https://github.com/qfish/XActivatePowerMode) <br/>An Xcode plug-in makes POWER MODE happen in your X... | 706 |
+| 92. | [Aufree/phphub-ios](https://github.com/Aufree/phphub-ios) <br/>PHPHub for iOS is the universal iPhone and iPad ap... | 705 |
 | 93. | [contentful-labs/Concorde](https://github.com/contentful-labs/Concorde) <br/>Download and decode progressive JPEGs on iOS. | 702 |
 | 94. | [KMindeguia/movies](https://github.com/KMindeguia/movies)  | 697 |
-| 95. | [WenchaoIOS/FSCalendar](https://github.com/WenchaoIOS/FSCalendar) <br/>A superiorly awesome iOS7+ calendar control, compa [...] | 694 |
+| 95. | [WenchaoIOS/FSCalendar](https://github.com/WenchaoIOS/FSCalendar) <br/>A superiorly awesome iOS7+ calendar control, compa... | 694 |
 | 96. | [MartinRGB/MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete) <br/>a simple implement of my workmate's animation | 689 |
 | 97. | [neonichu/FixCode](https://github.com/neonichu/FixCode) <br/>Fixing the "Fix Issues" button | 681 |
-| 98. | [Yalantis/Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus) <br/>Custom Label to apply animations on whole text or  [...] | 675 |
-| 99. | [NewAmsterdamLabs/ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) <br/>Zoom transition that animates the entire view heir [...] | 657 |
+| 98. | [Yalantis/Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus) <br/>Custom Label to apply animations on whole text or... | 675 |
+| 99. | [NewAmsterdamLabs/ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) <br/>Zoom transition that animates the entire view heir... | 657 |
 | 100. | [mamaral/Facade](https://github.com/mamaral/Facade) <br/>Programmatic view layout for the rest of us. | 655 |
-| 101. | [TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController) <br/>A view controller that allows users to crop UIImag [...] | 655 |
-| 102. | [meiwin/NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) <br/>Objective-C library for tracking keyboard in iOS a [...] | 654 |
+| 101. | [TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController) <br/>A view controller that allows users to crop UIImag... | 655 |
+| 102. | [meiwin/NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) <br/>Objective-C library for tracking keyboard in iOS a... | 654 |
 | 103. | [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown) <br/>Markdown parsing and rendering for iOS and OS X | 652 |
-| 104. | [weng1250/WZLBadge](https://github.com/weng1250/WZLBadge) <br/>//An one-line tool to show  styles of badge for UI [...] | 649 |
+| 104. | [weng1250/WZLBadge](https://github.com/weng1250/WZLBadge) <br/>//An one-line tool to show  styles of badge for UI... | 649 |
 | 105. | [ChenYilong/CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) <br/>CollectionView做的两级菜单，可以折叠第二级菜单 | 649 |
-| 106. | [jonathantribouharet/JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) <br/>An iOS transition for controllers based on materia [...] | 643 |
-| 107. | [kimsungwhee/KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML) <br/>KSHObjcUML can show oriented graph of dependencies [...] | 641 |
-| 108. | [TaimurAyaz/TAOverlay](https://github.com/TaimurAyaz/TAOverlay) <br/>TAOverlay is a minimalistic and simple overlay mea [...] | 641 |
+| 106. | [jonathantribouharet/JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) <br/>An iOS transition for controllers based on materia... | 643 |
+| 107. | [kimsungwhee/KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML) <br/>KSHObjcUML can show oriented graph of dependencies... | 641 |
+| 108. | [TaimurAyaz/TAOverlay](https://github.com/TaimurAyaz/TAOverlay) <br/>TAOverlay is a minimalistic and simple overlay mea... | 641 |
 | 109. | [KittenYang/KYCuteView](https://github.com/KittenYang/KYCuteView) <br/>Drag like a gooey bubble. | 639 |
 | 110. | [Wondermall/Doppelganger](https://github.com/Wondermall/Doppelganger) <br/>Array diffs as collection view wants it | 633 |
-| 111. | [Raizlabs/BonMot](https://github.com/Raizlabs/BonMot) <br/>An Objective-C attributed string generation librar [...] | 626 |
-| 112. | [JazysYu/JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) <br/>The "UINavigationController+JZExtension" category  [...] | 625 |
-| 113. | [keefo/CATweaker](https://github.com/keefo/CATweaker) <br/>A helper tool and an Xcode plugin for creating bea [...] | 612 |
-| 114. | [lwansbrough/react-native-camera](https://github.com/lwansbrough/react-native-camera) <br/>A Camera component for React Native. Also supports [...] | 612 |
+| 111. | [Raizlabs/BonMot](https://github.com/Raizlabs/BonMot) <br/>An Objective-C attributed string generation librar... | 626 |
+| 112. | [JazysYu/JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) <br/>The "UINavigationController+JZExtension" category... | 625 |
+| 113. | [keefo/CATweaker](https://github.com/keefo/CATweaker) <br/>A helper tool and an Xcode plugin for creating bea... | 612 |
+| 114. | [lwansbrough/react-native-camera](https://github.com/lwansbrough/react-native-camera) <br/>A Camera component for React Native. Also supports... | 612 |
 | 115. | [mamaral/Organic](https://github.com/mamaral/Organic) <br/>The intuitive UITableViewController. | 611 |
 | 116. | [CharlinFeng/CoreModel](https://github.com/CharlinFeng/CoreModel) <br/>Replace CoreData | 598 |
-| 117. | [wangmchn/WMPageController](https://github.com/wangmchn/WMPageController) <br/>An easy solution to page controllers like NetEase  [...] | 597 |
-| 118. | [gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout) <br/>AutoLayout   一行代码搞定自动布局！支持Cell和Tableview高度自适应，Labe [...] | 593 |
+| 117. | [wangmchn/WMPageController](https://github.com/wangmchn/WMPageController) <br/>An easy solution to page controllers like NetEase... | 597 |
+| 118. | [gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout) <br/>AutoLayout   一行代码搞定自动布局！支持Cell和Tableview高度自适应，Labe... | 593 |
 | 119. | [lyimin/beautifulApp](https://github.com/lyimin/beautifulApp) <br/>this is a beautiful app 0.0 | 582 |
-| 120. | [coderyi/NetworkEye](https://github.com/coderyi/NetworkEye) <br/>a iOS network debug library ,It can monitor HTTP r [...] | 580 |
+| 120. | [coderyi/NetworkEye](https://github.com/coderyi/NetworkEye) <br/>a iOS network debug library ,It can monitor HTTP r... | 580 |
 | 121. | [CharlinFeng/CoreLock](https://github.com/CharlinFeng/CoreLock) <br/>高仿支付宝解锁 | 580 |
-| 122. | [Glow-Inc/GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) <br/>A fully customizable calendar view acting as a dat [...] | 556 |
+| 122. | [Glow-Inc/GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) <br/>A fully customizable calendar view acting as a dat... | 556 |
 | 123. | [krishkumar/BlockParty](https://github.com/krishkumar/BlockParty) <br/>Safari Content Blocker App for iOS 9 and OSX | 550 |
-| 124. | [facebookexperimental/spacetime](https://github.com/facebookexperimental/spacetime) <br/>Experimental iOS library for live transformations  [...] | 543 |
-| 125. | [12207480/DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) <br/>DOPDropDownMenu 添加双列表 优化版 新增图片支持（double tableView, [...] | 532 |
+| 124. | [facebookexperimental/spacetime](https://github.com/facebookexperimental/spacetime) <br/>Experimental iOS library for live transformations... | 543 |
+| 125. | [12207480/DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) <br/>DOPDropDownMenu 添加双列表 优化版 新增图片支持（double tableView,... | 532 |
 | 126. | [ibireme/YYCache](https://github.com/ibireme/YYCache) <br/>High performance cache framework for iOS. | 531 |
 | 127. | [lingochamp/Diplomat](https://github.com/lingochamp/Diplomat) <br/>整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。 | 526 |
 | 128. | [hanton/HTY360Player](https://github.com/hanton/HTY360Player) <br/>Open Source iOS 360 Degree Panorama Video Player. | 517 |
-| 129. | [vampirewalk/ObjectGraph-Xcode](https://github.com/vampirewalk/ObjectGraph-Xcode) <br/>ObjectGraph can show oriented graph of dependencie [...] | 515 |
-| 130. | [KittenYang/A-GUIDE-TO-iOS-ANIMATION](https://github.com/KittenYang/A-GUIDE-TO-iOS-ANIMATION) <br/>The source code of my new eBook —— A GUIDE TO IOS  [...] | 514 |
-| 131. | [mmackh/IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) <br/>UIView subclass with camera preview, live border d [...] | 507 |
+| 129. | [vampirewalk/ObjectGraph-Xcode](https://github.com/vampirewalk/ObjectGraph-Xcode) <br/>ObjectGraph can show oriented graph of dependencie... | 515 |
+| 130. | [KittenYang/A-GUIDE-TO-iOS-ANIMATION](https://github.com/KittenYang/A-GUIDE-TO-iOS-ANIMATION) <br/>The source code of my new eBook —— A GUIDE TO IOS... | 514 |
+| 131. | [mmackh/IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) <br/>UIView subclass with camera preview, live border d... | 507 |
 | 132. | [diwu/DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) <br/>Optimizing UITableViewCell For Fast Scrolling | 506 |
-| 133. | [nicklockwood/MustOverride](https://github.com/nicklockwood/MustOverride) <br/>Provides a macro that you can use to ensure that a [...] | 503 |
+| 133. | [nicklockwood/MustOverride](https://github.com/nicklockwood/MustOverride) <br/>Provides a macro that you can use to ensure that a... | 503 |
 | 134. | [MartinRGB/LearnCube-iOS](https://github.com/MartinRGB/LearnCube-iOS) <br/>An animation practise demo | 503 |
-| 135. | [square/spacecommander](https://github.com/square/spacecommander) <br/>Commit fully-formatted Objective-C as a team witho [...] | 500 |
-| 136. | [SergioChan/SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) <br/>:clipboard: An iOS native implementation of a Trel [...] | 493 |
-| 137. | [DeveloperLx/LxGridView](https://github.com/DeveloperLx/LxGridView) <br/>Imitation iOS system desktop icon arrangement and  [...] | 489 |
+| 135. | [square/spacecommander](https://github.com/square/spacecommander) <br/>Commit fully-formatted Objective-C as a team witho... | 500 |
+| 136. | [SergioChan/SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) <br/>:clipboard: An iOS native implementation of a Trel... | 493 |
+| 137. | [DeveloperLx/LxGridView](https://github.com/DeveloperLx/LxGridView) <br/>Imitation iOS system desktop icon arrangement and... | 489 |
 | 138. | [phonegap/phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) <br/>Register and receive push notifications | 488 |
-| 139. | [poboke/ActivatePowerMode](https://github.com/poboke/ActivatePowerMode) <br/>ActivatePowerMode is a plugin for Xcode. This plug [...] | 487 |
-| 140. | [12207480/TYAlertController](https://github.com/12207480/TYAlertController) <br/>Powerful, Easy to use alert view or popup view on  [...] | 485 |
-| 141. | [hsousa/HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) <br/>Simple star rating view for iOS written in Objecti [...] | 469 |
-| 142. | [robb/FLXView](https://github.com/robb/FLXView) <br/>A UIView that uses Flexbox for layouting. :sparkle [...] | 467 |
-| 143. | [MxABC/LBXScan](https://github.com/MxABC/LBXScan) <br/>A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和io [...] | 463 |
-| 144. | [Friend-LGA/LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController) <br/>iOS side menu view controller shows left and right [...] | 459 |
-| 145. | [NSRare/NSGIF](https://github.com/NSRare/NSGIF) <br/>iOS Library for converting videos to animated GIFs [...] | 457 |
+| 139. | [poboke/ActivatePowerMode](https://github.com/poboke/ActivatePowerMode) <br/>ActivatePowerMode is a plugin for Xcode. This plug... | 487 |
+| 140. | [12207480/TYAlertController](https://github.com/12207480/TYAlertController) <br/>Powerful, Easy to use alert view or popup view on... | 485 |
+| 141. | [hsousa/HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) <br/>Simple star rating view for iOS written in Objecti... | 469 |
+| 142. | [robb/FLXView](https://github.com/robb/FLXView) <br/>A UIView that uses Flexbox for layouting. :sparkle... | 467 |
+| 143. | [MxABC/LBXScan](https://github.com/MxABC/LBXScan) <br/>A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和io... | 463 |
+| 144. | [Friend-LGA/LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController) <br/>iOS side menu view controller shows left and right... | 459 |
+| 145. | [NSRare/NSGIF](https://github.com/NSRare/NSGIF) <br/>iOS Library for converting videos to animated GIFs... | 457 |
 | 146. | [gsdios/GSD_ZHIFUBAO](https://github.com/gsdios/GSD_ZHIFUBAO) <br/>支付宝高仿版 | 457 |
-| 147. | [MakeZL/ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin) <br/>You can quickly enter the iOS simulator Xcode plug [...] | 452 |
-| 148. | [bubudrc/MPCoachMarks](https://github.com/bubudrc/MPCoachMarks) <br/>MPCoachMarks is an iOS class that displays user co [...] | 447 |
+| 147. | [MakeZL/ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin) <br/>You can quickly enter the iOS simulator Xcode plug... | 452 |
+| 148. | [bubudrc/MPCoachMarks](https://github.com/bubudrc/MPCoachMarks) <br/>MPCoachMarks is an iOS class that displays user co... | 447 |
 | 149. | [zulip/zulip-ios](https://github.com/zulip/zulip-ios) <br/>Zulip iOS app | 446 |
 | 150. | [KittenYang/Animations](https://github.com/KittenYang/Animations) <br/>some test animations, just for fun. | 445 |
-| 151. | [AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation) <br/>ARAnimation is an Core Animation library to make y [...] | 443 |
-| 152. | [Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController) <br/>实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINav [...] | 441 |
+| 151. | [AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation) <br/>ARAnimation is an Core Animation library to make y... | 443 |
+| 152. | [Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController) <br/>实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINav... | 441 |
 | 153. | [belm/BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) <br/>百度FM  swift语言实现 | 440 |
-| 154. | [liu044100/SmileTouchID](https://github.com/liu044100/SmileTouchID) <br/>A Library for configure Touch ID & passcode conven [...] | 437 |
+| 154. | [liu044100/SmileTouchID](https://github.com/liu044100/SmileTouchID) <br/>A Library for configure Touch ID & passcode conven... | 437 |
 | 155. | [docker/toolbox](https://github.com/docker/toolbox) <br/>The Docker Toolbox | 435 |
 | 156. | [gyetvan-andras/ModernLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) <br/>OSX Moder Look UI | 431 |
-| 157. | [lzwjava/CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode) <br/>Code examples of the book 「iOS Core Animation Adva [...] | 430 |
-| 158. | [Wasappli/WAAppRouting](https://github.com/Wasappli/WAAppRouting) <br/>iOS routing done right. Handles both URL recogniti [...] | 427 |
-| 159. | [xhzengAIB/PopMenu](https://github.com/xhzengAIB/PopMenu) <br/>PopMenu is pop animation menu inspired by Sina wei [...] | 411 |
+| 157. | [lzwjava/CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode) <br/>Code examples of the book 「iOS Core Animation Adva... | 430 |
+| 158. | [Wasappli/WAAppRouting](https://github.com/Wasappli/WAAppRouting) <br/>iOS routing done right. Handles both URL recogniti... | 427 |
+| 159. | [xhzengAIB/PopMenu](https://github.com/xhzengAIB/PopMenu) <br/>PopMenu is pop animation menu inspired by Sina wei... | 411 |
 | 160. | [richzertuche/ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) <br/>Create a Seat Map Layout | 409 |
 | 161. | [casatwy/RTNetworking](https://github.com/casatwy/RTNetworking)  | 409 |
-| 162. | [mukyasa/MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) <br/>Extension of TextFieldEffects with Custom UITextFi [...] | 397 |
+| 162. | [mukyasa/MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects) <br/>Extension of TextFieldEffects with Custom UITextFi... | 397 |
 | 163. | [meilbn/MyOne-iOS](https://github.com/meilbn/MyOne-iOS) <br/>我的《一个》 iOS 客户端（OC） | 395 |
 | 164. | [devSC/WSProgressHUD](https://github.com/devSC/WSProgressHUD) <br/>This is a beauful hud view for iPhone & iPad | 395 |
-| 165. | [mikeswanson/JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) <br/>An easy way to generate activity indicator images  [...] | 395 |
+| 165. | [mikeswanson/JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) <br/>An easy way to generate activity indicator images... | 395 |
 | 166. | [KittenYang/KYJellyPullToRefresh](https://github.com/KittenYang/KYJellyPullToRefresh) <br/>A shape changing & physical ball pull-to-refresh. | 393 |
 | 167. | [mfikes/planck](https://github.com/mfikes/planck) <br/>ClojureScript REPL for OS X | 392 |
-| 168. | [anthonya1999/GoodNight](https://github.com/anthonya1999/GoodNight) <br/>The first non-jailbroken application to adjust the [...] | 391 |
+| 168. | [anthonya1999/GoodNight](https://github.com/anthonya1999/GoodNight) <br/>The first non-jailbroken application to adjust the... | 391 |
 | 169. | [omcljs/ambly](https://github.com/omcljs/ambly) <br/>ClojureScript REPL into iOS JavaScriptCore | 391 |
 | 170. | [alexdrone/ios-flexboxkit](https://github.com/alexdrone/ios-flexboxkit) <br/>A simple UIKit extension to wrap Flexbox layouts. | 389 |
 | 171. | [stepify/stepifyIOS](https://github.com/stepify/stepifyIOS) <br/>IOS fitness app. | 384 |
-| 172. | [haolloyin/MrCode](https://github.com/haolloyin/MrCode) <br/>A simple GitHub iPhone App that can cache Markdown [...] | 380 |
-| 173. | [ibireme/YYImage](https://github.com/ibireme/YYImage) <br/>Image framework for iOS to display/encode/decode a [...] | 375 |
-| 174. | [jstart/UIStackView-Playground](https://github.com/jstart/UIStackView-Playground) <br/>A playground demonstrating some of the key feature [...] | 375 |
-| 175. | [wongzigii/WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) <br/>A header view shows status for switching between v [...] | 375 |
-| 176. | [adad184/MMParallaxCell](https://github.com/adad184/MMParallaxCell) <br/>A subclass of UITableViewCell to present the paral [...] | 374 |
+| 172. | [haolloyin/MrCode](https://github.com/haolloyin/MrCode) <br/>A simple GitHub iPhone App that can cache Markdown... | 380 |
+| 173. | [ibireme/YYImage](https://github.com/ibireme/YYImage) <br/>Image framework for iOS to display/encode/decode a... | 375 |
+| 174. | [jstart/UIStackView-Playground](https://github.com/jstart/UIStackView-Playground) <br/>A playground demonstrating some of the key feature... | 375 |
+| 175. | [wongzigii/WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) <br/>A header view shows status for switching between v... | 375 |
+| 176. | [adad184/MMParallaxCell](https://github.com/adad184/MMParallaxCell) <br/>A subclass of UITableViewCell to present the paral... | 374 |
 | 177. | [almost/react-native-sqlite](https://github.com/almost/react-native-sqlite) <br/>SQLite3 bindings for React Native | 373 |
 | 178. | [johnil/JFImagePickerController](https://github.com/johnil/JFImagePickerController) <br/>高性能多选图片库 | 371 |
 | 179. | [JxbSir/YiYuanYunGou](https://github.com/JxbSir/YiYuanYunGou) <br/>高仿一元云购IOS应用（高仿自一元云购安卓客户端） | 366 |
 | 180. | [bkoc/BKAsciiImage](https://github.com/bkoc/BKAsciiImage) <br/>Convert UIImage to ASCII art | 363 |
 | 181. | [zangqilong198812/MeituanDemo](https://github.com/zangqilong198812/MeituanDemo)  | 363 |
 | 182. | [HAHAKea/HACursor](https://github.com/HAHAKea/HACursor) <br/>帮助开发者方便集成导航指示器，用于管理视图页面 | 361 |
-| 183. | [fmitech/FMMosaicLayout](https://github.com/fmitech/FMMosaicLayout) <br/>A drop-in mosaic collection view layout with a foc [...] | 360 |
+| 183. | [fmitech/FMMosaicLayout](https://github.com/fmitech/FMMosaicLayout) <br/>A drop-in mosaic collection view layout with a foc... | 360 |
 | 184. | [leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController) <br/>在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能 | 360 |
 | 185. | [gsdios/SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) <br/>A image browser which is easy for using. | 360 |
 | 186. | [brentvatne/react-native-video](https://github.com/brentvatne/react-native-video) <br/>A Video / component for react-native | 360 |
-| 187. | [rsattar/Voucher](https://github.com/rsattar/Voucher) <br/>A simple library to make authenticating tvOS apps  [...] | 360 |
-| 188. | [XVXVXXX/DoubanFM](https://github.com/XVXVXXX/DoubanFM) <br/>The DoubanFM for iPhone,using AFN and MPMoviePlaye [...] | 359 |
-| 189. | [kpwn/tpwn](https://github.com/kpwn/tpwn) <br/>xnu local privilege escalation via cve-2015-???? & [...] | 358 |
-| 190. | [yujitach/MenuMeters](https://github.com/yujitach/MenuMeters) <br/>my fork of MenuMeters by http://www.ragingmenace.c [...] | 358 |
+| 187. | [rsattar/Voucher](https://github.com/rsattar/Voucher) <br/>A simple library to make authenticating tvOS apps... | 360 |
+| 188. | [XVXVXXX/DoubanFM](https://github.com/XVXVXXX/DoubanFM) <br/>The DoubanFM for iPhone,using AFN and MPMoviePlaye... | 359 |
+| 189. | [kpwn/tpwn](https://github.com/kpwn/tpwn) <br/>xnu local privilege escalation via cve-2015-???? &... | 358 |
+| 190. | [yujitach/MenuMeters](https://github.com/yujitach/MenuMeters) <br/>my fork of MenuMeters by http://www.ragingmenace.c... | 358 |
 | 191. | [BonzaiThePenguin/Loading](https://github.com/BonzaiThePenguin/Loading) <br/>Simple network activity monitor for OS X | 356 |
 | 192. | [itjhDev/itjh](https://github.com/itjhDev/itjh) <br/>IT江湖iOS客户端 | 353 |
 | 193. | [ZhongTaoTian/SmallDay](https://github.com/ZhongTaoTian/SmallDay) <br/>高仿小日子 - By Swift 2.0 | 351 |
-| 194. | [Sephiroth87/Crayons](https://github.com/Sephiroth87/Crayons) <br/>An Xcode plugin to improve dealing with colors in  [...] | 350 |
-| 195. | [KittenYang/KYElegantPhotoGallery](https://github.com/KittenYang/KYElegantPhotoGallery) <br/>An elegant photo gallery. It will zoom from a thum [...] | 347 |
-| 196. | [youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) <br/>A powerful iOS view layout library, suitable for a [...] | 346 |
-| 197. | [eleks/rnd-apple-watch-tesla](https://github.com/eleks/rnd-apple-watch-tesla) <br/>An application for Apple Watch to control your Tes [...] | 344 |
+| 194. | [Sephiroth87/Crayons](https://github.com/Sephiroth87/Crayons) <br/>An Xcode plugin to improve dealing with colors in... | 350 |
+| 195. | [KittenYang/KYElegantPhotoGallery](https://github.com/KittenYang/KYElegantPhotoGallery) <br/>An elegant photo gallery. It will zoom from a thum... | 347 |
+| 196. | [youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) <br/>A powerful iOS view layout library, suitable for a... | 346 |
+| 197. | [eleks/rnd-apple-watch-tesla](https://github.com/eleks/rnd-apple-watch-tesla) <br/>An application for Apple Watch to control your Tes... | 344 |
 | 198. | [JV17/JVMenuPopover](https://github.com/JV17/JVMenuPopover) <br/>Simple popover menu in Objective-C | 339 |
-| 199. | [palmin/ios-multi-back-button](https://github.com/palmin/ios-multi-back-button) <br/>back-button replacement for iOS 8 that allows goin [...] | 339 |
-| 200. | [gklka/GKFadeNavigationController](https://github.com/gklka/GKFadeNavigationController) <br/>A Navigation Controller which supports animated hi [...] | 337 |
+| 199. | [palmin/ios-multi-back-button](https://github.com/palmin/ios-multi-back-button) <br/>back-button replacement for iOS 8 that allows goin... | 339 |
+| 200. | [gklka/GKFadeNavigationController](https://github.com/gklka/GKFadeNavigationController) <br/>A Navigation Controller which supports animated hi... | 337 |
 | 201. | [moqod/ios-material-design](https://github.com/moqod/ios-material-design)  | 332 |
 | 202. | [YouXianMing/YoCelsius](https://github.com/YouXianMing/YoCelsius) <br/>一款天气预报的应用（已在AppStore上线） | 330 |
-| 203. | [AugustRush/UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) <br/>Automatically UICollectionViewCell size calculatin [...] | 330 |
+| 203. | [AugustRush/UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) <br/>Automatically UICollectionViewCell size calculatin... | 330 |
 | 204. | [uber/signals-ios](https://github.com/uber/signals-ios) <br/>Typeful eventing | 328 |
-| 205. | [TanguyAladenise/TAPageControl](https://github.com/TanguyAladenise/TAPageControl) <br/>A versatile and easily customizable page control f [...] | 326 |
+| 205. | [TanguyAladenise/TAPageControl](https://github.com/TanguyAladenise/TAPageControl) <br/>A versatile and easily customizable page control f... | 326 |
 | 206. | [guojiubo/PlainReader](https://github.com/guojiubo/PlainReader) <br/>Plain Reader source code. | 326 |
-| 207. | [facebook/FBFetchedResultsController](https://github.com/facebook/FBFetchedResultsController) <br/>A drop-in replacement for NSFetchedResultsControll [...] | 326 |
-| 208. | [DeveloperLx/LxThroughPointsBezier](https://github.com/DeveloperLx/LxThroughPointsBezier) <br/>A funny iOS library. Draw a smooth bezier through  [...] | 325 |
+| 207. | [facebook/FBFetchedResultsController](https://github.com/facebook/FBFetchedResultsController) <br/>A drop-in replacement for NSFetchedResultsControll... | 326 |
+| 208. | [DeveloperLx/LxThroughPointsBezier](https://github.com/DeveloperLx/LxThroughPointsBezier) <br/>A funny iOS library. Draw a smooth bezier through... | 325 |
 | 209. | [JanC/TAPromotee](https://github.com/JanC/TAPromotee) <br/>Objective-C library to cross promote iOS apps | 324 |
-| 210. | [mukyasa/MMCamScanner](https://github.com/mukyasa/MMCamScanner) <br/>Simulation of CamScanner app With Custom Camera an [...] | 322 |
-| 211. | [Auntie-Player/apple-tv](https://github.com/Auntie-Player/apple-tv) <br/>A proof of concept Apple TV app to access on deman [...] | 320 |
+| 210. | [mukyasa/MMCamScanner](https://github.com/mukyasa/MMCamScanner) <br/>Simulation of CamScanner app With Custom Camera an... | 322 |
+| 211. | [Auntie-Player/apple-tv](https://github.com/Auntie-Player/apple-tv) <br/>A proof of concept Apple TV app to access on deman... | 320 |
 | 212. | [maxep/MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) <br/>Segmented pager view with Parallax header | 317 |
-| 213. | [DeveloperLx/LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) <br/>Automate box any value! Print log without any form [...] | 316 |
+| 213. | [DeveloperLx/LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) <br/>Automate box any value! Print log without any form... | 316 |
 | 214. | [chinsyo/uber-video-welcome](https://github.com/chinsyo/uber-video-welcome)  | 316 |
-| 215. | [TomThorpe/TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) <br/>A slider, similar in style to UISlider, but which  [...] | 313 |
-| 216. | [ariok/TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) <br/>This is the code for the ThinkAndBuild tutorial: " [...] | 312 |
-| 217. | [lukegeiger/LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) <br/>A UINavigationController subclass that presents it [...] | 311 |
-| 218. | [Aufree/ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) <br/>A demo implementation of a drop down tag list view [...] | 309 |
+| 215. | [TomThorpe/TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) <br/>A slider, similar in style to UISlider, but which... | 313 |
+| 216. | [ariok/TB_TwitterUI](https://github.com/ariok/TB_TwitterUI) <br/>This is the code for the ThinkAndBuild tutorial: "... | 312 |
+| 217. | [lukegeiger/LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) <br/>A UINavigationController subclass that presents it... | 311 |
+| 218. | [Aufree/ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) <br/>A demo implementation of a drop down tag list view... | 309 |
 | 219. | [ermalkaleci/CarbonKit](https://github.com/ermalkaleci/CarbonKit) <br/>CarbonKit - iOS Components (Obj-C & Swift) | 309 |
-| 220. | [lookingstars/nuomi](https://github.com/lookingstars/nuomi) <br/>高仿百度糯米iOS版，版本号5.13.0。/**作者：ljz ; Q Q：863784757 ; 注 [...] | 308 |
-| 221. | [ZhipingYang/UUChartView](https://github.com/ZhipingYang/UUChartView) <br/>Line and Bar of Chart, you can mark the range of v [...] | 307 |
-| 222. | [terminatorover/RGPaperLayout](https://github.com/terminatorover/RGPaperLayout) <br/>This is a layout that clones the interaction of go [...] | 306 |
+| 220. | [lookingstars/nuomi](https://github.com/lookingstars/nuomi) <br/>高仿百度糯米iOS版，版本号5.13.0。/**作者：ljz ; Q Q：863784757 ; 注... | 308 |
+| 221. | [ZhipingYang/UUChartView](https://github.com/ZhipingYang/UUChartView) <br/>Line and Bar of Chart, you can mark the range of v... | 307 |
+| 222. | [terminatorover/RGPaperLayout](https://github.com/terminatorover/RGPaperLayout) <br/>This is a layout that clones the interaction of go... | 306 |
 | 223. | [iosdeveloperpanc/PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) <br/>目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发 | 306 |
 | 224. | [guilhermearaujo/GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController)  | 306 |
 | 225. | [fastred/ReflectableEnum](https://github.com/fastred/ReflectableEnum) <br/>Reflection for enumerations in Objective-C. | 306 |
-| 226. | [mbrenman/MBSimpleLoadingIndicator](https://github.com/mbrenman/MBSimpleLoadingIndicator) <br/>An easy-to-use, highly-customizable loading indica [...] | 304 |
+| 226. | [mbrenman/MBSimpleLoadingIndicator](https://github.com/mbrenman/MBSimpleLoadingIndicator) <br/>An easy-to-use, highly-customizable loading indica... | 304 |
 | 227. | [mutualmobile/MMBarricade](https://github.com/mutualmobile/MMBarricade) <br/>Runtime configurable local server for iOS apps. | 303 |
-| 228. | [liu044100/SmileWeather](https://github.com/liu044100/SmileWeather) <br/>A library for Search & Parse the weather data from [...] | 302 |
+| 228. | [liu044100/SmileWeather](https://github.com/liu044100/SmileWeather) <br/>A library for Search & Parse the weather data from... | 302 |
 | 229. | [tbl00c/iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate) <br/>高仿微信，iOS应用开发模板，个人总结。 | 300 |
-| 230. | [ibireme/YYCategories](https://github.com/ibireme/YYCategories) <br/>A set of useful categories for Foundation and UIKi [...] | 300 |
+| 230. | [ibireme/YYCategories](https://github.com/ibireme/YYCategories) <br/>A set of useful categories for Foundation and UIKi... | 300 |
 | 231. | [jonathantribouharet/JTHamburgerButton](https://github.com/jonathantribouharet/JTHamburgerButton) <br/>An animated hamburger button for iOS. | 298 |
-| 232. | [starchand/MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) <br/>Recreate Twitter's profile page scrolling animatio [...] | 298 |
+| 232. | [starchand/MBTwitterScroll](https://github.com/starchand/MBTwitterScroll) <br/>Recreate Twitter's profile page scrolling animatio... | 298 |
 | 233. | [yixiangboy/IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo) <br/>IOS动画总结 | 296 |
-| 234. | [mapbox/react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) <br/>A Mapbox GL react native module for creating custo [...] | 295 |
+| 234. | [mapbox/react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) <br/>A Mapbox GL react native module for creating custo... | 295 |
 | 235. | [hamzasood/CustomWatchFaceTest](https://github.com/hamzasood/CustomWatchFaceTest) <br/>Custom watch faces on Apple Watch | 292 |
 | 236. | [bigfish24/ABFRealmMapView](https://github.com/bigfish24/ABFRealmMapView) <br/>Real-time map view clustering for Realm | 292 |
 | 237. | [lizelu/MVVM](https://github.com/lizelu/MVVM) <br/>一个MVVM架构的iOS工程 | 292 |
-| 238. | [d0ping/DBMapSelectorViewController](https://github.com/d0ping/DBMapSelectorViewController) <br/>This component allows you to select circular map r [...] | 292 |
-| 239. | [Roobiq/RBQFetchedResultsController](https://github.com/Roobiq/RBQFetchedResultsController) <br/>Drop-in replacement for NSFetchedResultsController [...] | 291 |
+| 238. | [d0ping/DBMapSelectorViewController](https://github.com/d0ping/DBMapSelectorViewController) <br/>This component allows you to select circular map r... | 292 |
+| 239. | [Roobiq/RBQFetchedResultsController](https://github.com/Roobiq/RBQFetchedResultsController) <br/>Drop-in replacement for NSFetchedResultsController... | 291 |
 | 240. | [react-native-fellowship/react-native-blur](https://github.com/react-native-fellowship/react-native-blur) <br/>React Native Blur component | 291 |
 | 241. | [Aufree/Hodor](https://github.com/Aufree/Hodor) <br/>Simple solution to localize your iOS App. | 290 |
-| 242. | [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) <br/>A new, faster ad blocker for Chrome, Opera, and iO [...] | 288 |
-| 243. | [omergul123/Discovery](https://github.com/omergul123/Discovery) <br/>A very simple library to discover and retrieve dat [...] | 287 |
-| 244. | [lilei644/LLSlideMenu](https://github.com/lilei644/LLSlideMenu) <br/>This is a spring slide menu for iOS apps - 一个弹性侧滑菜 [...] | 285 |
-| 245. | [nealyoung/NYAlertViewController](https://github.com/nealyoung/NYAlertViewController) <br/>Highly configurable iOS Alert Views with custom co [...] | 282 |
-| 246. | [AugustRush/ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator) <br/>ARTransitionAnimator is a simple class which custo [...] | 281 |
-| 247. | [SergioChan/SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD) <br/>:cat: This is a cute and simple loading HUD on iOS [...] | 280 |
+| 242. | [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) <br/>A new, faster ad blocker for Chrome, Opera, and iO... | 288 |
+| 243. | [omergul123/Discovery](https://github.com/omergul123/Discovery) <br/>A very simple library to discover and retrieve dat... | 287 |
+| 244. | [lilei644/LLSlideMenu](https://github.com/lilei644/LLSlideMenu) <br/>This is a spring slide menu for iOS apps - 一个弹性侧滑菜... | 285 |
+| 245. | [nealyoung/NYAlertViewController](https://github.com/nealyoung/NYAlertViewController) <br/>Highly configurable iOS Alert Views with custom co... | 282 |
+| 246. | [AugustRush/ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator) <br/>ARTransitionAnimator is a simple class which custo... | 281 |
+| 247. | [SergioChan/SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD) <br/>:cat: This is a cute and simple loading HUD on iOS... | 280 |
 | 248. | [clusterinc/CLTokenInputView](https://github.com/clusterinc/CLTokenInputView) <br/>A replica of iOS's native contact bubbles UI | 280 |
-| 249. | [antoniocasero/ACPDownload](https://github.com/antoniocasero/ACPDownload) <br/>ACPDownload provides a view indicator of your down [...] | 277 |
-| 250. | [KittenYang/KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) <br/>实现波浪正弦动画并带有小鱼跳跃溅起水花。A view with water wave animati [...] | 276 |
+| 249. | [antoniocasero/ACPDownload](https://github.com/antoniocasero/ACPDownload) <br/>ACPDownload provides a view indicator of your down... | 277 |
+| 250. | [KittenYang/KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) <br/>实现波浪正弦动画并带有小鱼跳跃溅起水花。A view with water wave animati... | 276 |
 | 251. | [clowwindy/ShadowVPN-iOS](https://github.com/clowwindy/ShadowVPN-iOS) <br/>Removed according to regulations. | 275 |
-| 252. | [itsmeichigo/ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) <br/>A library for quick video trimming, mimicking the  [...] | 274 |
+| 252. | [itsmeichigo/ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) <br/>A library for quick video trimming, mimicking the... | 274 |
 | 253. | [MartinRGB/GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) <br/>Simply Implement dribbble's popular shot. | 274 |
 | 254. | [yasuoza/YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) <br/>Chart image framework for watchOS | 274 |
-| 255. | [coderyi/Eleven](https://github.com/coderyi/Eleven) <br/>Eleven Player is a simple powerful video player.us [...] | 271 |
-| 256. | [SergioChan/SCNavigationControlCenter](https://github.com/SergioChan/SCNavigationControlCenter) <br/>This is an advanced navigation control center on i [...] | 271 |
-| 257. | [jhurray/EZLayout](https://github.com/jhurray/EZLayout) <br/>A new take on iOS layouts using percentages. Goodb [...] | 266 |
-| 258. | [adamwulf/PerformanceBezier](https://github.com/adamwulf/PerformanceBezier) <br/>A small library to dramatically speed up common op [...] | 265 |
-| 259. | [leverdeterre/JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) <br/>ActionSheet and UIActivityViewController replaceme [...] | 263 |
-| 260. | [chennyhuang/HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) <br/>图片浏览器 ，photoBrowser ，新浪微博，picture,pictureBrowser,s [...] | 262 |
+| 255. | [coderyi/Eleven](https://github.com/coderyi/Eleven) <br/>Eleven Player is a simple powerful video player.us... | 271 |
+| 256. | [SergioChan/SCNavigationControlCenter](https://github.com/SergioChan/SCNavigationControlCenter) <br/>This is an advanced navigation control center on i... | 271 |
+| 257. | [jhurray/EZLayout](https://github.com/jhurray/EZLayout) <br/>A new take on iOS layouts using percentages. Goodb... | 266 |
+| 258. | [adamwulf/PerformanceBezier](https://github.com/adamwulf/PerformanceBezier) <br/>A small library to dramatically speed up common op... | 265 |
+| 259. | [leverdeterre/JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) <br/>ActionSheet and UIActivityViewController replaceme... | 263 |
+| 260. | [chennyhuang/HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) <br/>图片浏览器 ，photoBrowser ，新浪微博，picture,pictureBrowser,s... | 262 |
 | 261. | [pchernovolenko/UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) <br/>UICustomActionSheet | 262 |
 | 262. | [zekunyan/AutolayoutExampleWithMasonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry) <br/>Autolayout examples with Masonry | 261 |
-| 263. | [stefanceriu/SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) <br/>A page view controller component that reproduces M [...] | 261 |
-| 264. | [JoeFryer/JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) <br/>JDFPeekaboo is a simple class that hides the navig [...] | 261 |
+| 263. | [stefanceriu/SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) <br/>A page view controller component that reproduces M... | 261 |
+| 264. | [JoeFryer/JDFPeekaboo](https://github.com/JoeFryer/JDFPeekaboo) <br/>JDFPeekaboo is a simple class that hides the navig... | 261 |
 | 265. | [CatchChat/Hydro.network](https://github.com/CatchChat/Hydro.network) <br/>The most delightful VPN Client | 260 |
 | 266. | [sam408130/DSLolita](https://github.com/sam408130/DSLolita) <br/>模仿微博，有评论，私聊，发微博，点赞等功能 | 260 |
-| 267. | [chenzeyu/CZPicker](https://github.com/chenzeyu/CZPicker) <br/>a picker view shown as a popup for iOS in Objectiv [...] | 259 |
-| 268. | [m1entus/MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) <br/>MZFormSheetPresentationController provides an alte [...] | 259 |
-| 269. | [Guidebook/gbkui-button-progress-view](https://github.com/Guidebook/gbkui-button-progress-view) <br/>Inspired by Apple’s download progress buttons in t [...] | 258 |
+| 267. | [chenzeyu/CZPicker](https://github.com/chenzeyu/CZPicker) <br/>a picker view shown as a popup for iOS in Objectiv... | 259 |
+| 268. | [m1entus/MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) <br/>MZFormSheetPresentationController provides an alte... | 259 |
+| 269. | [Guidebook/gbkui-button-progress-view](https://github.com/Guidebook/gbkui-button-progress-view) <br/>Inspired by Apple’s download progress buttons in t... | 258 |
 | 270. | [icepy/manong-reading](https://github.com/icepy/manong-reading) <br/>《猿已阅》码农周刊iOS客户端 | 257 |
-| 271. | [casatwy/CTPersistance](https://github.com/casatwy/CTPersistance) <br/>Objective-C Database Persistence Layer with SQLite [...] | 257 |
+| 271. | [casatwy/CTPersistance](https://github.com/casatwy/CTPersistance) <br/>Objective-C Database Persistence Layer with SQLite... | 257 |
 | 272. | [iThinkerYZ/YZDisplayViewController](https://github.com/iThinkerYZ/YZDisplayViewController)  | 255 |
 | 273. | [DianQK/DQKFreezeWindowView](https://github.com/DianQK/DQKFreezeWindowView) <br/>A freeze window effect view for iOS | 255 |
-| 274. | [Friend-LGA/LGAlertView](https://github.com/Friend-LGA/LGAlertView) <br/>Customizable implementation of UIAlertViewControll [...] | 252 |
+| 274. | [Friend-LGA/LGAlertView](https://github.com/Friend-LGA/LGAlertView) <br/>Customizable implementation of UIAlertViewControll... | 252 |
 | 275. | [huang303513/iOS-Study-Demo](https://github.com/huang303513/iOS-Study-Demo) <br/>iOS各种知识点学习、总结、基本每个一个功能点(建议先看readme) | 252 |
 | 276. | [chenqihui/QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo) <br/>弹幕系统实现 | 251 |
 | 277. | [iamim2/OneLoadingAnimation](https://github.com/iamim2/OneLoadingAnimation)  | 249 |
 | 278. | [khanlou/InstantCocoa](https://github.com/khanlou/InstantCocoa) <br/>Instant Cocoa is a framework for making iOS apps. | 247 |
-| 279. | [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) <br/>A Mac app to decode and extract images from iOS ap [...] | 246 |
+| 279. | [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) <br/>A Mac app to decode and extract images from iOS ap... | 246 |
 | 280. | [azzoor/WWDCTV](https://github.com/azzoor/WWDCTV) <br/>Watch the WWDC Videos on your Apple TV. | 246 |
 | 281. | [fsjack/JKRichTextView](https://github.com/fsjack/JKRichTextView) <br/>A more powerful UITextView. | 245 |
-| 282. | [SergioChan/SCTableViewCell](https://github.com/SergioChan/SCTableViewCell) <br/>:email:  Swipe-to-Delete Effects like iOS Native M [...] | 244 |
-| 283. | [IFTTT/IFTTTLaunchImage](https://github.com/IFTTT/IFTTTLaunchImage) <br/>Put your asset catalog launch images to work for y [...] | 243 |
-| 284. | [MatiBot/MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar) <br/>A circular, animatable & highly customizable progr [...] | 243 |
+| 282. | [SergioChan/SCTableViewCell](https://github.com/SergioChan/SCTableViewCell) <br/>:email:  Swipe-to-Delete Effects like iOS Native M... | 244 |
+| 283. | [IFTTT/IFTTTLaunchImage](https://github.com/IFTTT/IFTTTLaunchImage) <br/>Put your asset catalog launch images to work for y... | 243 |
+| 284. | [MatiBot/MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar) <br/>A circular, animatable & highly customizable progr... | 243 |
 | 285. | [hirakujira/CPU-Identifier](https://github.com/hirakujira/CPU-Identifier) <br/>Check your A9 chip manufactory | 242 |
-| 286. | [leverdeterre/JMHoledView](https://github.com/leverdeterre/JMHoledView) <br/>A view design to be filled with holes ... | 242 |
+| 286. | [leverdeterre/JMHoledView](https://github.com/leverdeterre/JMHoledView) <br/>A view design to be filled with holes... | 242 |
 | 287. | [ianisme/CoolNavi](https://github.com/ianisme/CoolNavi) <br/>简单的代码实现炫酷navigationbar | 239 |
 | 288. | [tubie/JFMeiTuan](https://github.com/tubie/JFMeiTuan) <br/>高仿美团四 | 239 |
 | 289. | [nathanwhy/HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition) <br/>Custom transition between viewcontrollers | 239 |
 | 290. | [SatanWoo/WZFlashButton](https://github.com/SatanWoo/WZFlashButton) <br/>A button with flash-like effect | 239 |
-| 291. | [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) <br/>A wrapper around the iOS Facebook SDK for React Na [...] | 239 |
+| 291. | [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) <br/>A wrapper around the iOS Facebook SDK for React Na... | 239 |
 | 292. | [ResearchKit/AppCore](https://github.com/ResearchKit/AppCore) <br/>Core code shared by the initial ResearchKit apps. | 239 |
 | 293. | [weida-studio/QQ](https://github.com/weida-studio/QQ) <br/>QQ For iOS code | 239 |
 | 294. | [ChenYilong/CYLTableViewPlaceHolder](https://github.com/ChenYilong/CYLTableViewPlaceHolder) <br/>一行代码完成“空TableView占位视图”管理 | 239 |
-| 295. | [kolinkrewinkel/Multiplex](https://github.com/kolinkrewinkel/Multiplex) <br/>Simultaneous editing for Xcode, inspired by Sublim [...] | 238 |
+| 295. | [kolinkrewinkel/Multiplex](https://github.com/kolinkrewinkel/Multiplex) <br/>Simultaneous editing for Xcode, inspired by Sublim... | 238 |
 | 296. | [ali312/TLTagsControl](https://github.com/ali312/TLTagsControl) <br/>A nice and simple tags input control for iOS | 238 |
-| 297. | [JustinFincher/JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) <br/>:radio_button: Multi choice circle button with coo [...] | 237 |
-| 298. | [kpwn/yalu](https://github.com/kpwn/yalu) <br/>incomplete ios 8.4.1 jailbreak by Kim Jong Cracks  [...] | 236 |
+| 297. | [JustinFincher/JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) <br/>:radio_button: Multi choice circle button with coo... | 237 |
+| 298. | [kpwn/yalu](https://github.com/kpwn/yalu) <br/>incomplete ios 8.4.1 jailbreak by Kim Jong Cracks... | 236 |
 | 299. | [Cocoanetics/DTRichTextEditor](https://github.com/Cocoanetics/DTRichTextEditor) <br/>A rich-text editor for iOS | 236 |
-| 300. | [mayuur/MJAlertView](https://github.com/mayuur/MJAlertView) <br/>Simple automatic Dismissible Alert with minor 3D T [...] | 234 |
+| 300. | [mayuur/MJAlertView](https://github.com/mayuur/MJAlertView) <br/>Simple automatic Dismissible Alert with minor 3D T... | 234 |
 | 301. | [maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) <br/>Simple parallax header for UIScrollView | 233 |
-| 302. | [lookingstars/chuanke](https://github.com/lookingstars/chuanke) <br/>高仿百度传课iOS版，版本号2.4.1.2。/**作者：ljz ; Q Q：863784757 ;  [...] | 232 |
-| 303. | [lzwjava/Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) <br/>Xcode plugin to let you jump to GitHub History, Bl [...] | 232 |
-| 304. | [malcommac/DMPagerViewController](https://github.com/malcommac/DMPagerViewController) <br/>DMPagerViewController is page navigation controlle [...] | 230 |
+| 302. | [lookingstars/chuanke](https://github.com/lookingstars/chuanke) <br/>高仿百度传课iOS版，版本号2.4.1.2。/**作者：ljz ; Q Q：863784757 ;... | 232 |
+| 303. | [lzwjava/Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) <br/>Xcode plugin to let you jump to GitHub History, Bl... | 232 |
+| 304. | [malcommac/DMPagerViewController](https://github.com/malcommac/DMPagerViewController) <br/>DMPagerViewController is page navigation controlle... | 230 |
 | 305. | [CaramelForSwift/Caramel](https://github.com/CaramelForSwift/Caramel) <br/>A portable I/O framework for Swift | 229 |
-| 306. | [callmewhy/PleaseBaoMe](https://github.com/callmewhy/PleaseBaoMe) <br/>A useful tool to view SQLite file in Web browser d [...] | 228 |
-| 307. | [magus/react-native-facebook-login](https://github.com/magus/react-native-facebook-login) <br/>React Native component wrapping the native Faceboo [...] | 226 |
-| 308. | [Yalantis/YALField](https://github.com/Yalantis/YALField) <br/>Custom Field component with validation for creatin [...] | 225 |
+| 306. | [callmewhy/PleaseBaoMe](https://github.com/callmewhy/PleaseBaoMe) <br/>A useful tool to view SQLite file in Web browser d... | 228 |
+| 307. | [magus/react-native-facebook-login](https://github.com/magus/react-native-facebook-login) <br/>React Native component wrapping the native Faceboo... | 226 |
+| 308. | [Yalantis/YALField](https://github.com/Yalantis/YALField) <br/>Custom Field component with validation for creatin... | 225 |
 | 309. | [antiguab/BALoadingView](https://github.com/antiguab/BALoadingView) <br/>A UIView that offers several loading animations | 220 |
 | 310. | [gringoireDM/FBLikeLayout](https://github.com/gringoireDM/FBLikeLayout)  | 218 |
-| 311. | [roman01la/react-native-babel](https://github.com/roman01la/react-native-babel) <br/>Configuration to build React Native apps with ES6  [...] | 218 |
+| 311. | [roman01la/react-native-babel](https://github.com/roman01la/react-native-babel) <br/>Configuration to build React Native apps with ES6... | 218 |
 | 312. | [AwesomeDennis/DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) <br/>An imagePicker functioned like wechat | 218 |
 | 313. | [gsdios/SDProgressView](https://github.com/gsdios/SDProgressView) <br/>简便美观的进度指示器。Progress Indicator View. | 215 |
 | 314. | [hshpy/HPYZhiHuDaily](https://github.com/hshpy/HPYZhiHuDaily) <br/>仿知乎日报 iOS app | 215 |
@@ -322,101 +322,101 @@
 | 316. | [mogujie/MGJRequestManager](https://github.com/mogujie/MGJRequestManager) <br/>一个基于 AFNetworking 2 的灵活好用的 iOS 网络库 | 215 |
 | 317. | [12207480/TYWaterWaveView](https://github.com/12207480/TYWaterWaveView) <br/>水波浪圆形进度控件，采用 CAShapeLayer，CADisplayLink 波浪动画，简单，流畅 | 214 |
 | 318. | [florent37/OCiney-iOS](https://github.com/florent37/OCiney-iOS)  | 213 |
-| 319. | [zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage) <br/>iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeCh [...] | 211 |
-| 320. | [EmilYo/HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) <br/>Customizable iOS view controller in Mailbox app st [...] | 211 |
-| 321. | [zhengjinghua/MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) <br/>iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPo [...] | 210 |
+| 319. | [zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage) <br/>iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeCh... | 211 |
+| 320. | [EmilYo/HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) <br/>Customizable iOS view controller in Mailbox app st... | 211 |
+| 321. | [zhengjinghua/MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) <br/>iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPo... | 210 |
 | 322. | [y-hryk/YSLContainerViewController](https://github.com/y-hryk/YSLContainerViewController)  | 210 |
-| 323. | [aksonov/react-native-tableview](https://github.com/aksonov/react-native-tableview) <br/>Native iOS UITableView for React Native with JSON  [...] | 209 |
-| 324. | [netyouli/WHCNetWorkKit](https://github.com/netyouli/WHCNetWorkKit) <br/>WHCNetWorkKit 是http网络请求开源库(支持GET/POST 文件上传 后台文件下载  [...] | 208 |
-| 325. | [facebook/WebDriverAgent](https://github.com/facebook/WebDriverAgent) <br/>A WebDriver server for iOS that runs inside the Si [...] | 208 |
+| 323. | [aksonov/react-native-tableview](https://github.com/aksonov/react-native-tableview) <br/>Native iOS UITableView for React Native with JSON... | 209 |
+| 324. | [netyouli/WHCNetWorkKit](https://github.com/netyouli/WHCNetWorkKit) <br/>WHCNetWorkKit 是http网络请求开源库(支持GET/POST 文件上传 后台文件下载... | 208 |
+| 325. | [facebook/WebDriverAgent](https://github.com/facebook/WebDriverAgent) <br/>A WebDriver server for iOS that runs inside the Si... | 208 |
 | 326. | [sx1989827/RunTrace](https://github.com/sx1989827/RunTrace) <br/>一个可以实时跟踪分析iOS App视图的小工具 | 207 |
-| 327. | [recruit-mp/RMPScrollingMenuBarController](https://github.com/recruit-mp/RMPScrollingMenuBarController) <br/>RMPScrollingMenuBarController has a scrollable men [...] | 206 |
+| 327. | [recruit-mp/RMPScrollingMenuBarController](https://github.com/recruit-mp/RMPScrollingMenuBarController) <br/>RMPScrollingMenuBarController has a scrollable men... | 206 |
 | 328. | [brentvatne/react-native-animated-demo-tinder](https://github.com/brentvatne/react-native-animated-demo-tinder) <br/>React Native "Animated" API demo | 205 |
 | 329. | [NoCodeNoWife/LLRiseTabBar-iOS](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS) <br/>仿淘宝闲鱼的 TabBar | 205 |
-| 330. | [jumartin/Calendar](https://github.com/jumartin/Calendar) <br/>A set of views and controllers for displaying and  [...] | 204 |
-| 331. | [xujingzhou/VideoBeautify](https://github.com/xujingzhou/VideoBeautify) <br/>With this APP, you can do all kinds of professiona [...] | 204 |
-| 332. | [d0ping/DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) <br/>It's very useful component for determine different [...] | 204 |
-| 333. | [IvanRublev/BarTintColorOptimizer](https://github.com/IvanRublev/BarTintColorOptimizer) <br/>Developer tool that optimizes translucent bar tint [...] | 203 |
+| 330. | [jumartin/Calendar](https://github.com/jumartin/Calendar) <br/>A set of views and controllers for displaying and... | 204 |
+| 331. | [xujingzhou/VideoBeautify](https://github.com/xujingzhou/VideoBeautify) <br/>With this APP, you can do all kinds of professiona... | 204 |
+| 332. | [d0ping/DBImageColorPicker](https://github.com/d0ping/DBImageColorPicker) <br/>It's very useful component for determine different... | 204 |
+| 333. | [IvanRublev/BarTintColorOptimizer](https://github.com/IvanRublev/BarTintColorOptimizer) <br/>Developer tool that optimizes translucent bar tint... | 203 |
 | 334. | [perfaram/PFSystemKit](https://github.com/perfaram/PFSystemKit) <br/>The iOS/OSX system investigator | 202 |
 | 335. | [justMaku/UXKit-Headers-And-Sample](https://github.com/justMaku/UXKit-Headers-And-Sample)  | 202 |
-| 336. | [marcshilling/react-native-image-picker](https://github.com/marcshilling/react-native-image-picker) <br/>A React Native module that allows you to use the n [...] | 201 |
+| 336. | [marcshilling/react-native-image-picker](https://github.com/marcshilling/react-native-image-picker) <br/>A React Native module that allows you to use the n... | 201 |
 | 337. | [wwdc14/HySubmitTransitionObjective-C](https://github.com/wwdc14/HySubmitTransitionObjective-C) <br/>OC版的转场动画 | 200 |
 | 338. | [jsfu/JSDropDownMenu](https://github.com/jsfu/JSDropDownMenu) <br/>类似美团的下拉菜单 | 199 |
-| 339. | [ideawu/cocoaui](https://github.com/ideawu/cocoaui) <br/>Build adaptive UI for iOS Apps with flow-layout an [...] | 197 |
-| 340. | [NilStack/NKWatchChart](https://github.com/NilStack/NKWatchChart) <br/>A chart library for Apple Watch based on PNChart a [...] | 196 |
+| 339. | [ideawu/cocoaui](https://github.com/ideawu/cocoaui) <br/>Build adaptive UI for iOS Apps with flow-layout an... | 197 |
+| 340. | [NilStack/NKWatchChart](https://github.com/NilStack/NKWatchChart) <br/>A chart library for Apple Watch based on PNChart a... | 196 |
 | 341. | [ming1016/PagerTab](https://github.com/ming1016/PagerTab) <br/>UIScrollView实现滑动转换页面，类似网易云音乐iOS版的页面滑动切换效果 | 195 |
 | 342. | [AdamBCo/ABCIntroView](https://github.com/AdamBCo/ABCIntroView)  | 194 |
-| 343. | [titman/LCDebugger](https://github.com/titman/LCDebugger) <br/>LCDebugger is a local/remote debugging tools for i [...] | 194 |
+| 343. | [titman/LCDebugger](https://github.com/titman/LCDebugger) <br/>LCDebugger is a local/remote debugging tools for i... | 194 |
 | 344. | [LuciusLu/DeformationButton](https://github.com/LuciusLu/DeformationButton) <br/>Share loading button. | 194 |
-| 345. | [OpenFibers/OTLargeImageReader](https://github.com/OpenFibers/OTLargeImageReader) <br/>Generate a thumbnail for a really large image, avo [...] | 193 |
-| 346. | [ddeville/LLBSDMessaging](https://github.com/ddeville/LLBSDMessaging) <br/>Interprocess communication on iOS with Berkeley so [...] | 193 |
-| 347. | [brentvatne/react-native-overlay](https://github.com/brentvatne/react-native-overlay) <br/>An Overlay / component that brings content insid [...] | 192 |
+| 345. | [OpenFibers/OTLargeImageReader](https://github.com/OpenFibers/OTLargeImageReader) <br/>Generate a thumbnail for a really large image, avo... | 193 |
+| 346. | [ddeville/LLBSDMessaging](https://github.com/ddeville/LLBSDMessaging) <br/>Interprocess communication on iOS with Berkeley so... | 193 |
+| 347. | [brentvatne/react-native-overlay](https://github.com/brentvatne/react-native-overlay) <br/>An Overlay / component that brings content insid... | 192 |
 | 348. | [steventroughtonsmith/tvOSBrowser](https://github.com/steventroughtonsmith/tvOSBrowser) <br/>tvOS Web Browser sample project (Private API) | 192 |
-| 349. | [yuhua-chen/MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) <br/>A card collection view controller inspired by Face [...] | 192 |
-| 350. | [Glow-Inc/GLPubSub](https://github.com/Glow-Inc/GLPubSub) <br/>A wrapper of NSNotificationCenter to make pub sub  [...] | 191 |
+| 349. | [yuhua-chen/MCCardPickerCollectionViewController](https://github.com/yuhua-chen/MCCardPickerCollectionViewController) <br/>A card collection view controller inspired by Face... | 192 |
+| 350. | [Glow-Inc/GLPubSub](https://github.com/Glow-Inc/GLPubSub) <br/>A wrapper of NSNotificationCenter to make pub sub... | 191 |
 | 351. | [Clipy/Clipy](https://github.com/Clipy/Clipy) <br/>Clipboard extension app for Mac OSX. | 190 |
-| 352. | [kennethjiang/Teleport-NSLog](https://github.com/kennethjiang/Teleport-NSLog) <br/>Remote logging for iOS. Send NSLog messages to bac [...] | 190 |
+| 352. | [kennethjiang/Teleport-NSLog](https://github.com/kennethjiang/Teleport-NSLog) <br/>Remote logging for iOS. Send NSLog messages to bac... | 190 |
 | 353. | [Skyscanner/Dixie](https://github.com/Skyscanner/Dixie) <br/>Dixie, turning chaos to your advantage. | 190 |
-| 354. | [coderyi/YiRefresh](https://github.com/coderyi/YiRefresh) <br/>a simple way to use pull-to-refresh.下拉刷新，大道至简，最简单的 [...] | 189 |
-| 355. | [solomidSF/YRActivityIndicator](https://github.com/solomidSF/YRActivityIndicator) <br/>Fancy, highly customizable activity indicator that [...] | 187 |
+| 354. | [coderyi/YiRefresh](https://github.com/coderyi/YiRefresh) <br/>a simple way to use pull-to-refresh.下拉刷新，大道至简，最简单的... | 189 |
+| 355. | [solomidSF/YRActivityIndicator](https://github.com/solomidSF/YRActivityIndicator) <br/>Fancy, highly customizable activity indicator that... | 187 |
 | 356. | [s3lvin/DXCustomCallout-ObjC](https://github.com/s3lvin/DXCustomCallout-ObjC) <br/>A simpler approach to CustomCallouts for MKMapview | 187 |
-| 357. | [snakajima/videoshader](https://github.com/snakajima/videoshader) <br/>Script-based real-time video processing technology [...] | 186 |
+| 357. | [snakajima/videoshader](https://github.com/snakajima/videoshader) <br/>Script-based real-time video processing technology... | 186 |
 | 358. | [likumb/SimpleMemo](https://github.com/likumb/SimpleMemo) <br/>已上架应用“易便签”的源代码 | 186 |
 | 359. | [panghaijiao/HJCarouselDemo](https://github.com/panghaijiao/HJCarouselDemo)  | 186 |
 | 360. | [gsdios/SDRefreshView](https://github.com/gsdios/SDRefreshView) <br/>简单易用的上拉和下拉刷新（多版本细节适配）。Pull To Refresh. | 186 |
 | 361. | [JxbSir/JxbLovelyLogin](https://github.com/JxbSir/JxbLovelyLogin) <br/>一个可爱的登陆界面 | 185 |
-| 362. | [Krivoblotsky/HardCoreData](https://github.com/Krivoblotsky/HardCoreData) <br/>CoreData stack and controller that will never bloc [...] | 184 |
-| 363. | [SergioChan/SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation) <br/>:movie_camera: An iOS native implementation of a C [...] | 183 |
-| 364. | [molon/MLLabel](https://github.com/molon/MLLabel) <br/>UILabel with TextKit. Support Link and Expression. [...] | 183 |
-| 365. | [klop/KLParallaxView](https://github.com/klop/KLParallaxView) <br/>KLParallaxView is an Objective-C UIView subclass t [...] | 182 |
+| 362. | [Krivoblotsky/HardCoreData](https://github.com/Krivoblotsky/HardCoreData) <br/>CoreData stack and controller that will never bloc... | 184 |
+| 363. | [SergioChan/SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation) <br/>:movie_camera: An iOS native implementation of a C... | 183 |
+| 364. | [molon/MLLabel](https://github.com/molon/MLLabel) <br/>UILabel with TextKit. Support Link and Expression.... | 183 |
+| 365. | [klop/KLParallaxView](https://github.com/klop/KLParallaxView) <br/>KLParallaxView is an Objective-C UIView subclass t... | 182 |
 | 366. | [ws00801526/XMChatBarExample](https://github.com/ws00801526/XMChatBarExample) <br/>模仿微信聊天输入框 | 181 |
-| 367. | [vizllx/DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) <br/>This demo app will animate the view just like Yout [...] | 180 |
-| 368. | [Roxasora/RxLabel](https://github.com/Roxasora/RxLabel) <br/>a custom weico like label that could detect url an [...] | 180 |
-| 369. | [smallmuou/PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) <br/>PPDragDropBadgeView is a badge view which able to  [...] | 180 |
-| 370. | [LiYueChun/YCRefreshControl](https://github.com/LiYueChun/YCRefreshControl) <br/>One based on UIScrollView lightweight, easy to use [...] | 179 |
-| 371. | [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) <br/>Effortless and universal SSL pinning for iOS and O [...] | 179 |
+| 367. | [vizllx/DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) <br/>This demo app will animate the view just like Yout... | 180 |
+| 368. | [Roxasora/RxLabel](https://github.com/Roxasora/RxLabel) <br/>a custom weico like label that could detect url an... | 180 |
+| 369. | [smallmuou/PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) <br/>PPDragDropBadgeView is a badge view which able to... | 180 |
+| 370. | [LiYueChun/YCRefreshControl](https://github.com/LiYueChun/YCRefreshControl) <br/>One based on UIScrollView lightweight, easy to use... | 179 |
+| 371. | [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) <br/>Effortless and universal SSL pinning for iOS and O... | 179 |
 | 372. | [Beniamiiin/BSErrorMessageView](https://github.com/Beniamiiin/BSErrorMessageView) <br/>Error message view for text field | 179 |
-| 373. | [gizmoboy7/VCFloatingActionButton](https://github.com/gizmoboy7/VCFloatingActionButton) <br/>A Floating Action Button just like Google inbox fo [...] | 179 |
-| 374. | [steipete/UIKitDebugging](https://github.com/steipete/UIKitDebugging) <br/>A set of files that enables various debug flags in [...] | 178 |
-| 375. | [pili-engineering/PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) <br/>Pili RTMP Streaming SDK for iOS, H.264 and AAC har [...] | 178 |
-| 376. | [edwinbosire/DropMenu](https://github.com/edwinbosire/DropMenu) <br/>A menu implementation with a slide in menu similar [...] | 178 |
-| 377. | [leecrossley/cordova-plugin-apple-watch](https://github.com/leecrossley/cordova-plugin-apple-watch) <br/>Cordova / PhoneGap Apple Watch Plugin for Apache C [...] | 177 |
+| 373. | [gizmoboy7/VCFloatingActionButton](https://github.com/gizmoboy7/VCFloatingActionButton) <br/>A Floating Action Button just like Google inbox fo... | 179 |
+| 374. | [steipete/UIKitDebugging](https://github.com/steipete/UIKitDebugging) <br/>A set of files that enables various debug flags in... | 178 |
+| 375. | [pili-engineering/PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) <br/>Pili RTMP Streaming SDK for iOS, H.264 and AAC har... | 178 |
+| 376. | [edwinbosire/DropMenu](https://github.com/edwinbosire/DropMenu) <br/>A menu implementation with a slide in menu similar... | 178 |
+| 377. | [leecrossley/cordova-plugin-apple-watch](https://github.com/leecrossley/cordova-plugin-apple-watch) <br/>Cordova / PhoneGap Apple Watch Plugin for Apache C... | 177 |
 | 378. | [Eclair/CircleProgressBar](https://github.com/Eclair/CircleProgressBar) <br/>iOS Circle Progress Bar | 177 |
-| 379. | [dealforest/Tuna](https://github.com/dealforest/Tuna) <br/>Xcode plugin that provides easy set breakpoint wit [...] | 177 |
-| 380. | [wongkoo/WHChartView](https://github.com/wongkoo/WHChartView) <br/>WHChart is a subclass of UIView, it can display hi [...] | 177 |
-| 381. | [KittenYang/KYTilePhotoLayout](https://github.com/KittenYang/KYTilePhotoLayout) <br/>A UICollectionViewLayout with a really interesting [...] | 176 |
+| 379. | [dealforest/Tuna](https://github.com/dealforest/Tuna) <br/>Xcode plugin that provides easy set breakpoint wit... | 177 |
+| 380. | [wongkoo/WHChartView](https://github.com/wongkoo/WHChartView) <br/>WHChart is a subclass of UIView, it can display hi... | 177 |
+| 381. | [KittenYang/KYTilePhotoLayout](https://github.com/KittenYang/KYTilePhotoLayout) <br/>A UICollectionViewLayout with a really interesting... | 176 |
 | 382. | [bassamyan/BYDailyNews](https://github.com/bassamyan/BYDailyNews)  | 176 |
-| 383. | [justhum/HUMSlider](https://github.com/justhum/HUMSlider) <br/>A slider control with auto-appearing ticks and sat [...] | 176 |
-| 384. | [phranck/CCNStatusItem](https://github.com/phranck/CCNStatusItem) <br/>CCNStatusItem is a subclass of NSObject to act as  [...] | 175 |
-| 385. | [samdods/Stencil](https://github.com/samdods/Stencil) <br/>A plugin for Xcode allowing you to easily create c [...] | 173 |
+| 383. | [justhum/HUMSlider](https://github.com/justhum/HUMSlider) <br/>A slider control with auto-appearing ticks and sat... | 176 |
+| 384. | [phranck/CCNStatusItem](https://github.com/phranck/CCNStatusItem) <br/>CCNStatusItem is a subclass of NSObject to act as... | 175 |
+| 385. | [samdods/Stencil](https://github.com/samdods/Stencil) <br/>A plugin for Xcode allowing you to easily create c... | 173 |
 | 386. | [huang303513/Design-Pattern-For-iOS](https://github.com/huang303513/Design-Pattern-For-iOS) <br/>IOS设计模式探索(配合大话设计模式学习) | 173 |
-| 387. | [jeffkibuule/JSKTimerView](https://github.com/jeffkibuule/JSKTimerView) <br/>A simple custom UIView that acts as a self-contain [...] | 173 |
-| 388. | [Friend-LGA/LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) <br/>iOS implementation of Floating Action Button (Goog [...] | 173 |
+| 387. | [jeffkibuule/JSKTimerView](https://github.com/jeffkibuule/JSKTimerView) <br/>A simple custom UIView that acts as a self-contain... | 173 |
+| 388. | [Friend-LGA/LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) <br/>iOS implementation of Floating Action Button (Goog... | 173 |
 | 389. | [feiin/swiftmi-app](https://github.com/feiin/swiftmi-app) <br/>swiftmi.com app版本 采用Swift实现 | 173 |
-| 390. | [huang303513/GCD-OperationQueue-Exploration](https://github.com/huang303513/GCD-OperationQueue-Exploration) <br/>GCD系列、Operation、KVC、KVO、Notification、响应链、自定义MJExte [...] | 173 |
-| 391. | [DeveloperLx/LxTabBarController](https://github.com/DeveloperLx/LxTabBarController) <br/>Inherited from UITabBarController. LxTabBarControl [...] | 173 |
-| 392. | [ideawu/Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) <br/>Doing RSA encryption and decryption with Objective [...] | 172 |
+| 390. | [huang303513/GCD-OperationQueue-Exploration](https://github.com/huang303513/GCD-OperationQueue-Exploration) <br/>GCD系列、Operation、KVC、KVO、Notification、响应链、自定义MJExte... | 173 |
+| 391. | [DeveloperLx/LxTabBarController](https://github.com/DeveloperLx/LxTabBarController) <br/>Inherited from UITabBarController. LxTabBarControl... | 173 |
+| 392. | [ideawu/Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) <br/>Doing RSA encryption and decryption with Objective... | 172 |
 | 393. | [Shuangzuan/RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) <br/>A pull down to refresh control for react native. | 172 |
-| 394. | [stepanhruda/ios-simulator-app-installer](https://github.com/stepanhruda/ios-simulator-app-installer) <br/>Create an OS X app that installs your iOS app into [...] | 171 |
+| 394. | [stepanhruda/ios-simulator-app-installer](https://github.com/stepanhruda/ios-simulator-app-installer) <br/>Create an OS X app that installs your iOS app into... | 171 |
 | 395. | [onefold/react-native-chart](https://github.com/onefold/react-native-chart)  | 171 |
-| 396. | [dempseyatgithub/BuildSettingExtractor](https://github.com/dempseyatgithub/BuildSettingExtractor) <br/>Extracts the build settings of an Xcode project in [...] | 171 |
+| 396. | [dempseyatgithub/BuildSettingExtractor](https://github.com/dempseyatgithub/BuildSettingExtractor) <br/>Extracts the build settings of an Xcode project in... | 171 |
 | 397. | [Jeswang/Hearthstone-Deck-Tracker-Mac](https://github.com/Jeswang/Hearthstone-Deck-Tracker-Mac) <br/>A Deck Tracker for Mac OS X. | 170 |
-| 398. | [Just-/UINavigationItem-Loading](https://github.com/Just-/UINavigationItem-Loading) <br/>Simple category to show a loading status in a navi [...] | 169 |
+| 398. | [Just-/UINavigationItem-Loading](https://github.com/Just-/UINavigationItem-Loading) <br/>Simple category to show a loading status in a navi... | 169 |
 | 399. | [nonstriater/Olla4iOS](https://github.com/nonstriater/Olla4iOS) <br/>iOS framework | 168 |
 | 400. | [exis-io/Exis](https://github.com/exis-io/Exis) <br/>Exis client libraries, sample projects, and demos. | 168 |
 | 401. | [Coding/Coding-iPad](https://github.com/Coding/Coding-iPad) <br/>Coding iPad 客户端源代码 | 168 |
 | 402. | [y-hryk/YSLTransitionAnimator](https://github.com/y-hryk/YSLTransitionAnimator)  | 167 |
 | 403. | [ninjaprox/NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView) <br/>A Airbnb-inspired collection view | 167 |
-| 404. | [PlutusCat/KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) <br/>根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视 [...] | 167 |
-| 405. | [jacobsieradzki/JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController) <br/>An photo/image picker controller that resembles th [...] | 166 |
-| 406. | [k0nserv/luft](https://github.com/k0nserv/luft) <br/>The Xcode Plugin that helps you write lighter view [...] | 166 |
+| 404. | [PlutusCat/KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) <br/>根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视... | 167 |
+| 405. | [jacobsieradzki/JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController) <br/>An photo/image picker controller that resembles th... | 166 |
+| 406. | [k0nserv/luft](https://github.com/k0nserv/luft) <br/>The Xcode Plugin that helps you write lighter view... | 166 |
 | 407. | [zpz1237/NirKxMenu](https://github.com/zpz1237/NirKxMenu) <br/>UI高度可定制化KxMenu弹出菜单 | 165 |
-| 408. | [CoderMJLee/MJDownload](https://github.com/CoderMJLee/MJDownload) <br/>A delightful framework for multifile resumable bro [...] | 165 |
+| 408. | [CoderMJLee/MJDownload](https://github.com/CoderMJLee/MJDownload) <br/>A delightful framework for multifile resumable bro... | 165 |
 | 409. | [chenyk0317/YKLineChartView](https://github.com/chenyk0317/YKLineChartView) <br/>Stock chart framework for iOS | 164 |
-| 410. | [sfwalsh/SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast) <br/>A simple UI class for presenting useful informatio [...] | 161 |
+| 410. | [sfwalsh/SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast) <br/>A simple UI class for presenting useful informatio... | 161 |
 | 411. | [HHuiHao/Universal-Jump-ViewController](https://github.com/HHuiHao/Universal-Jump-ViewController)  | 161 |
 | 412. | [yixiangboy/YXCollectionView](https://github.com/yixiangboy/YXCollectionView) <br/>UICollection学习总结以及案例集合 | 161 |
-| 413. | [diogomaximo/SingleLineInput](https://github.com/diogomaximo/SingleLineInput) <br/>A single line textfield implementation with Float  [...] | 160 |
+| 413. | [diogomaximo/SingleLineInput](https://github.com/diogomaximo/SingleLineInput) <br/>A single line textfield implementation with Float... | 160 |
 | 414. | [OpenFibers/SSHMole](https://github.com/OpenFibers/SSHMole) <br/>An ssh dynamic forwarding tool for OSX. | 159 |
 | 415. | [mikkoj/NortalTechDay](https://github.com/mikkoj/NortalTechDay) <br/>iOS Conference App made with React Native. | 159 |
 | 416. | [jkios/TMusic](https://github.com/jkios/TMusic) <br/>代码很烂很烂。。。阅读请做好心理准备。。。 | 158 |
@@ -428,46 +428,46 @@
 | 422. | [xumeng/XMShareModule](https://github.com/xumeng/XMShareModule) <br/>iOS快速简单集成国内三大平台分享 | 155 |
 | 423. | [Daniate/INBSecurityCrypto](https://github.com/Daniate/INBSecurityCrypto)  | 154 |
 | 424. | [CharlinFeng/CoreFMDB](https://github.com/CharlinFeng/CoreFMDB) <br/>One Key Database Operations | 154 |
-| 425. | [chroman/CRMediaPickerController](https://github.com/chroman/CRMediaPickerController) <br/>An easy-to-use UIImagePickerController replacement [...] | 154 |
-| 426. | [LR-Studio/LRSmartTextField](https://github.com/LR-Studio/LRSmartTextField) <br/>UITextField with floating label, validation and in [...] | 153 |
-| 427. | [gcollazo/mongodbapp](https://github.com/gcollazo/mongodbapp) <br/>The easiest way to get started with MongoDB on the [...] | 153 |
+| 425. | [chroman/CRMediaPickerController](https://github.com/chroman/CRMediaPickerController) <br/>An easy-to-use UIImagePickerController replacement... | 154 |
+| 426. | [LR-Studio/LRSmartTextField](https://github.com/LR-Studio/LRSmartTextField) <br/>UITextField with floating label, validation and in... | 153 |
+| 427. | [gcollazo/mongodbapp](https://github.com/gcollazo/mongodbapp) <br/>The easiest way to get started with MongoDB on the... | 153 |
 | 428. | [google/google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac) <br/>Google Toolbox for Mac | 153 |
 | 429. | [CharlinFeng/CoreRefresh](https://github.com/CharlinFeng/CoreRefresh) <br/>核心上拉下拉刷新控件，高性能、与众不同！ | 153 |
 | 430. | [ShelinShelin/OffLineCache](https://github.com/ShelinShelin/OffLineCache) <br/>About Offline caching ideas and The use of AFN | 153 |
-| 431. | [xhzengAIB/XHAmazingLoading](https://github.com/xhzengAIB/XHAmazingLoading) <br/>XHAmazingLoading indicators or load view based on  [...] | 153 |
-| 432. | [hanton/CopyIssue-Xcode-Plugin](https://github.com/hanton/CopyIssue-Xcode-Plugin) <br/>Makes Copy Xcode Issue Description Easily, Support [...] | 152 |
+| 431. | [xhzengAIB/XHAmazingLoading](https://github.com/xhzengAIB/XHAmazingLoading) <br/>XHAmazingLoading indicators or load view based on... | 153 |
+| 432. | [hanton/CopyIssue-Xcode-Plugin](https://github.com/hanton/CopyIssue-Xcode-Plugin) <br/>Makes Copy Xcode Issue Description Easily, Support... | 152 |
 | 433. | [krzysztofzablocki/DetailsMatter](https://github.com/krzysztofzablocki/DetailsMatter)  | 151 |
-| 434. | [WeeTom/BasicChatUIOnAppleWatch](https://github.com/WeeTom/BasicChatUIOnAppleWatch) <br/>This is a simple demo for those who want to make a [...] | 150 |
+| 434. | [WeeTom/BasicChatUIOnAppleWatch](https://github.com/WeeTom/BasicChatUIOnAppleWatch) <br/>This is a simple demo for those who want to make a... | 150 |
 | 435. | [LoganWright/Polymer](https://github.com/LoganWright/Polymer) <br/>Endpoint focused networking | 150 |
-| 436. | [orta/You-Can-Do-It](https://github.com/orta/You-Can-Do-It) <br/>Is learning a new language getting you down? Worry [...] | 149 |
+| 436. | [orta/You-Can-Do-It](https://github.com/orta/You-Can-Do-It) <br/>Is learning a new language getting you down? Worry... | 149 |
 | 437. | [CharlinFeng/CoreStatus](https://github.com/CharlinFeng/CoreStatus) <br/>网络状态监听者：可监听2G/3G/4G | 149 |
-| 438. | [LeoiOS/LCTabBarController](https://github.com/LeoiOS/LCTabBarController) <br/>A amazing and highly customized tabBarController!  [...] | 149 |
-| 439. | [jhabdas/react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) <br/>Future-facing starter kit for React Native apps us [...] | 148 |
+| 438. | [LeoiOS/LCTabBarController](https://github.com/LeoiOS/LCTabBarController) <br/>A amazing and highly customized tabBarController!... | 149 |
+| 439. | [jhabdas/react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) <br/>Future-facing starter kit for React Native apps us... | 148 |
 | 440. | [JazysYu/JZTableViewRowAction](https://github.com/JazysYu/JZTableViewRowAction) <br/>Using UITableViewRowAction on iOS = 5.0 | 148 |
-| 441. | [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) <br/>The official Tunnelbick website is at https://tunn [...] | 148 |
+| 441. | [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) <br/>The official Tunnelbick website is at https://tunn... | 148 |
 | 442. | [CharlinFeng/CoreLaunch](https://github.com/CharlinFeng/CoreLaunch) <br/>一键启动动画 | 146 |
 | 443. | [squarezw/ZWIntroductionViewController](https://github.com/squarezw/ZWIntroductionViewController) <br/>A simple custom app introductions and tutorials. | 146 |
-| 444. | [JV17/JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator) <br/>A simple transition animator which allows you to p [...] | 146 |
+| 444. | [JV17/JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator) <br/>A simple transition animator which allows you to p... | 146 |
 | 445. | [Halley-Wong/JKDBModel](https://github.com/Halley-Wong/JKDBModel) <br/>FMDB的封装，极大简化你的数据库操作，对于自己的扩展也非常简单 | 146 |
-| 446. | [12207480/TYSlidePageScrollView](https://github.com/12207480/TYSlidePageScrollView) <br/>An easy solution to page views or controllers with [...] | 145 |
+| 446. | [12207480/TYSlidePageScrollView](https://github.com/12207480/TYSlidePageScrollView) <br/>An easy solution to page views or controllers with... | 145 |
 | 447. | [samlaudev/ElemeProject](https://github.com/samlaudev/ElemeProject) <br/>模仿一个O2O App：饿了么 | 145 |
-| 448. | [mamaral/Follower](https://github.com/mamaral/Follower) <br/>Track trip distance, speed, altitude, and duration [...] | 145 |
-| 449. | [MakeZL/ZLXCodeLine](https://github.com/MakeZL/ZLXCodeLine) <br/>This is a record of the number of lines of code -  [...] | 144 |
-| 450. | [miscavage/Popup](https://github.com/miscavage/Popup) <br/>Popup is a versatile alert view that allows you to [...] | 144 |
+| 448. | [mamaral/Follower](https://github.com/mamaral/Follower) <br/>Track trip distance, speed, altitude, and duration... | 145 |
+| 449. | [MakeZL/ZLXCodeLine](https://github.com/MakeZL/ZLXCodeLine) <br/>This is a record of the number of lines of code -... | 144 |
+| 450. | [miscavage/Popup](https://github.com/miscavage/Popup) <br/>Popup is a versatile alert view that allows you to... | 144 |
 | 451. | [wang820203420/IOS-Developer-library-Chinese](https://github.com/wang820203420/IOS-Developer-library-Chinese)  | 144 |
-| 452. | [HebeTienCoder/XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) <br/>可以让UICollectionView的header也支持悬停效果，类似于tableView的Pla [...] | 144 |
+| 452. | [HebeTienCoder/XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) <br/>可以让UICollectionView的header也支持悬停效果，类似于tableView的Pla... | 144 |
 | 453. | [nhdang103/HDNotificationView](https://github.com/nhdang103/HDNotificationView)  | 143 |
-| 454. | [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) <br/>Sophisticated, battery-conscious background-geoloc [...] | 143 |
-| 455. | [LocativeHQ/ios-app](https://github.com/LocativeHQ/ios-app) <br/>The Locative iOS app. Helping you to get the best  [...] | 142 |
+| 454. | [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) <br/>Sophisticated, battery-conscious background-geoloc... | 143 |
+| 455. | [LocativeHQ/ios-app](https://github.com/LocativeHQ/ios-app) <br/>The Locative iOS app. Helping you to get the best... | 142 |
 | 456. | [Nododo/ADo_GuideView](https://github.com/Nododo/ADo_GuideView)  | 142 |
 | 457. | [zats/PreciseCoverage](https://github.com/zats/PreciseCoverage) <br/>Make Xcode code coverage more informative | 142 |
-| 458. | [brockgr/csshx](https://github.com/brockgr/csshx) <br/>Automatically exported from code.google.com/p/cssh [...] | 141 |
-| 459. | [lovemo/MVVMFramework](https://github.com/lovemo/MVVMFramework) <br/>(OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionVie [...] | 141 |
-| 460. | [sachinkesiraju/SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) <br/>Create beautiful animated panorama views. Inspired [...] | 141 |
-| 461. | [vitoziv/VIPhotoView](https://github.com/vitoziv/VIPhotoView) <br/>View a photo with simple and basic interactive ges [...] | 141 |
+| 458. | [brockgr/csshx](https://github.com/brockgr/csshx) <br/>Automatically exported from code.google.com/p/cssh... | 141 |
+| 459. | [lovemo/MVVMFramework](https://github.com/lovemo/MVVMFramework) <br/>(OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionVie... | 141 |
+| 460. | [sachinkesiraju/SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) <br/>Create beautiful animated panorama views. Inspired... | 141 |
+| 461. | [vitoziv/VIPhotoView](https://github.com/vitoziv/VIPhotoView) <br/>View a photo with simple and basic interactive ges... | 141 |
 | 462. | [neonichu/tvOS-headers](https://github.com/neonichu/tvOS-headers) <br/>class-dump of tvOS headers from Xcode 7.1 beta 1 | 140 |
 | 463. | [CharlinFeng/CorePagesView](https://github.com/CharlinFeng/CorePagesView) <br/>列表滚动视图，性能王者！ | 140 |
-| 464. | [apptality/ATAppUpdater](https://github.com/apptality/ATAppUpdater) <br/>Checks if there is a newer version of your app in  [...] | 140 |
+| 464. | [apptality/ATAppUpdater](https://github.com/apptality/ATAppUpdater) <br/>Checks if there is a newer version of your app in... | 140 |
 | 465. | [lazerwalker/cortado](https://github.com/lazerwalker/cortado) <br/>Caffeine tracking for everyone | 140 |
 | 466. | [HorizonCamera/HorizonSDK-iOS](https://github.com/HorizonCamera/HorizonSDK-iOS) <br/>HorizonSDK for iOS | 140 |
 | 467. | [gemr/Sheriff](https://github.com/gemr/Sheriff) <br/>Badgify anything. | 140 |
@@ -477,33 +477,33 @@
 | 471. | [LeoiOS/LCActionSheet](https://github.com/LeoiOS/LCActionSheet) <br/>一个简约优雅的ActionSheet。微信和新浪微博也是采取类似的ActionSheet。 | 139 |
 | 472. | [alexruperez/UILabel-AutomaticWriting](https://github.com/alexruperez/UILabel-AutomaticWriting) <br/>UILabel category with automatic writing animation. | 139 |
 | 473. | [parakeety/PKYStepper](https://github.com/parakeety/PKYStepper) <br/>UIControl with label & stepper combined | 138 |
-| 474. | [gservera/ScheduleKit](https://github.com/gservera/ScheduleKit) <br/>ScheduleKit is a new graphical event management fr [...] | 138 |
+| 474. | [gservera/ScheduleKit](https://github.com/gservera/ScheduleKit) <br/>ScheduleKit is a new graphical event management fr... | 138 |
 | 475. | [dopcn/DOPNavbarMenu](https://github.com/dopcn/DOPNavbarMenu) <br/>expand navigationbar with more items | 137 |
 | 476. | [coderyi/MVVMDemo](https://github.com/coderyi/MVVMDemo) <br/>MVVM应用在iOS的Demo，主要通过经典的TableView来演示 | 137 |
-| 477. | [Alterplay/APOfflineReverseGeocoding](https://github.com/Alterplay/APOfflineReverseGeocoding) <br/>Offline reverse geocoding library written in Objec [...] | 136 |
-| 478. | [litoarias/HACClusterMapViewController](https://github.com/litoarias/HACClusterMapViewController) <br/>HACClusterMapViewController class is written in Ob [...] | 136 |
+| 477. | [Alterplay/APOfflineReverseGeocoding](https://github.com/Alterplay/APOfflineReverseGeocoding) <br/>Offline reverse geocoding library written in Objec... | 136 |
+| 478. | [litoarias/HACClusterMapViewController](https://github.com/litoarias/HACClusterMapViewController) <br/>HACClusterMapViewController class is written in Ob... | 136 |
 | 479. | [johanneslumpe/react-native-keyboardevents](https://github.com/johanneslumpe/react-native-keyboardevents) <br/>Keyboard events for react-native | 136 |
-| 480. | [casatwy/CTJSBridge](https://github.com/casatwy/CTJSBridge) <br/>a javascript bridge for iOS app to interact with h [...] | 135 |
-| 481. | [qfish/QLImageset](https://github.com/qfish/QLImageset) <br/>QuickLook generator for package or directory with  [...] | 134 |
-| 482. | [CoderJackyHuang/HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) <br/>A strong and convenience control for ad loop scrol [...] | 134 |
-| 483. | [ibireme/YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) <br/>iOS utility classes for asynchronous rendering and [...] | 134 |
-| 484. | [XiaoYulong/YLSwipeLockView](https://github.com/XiaoYulong/YLSwipeLockView) <br/>a swipe password view to unlock an application wri [...] | 133 |
-| 485. | [hharnisc/react-native-meteor](https://github.com/hharnisc/react-native-meteor) <br/>An example that brings Meteor and React Native tog [...] | 133 |
+| 480. | [casatwy/CTJSBridge](https://github.com/casatwy/CTJSBridge) <br/>a javascript bridge for iOS app to interact with h... | 135 |
+| 481. | [qfish/QLImageset](https://github.com/qfish/QLImageset) <br/>QuickLook generator for package or directory with... | 134 |
+| 482. | [CoderJackyHuang/HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) <br/>A strong and convenience control for ad loop scrol... | 134 |
+| 483. | [ibireme/YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) <br/>iOS utility classes for asynchronous rendering and... | 134 |
+| 484. | [XiaoYulong/YLSwipeLockView](https://github.com/XiaoYulong/YLSwipeLockView) <br/>a swipe password view to unlock an application wri... | 133 |
+| 485. | [hharnisc/react-native-meteor](https://github.com/hharnisc/react-native-meteor) <br/>An example that brings Meteor and React Native tog... | 133 |
 | 486. | [CodeFalling/MacGesture](https://github.com/CodeFalling/MacGesture) <br/>Global mouse gesture for Mac OS X | 133 |
 | 487. | [johanneslumpe/react-native-fs](https://github.com/johanneslumpe/react-native-fs) <br/>Native filesystem access for react-native | 132 |
 | 488. | [lcddhr/QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo) <br/>防微信二维码扫描，中间透明区域 | 132 |
 | 489. | [ibireme/YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) <br/>iOS utility class to manage global dispatch queue. | 131 |
-| 490. | [ibireme/YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) <br/>iOS utility class allows you to access keyboard vi [...] | 131 |
-| 491. | [radianttap/WatchRingGenerator](https://github.com/radianttap/WatchRingGenerator) <br/>iOS app to generate series of PNG images, to be us [...] | 131 |
+| 490. | [ibireme/YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) <br/>iOS utility class allows you to access keyboard vi... | 131 |
+| 491. | [radianttap/WatchRingGenerator](https://github.com/radianttap/WatchRingGenerator) <br/>iOS app to generate series of PNG images, to be us... | 131 |
 | 492. | [CharlinFeng/CoreNewFeatureVC](https://github.com/CharlinFeng/CoreNewFeatureVC) <br/>版本新特性 | 131 |
-| 493. | [JC-Hu/JHCellConfig](https://github.com/JC-Hu/JHCellConfig) <br/>Flexible way to build a UITableView contains diffe [...] | 130 |
-| 494. | [fergusding/FDSlideBar](https://github.com/fergusding/FDSlideBar) <br/>A custom slide bar like the top slide menu of NTES [...] | 130 |
-| 495. | [rcmcastro/whatsapp-ios](https://github.com/rcmcastro/whatsapp-ios) <br/>A simple message UI library similar to WhatsApp ap [...] | 129 |
+| 493. | [JC-Hu/JHCellConfig](https://github.com/JC-Hu/JHCellConfig) <br/>Flexible way to build a UITableView contains diffe... | 130 |
+| 494. | [fergusding/FDSlideBar](https://github.com/fergusding/FDSlideBar) <br/>A custom slide bar like the top slide menu of NTES... | 130 |
+| 495. | [rcmcastro/whatsapp-ios](https://github.com/rcmcastro/whatsapp-ios) <br/>A simple message UI library similar to WhatsApp ap... | 129 |
 | 496. | [hunk/SlideMenu3D](https://github.com/hunk/SlideMenu3D) <br/>A small class for lateral menu with 3D effect | 129 |
 | 497. | [naoufal/react-native-activity-view](https://github.com/naoufal/react-native-activity-view) <br/>iOS share and action sheets for React Native | 129 |
-| 498. | [jordanbyron/react-native-quick-actions](https://github.com/jordanbyron/react-native-quick-actions) <br/>A react-native interface for Touch 3D home screen  [...] | 129 |
+| 498. | [jordanbyron/react-native-quick-actions](https://github.com/jordanbyron/react-native-quick-actions) <br/>A react-native interface for Touch 3D home screen... | 129 |
 | 499. | [cjwl/cocotron](https://github.com/cjwl/cocotron) <br/>The Cocotron | 129 |
-| 500. | [LeoiOS/LCDownloadManager](https://github.com/LeoiOS/LCDownloadManager) <br/>一个简单易用的下载助手。基于AFN，实现断点续传，采取Block方式回调下载进度、文件大小、下载是否 [...] | 129 |
+| 500. | [LeoiOS/LCDownloadManager](https://github.com/LeoiOS/LCDownloadManager) <br/>一个简单易用的下载助手。基于AFN，实现断点续传，采取Block方式回调下载进度、文件大小、下载是否... | 129 |
 
 ## Most-Starred Users: Objective-C
 

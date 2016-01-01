@@ -5,11 +5,11 @@
 | | Repo | Stars |
 |---|---|---|
 | 1. | [Jack000/Expose](https://github.com/Jack000/Expose) <br/>A simple static site generator for photoessays | 3415 |
-| 2. | [AlDanial/cloc](https://github.com/AlDanial/cloc) <br/>cloc counts blank lines, comment lines, and physic [...] | 446 |
+| 2. | [AlDanial/cloc](https://github.com/AlDanial/cloc) <br/>cloc counts blank lines, comment lines, and physic... | 446 |
 | 3. | [jfrazelle/dotfiles](https://github.com/jfrazelle/dotfiles) <br/>My dotfiles | 285 |
 | 4. | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) <br/>:computer: :mortar_board: A Git-it Desktop App | 211 |
 | 5. | [23andMe/djdt-flamegraph](https://github.com/23andMe/djdt-flamegraph) <br/>Flamegraphs for Django Debug Toolbar | 102 |
-| 6. | [HeitorG/nipe](https://github.com/HeitorG/nipe) <br/>Script to redirect all traffic from the machine to [...] | 101 |
+| 6. | [HeitorG/nipe](https://github.com/HeitorG/nipe) <br/>Script to redirect all traffic from the machine to... | 101 |
 
 ## Most-Starred Users: Perl
 

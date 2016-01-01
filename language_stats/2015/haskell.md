@@ -4,30 +4,30 @@
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) <br/>Functional Programming concepts, examples and patt [...] | 1886 |
+| 1. | [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) <br/>Functional Programming concepts, examples and patt... | 1886 |
 | 2. | [commercialhaskell/stack](https://github.com/commercialhaskell/stack) <br/>The Haskell Tool Stack | 1326 |
-| 3. | [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) <br/>Building a modern functional compiler from first p [...] | 978 |
-| 4. | [drKraken/haskell-must-watch](https://github.com/drKraken/haskell-must-watch) <br/>:book: Huge list of  videos, talks , courses for H [...] | 491 |
-| 5. | [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph) <br/>A DSL for deep neural networks, supporting Caffe a [...] | 389 |
-| 6. | [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015) <br/>FP101x - Functional Programming MOOC 2015 Content  [...] | 273 |
+| 3. | [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) <br/>Building a modern functional compiler from first p... | 978 |
+| 4. | [drKraken/haskell-must-watch](https://github.com/drKraken/haskell-must-watch) <br/>:book: Huge list of  videos, talks , courses for H... | 491 |
+| 5. | [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph) <br/>A DSL for deep neural networks, supporting Caffe a... | 389 |
+| 6. | [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015) <br/>FP101x - Functional Programming MOOC 2015 Content... | 273 |
 | 7. | [Gabriel439/Haskell-Turtle-Library](https://github.com/Gabriel439/Haskell-Turtle-Library) <br/>Shell programming, Haskell style | 269 |
 | 8. | [MaiaVictor/caramel](https://github.com/MaiaVictor/caramel) <br/>A modern syntax for the λ-calculus. | 250 |
 | 9. | [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) <br/>The engine for haskell ide-integration. Not an IDE | 250 |
 | 10. | [itchyny/sjsp](https://github.com/itchyny/sjsp) <br/>Simple JavaScript Profiler | 199 |
 | 11. | [GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor) <br/>A Haskell implementation of the Tor protocol. | 196 |
 | 12. | [michaelochurch/summer-2015-haskell-class](https://github.com/michaelochurch/summer-2015-haskell-class) <br/>Summer 2015 Haskell Class | 186 |
-| 13. | [osener/markup.rocks](https://github.com/osener/markup.rocks) <br/>Pandoc based document editor and converter in your [...] | 176 |
+| 13. | [osener/markup.rocks](https://github.com/osener/markup.rocks) <br/>Pandoc based document editor and converter in your... | 176 |
 | 14. | [lukexi/halive](https://github.com/lukexi/halive) <br/>Live recompiler for Haskell | 173 |
-| 15. | [helium/airship](https://github.com/helium/airship) <br/>Helium + Webmachine = Airship. A toolkit for build [...] | 169 |
+| 15. | [helium/airship](https://github.com/helium/airship) <br/>Helium + Webmachine = Airship. A toolkit for build... | 169 |
 | 16. | [nikita-volkov/record](https://github.com/nikita-volkov/record) <br/>Anonymous records | 163 |
 | 17. | [commercialhaskell/haskelldocumentation](https://github.com/commercialhaskell/haskelldocumentation) <br/>Repository for collaborative Haskell documentation | 148 |
 | 18. | [kerkomen/rei](https://github.com/kerkomen/rei) <br/>Process lists easily | 145 |
 | 19. | [passy/android-lint-summary](https://github.com/passy/android-lint-summary) <br/>Prettier display of Android Lint issues | 126 |
-| 20. | [mikeizbicki/HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin) <br/>GHC plugin that improves Haskell code's numerical  [...] | 123 |
+| 20. | [mikeizbicki/HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin) <br/>GHC plugin that improves Haskell code's numerical... | 123 |
 | 21. | [frp-arduino/frp-arduino](https://github.com/frp-arduino/frp-arduino) <br/>Arduino programming without the hassle of C. | 113 |
-| 22. | [xmonad/xmonad](https://github.com/xmonad/xmonad) <br/>The core of xmonad, a small but functional ICCCM-c [...] | 110 |
-| 23. | [ollef/Earley](https://github.com/ollef/Earley) <br/>Parsing all context-free grammars using Earley's a [...] | 108 |
-| 24. | [k-bx/owlcloud](https://github.com/k-bx/owlcloud) <br/>OwnCloud for owls done via The Microservice Archit [...] | 103 |
+| 22. | [xmonad/xmonad](https://github.com/xmonad/xmonad) <br/>The core of xmonad, a small but functional ICCCM-c... | 110 |
+| 23. | [ollef/Earley](https://github.com/ollef/Earley) <br/>Parsing all context-free grammars using Earley's a... | 108 |
+| 24. | [k-bx/owlcloud](https://github.com/k-bx/owlcloud) <br/>OwnCloud for owls done via The Microservice Archit... | 103 |
 
 ## Most-Starred Users: Haskell
 
