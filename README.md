@@ -6,9 +6,9 @@
 
 > The **most-starred** GitHub repos **created in** 2015, the past six months, or the past three months.
 
-`gh-stats` is a community project powered by the [GitHub API](https://developer.github.com/v3/) and is not affiliated with GitHub.
+`gh-stats` is a community project powered by the GitHub API and is not affiliated with GitHub.
 
-### [TLDR: Just show me the stats](#stats-index).
+**[TLDR: `GOTO stats`](#stats-index)**
 
 ## Motivation
 
@@ -18,7 +18,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 `gh-stats` is meant to **supplement** existing tools by **filtering only on the most-starred repos created within a specific timeframe.**
 
-*Why stars?  Check out the discussion in the the [method](#method) section.*
+*Why stars?  Check out the discussion in the the [method](#why-stars) section.*
 
 #### `gh-stats 2015`:
 
@@ -43,7 +43,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 `gh-stats` is powered by the [GitHub API](https://developer.github.com/v3/).
 
-You can run similar queries through [GitHub Search](https://github.com/search).  To view the most-starred JavaScript repos created in 2015, you can run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
+You can run similar queries manually through [GitHub Search](https://github.com/search).  To view the most-starred JavaScript repos created in 2015, you can run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
 
     created:2015-01-01..2015-12-31 stars:>=100 language:javascript
 
@@ -51,20 +51,25 @@ To check stats for a user's or an org's repos that were created in 2015, run:
 
     created:2015-01-01..2015-12-31 stars:>=100 user:user_name
 
-### Why Are My Search Results Different from `gh-stats 2015`?
+### Why Are My 2015 Search Results Different from `gh-stats 2015`?
 
 * Star counts from the searches above will show data up to the time you performed the search.
-* The `gh-stats 2015` stars were mined on January 1, 2016, between 00:00 to 01:00 PDT, and are preserved [here](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015_frozen).
+* The `gh-stats 2015` stars were mined on `January 1, 2016, between 00:00 to 01:00 PDT`, and are preserved [here](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015_frozen).
 
-### Why Restrict Searches to `stars:>=100`?
+### Why Restrict Search Results to `stars:>=100`?
 
-Only repos with **`stars:>=100`** are tracked to help filter GitHub's rapidly growing **30+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).  Further optimizations to the source code could reduce this restriction.
+Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growing **30+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).  Further optimizations to the source code could reduce this restriction in the future.
 
 ### Why Stars?
 
-`gh-stats` provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a simple and fairly effective measure of interest.
+`gh-stats` provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a **simple and fairly effective measure of interest**.  For a more detailed discussion on this topic, refer to the publication ["On the Popularity of GitHub Applications:
+A Preliminary Note"](https://github.com/donnemartin/gh-stats/blob/master/assets/gh-stats.pdf) which concludes:
 
-In the future, other stats such as forks could be included, even for `gh-stats 2015`.  Forks for the year 2015 were mined on January 1, 2016, between 02:00 to 03:00 PDT, and are preserved [here](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015_with_forks).
+>The number of stars of a system tends to correlate not only with the number of forks, but
+also with its effective usage by other client applications, which reinforces the importance
+of stars as a real measure of a system’s popularity.
+
+In the future, other stats such as forks could be included, even for `gh-stats 2015`.  Forks for the year 2015 were mined on `January 1, 2016, between 02:00 to 03:00 PDT`, and are preserved [here](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015_with_forks).
 
 ### How Are Stats for Users and Orgs Calculated?
 
@@ -72,9 +77,11 @@ To provide star counts for users and orgs, `gh-stats` groups repo stars by user 
 
 ### Which Languages Are Tracked?
 
-Grouping in the [Language Stats Index](#language-stats-index) is based on repo language as identified by [github/linguist](https://github.com/github/linguist).
+Stats available from the [Language Stats Index](#language-stats-index) are grouped based on repo language, as identified by [github/linguist](https://github.com/github/linguist).
 
-`gh-stats` tracks the most popular languages on GitHub plus the `Unknown` language option.  Data from each language is tallied to determine the [overall stats](#stats-index).
+`gh-stats` tracks the most popular languages on GitHub plus the `Unknown` language option.  Data from each language is tallied to determine the [Overall Stats](#stats-index).
+
+Don't see a popular language below?  Feel free to file a [request](https://github.com/donnemartin/gh-stats/issues).
 
 ```
 self.languages = [
@@ -107,7 +114,7 @@ self.languages = [
 
 ## Stats Index
 
-### Overall Stats
+### Overall Stats Index
 
 >The **100 Overall Most-Starred** Repos, Users, and Orgs.
 
@@ -115,9 +122,11 @@ self.languages = [
 * [Users](#most-starred-users-overall)
 * [Orgs](#most-starred-orgs-overall)
 
-### GOTO: [Language Stats Index](#language-stats-index)
+### View the Language Stats Index
 
 >Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+Link: [Language Stats Index](#language-stats-index)
 
 ## Most-Starred Repos: Overall
 
