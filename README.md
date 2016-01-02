@@ -4,62 +4,75 @@
 
 # gh-stats
 
-> The **most-starred** GitHub projects **created in** 2015, the past six months, or the past three months.  Also provides misc stats plus the most-starred users and orgs, grouped by Language and Overall.
+> The **most-starred** GitHub repos **created in** 2015, the past six months, or the past three months.
 
-`gh-stats` is a community project and is not affiliated with GitHub.
+`gh-stats` is a community project powered by the [GitHub API](https://developer.github.com/v3/) and is not affiliated with GitHub.
+
+### [TLDR: Just show me the stats](#stats-index).
 
 ## Motivation
 
->Have you ever wondered what were the most-starred repos created in 2015?  How about the past three or six months?  Did Amazon, Apple, Facebook, Google, or Microsoft have the 'trendiest' repos?  How about individual contributors?
+>Ever wonder what are the most-starred repos created in 2015?  The past six months?  The past three months?
 
-Although [GitHub Trending](https://github.com/trending) is a **great way to discover up-and-coming projects**, it only allows you to look at **up to one month** of data.  Third-party sites often show **all-time stats that are relatively static**, as they are dominated by well-established repos.
+Although [GitHub Trending](https://github.com/trending) is a **great tool to discover up-and-coming projects**, it allows you to review **only one month** of data.  Third-party sites often show **all-time stats that are relatively static**, as they are dominated by well-established repos.
 
-**`gh-stats` filters only on the latest repos created within a specific timeframe.**
+`gh-stats` is meant to **supplement** existing tools by **filtering only on the most-starred repos created within a specific timeframe.**
 
-*`gh-stats` provides stats for repos, developers, and orgs by stars.  Stars are by no means a perfect metric, yet they are a simple and fairly effective measure of interest.*
+*Why stars?  Check out the discussion in the the [method](#method) section.*
 
 #### `gh-stats 2015`:
 
-* **Only tracks repos created within 2015**.
-* Provides stats for the entire 2015 year.*
-
-**Data mined on January 1, 2016 between 00:00 to 01:00 PDT.*
+* Only tracks repos created within 2015.
+* Provides stats for the entire 2015 year.
 
 #### `gh-stats Six Months`, `Three Months`:
 
-* **Only tracks repos created within the past six months or three months**.
+* Only tracks repos created within the past six months or three months.
 * Updated regularly.
 * *Coming soon.*
 
 #### `gh-stats` is also:
 
 * Hosted on GitHub, no need to visit a third-party site.
-* Open source, [contributions](https://github.com/donnemartin/gh-stats/blob/master/CONTRIBUTING.md) are welcome.
-* Under active development, providing more stats in the future.  [Feedback](https://github.com/donnemartin/gh-stats/issues) is  welcome.
+* Open source ([contributions](https://github.com/donnemartin/gh-stats/blob/master/CONTRIBUTING.md) are welcome).
+* Under active development, providing more stats in the future ([feedback](https://github.com/donnemartin/gh-stats/issues) is  welcome).
 
 ## Method
 
-`gh-stats` is powered by the [GitHub API](https://developer.github.com/v3/).  You can verify the results through [GitHub Search](https://github.com/search).  For example, to view the [Most-Starred Javascript Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/javascript.md#most-starred-repos-javascript) you can run the following query on [GitHub Search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D100+language%3Ajavascript&ref=simplesearch):
+>`gh-stats` only tracks repos created within a specified timeframe.  For example, `gh-stats 2015` will only track repos created within the year 2015.
 
-    created:>=2015-01-01 stars:>=100 language:javascript
+`gh-stats` is powered by the [GitHub API](https://developer.github.com/v3/).
 
-To check stats for a user or org, run:
+You can run similar queries through [GitHub Search](https://github.com/search).  To view the most-starred JavaScript repos created in 2015, you can run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
 
-    created:>=2015-01-01 stars:>=100 user:user_name
+    created:2015-01-01..2015-12-31 stars:>=100 language:javascript
 
-**Note**: Only repos with **`stars:>=100`** are tracked to help filter GitHub's rapidly growing **30+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).
+To check stats for a user's or an org's repos that were created in 2015, run:
 
->`gh-stats` provides stats for repos, developers, and orgs by stars.  Stars are by no means a perfect metric, yet they are a simple and fairly effective measure of interest.
->
->`gh-stats` only tracks repos created within the specified timeframe.  For example, `gh-stats 2015` will only track repos created within the year 2015.
+    created:2015-01-01..2015-12-31 stars:>=100 user:user_name
 
-### Stats for Users and Orgs
+### Why Are My Search Results Different from `gh-stats 2015`?
 
-To provide star counts for users and orgs, `gh-stats` simply groups repo stars by user or org.  Note the `stars:>=100` restriction still applies to repos counted towards users and orgs.
+* Star counts from the searches above will show data up to the time you performed the search.
+* The `gh-stats 2015` stars were mined on January 1, 2016, between 00:00 to 01:00 PDT, and are preserved [here](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015_frozen).
 
-### Languages
+### Why Restrict Searches to `stars:>=100`?
 
-Grouping is based on repo language as identified by [github/linguist](https://github.com/github/linguist).
+Only repos with **`stars:>=100`** are tracked to help filter GitHub's rapidly growing **30+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).  Further optimizations to the source code could reduce this restriction.
+
+### Why Stars?
+
+`gh-stats` provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a simple and fairly effective measure of interest.
+
+In the future, other stats such as forks could be included, even for `gh-stats 2015`.  Forks for the year 2015 were mined on January 1, 2016, between 02:00 to 03:00 PDT, and are preserved [here](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015_with_forks).
+
+### How Are Stats for Users and Orgs Calculated?
+
+To provide star counts for users and orgs, `gh-stats` groups repo stars by user or org.  Note the `stars:>=100` restriction still applies to counted repos.
+
+### Which Languages Are Tracked?
+
+Grouping in the [Language Stats Index](#language-stats-index) is based on repo language as identified by [github/linguist](https://github.com/github/linguist).
 
 `gh-stats` tracks the most popular languages on GitHub plus the `Unknown` language option.  Data from each language is tallied to determine the [overall stats](#stats-index).
 
@@ -94,16 +107,17 @@ self.languages = [
 
 ## Stats Index
 
-The **100 overall most-starred**:
+### Overall Stats
 
-* [Repos](https://github.com/donnemartin/gh-stats#most-starred-repos-overall)
-* [Users](https://github.com/donnemartin/gh-stats#most-starred-users-overall)
-* [Orgs](https://github.com/donnemartin/gh-stats#most-starred-orgs-overall)
+>The **100 Overall Most-Starred** Repos, Users, and Orgs.
 
-Check out the [Language Index](#language-index) to view:
+* [Repos](#most-starred-repos-overall)
+* [Users](#most-starred-users-overall)
+* [Orgs](#most-starred-orgs-overall)
 
-* Up to 500 of the most-starred repos, users, and orgs, overall.
-* Up to 500 of the most-starred repos, users, and orgs, organized by language.
+### GOTO: [Language Stats Index](#language-stats-index)
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
 ## Most-Starred Repos: Overall
 
@@ -420,14 +434,14 @@ Check out the [Language Index](#language-index) to view:
 | 99. | [Karumi](https://github.com/Karumi)  | [Dexter](https://github.com/Karumi/Dexter)  (1015) <br/>[Dividers](https://github.com/Karumi/Dividers)  (358) <br/>[ExpandableSelector](https://github.com/Karumi/ExpandableSelector)  (356) <br/>[HeaderRecyclerView](https://github.com/Karumi/HeaderRecyclerView)  (314) <br/>[BothamUI](https://github.com/Karumi/BothamUI)  (157) <br/> | 2200 |
 | 100. | [clef](https://github.com/clef)  | [handbook](https://github.com/clef/handbook)  (2194) <br/> | 2194 |
 
-## Language Index
+## Language Stats Index
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.*
 
 
-View up to 500 of the most-starred repos, users, and orgs, organized by language.
-
-Because of the large number of languages tracked and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).
-
-| Language | Links |
+| Language | 2015 |
 |---|---|
 | JavaScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/javascript.md#most-starred-repos-javascript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/javascript.md#most-starred-users-javascript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/javascript.md#most-starred-orgs-javascript) |
 | Java | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/java.md#most-starred-repos-java) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/java.md#most-starred-users-java) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/java.md#most-starred-orgs-java) |
