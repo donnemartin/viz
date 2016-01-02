@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.clker.com/cliparts/v/P/n/K/B/P/stars-md.png">
+  <img src="http://i.imgur.com/WwVhjkM.png">
 </p>
 
 # gh-stats
