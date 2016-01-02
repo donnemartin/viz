@@ -43,7 +43,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 `gh-stats` is powered by the [GitHub API](https://developer.github.com/v3/).
 
-You can run similar queries manually through [GitHub Search](https://github.com/search).  To view the most-starred JavaScript repos created in 2015, you can run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
+You can run similar queries manually through [GitHub Search](https://github.com/search).  To view the most-starred JavaScript repos created in 2015, run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
 
     created:2015-01-01..2015-12-31 stars:>=100 language:javascript
 
