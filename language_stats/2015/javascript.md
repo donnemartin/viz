@@ -1398,12 +1398,12 @@
 | 382. | [foretagsplatsen](https://github.com/foretagsplatsen)  | [numbro](https://github.com/foretagsplatsen/numbro)  (100) <br/> | 100 |
 | 383. | [Ezelia](https://github.com/Ezelia)  | [EZGUI](https://github.com/Ezelia/EZGUI)  (100) <br/> | 100 |
 
-## Language Index
+## Language Stats Index
 
 
-The **500 most-starred** repos, users, and orgs, organized by language.
+>Up to **500 of the Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
-Because of the number of languages tracked and the resulting lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.*
 
 
 | Language | Links |

@@ -265,12 +265,12 @@
 | 33. | [elementary](https://github.com/elementary)  | [mvp](https://github.com/elementary/mvp)  (308) <br/>[icons](https://github.com/elementary/icons)  (110) <br/> | 110 |
 | 34. | [travis-ci](https://github.com/travis-ci)  | [gimme](https://github.com/travis-ci/gimme)  (106) <br/> | 106 |
 
-## Language Index
+## Language Stats Index
 
 
-The **500 most-starred** repos, users, and orgs, organized by language.
+>Up to **500 of the Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
-Because of the number of languages tracked and the resulting lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.*
 
 
 | Language | Links |

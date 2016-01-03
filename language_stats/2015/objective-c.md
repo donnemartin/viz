@@ -952,12 +952,12 @@
 | 72. | [agilie](https://github.com/agilie)  | [AGLocationDispatcher](https://github.com/agilie/AGLocationDispatcher)  (103) <br/> | 103 |
 | 73. | [Opinionz](https://github.com/Opinionz)  | [OpinionzAlertView](https://github.com/Opinionz/OpinionzAlertView)  (102) <br/> | 102 |
 
-## Language Index
+## Language Stats Index
 
 
-The **500 most-starred** repos, users, and orgs, organized by language.
+>Up to **500 of the Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
-Because of the number of languages tracked and the resulting lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.*
 
 
 | Language | Links |
