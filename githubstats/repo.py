@@ -14,6 +14,23 @@
 # language governing permissions and limitations under the License.
 
 class Repo(object):
+    """GitHub repo.
+
+    :type full_name: str
+    :param full_name: The repos's full name (donnemartin/gh-stars).
+
+    :type stars: int
+    :param stars: The repos's total stars.
+
+    :type forks: int
+    :param forks: The repos's total forks.
+
+    :type description: str
+    :param description: The repos's description.
+
+    :type language: str
+    :param language: The repos's language.
+    """
 
     def __init__(self, full_name, stars, forks, description, language):
         self.full_name = full_name
