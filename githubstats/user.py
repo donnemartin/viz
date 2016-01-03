@@ -14,6 +14,23 @@
 # language governing permissions and limitations under the License.
 
 class User(object):
+    """GitHub user.
+
+    :type id: str
+    :param id: The user's id or login name.
+
+    :type name: str (optional)
+    :param name: The user's name.
+
+    :type type: str (optional)
+    :param type: The user type: 'User' or 'Organization'.
+
+    :type location: str (optional)
+    :param location: The user's location.
+
+    :type stars: int (optional)
+    :param stars: The user's total repo stars.
+    """
 
     def __init__(self, id, name=None, type=None, location=None, stars=None):
         self.id = id
