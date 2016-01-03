@@ -30,7 +30,7 @@
 | 24. | [cparnot/ASCIImage](https://github.com/cparnot/ASCIImage) <br/>Create UIImage / NSImage instances with NSString a... | 1500 |
 | 25. | [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) <br/>Build a Swift App as a designer | 1489 |
 | 26. | [forkingdog/FDStackView](https://github.com/forkingdog/FDStackView) <br/>Use UIStackView directly in iOS6+ | 1485 |
-| 27. | [100apps/openshare](https://github.com/100apps/openshare) <br/>不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。 | 1467 |
+| 27. | [100apps/openshare](https://github.com/100apps/openshare) <br/>不用官方SDK，利用社交软件移动客户端(微信/QQ/... | 1467 |
 | 28. | [square/Valet](https://github.com/square/Valet) <br/>Valet lets you securely store data in the iOS or O... | 1459 |
 | 29. | [Draveness/DKNightVersion](https://github.com/Draveness/DKNightVersion) <br/>:full_moon: Integrate night mode/theme to your iOS... | 1391 |
 | 30. | [dsxNiubility/SXNews](https://github.com/dsxNiubility/SXNews) <br/>High imitation Neteasy News. (include list,detail,... | 1367 |
@@ -47,7 +47,7 @@
 | 41. | [NYTimes/NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer)  | 1184 |
 | 42. | [kevin0571/STPopup](https://github.com/kevin0571/STPopup) <br/>STPopup provides STPopupController, which works ju... | 1166 |
 | 43. | [facebook/FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) <br/>A Mac OS X library for managing and manipulating i... | 1160 |
-| 44. | [12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) <br/>TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混... | 1152 |
+| 44. | [12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) <br/>TYAttributedLabel 简单，强大的属性文本控件(无需... | 1152 |
 | 45. | [ZhongTaoTian/WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity) <br/>高仿城觅by-objective-c | 1124 |
 | 46. | [36Kr-Mobile/KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) <br/>类似Weico的播放器，支持竖屏模式下全屏播放 | 1123 |
 | 47. | [zpz1237/NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0) <br/>Swift精仿知乎日报iOS端 | 1115 |
@@ -75,7 +75,7 @@
 | 69. | [GabrielAlva/Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) <br/>A fully customisable and modern camera implementat... | 866 |
 | 70. | [PavelKatunin/DownloadButton](https://github.com/PavelKatunin/DownloadButton) <br/>Customizable App Store style download button | 856 |
 | 71. | [DavdRoman/Bohr](https://github.com/DavdRoman/Bohr) <br/>Settings screen composing framework | 852 |
-| 72. | [lookingstars/meituan](https://github.com/lookingstars/meituan) <br/>高仿美团iOS版，版本号5.7。/**作者：ljz ; Q Q：863784757  ;  注明：版... | 851 |
+| 72. | [lookingstars/meituan](https://github.com/lookingstars/meituan) <br/>高仿美团iOS版，版本号5.7。/**作者：ljz ; Q Q：86378... | 851 |
 | 73. | [fdzsergio/SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) <br/>UICollectionViewLayout with focused content | 844 |
 | 74. | [dsxNiubility/SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate) <br/>Achieve beautiful wavewater animate. | 839 |
 | 75. | [Instagram/IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable) <br/>A category on WKInterfaceTable that makes configur... | 833 |
@@ -121,16 +121,16 @@
 | 115. | [mamaral/Organic](https://github.com/mamaral/Organic) <br/>The intuitive UITableViewController. | 611 |
 | 116. | [CharlinFeng/CoreModel](https://github.com/CharlinFeng/CoreModel) <br/>Replace CoreData | 598 |
 | 117. | [wangmchn/WMPageController](https://github.com/wangmchn/WMPageController) <br/>An easy solution to page controllers like NetEase... | 597 |
-| 118. | [gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout) <br/>AutoLayout   一行代码搞定自动布局！支持Cell和Tableview高度自适应，Labe... | 593 |
+| 118. | [gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout) <br/>AutoLayout   一行代码搞定自动布局！支持Cell和Table... | 593 |
 | 119. | [lyimin/beautifulApp](https://github.com/lyimin/beautifulApp) <br/>this is a beautiful app 0.0 | 582 |
 | 120. | [coderyi/NetworkEye](https://github.com/coderyi/NetworkEye) <br/>a iOS network debug library ,It can monitor HTTP r... | 580 |
 | 121. | [CharlinFeng/CoreLock](https://github.com/CharlinFeng/CoreLock) <br/>高仿支付宝解锁 | 580 |
 | 122. | [Glow-Inc/GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) <br/>A fully customizable calendar view acting as a dat... | 556 |
 | 123. | [krishkumar/BlockParty](https://github.com/krishkumar/BlockParty) <br/>Safari Content Blocker App for iOS 9 and OSX | 550 |
 | 124. | [facebookexperimental/spacetime](https://github.com/facebookexperimental/spacetime) <br/>Experimental iOS library for live transformations... | 543 |
-| 125. | [12207480/DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) <br/>DOPDropDownMenu 添加双列表 优化版 新增图片支持（double tableView,... | 532 |
+| 125. | [12207480/DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced) <br/>DOPDropDownMenu 添加双列表 优化版 新增图片... | 532 |
 | 126. | [ibireme/YYCache](https://github.com/ibireme/YYCache) <br/>High performance cache framework for iOS. | 531 |
-| 127. | [lingochamp/Diplomat](https://github.com/lingochamp/Diplomat) <br/>整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。 | 526 |
+| 127. | [lingochamp/Diplomat](https://github.com/lingochamp/Diplomat) <br/>整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplom... | 526 |
 | 128. | [hanton/HTY360Player](https://github.com/hanton/HTY360Player) <br/>Open Source iOS 360 Degree Panorama Video Player. | 517 |
 | 129. | [vampirewalk/ObjectGraph-Xcode](https://github.com/vampirewalk/ObjectGraph-Xcode) <br/>ObjectGraph can show oriented graph of dependencie... | 515 |
 | 130. | [KittenYang/A-GUIDE-TO-iOS-ANIMATION](https://github.com/KittenYang/A-GUIDE-TO-iOS-ANIMATION) <br/>The source code of my new eBook —— A GUIDE TO IOS... | 514 |
@@ -146,7 +146,7 @@
 | 140. | [12207480/TYAlertController](https://github.com/12207480/TYAlertController) <br/>Powerful, Easy to use alert view or popup view on... | 485 |
 | 141. | [hsousa/HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) <br/>Simple star rating view for iOS written in Objecti... | 469 |
 | 142. | [robb/FLXView](https://github.com/robb/FLXView) <br/>A UIView that uses Flexbox for layouting. :sparkle... | 467 |
-| 143. | [MxABC/LBXScan](https://github.com/MxABC/LBXScan) <br/>A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和io... | 463 |
+| 143. | [MxABC/LBXScan](https://github.com/MxABC/LBXScan) <br/>A barcode and qr code scanner (二维码、扫码、扫一... | 463 |
 | 144. | [Friend-LGA/LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController) <br/>iOS side menu view controller shows left and right... | 459 |
 | 145. | [NSRare/NSGIF](https://github.com/NSRare/NSGIF) <br/>iOS Library for converting videos to animated GIFs... | 457 |
 | 146. | [gsdios/GSD_ZHIFUBAO](https://github.com/gsdios/GSD_ZHIFUBAO) <br/>支付宝高仿版 | 457 |
@@ -155,7 +155,7 @@
 | 149. | [zulip/zulip-ios](https://github.com/zulip/zulip-ios) <br/>Zulip iOS app | 446 |
 | 150. | [KittenYang/Animations](https://github.com/KittenYang/Animations) <br/>some test animations, just for fun. | 445 |
 | 151. | [AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation) <br/>ARAnimation is an Core Animation library to make y... | 443 |
-| 152. | [Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController) <br/>实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINav... | 441 |
+| 152. | [Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController) <br/>实现类似微信的 webView 导航效果，包括进度条... | 441 |
 | 153. | [belm/BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) <br/>百度FM  swift语言实现 | 440 |
 | 154. | [liu044100/SmileTouchID](https://github.com/liu044100/SmileTouchID) <br/>A Library for configure Touch ID & passcode conven... | 437 |
 | 155. | [docker/toolbox](https://github.com/docker/toolbox) <br/>The Docker Toolbox | 435 |
@@ -187,7 +187,7 @@
 | 181. | [zangqilong198812/MeituanDemo](https://github.com/zangqilong198812/MeituanDemo)  | 363 |
 | 182. | [HAHAKea/HACursor](https://github.com/HAHAKea/HACursor) <br/>帮助开发者方便集成导航指示器，用于管理视图页面 | 361 |
 | 183. | [fmitech/FMMosaicLayout](https://github.com/fmitech/FMMosaicLayout) <br/>A drop-in mosaic collection view layout with a foc... | 360 |
-| 184. | [leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController) <br/>在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能 | 360 |
+| 184. | [leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController) <br/>在系统 UITabBarController 的基础上实现安卓版微信... | 360 |
 | 185. | [gsdios/SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) <br/>A image browser which is easy for using. | 360 |
 | 186. | [brentvatne/react-native-video](https://github.com/brentvatne/react-native-video) <br/>A Video / component for react-native | 360 |
 | 187. | [rsattar/Voucher](https://github.com/rsattar/Voucher) <br/>A simple library to make authenticating tvOS apps... | 360 |
@@ -223,10 +223,10 @@
 | 217. | [lukegeiger/LGSemiModalNavController](https://github.com/lukegeiger/LGSemiModalNavController) <br/>A UINavigationController subclass that presents it... | 311 |
 | 218. | [Aufree/ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) <br/>A demo implementation of a drop down tag list view... | 309 |
 | 219. | [ermalkaleci/CarbonKit](https://github.com/ermalkaleci/CarbonKit) <br/>CarbonKit - iOS Components (Obj-C & Swift) | 309 |
-| 220. | [lookingstars/nuomi](https://github.com/lookingstars/nuomi) <br/>高仿百度糯米iOS版，版本号5.13.0。/**作者：ljz ; Q Q：863784757 ; 注... | 308 |
+| 220. | [lookingstars/nuomi](https://github.com/lookingstars/nuomi) <br/>高仿百度糯米iOS版，版本号5.13.0。/**作者：ljz ; Q Q：... | 308 |
 | 221. | [ZhipingYang/UUChartView](https://github.com/ZhipingYang/UUChartView) <br/>Line and Bar of Chart, you can mark the range of v... | 307 |
 | 222. | [terminatorover/RGPaperLayout](https://github.com/terminatorover/RGPaperLayout) <br/>This is a layout that clones the interaction of go... | 306 |
-| 223. | [iosdeveloperpanc/PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) <br/>目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发 | 306 |
+| 223. | [iosdeveloperpanc/PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) <br/>目前最全面最高仿支付宝的手势解锁，而且提供方法进行... | 306 |
 | 224. | [guilhermearaujo/GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController)  | 306 |
 | 225. | [fastred/ReflectableEnum](https://github.com/fastred/ReflectableEnum) <br/>Reflection for enumerations in Objective-C. | 306 |
 | 226. | [mbrenman/MBSimpleLoadingIndicator](https://github.com/mbrenman/MBSimpleLoadingIndicator) <br/>An easy-to-use, highly-customizable loading indica... | 304 |
@@ -253,7 +253,7 @@
 | 247. | [SergioChan/SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD) <br/>:cat: This is a cute and simple loading HUD on iOS... | 280 |
 | 248. | [clusterinc/CLTokenInputView](https://github.com/clusterinc/CLTokenInputView) <br/>A replica of iOS's native contact bubbles UI | 280 |
 | 249. | [antoniocasero/ACPDownload](https://github.com/antoniocasero/ACPDownload) <br/>ACPDownload provides a view indicator of your down... | 277 |
-| 250. | [KittenYang/KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) <br/>实现波浪正弦动画并带有小鱼跳跃溅起水花。A view with water wave animati... | 276 |
+| 250. | [KittenYang/KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) <br/>实现波浪正弦动画并带有小鱼跳跃溅起水花。A view... | 276 |
 | 251. | [clowwindy/ShadowVPN-iOS](https://github.com/clowwindy/ShadowVPN-iOS) <br/>Removed according to regulations. | 275 |
 | 252. | [itsmeichigo/ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) <br/>A library for quick video trimming, mimicking the... | 274 |
 | 253. | [MartinRGB/GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) <br/>Simply Implement dribbble's popular shot. | 274 |
@@ -263,7 +263,7 @@
 | 257. | [jhurray/EZLayout](https://github.com/jhurray/EZLayout) <br/>A new take on iOS layouts using percentages. Goodb... | 266 |
 | 258. | [adamwulf/PerformanceBezier](https://github.com/adamwulf/PerformanceBezier) <br/>A small library to dramatically speed up common op... | 265 |
 | 259. | [leverdeterre/JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) <br/>ActionSheet and UIActivityViewController replaceme... | 263 |
-| 260. | [chennyhuang/HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) <br/>图片浏览器 ，photoBrowser ，新浪微博，picture,pictureBrowser,s... | 262 |
+| 260. | [chennyhuang/HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) <br/>图片浏览器 ，photoBrowser ，新浪微博，picture... | 262 |
 | 261. | [pchernovolenko/UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) <br/>UICustomActionSheet | 262 |
 | 262. | [zekunyan/AutolayoutExampleWithMasonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry) <br/>Autolayout examples with Masonry | 261 |
 | 263. | [stefanceriu/SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) <br/>A page view controller component that reproduces M... | 261 |
@@ -278,7 +278,7 @@
 | 272. | [iThinkerYZ/YZDisplayViewController](https://github.com/iThinkerYZ/YZDisplayViewController)  | 255 |
 | 273. | [DianQK/DQKFreezeWindowView](https://github.com/DianQK/DQKFreezeWindowView) <br/>A freeze window effect view for iOS | 255 |
 | 274. | [Friend-LGA/LGAlertView](https://github.com/Friend-LGA/LGAlertView) <br/>Customizable implementation of UIAlertViewControll... | 252 |
-| 275. | [huang303513/iOS-Study-Demo](https://github.com/huang303513/iOS-Study-Demo) <br/>iOS各种知识点学习、总结、基本每个一个功能点(建议先看readme) | 252 |
+| 275. | [huang303513/iOS-Study-Demo](https://github.com/huang303513/iOS-Study-Demo) <br/>iOS各种知识点学习、总结、基本每个一个功能点(建... | 252 |
 | 276. | [chenqihui/QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo) <br/>弹幕系统实现 | 251 |
 | 277. | [iamim2/OneLoadingAnimation](https://github.com/iamim2/OneLoadingAnimation)  | 249 |
 | 278. | [khanlou/InstantCocoa](https://github.com/khanlou/InstantCocoa) <br/>Instant Cocoa is a framework for making iOS apps. | 247 |
@@ -305,7 +305,7 @@
 | 299. | [Cocoanetics/DTRichTextEditor](https://github.com/Cocoanetics/DTRichTextEditor) <br/>A rich-text editor for iOS | 236 |
 | 300. | [mayuur/MJAlertView](https://github.com/mayuur/MJAlertView) <br/>Simple automatic Dismissible Alert with minor 3D T... | 234 |
 | 301. | [maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) <br/>Simple parallax header for UIScrollView | 233 |
-| 302. | [lookingstars/chuanke](https://github.com/lookingstars/chuanke) <br/>高仿百度传课iOS版，版本号2.4.1.2。/**作者：ljz ; Q Q：863784757 ;... | 232 |
+| 302. | [lookingstars/chuanke](https://github.com/lookingstars/chuanke) <br/>高仿百度传课iOS版，版本号2.4.1.2。/**作者：ljz ; Q Q：... | 232 |
 | 303. | [lzwjava/Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) <br/>Xcode plugin to let you jump to GitHub History, Bl... | 232 |
 | 304. | [malcommac/DMPagerViewController](https://github.com/malcommac/DMPagerViewController) <br/>DMPagerViewController is page navigation controlle... | 230 |
 | 305. | [CaramelForSwift/Caramel](https://github.com/CaramelForSwift/Caramel) <br/>A portable I/O framework for Swift | 229 |
@@ -320,14 +320,14 @@
 | 314. | [hshpy/HPYZhiHuDaily](https://github.com/hshpy/HPYZhiHuDaily) <br/>仿知乎日报 iOS app | 215 |
 | 315. | [zys456465111/CustomPopAnimation](https://github.com/zys456465111/CustomPopAnimation)  | 215 |
 | 316. | [mogujie/MGJRequestManager](https://github.com/mogujie/MGJRequestManager) <br/>一个基于 AFNetworking 2 的灵活好用的 iOS 网络库 | 215 |
-| 317. | [12207480/TYWaterWaveView](https://github.com/12207480/TYWaterWaveView) <br/>水波浪圆形进度控件，采用 CAShapeLayer，CADisplayLink 波浪动画，简单，流畅 | 214 |
+| 317. | [12207480/TYWaterWaveView](https://github.com/12207480/TYWaterWaveView) <br/>水波浪圆形进度控件，采用 CAShapeLayer，CADispla... | 214 |
 | 318. | [florent37/OCiney-iOS](https://github.com/florent37/OCiney-iOS)  | 213 |
-| 319. | [zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage) <br/>iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeCh... | 211 |
+| 319. | [zhengjinghua/StitchingImage](https://github.com/zhengjinghua/StitchingImage) <br/>iOS 仿微信群组封面拼接控件, 直接拖进项目就可使用, 支... | 211 |
 | 320. | [EmilYo/HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) <br/>Customizable iOS view controller in Mailbox app st... | 211 |
-| 321. | [zhengjinghua/MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) <br/>iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPo... | 210 |
+| 321. | [zhengjinghua/MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) <br/>iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项... | 210 |
 | 322. | [y-hryk/YSLContainerViewController](https://github.com/y-hryk/YSLContainerViewController)  | 210 |
 | 323. | [aksonov/react-native-tableview](https://github.com/aksonov/react-native-tableview) <br/>Native iOS UITableView for React Native with JSON... | 209 |
-| 324. | [netyouli/WHCNetWorkKit](https://github.com/netyouli/WHCNetWorkKit) <br/>WHCNetWorkKit 是http网络请求开源库(支持GET/POST 文件上传 后台文件下载... | 208 |
+| 324. | [netyouli/WHCNetWorkKit](https://github.com/netyouli/WHCNetWorkKit) <br/>WHCNetWorkKit 是http网络请求开源库(支持GET/POST ... | 208 |
 | 325. | [facebook/WebDriverAgent](https://github.com/facebook/WebDriverAgent) <br/>A WebDriver server for iOS that runs inside the Si... | 208 |
 | 326. | [sx1989827/RunTrace](https://github.com/sx1989827/RunTrace) <br/>一个可以实时跟踪分析iOS App视图的小工具 | 207 |
 | 327. | [recruit-mp/RMPScrollingMenuBarController](https://github.com/recruit-mp/RMPScrollingMenuBarController) <br/>RMPScrollingMenuBarController has a scrollable men... | 206 |
@@ -344,7 +344,7 @@
 | 338. | [jsfu/JSDropDownMenu](https://github.com/jsfu/JSDropDownMenu) <br/>类似美团的下拉菜单 | 199 |
 | 339. | [ideawu/cocoaui](https://github.com/ideawu/cocoaui) <br/>Build adaptive UI for iOS Apps with flow-layout an... | 197 |
 | 340. | [NilStack/NKWatchChart](https://github.com/NilStack/NKWatchChart) <br/>A chart library for Apple Watch based on PNChart a... | 196 |
-| 341. | [ming1016/PagerTab](https://github.com/ming1016/PagerTab) <br/>UIScrollView实现滑动转换页面，类似网易云音乐iOS版的页面滑动切换效果 | 195 |
+| 341. | [ming1016/PagerTab](https://github.com/ming1016/PagerTab) <br/>UIScrollView实现滑动转换页面，类似网易云音乐iOS版... | 195 |
 | 342. | [AdamBCo/ABCIntroView](https://github.com/AdamBCo/ABCIntroView)  | 194 |
 | 343. | [titman/LCDebugger](https://github.com/titman/LCDebugger) <br/>LCDebugger is a local/remote debugging tools for i... | 194 |
 | 344. | [LuciusLu/DeformationButton](https://github.com/LuciusLu/DeformationButton) <br/>Share loading button. | 194 |
@@ -357,13 +357,13 @@
 | 351. | [Clipy/Clipy](https://github.com/Clipy/Clipy) <br/>Clipboard extension app for Mac OSX. | 190 |
 | 352. | [kennethjiang/Teleport-NSLog](https://github.com/kennethjiang/Teleport-NSLog) <br/>Remote logging for iOS. Send NSLog messages to bac... | 190 |
 | 353. | [Skyscanner/Dixie](https://github.com/Skyscanner/Dixie) <br/>Dixie, turning chaos to your advantage. | 190 |
-| 354. | [coderyi/YiRefresh](https://github.com/coderyi/YiRefresh) <br/>a simple way to use pull-to-refresh.下拉刷新，大道至简，最简单的... | 189 |
+| 354. | [coderyi/YiRefresh](https://github.com/coderyi/YiRefresh) <br/>a simple way to use pull-to-refresh.下拉刷新，大道至... | 189 |
 | 355. | [solomidSF/YRActivityIndicator](https://github.com/solomidSF/YRActivityIndicator) <br/>Fancy, highly customizable activity indicator that... | 187 |
 | 356. | [s3lvin/DXCustomCallout-ObjC](https://github.com/s3lvin/DXCustomCallout-ObjC) <br/>A simpler approach to CustomCallouts for MKMapview | 187 |
 | 357. | [snakajima/videoshader](https://github.com/snakajima/videoshader) <br/>Script-based real-time video processing technology... | 186 |
 | 358. | [likumb/SimpleMemo](https://github.com/likumb/SimpleMemo) <br/>已上架应用“易便签”的源代码 | 186 |
 | 359. | [panghaijiao/HJCarouselDemo](https://github.com/panghaijiao/HJCarouselDemo)  | 186 |
-| 360. | [gsdios/SDRefreshView](https://github.com/gsdios/SDRefreshView) <br/>简单易用的上拉和下拉刷新（多版本细节适配）。Pull To Refresh. | 186 |
+| 360. | [gsdios/SDRefreshView](https://github.com/gsdios/SDRefreshView) <br/>简单易用的上拉和下拉刷新（多版本细节适配）。Pull.... | 186 |
 | 361. | [JxbSir/JxbLovelyLogin](https://github.com/JxbSir/JxbLovelyLogin) <br/>一个可爱的登陆界面 | 185 |
 | 362. | [Krivoblotsky/HardCoreData](https://github.com/Krivoblotsky/HardCoreData) <br/>CoreData stack and controller that will never bloc... | 184 |
 | 363. | [SergioChan/SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation) <br/>:movie_camera: An iOS native implementation of a C... | 183 |
@@ -393,7 +393,7 @@
 | 387. | [jeffkibuule/JSKTimerView](https://github.com/jeffkibuule/JSKTimerView) <br/>A simple custom UIView that acts as a self-contain... | 173 |
 | 388. | [Friend-LGA/LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView) <br/>iOS implementation of Floating Action Button (Goog... | 173 |
 | 389. | [feiin/swiftmi-app](https://github.com/feiin/swiftmi-app) <br/>swiftmi.com app版本 采用Swift实现 | 173 |
-| 390. | [huang303513/GCD-OperationQueue-Exploration](https://github.com/huang303513/GCD-OperationQueue-Exploration) <br/>GCD系列、Operation、KVC、KVO、Notification、响应链、自定义MJExte... | 173 |
+| 390. | [huang303513/GCD-OperationQueue-Exploration](https://github.com/huang303513/GCD-OperationQueue-Exploration) <br/>GCD系列、Operation、KVC、KVO、Notification、... | 173 |
 | 391. | [DeveloperLx/LxTabBarController](https://github.com/DeveloperLx/LxTabBarController) <br/>Inherited from UITabBarController. LxTabBarControl... | 173 |
 | 392. | [ideawu/Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) <br/>Doing RSA encryption and decryption with Objective... | 172 |
 | 393. | [Shuangzuan/RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) <br/>A pull down to refresh control for react native. | 172 |
@@ -407,7 +407,7 @@
 | 401. | [Coding/Coding-iPad](https://github.com/Coding/Coding-iPad) <br/>Coding iPad 客户端源代码 | 168 |
 | 402. | [y-hryk/YSLTransitionAnimator](https://github.com/y-hryk/YSLTransitionAnimator)  | 167 |
 | 403. | [ninjaprox/NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView) <br/>A Airbnb-inspired collection view | 167 |
-| 404. | [PlutusCat/KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) <br/>根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视... | 167 |
+| 404. | [PlutusCat/KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) <br/>根据36Kr开源的KRVideoPlayer 进行修改和补充实现... | 167 |
 | 405. | [jacobsieradzki/JSImagePickerController](https://github.com/jacobsieradzki/JSImagePickerController) <br/>An photo/image picker controller that resembles th... | 166 |
 | 406. | [k0nserv/luft](https://github.com/k0nserv/luft) <br/>The Xcode Plugin that helps you write lighter view... | 166 |
 | 407. | [zpz1237/NirKxMenu](https://github.com/zpz1237/NirKxMenu) <br/>UI高度可定制化KxMenu弹出菜单 | 165 |
@@ -448,21 +448,21 @@
 | 442. | [CharlinFeng/CoreLaunch](https://github.com/CharlinFeng/CoreLaunch) <br/>一键启动动画 | 146 |
 | 443. | [squarezw/ZWIntroductionViewController](https://github.com/squarezw/ZWIntroductionViewController) <br/>A simple custom app introductions and tutorials. | 146 |
 | 444. | [JV17/JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator) <br/>A simple transition animator which allows you to p... | 146 |
-| 445. | [Halley-Wong/JKDBModel](https://github.com/Halley-Wong/JKDBModel) <br/>FMDB的封装，极大简化你的数据库操作，对于自己的扩展也非常简单 | 146 |
+| 445. | [Halley-Wong/JKDBModel](https://github.com/Halley-Wong/JKDBModel) <br/>FMDB的封装，极大简化你的数据库操作，对于自己... | 146 |
 | 446. | [12207480/TYSlidePageScrollView](https://github.com/12207480/TYSlidePageScrollView) <br/>An easy solution to page views or controllers with... | 145 |
 | 447. | [samlaudev/ElemeProject](https://github.com/samlaudev/ElemeProject) <br/>模仿一个O2O App：饿了么 | 145 |
 | 448. | [mamaral/Follower](https://github.com/mamaral/Follower) <br/>Track trip distance, speed, altitude, and duration... | 145 |
 | 449. | [MakeZL/ZLXCodeLine](https://github.com/MakeZL/ZLXCodeLine) <br/>This is a record of the number of lines of code -... | 144 |
 | 450. | [miscavage/Popup](https://github.com/miscavage/Popup) <br/>Popup is a versatile alert view that allows you to... | 144 |
 | 451. | [wang820203420/IOS-Developer-library-Chinese](https://github.com/wang820203420/IOS-Developer-library-Chinese)  | 144 |
-| 452. | [HebeTienCoder/XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) <br/>可以让UICollectionView的header也支持悬停效果，类似于tableView的Pla... | 144 |
+| 452. | [HebeTienCoder/XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) <br/>可以让UICollectionView的header也支持悬停效果，... | 144 |
 | 453. | [nhdang103/HDNotificationView](https://github.com/nhdang103/HDNotificationView)  | 143 |
 | 454. | [transistorsoft/react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) <br/>Sophisticated, battery-conscious background-geoloc... | 143 |
 | 455. | [LocativeHQ/ios-app](https://github.com/LocativeHQ/ios-app) <br/>The Locative iOS app. Helping you to get the best... | 142 |
 | 456. | [Nododo/ADo_GuideView](https://github.com/Nododo/ADo_GuideView)  | 142 |
 | 457. | [zats/PreciseCoverage](https://github.com/zats/PreciseCoverage) <br/>Make Xcode code coverage more informative | 142 |
 | 458. | [brockgr/csshx](https://github.com/brockgr/csshx) <br/>Automatically exported from code.google.com/p/cssh... | 141 |
-| 459. | [lovemo/MVVMFramework](https://github.com/lovemo/MVVMFramework) <br/>(OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionVie... | 141 |
+| 459. | [lovemo/MVVMFramework](https://github.com/lovemo/MVVMFramework) <br/>(OC版)总结整理下一个快速开发框架，分离控制器中... | 141 |
 | 460. | [sachinkesiraju/SKPanoramaView](https://github.com/sachinkesiraju/SKPanoramaView) <br/>Create beautiful animated panorama views. Inspired... | 141 |
 | 461. | [vitoziv/VIPhotoView](https://github.com/vitoziv/VIPhotoView) <br/>View a photo with simple and basic interactive ges... | 141 |
 | 462. | [neonichu/tvOS-headers](https://github.com/neonichu/tvOS-headers) <br/>class-dump of tvOS headers from Xcode 7.1 beta 1 | 140 |
@@ -474,12 +474,12 @@
 | 468. | [DeskConnect/WFNotificationCenter](https://github.com/DeskConnect/WFNotificationCenter) <br/>Notifications for app groups | 140 |
 | 469. | [alinz/example-react-native-redux](https://github.com/alinz/example-react-native-redux) <br/>react native redux counter example | 140 |
 | 470. | [ISBX/apprtc-ios](https://github.com/ISBX/apprtc-ios) <br/>A native iOS video chat app based on WebRTC | 139 |
-| 471. | [LeoiOS/LCActionSheet](https://github.com/LeoiOS/LCActionSheet) <br/>一个简约优雅的ActionSheet。微信和新浪微博也是采取类似的ActionSheet。 | 139 |
+| 471. | [LeoiOS/LCActionSheet](https://github.com/LeoiOS/LCActionSheet) <br/>一个简约优雅的ActionSheet。微信和新浪微博也是... | 139 |
 | 472. | [alexruperez/UILabel-AutomaticWriting](https://github.com/alexruperez/UILabel-AutomaticWriting) <br/>UILabel category with automatic writing animation. | 139 |
 | 473. | [parakeety/PKYStepper](https://github.com/parakeety/PKYStepper) <br/>UIControl with label & stepper combined | 138 |
 | 474. | [gservera/ScheduleKit](https://github.com/gservera/ScheduleKit) <br/>ScheduleKit is a new graphical event management fr... | 138 |
 | 475. | [dopcn/DOPNavbarMenu](https://github.com/dopcn/DOPNavbarMenu) <br/>expand navigationbar with more items | 137 |
-| 476. | [coderyi/MVVMDemo](https://github.com/coderyi/MVVMDemo) <br/>MVVM应用在iOS的Demo，主要通过经典的TableView来演示 | 137 |
+| 476. | [coderyi/MVVMDemo](https://github.com/coderyi/MVVMDemo) <br/>MVVM应用在iOS的Demo，主要通过经典的TableVi... | 137 |
 | 477. | [Alterplay/APOfflineReverseGeocoding](https://github.com/Alterplay/APOfflineReverseGeocoding) <br/>Offline reverse geocoding library written in Objec... | 136 |
 | 478. | [litoarias/HACClusterMapViewController](https://github.com/litoarias/HACClusterMapViewController) <br/>HACClusterMapViewController class is written in Ob... | 136 |
 | 479. | [johanneslumpe/react-native-keyboardevents](https://github.com/johanneslumpe/react-native-keyboardevents) <br/>Keyboard events for react-native | 136 |
@@ -503,7 +503,7 @@
 | 497. | [naoufal/react-native-activity-view](https://github.com/naoufal/react-native-activity-view) <br/>iOS share and action sheets for React Native | 129 |
 | 498. | [jordanbyron/react-native-quick-actions](https://github.com/jordanbyron/react-native-quick-actions) <br/>A react-native interface for Touch 3D home screen... | 129 |
 | 499. | [cjwl/cocotron](https://github.com/cjwl/cocotron) <br/>The Cocotron | 129 |
-| 500. | [LeoiOS/LCDownloadManager](https://github.com/LeoiOS/LCDownloadManager) <br/>一个简单易用的下载助手。基于AFN，实现断点续传，采取Block方式回调下载进度、文件大小、下载是否... | 129 |
+| 500. | [LeoiOS/LCDownloadManager](https://github.com/LeoiOS/LCDownloadManager) <br/>一个简单易用的下载助手。基于AFN，实现断点续... | 129 |
 
 ## Most-Starred Users: Objective-C
 
@@ -526,7 +526,7 @@
 | 15. | [coderyi](https://github.com/coderyi)  | [Monkey](https://github.com/coderyi/Monkey)  (902) <br/>[NetworkEye](https://github.com/coderyi/NetworkEye)  (580) <br/>[Eleven](https://github.com/coderyi/Eleven)  (271) <br/>[YiRefresh](https://github.com/coderyi/YiRefresh)  (189) <br/>[MVVMDemo](https://github.com/coderyi/MVVMDemo)  (137) <br/> | 2079 |
 | 16. | [adad184](https://github.com/adad184)  | [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)  (830) <br/>[MMPopupView](https://github.com/adad184/MMPopupView)  (819) <br/>[MMParallaxCell](https://github.com/adad184/MMParallaxCell)  (374) <br/> | 2023 |
 | 17. | [tonsky](https://github.com/tonsky)  | [AnyBar](https://github.com/tonsky/AnyBar)  (1887) <br/> | 1887 |
-| 18. | [AugustRush](https://github.com/AugustRush)  | [ARSegmentPager](https://github.com/AugustRush/ARSegmentPager)  (774) <br/>[ARAnimation](https://github.com/AugustRush/ARAnimation)  (443) <br/>[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell)  (330) <br/>[ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator)  (281) <br/> | 1828 |
+| 18. | [AugustRush](https://github.com/AugustRush)  | [ARSegmentPager](https://github.com/AugustRush/ARSegmentPager)  (774) <br/>[ARAnimation](https://github.com/AugustRush/ARAnimation)  (443) <br/>[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamic...)  (330) <br/>[ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator)  (281) <br/> | 1828 |
 | 19. | [XcodeGhostSource](https://github.com/XcodeGhostSource)  | [XcodeGhost](https://github.com/XcodeGhostSource/XcodeGhost)  (1765) <br/> | 1765 |
 | 20. | [ZhongTaoTian](https://github.com/ZhongTaoTian)  | [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity)  (1124) <br/>[SmallDay](https://github.com/ZhongTaoTian/SmallDay)  (351) <br/>[QQBtn](https://github.com/ZhongTaoTian/QQBtn)  (115) <br/> | 1590 |
 | 21. | [oarrabi](https://github.com/oarrabi)  | [OAStackView](https://github.com/oarrabi/OAStackView)  (1586) <br/> | 1586 |
@@ -972,9 +972,9 @@ Because of the number of languages tracked and the resulting lengthy lists for e
 | HTML | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/html.md#most-starred-repos-html) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/html.md#most-starred-users-html) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/html.md#most-starred-orgs-html) |
 | CSS | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/css.md#most-starred-repos-css) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/css.md#most-starred-users-css) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/css.md#most-starred-orgs-css) |
 | Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/ruby.md#most-starred-orgs-ruby) |
-| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c++.md#most-starred-repos-c++) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c++.md#most-starred-users-c++) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c++.md#most-starred-orgs-c++) |
+| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/cplusplus.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/cplusplus.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/cplusplus.md#most-starred-orgs-c) |
 | C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c.md#most-starred-orgs-c) |
-| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c#.md#most-starred-orgs-c#) |
+| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/csharp.md#most-starred-repos-c-sharp) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/csharp.md#most-starred-users-c-sharp) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/csharp.md#most-starred-orgs-c-sharp) |
 | Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/shell.md#most-starred-orgs-shell) |
 | Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/scala.md#most-starred-orgs-scala) |
 | Clojure | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/clojure.md#most-starred-repos-clojure) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/clojure.md#most-starred-users-clojure) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/clojure.md#most-starred-orgs-clojure) |

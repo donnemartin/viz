@@ -94,7 +94,7 @@
 | 88. | [pakastin/deck-of-cards](https://github.com/pakastin/deck-of-cards) <br/>HTML5 Deck of Cards | 1852 |
 | 89. | [facebook/fixed-data-table](https://github.com/facebook/fixed-data-table) <br/>A React table component designed to allow presenti... | 1845 |
 | 90. | [pheuter/essential-react](https://github.com/pheuter/essential-react) <br/>A minimal skeleton for building testable React app... | 1747 |
-| 91. | [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) <br/>SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 | 1742 |
+| 91. | [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) <br/>SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品... | 1742 |
 | 92. | [paulirish/memory-stats.js](https://github.com/paulirish/memory-stats.js) <br/>minimal monitor for JS Heap Size via performance.m... | 1731 |
 | 93. | [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) <br/>A JS library for building WYSIWYG editors for HTML... | 1725 |
 | 94. | [timekit-io/booking-js](https://github.com/timekit-io/booking-js) <br/>:date: Make a beautiful embeddable booking widget... | 1723 |
@@ -279,7 +279,7 @@
 | 273. | [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme) <br/>Sublime Text 2/3 color scheme ready for ES6, optim... | 653 |
 | 274. | [arank/marauders-map](https://github.com/arank/marauders-map) <br/>A chrome extension to creepily map your friends' l... | 652 |
 | 275. | [owen2345/camaleon-cms](https://github.com/owen2345/camaleon-cms) <br/>Camaleon CMS is a dynamic and advanced content man... | 651 |
-| 276. | [xinyu198736/js2image](https://github.com/xinyu198736/js2image) <br/>一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool... | 647 |
+| 276. | [xinyu198736/js2image](https://github.com/xinyu198736/js2image) <br/>一个可以把js源代码压缩成一个ascii字符画的源代码的工... | 647 |
 | 277. | [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) <br/>Orchard is a free, open source, community-focused... | 647 |
 | 278. | [diracdeltas/sniffly](https://github.com/diracdeltas/sniffly) <br/>Sniffing browser history using HSTS + CSP. | 637 |
 | 279. | [oliverzheng/howtocenterincss](https://github.com/oliverzheng/howtocenterincss) <br/>CSS generator for centering text/div depending on... | 637 |
@@ -384,7 +384,7 @@
 | 378. | [joaopereirawd/animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) <br/>animatedModal.js is a jQuery plugin to create a fu... | 480 |
 | 379. | [guisouza/DSS](https://github.com/guisouza/DSS) <br/>:fire: Dynamic Style Sheets | 480 |
 | 380. | [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) <br/>Neat user/repo/issue hovercard for GitHub. | 477 |
-| 381. | [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) <br/>font-carrier是一个功能强大的字体操作库，使用它你可以随心所欲的操作字体。让你可以在svg... | 477 |
+| 381. | [purplebamboo/font-carrier](https://github.com/purplebamboo/font-carrier) <br/>font-carrier是一个功能强大的字体操作库，使用它你可... | 477 |
 | 382. | [react-native-fellowship/react-native-navbar](https://github.com/react-native-fellowship/react-native-navbar) <br/>Navbar component for React Native | 476 |
 | 383. | [ROUND/enhance.js](https://github.com/ROUND/enhance.js) <br/>Zoom & dynamically crop images. Based on http://gi... | 475 |
 | 384. | [Adphorus/react-date-range](https://github.com/Adphorus/react-date-range) <br/>A React component for choosing dates and date rang... | 473 |
@@ -1418,9 +1418,9 @@ Because of the number of languages tracked and the resulting lengthy lists for e
 | HTML | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/html.md#most-starred-repos-html) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/html.md#most-starred-users-html) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/html.md#most-starred-orgs-html) |
 | CSS | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/css.md#most-starred-repos-css) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/css.md#most-starred-users-css) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/css.md#most-starred-orgs-css) |
 | Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/ruby.md#most-starred-orgs-ruby) |
-| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c++.md#most-starred-repos-c++) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c++.md#most-starred-users-c++) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c++.md#most-starred-orgs-c++) |
+| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/cplusplus.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/cplusplus.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/cplusplus.md#most-starred-orgs-c) |
 | C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c.md#most-starred-orgs-c) |
-| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/c#.md#most-starred-orgs-c#) |
+| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/csharp.md#most-starred-repos-c-sharp) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/csharp.md#most-starred-users-c-sharp) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/csharp.md#most-starred-orgs-c-sharp) |
 | Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/shell.md#most-starred-orgs-shell) |
 | Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/scala.md#most-starred-orgs-scala) |
 | Clojure | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/clojure.md#most-starred-repos-clojure) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/clojure.md#most-starred-users-clojure) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/clojure.md#most-starred-orgs-clojure) |
