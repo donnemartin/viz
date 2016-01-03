@@ -71,7 +71,7 @@
 | 65. | [shu223/watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) <br/>Code examples for new features of watchOS 2. | 839 |
 | 66. | [netguru/ResponseDetective](https://github.com/netguru/ResponseDetective) <br/>Sherlock Holmes of the networking layer. | 838 |
 | 67. | [didierbrun/DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) <br/>Gesture recognizer tool [Swift / iOS] | 836 |
-| 68. | [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) <br/>这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。 | 835 |
+| 68. | [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) <br/>这份指南汇集了前端开发所使用语言的主流学习资... | 835 |
 | 69. | [johnlui/AutoLayout](https://github.com/johnlui/AutoLayout) <br/>《Auto Layout 使用心得》系列文章代码仓库 | 831 |
 | 70. | [marmelroy/Format](https://github.com/marmelroy/Format) <br/>A Swift Formatter Kit | 818 |
 | 71. | [ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren) <br/>Notify users when a new version of your iOS app is... | 814 |
@@ -139,7 +139,7 @@
 | 133. | [aaronabentheuer/AAWindow](https://github.com/aaronabentheuer/AAWindow) <br/>UIWindow subclass to enable behavior like adaptive... | 476 |
 | 134. | [ishkawa/APIKit](https://github.com/ishkawa/APIKit) <br/>A networking library for building type safe web AP... | 473 |
 | 135. | [honghaoz/Ji](https://github.com/honghaoz/Ji) <br/>Ji (戟) is an XML/HTML parser for Swift | 466 |
-| 136. | [mengxiangyue/The-Swift-2.0-Programming-Language-playground](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground) <br/>对应最新发布《The Swift Programming Language》Swift 2.0 一书... | 465 |
+| 136. | [mengxiangyue/The-Swift-2.0-Programming-Language-playground](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground) <br/>对应最新发布《The Swift Programming Language... | 465 |
 | 137. | [lyft/mapper](https://github.com/lyft/mapper) <br/>Another JSON deserialization library for Swift | 457 |
 | 138. | [Abizern/xcode-snippets](https://github.com/Abizern/xcode-snippets) <br/>Xcode Snippets for Swift 2, based on those by Matt... | 457 |
 | 139. | [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) <br/>Fully customizable and extensible action sheet con... | 457 |
@@ -225,7 +225,7 @@
 | 219. | [philcn/Auto-Layout-Showcase](https://github.com/philcn/Auto-Layout-Showcase) <br/>Project for demonstrating several auto layout tech... | 314 |
 | 220. | [gmertk/GMStepper](https://github.com/gmertk/GMStepper) <br/>A stepper with a sliding label in the middle. | 312 |
 | 221. | [richzertuche/ZMaterialDesignUIButton](https://github.com/richzertuche/ZMaterialDesignUIButton) <br/>Swift Material Design UIButton | 311 |
-| 222. | [xxycode/UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom) <br/>一个好玩的效果，原谅我在家里网速慢，没有升级到Xcode 7，还是用的swift1.2，回到公司马上... | 311 |
+| 222. | [xxycode/UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom) <br/>一个好玩的效果，原谅我在家里网速慢，没有升级到... | 311 |
 | 223. | [callmewhy/Uther](https://github.com/callmewhy/Uther) <br/>Chat with the cute alien, help you make a memorand... | 309 |
 | 224. | [mmoaay/MBMotion](https://github.com/mmoaay/MBMotion) <br/>随便实现的动效，正在慢慢丰富中… | 308 |
 | 225. | [kostiakoval/Mirror](https://github.com/kostiakoval/Mirror) <br/>Swift objects Reflection | 306 |
@@ -302,7 +302,7 @@
 | 296. | [ytakzk/Hokusai](https://github.com/ytakzk/Hokusai) <br/>A Swift library to provide a bouncy action sheet | 230 |
 | 297. | [terhechte/SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon) <br/>Swift Auto Completions for any Text Editor | 225 |
 | 298. | [dasdom/UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) <br/>Playground to play with UIStackViews. | 225 |
-| 299. | [szk-atmosphere/SACollectionViewVerticalScalingFlowLayout](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) <br/>UICollectionViewLayout that performs scaling up an... | 224 |
+| 299. | [szk-atmosphere/SACollectionViewVerticalScalingFlo...](https://github.com/szk-atmosphere/SACollectionViewVerticalScalingFlowLayout) <br/>UICollectionViewLayout that performs scaling up an... | 224 |
 | 300. | [zangqilong198812/HotGirls](https://github.com/zangqilong198812/HotGirls)  | 222 |
 | 301. | [kaandedeoglu/Shark](https://github.com/kaandedeoglu/Shark) <br/>Swift Script that transforms the .xcassets folder... | 222 |
 | 302. | [kevinzhow/NaughtyImageView](https://github.com/kevinzhow/NaughtyImageView) <br/>UIImageView Can Animate Sprite Image | 222 |
@@ -335,7 +335,7 @@
 | 329. | [likedan/KDIntroView](https://github.com/likedan/KDIntroView)  | 184 |
 | 330. | [szk-atmosphere/SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br/>SAParallaxViewControllerSwift realizes parallax sc... | 183 |
 | 331. | [craiggrummitt/ActionSwift3](https://github.com/craiggrummitt/ActionSwift3) <br/>AS3 SDK in Swift - whaa? | 181 |
-| 332. | [CharlinFeng/CFRuntime](https://github.com/CharlinFeng/CFRuntime) <br/>重磅推出：Swift版的MJExtension，运行时、反射与一键字典模型互转 | 180 |
+| 332. | [CharlinFeng/CFRuntime](https://github.com/CharlinFeng/CFRuntime) <br/>重磅推出：Swift版的MJExtension，运行时、反射与... | 180 |
 | 333. | [MoZhouqi/VoiceMemos](https://github.com/MoZhouqi/VoiceMemos) <br/>Voice Memos is an audio recorder App for iPhone an... | 179 |
 | 334. | [KyoheiG3/PagingView](https://github.com/KyoheiG3/PagingView) <br/>Infinite paging, Smart auto layout, Interface of s... | 178 |
 | 335. | [alextarrago/QZCircleSegue](https://github.com/alextarrago/QZCircleSegue) <br/>QZCircleSegue is written in Swift and it is a beat... | 177 |
@@ -366,7 +366,7 @@
 | 360. | [36Kr-Mobile/StatusBarNotificationCenter](https://github.com/36Kr-Mobile/StatusBarNotificationCenter) <br/>A customisable status bar notification UI element... | 157 |
 | 361. | [stringcode86/SCSafariViewController](https://github.com/stringcode86/SCSafariViewController) <br/>Push / Pop modal SFSafariViewController (Hacking s... | 157 |
 | 362. | [neonichu/Chocolat](https://github.com/neonichu/Chocolat) <br/>:chocolate_bar: Generate podspecs from Swift packa... | 156 |
-| 363. | [MxABC/swiftScan](https://github.com/MxABC/swiftScan) <br/>A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果) | 156 |
+| 363. | [MxABC/swiftScan](https://github.com/MxABC/swiftScan) <br/>A barcode and qr code scanner( 二维码 各种码识别... | 156 |
 | 364. | [hamzasood/NotificationExtensionTest](https://github.com/hamzasood/NotificationExtensionTest)  | 155 |
 | 365. | [liufan321/NetReachability](https://github.com/liufan321/NetReachability) <br/>Check Internet Reachability in Swift | 155 |
 | 366. | [szk-atmosphere/SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) <br/>UIViewController subclass inspired by "Inbox by go... | 155 |
@@ -432,7 +432,7 @@
 | 426. | [broccolii/NipponColors](https://github.com/broccolii/NipponColors) <br/>An App for NipponColors | 121 |
 | 427. | [the-hypermedia-project/Hyperdrive](https://github.com/the-hypermedia-project/Hyperdrive) <br/>Generic API Client in Swift | 120 |
 | 428. | [nghialv/Future](https://github.com/nghialv/Future) <br/>Swift µframework providing FutureT, Error | 120 |
-| 429. | [icepy/_posts](https://github.com/icepy/_posts) <br/>没事写写文章，自娱自乐，喜欢的话请点star，想订阅点watch，千万别fork！ | 120 |
+| 429. | [icepy/_posts](https://github.com/icepy/_posts) <br/>没事写写文章，自娱自乐，喜欢的话请点star，想订阅... | 120 |
 | 430. | [MartinRGB/MTMusicPlayer](https://github.com/MartinRGB/MTMusicPlayer) <br/>simple implement an AV Player & my workmates Anima... | 120 |
 | 431. | [apple/example-package-dealer](https://github.com/apple/example-package-dealer) <br/>Example package for use with the Swift Package Man... | 118 |
 | 432. | [Yalantis/CloudKit-Demo.Swift](https://github.com/Yalantis/CloudKit-Demo.Swift)  | 117 |

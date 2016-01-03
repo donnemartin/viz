@@ -39,7 +39,7 @@
 | 33. | [johnkerl/miller](https://github.com/johnkerl/miller) <br/>Miller is like sed, awk, cut, join, and sort for n... | 596 |
 | 34. | [erincatto/Box2D](https://github.com/erincatto/Box2D) <br/>Box2D is a 2D physics engine for games | 583 |
 | 35. | [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) <br/>The libdispatch Project, (a.k.a. Grand Central Dis... | 567 |
-| 36. | [mysql-inception/inception](https://github.com/mysql-inception/inception) <br/>一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具 | 533 |
+| 36. | [mysql-inception/inception](https://github.com/mysql-inception/inception) <br/>一个集审核、执行、备份及生成回滚语句于一身的... | 533 |
 | 37. | [Microsoft/Windows-driver-samples](https://github.com/Microsoft/Windows-driver-samples) <br/>This repo contains driver samples prepared for use... | 528 |
 | 38. | [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) <br/>Change data capture from PostgreSQL into Kafka | 508 |
 | 39. | [snooda/net-speeder](https://github.com/snooda/net-speeder) <br/>net-speeder 在高延迟不稳定链路上优化单线程下载速度 | 496 |
@@ -62,7 +62,7 @@
 | 56. | [jgeboski/purple-facebook](https://github.com/jgeboski/purple-facebook) <br/>Facebook protocol plugin for libpurple | 371 |
 | 57. | [jcloudpub/speedy](https://github.com/jcloudpub/speedy) <br/>a distributed docker image storage | 362 |
 | 58. | [vurtun/zahnrad](https://github.com/vurtun/zahnrad) <br/>A small ANSI C gui toolkit | 346 |
-| 59. | [cbsheng/tinyhttpd](https://github.com/cbsheng/tinyhttpd) <br/>tinyhttpd的详细注释版，十分适合入门者学习的一个项目 | 345 |
+| 59. | [cbsheng/tinyhttpd](https://github.com/cbsheng/tinyhttpd) <br/>tinyhttpd的详细注释版，十分适合入门者学习的一... | 345 |
 | 60. | [ServiceManager/ServiceManager](https://github.com/ServiceManager/ServiceManager) <br/>Modular, self-healing, concern-seperated, and inte... | 340 |
 | 61. | [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) <br/>Open source 3D voxel editor | 337 |
 | 62. | [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) <br/>peinjector - MITM PE file infector | 333 |
@@ -134,7 +134,7 @@
 | 128. | [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) <br/>OpenVPN for Android | 171 |
 | 129. | [eviltrout/tis-100](https://github.com/eviltrout/tis-100) <br/>An emulator for the TIS-100 CPU | 168 |
 | 130. | [Fedjmike/mini-c](https://github.com/Fedjmike/mini-c) <br/>Dr Strangehack, or: how to write a self-hosting C... | 167 |
-| 131. | [LippiOuYang/Tinyhttpd](https://github.com/LippiOuYang/Tinyhttpd) <br/>tinyhttpd 是一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以... | 166 |
+| 131. | [LippiOuYang/Tinyhttpd](https://github.com/LippiOuYang/Tinyhttpd) <br/>tinyhttpd 是一个不到 500 行的超轻量型 Http Server... | 166 |
 | 132. | [jgm/cmark](https://github.com/jgm/cmark) <br/>CommonMark parsing and rendering library and progr... | 163 |
 | 133. | [httperf/httperf](https://github.com/httperf/httperf) <br/>The httperf HTTP load generator | 163 |
 | 134. | [kylophone/spectrophoto](https://github.com/kylophone/spectrophoto) <br/>Turns an image into an audio file. Image is visibl... | 162 |
@@ -173,7 +173,7 @@
 | 167. | [franckverrot/holycorn](https://github.com/franckverrot/holycorn) <br/>PostgreSQL multi-purpose Ruby Foreign Data Wrapper | 129 |
 | 168. | [hadley/haven](https://github.com/hadley/haven) <br/>Read SPSS, Stata and SAS files from R | 128 |
 | 169. | [uptimejp/sql_firewall](https://github.com/uptimejp/sql_firewall) <br/>SQL Firewall Extension for PostgreSQL | 128 |
-| 170. | [LippiOuYang/WebBench](https://github.com/LippiOuYang/WebBench) <br/>Webbench是一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同... | 127 |
+| 170. | [LippiOuYang/WebBench](https://github.com/LippiOuYang/WebBench) <br/>Webbench是一个在linux下使用的非常简单的网站... | 127 |
 | 171. | [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) <br/>GloVe model for distributed word representation | 126 |
 | 172. | [wukezhan/air](https://github.com/wukezhan/air) <br/>a high performance, lightweight framework for php5... | 126 |
 | 173. | [stefanesser/opensource_taig](https://github.com/stefanesser/opensource_taig) <br/>Lets create an open source version of the latest T... | 124 |

@@ -94,7 +94,7 @@
 | 88. | [mozilla/readability](https://github.com/mozilla/readability) <br/>A standalone version of the readability lib | 227 |
 | 89. | [omnus/tiny-twitch](https://github.com/omnus/tiny-twitch) <br/>A tiny html/javascript game whose source code fits... | 223 |
 | 90. | [lgarron/badssl.com](https://github.com/lgarron/badssl.com) <br/>:lock: Memorable site for testing clients against... | 219 |
-| 91. | [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) <br/>Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息... | 213 |
+| 91. | [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) <br/>Sreg可对使用者通过输入email、phone、username... | 213 |
 | 92. | [tomw1808/newscombinator](https://github.com/tomw1808/newscombinator) <br/>This repository is the open-source newscombinator. | 213 |
 | 93. | [musalbas/address-spoofing-poc](https://github.com/musalbas/address-spoofing-poc) <br/>Chrome address spoofing vulnerability proof-of-con... | 211 |
 | 94. | [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset) <br/>A minimal SVG icon set for modern web | 207 |
@@ -116,7 +116,7 @@
 | 110. | [karpathy/reinforcejs](https://github.com/karpathy/reinforcejs) <br/>Reinforcement Learning Agents in Javascript (Dynam... | 188 |
 | 111. | [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) <br/>My Blog / Jekyll Themes | 187 |
 | 112. | [Mashape/apiembed](https://github.com/Mashape/apiembed) <br/>Embeddable API code snippets for your website, blo... | 183 |
-| 113. | [nimojs/learn-js](https://github.com/nimojs/learn-js) <br/>一个 JavaScript 互助学习的项目。接受组件开发的挑战，提交代码让他人评论你的代码以提高。 | 183 |
+| 113. | [nimojs/learn-js](https://github.com/nimojs/learn-js) <br/>一个 JavaScript 互助学习的项目。接受组件开发的挑... | 183 |
 | 114. | [angular/angular.io](https://github.com/angular/angular.io) <br/>Website for Angular 2 | 179 |
 | 115. | [juancabrera/react-asset-loader](https://github.com/juancabrera/react-asset-loader) <br/>React component for loading images and videos with... | 179 |
 | 116. | [kazzkiq/CodeFlask.js](https://github.com/kazzkiq/CodeFlask.js) <br/>A micro code-editor for awesome web pages. | 175 |

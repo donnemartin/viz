@@ -94,7 +94,7 @@
 | 88. | [facebook/stetho](https://github.com/facebook/stetho) <br/>Stetho is a debug bridge for Android applications,... | 3797 |
 | 89. | [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) <br/>The flexible, easy to use, all in one drawer libra... | 3738 |
 | 90. | [fchollet/keras](https://github.com/fchollet/keras) <br/>Deep Learning library for Python. Convnets, recurr... | 3731 |
-| 91. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 | 3674 |
+| 91. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、软... | 3674 |
 | 92. | [tmux/tmux](https://github.com/tmux/tmux) <br/>tmux source code | 3639 |
 | 93. | [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br/>:iphone: Collaborative List of Open-Source iOS App... | 3604 |
 | 94. | [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) <br/>Android Transition animations explanation with exa... | 3588 |
@@ -147,7 +147,7 @@
 | 141. | [thoughtbot/til](https://github.com/thoughtbot/til) <br/>Today I Learned | 2924 |
 | 142. | [kolodny/exercises](https://github.com/kolodny/exercises) <br/>Some basic javascript coding challenges and interv... | 2848 |
 | 143. | [googlesamples/android-topeka](https://github.com/googlesamples/android-topeka) <br/>A fun to play quiz that showcases material design... | 2845 |
-| 144. | [ele828/react-native-guide](https://github.com/ele828/react-native-guide) <br/>React-Native指南汇集了react-native学习资源与各类开源app | 2845 |
+| 144. | [ele828/react-native-guide](https://github.com/ele828/react-native-guide) <br/>React-Native指南汇集了react-native学习资源与... | 2845 |
 | 145. | [realm/SwiftLint](https://github.com/realm/SwiftLint) <br/>A tool to enforce Swift style and conventions. | 2840 |
 | 146. | [go-kit/kit](https://github.com/go-kit/kit) <br/>A standard library for microservices. | 2836 |
 | 147. | [p8952/bocker](https://github.com/p8952/bocker) <br/>Docker implemented in around 100 lines of bash | 2836 |
@@ -217,7 +217,7 @@
 | 211. | [airbnb/enzyme](https://github.com/airbnb/enzyme) <br/>JavaScript Testing utilities for React | 2335 |
 | 212. | [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) <br/>Collection of nice loading animations | 2331 |
 | 213. | [chjj/ttystudio](https://github.com/chjj/ttystudio) <br/>A terminal-to-gif recorder minus the headaches. | 2325 |
-| 214. | [X140Yu/Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift) <br/>Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译 | 2322 |
+| 214. | [X140Yu/Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift) <br/>Stanford 公开课，Developing iOS 8 Apps with Swift... | 2322 |
 | 215. | [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) <br/>Uses some known methods that attempt to disable tr... | 2315 |
 | 216. | [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) <br/>An "awesome" type curated list of React Native com... | 2312 |
 | 217. | [orhanobut/logger](https://github.com/orhanobut/logger) <br/>Simple, pretty and powerful logger for android | 2299 |
@@ -319,7 +319,7 @@
 | 313. | [jamesob/desk](https://github.com/jamesob/desk) <br/>A lightweight workspace manager for the shell | 1757 |
 | 314. | [dariubs/GoBooks](https://github.com/dariubs/GoBooks) <br/>List of Golang books | 1749 |
 | 315. | [pheuter/essential-react](https://github.com/pheuter/essential-react) <br/>A minimal skeleton for building testable React app... | 1747 |
-| 316. | [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) <br/>SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 | 1742 |
+| 316. | [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) <br/>SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品... | 1742 |
 | 317. | [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) <br/>A tiny script to issue and renew TLS certs from Le... | 1738 |
 | 318. | [jgrahamc/httpdiff](https://github.com/jgrahamc/httpdiff) <br/>Perform the same request against two HTTP servers... | 1736 |
 | 319. | [paulirish/memory-stats.js](https://github.com/paulirish/memory-stats.js) <br/>minimal monitor for JS Heap Size via performance.m... | 1731 |
@@ -349,7 +349,7 @@
 | 343. | [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) <br/>RxJava binding APIs for Android's UI widgets. | 1656 |
 | 344. | [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) <br/>The ProseMirror WYSIWYM editor | 1648 |
 | 345. | [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) <br/>:crystal_ball: Tiny and blazing-fast fuzzy search... | 1647 |
-| 346. | [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) <br/>一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图... | 1644 |
+| 346. | [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) <br/>一款基于Google Material Design设计开发的Androi... | 1644 |
 | 347. | [Yalantis/Koloda](https://github.com/Yalantis/Koloda) <br/>KolodaView is a class designed to simplify the imp... | 1644 |
 | 348. | [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) <br/>Get started with React, Redux, and React-Router! | 1642 |
 | 349. | [Yalantis/Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS) <br/>This project aims to provide a simple and customiz... | 1639 |
@@ -361,7 +361,7 @@
 | 355. | [airbnb/airflow](https://github.com/airbnb/airflow) <br/>Airflow is a system to programmatically author, sc... | 1611 |
 | 356. | [JulienGenoud/android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample) <br/>Just a sample of the android percent support lib | 1606 |
 | 357. | [Netflix/vector](https://github.com/Netflix/vector) <br/>Vector is an on-host performance monitoring framew... | 1603 |
-| 358. | [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) <br/>:moneybag: 微信抢红包插件, 帮助你在微信群聊抢红包时战无不胜. An Android a... | 1599 |
+| 358. | [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) <br/>:moneybag: 微信抢红包插件, 帮助你在微信群聊抢红包时战无... | 1599 |
 | 359. | [Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet) <br/>Android component which presents a dismissible vie... | 1593 |
 | 360. | [hmlb/phpunit-vw](https://github.com/hmlb/phpunit-vw) <br/>VW PHPUnit extension makes your failing test cases... | 1587 |
 | 361. | [oarrabi/OAStackView](https://github.com/oarrabi/OAStackView) <br/>Porting UIStackView to iOS 7+ | 1586 |
@@ -377,7 +377,7 @@
 | 371. | [google/eddystone](https://github.com/google/eddystone) <br/>Specification for Eddystone, an open beacon format... | 1562 |
 | 372. | [Yalantis/Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) <br/>Animated side menu with customizable UI | 1559 |
 | 373. | [mapsme/omim](https://github.com/mapsme/omim) <br/>MAPS.ME - Offline OpenStreetMap maps for iOS/Andro... | 1558 |
-| 374. | [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) <br/>Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 | 1557 |
+| 374. | [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) <br/>Android屏幕适配方案，直接填写设计图上的像素尺寸即... | 1557 |
 | 375. | [henriquea/minigrid](https://github.com/henriquea/minigrid) <br/>Minimal 2kb zero dependency cascading grid layout | 1548 |
 | 376. | [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) <br/>Hacker News iOS and Android App - Made with React... | 1537 |
 | 377. | [s-a/iron-node](https://github.com/s-a/iron-node) <br/>Debug Node.js code with Chrome Developer Tools. | 1534 |
@@ -411,7 +411,7 @@
 | 405. | [kaishengtai/neuralart](https://github.com/kaishengtai/neuralart) <br/>An implementation of the paper 'A Neural Algorithm... | 1455 |
 | 406. | [ptmt/react-native-desktop](https://github.com/ptmt/react-native-desktop) <br/>React Native for OS X | 1447 |
 | 407. | [gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) <br/>Elastic pull to refresh for iOS developed in Swift | 1447 |
-| 408. | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) <br/>Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。 | 1446 |
+| 408. | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) <br/>Java资源大全中文版，包括开发库、开发工具、网站... | 1446 |
 | 409. | [davidlazar/vuvuzela](https://github.com/davidlazar/vuvuzela) <br/>Private messaging system that hides metadata | 1441 |
 | 410. | [schwa/Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices) <br/>Best practices for software development with Swift | 1440 |
 | 411. | [addyosmani/es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5) <br/>WIP - ES6 Equivalents In ES5 | 1434 |

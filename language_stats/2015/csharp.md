@@ -1,4 +1,4 @@
-# C-Sharp
+# C#
 
 ## Most-Starred Repos: C#
 
@@ -20,7 +20,7 @@
 | 14. | [firstfloorsoftware/mui](https://github.com/firstfloorsoftware/mui) <br/>Modern UI for WPF | 559 |
 | 15. | [dotnet/wcf](https://github.com/dotnet/wcf) <br/>This repo contains the client-oriented WCF librari... | 552 |
 | 16. | [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) <br/>Prism is a framework for building loosely coupled,... | 542 |
-| 17. | [MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) <br/>A desktop player for Google Play Music with media... | 522 |
+| 17. | [MarshallOfSound/Google-Play-Music-Desktop-Play...](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) <br/>A desktop player for Google Play Music with media... | 522 |
 | 18. | [0xd4d/dnSpy](https://github.com/0xd4d/dnSpy) <br/>.NET assembly editor, decompiler, and debugger | 512 |
 | 19. | [dotnet/codeformatter](https://github.com/dotnet/codeformatter) <br/>Tool that uses Roslyn to automatically rewrite the... | 504 |
 | 20. | [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) <br/>Implementations of Data Structures and Algorithms... | 491 |
@@ -98,9 +98,9 @@
 | 92. | [jbogard/Respawn](https://github.com/jbogard/Respawn)  | 143 |
 | 93. | [stackia/DNSAgent](https://github.com/stackia/DNSAgent) <br/>A powerful "hosts" replacement. | 142 |
 | 94. | [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) <br/>PowerShell ScriptAnalyzer | 141 |
-| 95. | [lightszero/LSharp](https://github.com/lightszero/LSharp) <br/>A Pure C# IL Runner,Run DLL as a Script.直接解析执行IL的脚... | 140 |
+| 95. | [lightszero/LSharp](https://github.com/lightszero/LSharp) <br/>A Pure C# IL Runner,Run DLL as a Script.直接解析... | 140 |
 | 96. | [sdrapkin/SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) <br/>.NET crypto done right. | 137 |
-| 97. | [lei-zhu/SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) <br/>C# Crawler 多线程爬虫程序，支持正则表达式过滤、关键字过滤、正文内容识别等等 | 137 |
+| 97. | [lei-zhu/SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) <br/>C# Crawler 多线程爬虫程序，支持正则表达式过滤... | 137 |
 | 98. | [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch) <br/>Video glitch effects for Unity | 134 |
 | 99. | [mspnp/performance-optimization](https://github.com/mspnp/performance-optimization) <br/>Guidance on how to observe, measure, and correct c... | 133 |
 | 100. | [Chman/SMAA-Unity](https://github.com/Chman/SMAA-Unity) <br/>A highly customizable implementation of Subpixel M... | 133 |

@@ -77,7 +77,7 @@
 | 71. | [dghubble/gologin](https://github.com/dghubble/gologin) <br/>Chainable Go login handlers for authentication pro... | 581 |
 | 72. | [joushou/serve2d](https://github.com/joushou/serve2d) <br/>Protocol detecting server | 579 |
 | 73. | [knadh/niltalk](https://github.com/knadh/niltalk) <br/>A multi-room disposable chat service written in Go... | 578 |
-| 74. | [henrylee2cn/pholcus](https://github.com/henrylee2cn/pholcus) <br/>[爬虫框架 (golang)] Pholcus（幽灵蛛）是一款纯Go语言编写的高并发、分布式、重量级... | 577 |
+| 74. | [henrylee2cn/pholcus](https://github.com/henrylee2cn/pholcus) <br/>[爬虫框架 (golang)] Pholcus（幽灵蛛）是一款纯Go... | 577 |
 | 75. | [opencontainers/specs](https://github.com/opencontainers/specs) <br/>Open Container Specifications | 573 |
 | 76. | [bradfitz/talk-yapc-asia-2015](https://github.com/bradfitz/talk-yapc-asia-2015) <br/>talk-yapc-asia-2015 | 572 |
 | 77. | [JoelOtter/termloop](https://github.com/JoelOtter/termloop) <br/>Terminal-based game engine for Go, built on top of... | 567 |

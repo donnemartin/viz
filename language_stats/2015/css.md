@@ -29,7 +29,7 @@
 | 23. | [mblode/burger](https://github.com/mblode/burger) <br/>Burger - The minimal hamburger menu with fullscree... | 740 |
 | 24. | [ben-eb/cssnano](https://github.com/ben-eb/cssnano) <br/>A modular minifier, built on top of the PostCSS ec... | 696 |
 | 25. | [yegor256/tacit](https://github.com/yegor256/tacit) <br/>CSS Framework for Dummies, Without Classes | 692 |
-| 26. | [wintercn/dog-fucked-zhihu](https://github.com/wintercn/dog-fucked-zhihu) <br/>退出知乎好帮手——狗日的知乎，备份自己的答案，取消所有点赞，批量替换所有答案 | 613 |
+| 26. | [wintercn/dog-fucked-zhihu](https://github.com/wintercn/dog-fucked-zhihu) <br/>退出知乎好帮手——狗日的知乎，备份自己的答案... | 613 |
 | 27. | [codrops/TextInputEffects](https://github.com/codrops/TextInputEffects) <br/>Simple styles and effects for enhancing text input... | 583 |
 | 28. | [cmaddux/littlebox](https://github.com/cmaddux/littlebox) <br/>Super simple to implement, CSS-only icons. | 552 |
 | 29. | [qrohlf/trianglify-generator](https://github.com/qrohlf/trianglify-generator) <br/>no-coding-required triangle pattern generator. wor... | 542 |
@@ -161,7 +161,7 @@
 | 155. | [BrOrlandi/StarWarsIntroCreator](https://github.com/BrOrlandi/StarWarsIntroCreator) <br/>Create your own Star Wars intro. | 127 |
 | 156. | [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) <br/>:microphone: Sample Node.js Application for the IB... | 125 |
 | 157. | [codrops/AnimatedMenuIcon](https://github.com/codrops/AnimatedMenuIcon) <br/>Demo for the tutorial on how to animate an SVG men... | 123 |
-| 158. | [lvwangbeta/osf](https://github.com/lvwangbeta/osf) <br/>OSF是一个开放、自由、分享的内容社区类网站原型，实现多用户，内容的发布、评论、喜欢，消息传递，Fe... | 121 |
+| 158. | [lvwangbeta/osf](https://github.com/lvwangbeta/osf) <br/>OSF是一个开放、自由、分享的内容社区类网站原型... | 121 |
 | 159. | [wuhaoworld/github-issues-blog](https://github.com/wuhaoworld/github-issues-blog) <br/>基于 Github issues 的单页面静态博客 | 120 |
 | 160. | [GoesToEleven/go_web_app](https://github.com/GoesToEleven/go_web_app) <br/>go_web_app | 119 |
 | 161. | [codrops/ButtonStylesInspiration](https://github.com/codrops/ButtonStylesInspiration) <br/>Some ideas for modern and subtle button styles and... | 118 |
@@ -187,7 +187,7 @@
 | 181. | [yongjhih/android-gitbook](https://github.com/yongjhih/android-gitbook)  | 104 |
 | 182. | [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) <br/>Website for pid.codes | 103 |
 | 183. | [stewones/angular-morris-chart](https://github.com/stewones/angular-morris-chart) <br/>:coffee: wrapper of morris.js for angular 1.x | 102 |
-| 184. | [dmscode/Wiki-in-box](https://github.com/dmscode/Wiki-in-box) <br/>一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自... | 101 |
+| 184. | [dmscode/Wiki-in-box](https://github.com/dmscode/Wiki-in-box) <br/>一个可以放在各种网盘，各种空间的，Markdown 语法... | 101 |
 | 185. | [solus-cold-storage/evopop-gtk-theme](https://github.com/solus-cold-storage/evopop-gtk-theme) <br/>[NOT MAINTAINED] Gtk theme for Solus Project & Bud... | 101 |
 | 186. | [codrops/TextStylesHoverEffects](https://github.com/codrops/TextStylesHoverEffects) <br/>A couple of creative text styles and hover effects... | 101 |
 | 187. | [remotesynth/Static-Site-Samples](https://github.com/remotesynth/Static-Site-Samples) <br/>A collection of simple sites built with various st... | 101 |

@@ -172,7 +172,7 @@
 | 166. | [rantonels/starless](https://github.com/rantonels/starless) <br/>Starless is a CPU black hole raytracer in numpy su... | 320 |
 | 167. | [jakevdp/sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015) <br/>Materials for my Pycon 2015 scikit-learn tutorial. | 320 |
 | 168. | [gojhonny/CredCrack](https://github.com/gojhonny/CredCrack) <br/>A fast and stealthy credential harvester | 319 |
-| 169. | [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) <br/>莞香广科微信公众号后端，使用 Python、Flask、Redis、MySQL、Celery | 316 |
+| 169. | [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) <br/>莞香广科微信公众号后端，使用 Python、Flask... | 316 |
 | 170. | [OffensivePython/Nscan](https://github.com/OffensivePython/Nscan) <br/>Nscan: Fast internet-wide scanner | 316 |
 | 171. | [ring04h/wydomain](https://github.com/ring04h/wydomain) <br/>目标系统信息收集组件 | 315 |
 | 172. | [spotify/postgresql-metrics](https://github.com/spotify/postgresql-metrics) <br/>Tool that extracts and provides metrics on your Po... | 311 |
@@ -218,13 +218,13 @@
 | 212. | [projectcalico/calico-docker](https://github.com/projectcalico/calico-docker) <br/>Project Calico deployed in a Docker container | 258 |
 | 213. | [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) <br/>Converts profiling output to a dot graph. | 257 |
 | 214. | [awslabs/machine-learning-samples](https://github.com/awslabs/machine-learning-samples) <br/>Sample applications built using Amazon Machine Lea... | 257 |
-| 215. | [knownsec/Pocsuite](https://github.com/knownsec/Pocsuite) <br/>Pocsuite 是知道创宇安全研究团队打造的一款基于漏洞与 PoC 的远程漏洞验证框架，Pocsu... | 255 |
+| 215. | [knownsec/Pocsuite](https://github.com/knownsec/Pocsuite) <br/>Pocsuite 是知道创宇安全研究团队打造的一款基于漏... | 255 |
 | 216. | [drzoidberg33/plexpy](https://github.com/drzoidberg33/plexpy) <br/>A Python based monitoring and tracking tool for Pl... | 254 |
 | 217. | [dbpedia/fact-extractor](https://github.com/dbpedia/fact-extractor) <br/>Fact Extraction from Wikipedia Text | 253 |
 | 218. | [klen/muffin](https://github.com/klen/muffin) <br/>Muffin is a fast, simple and asyncronous web-frame... | 252 |
 | 219. | [mila-udem/summerschool2015](https://github.com/mila-udem/summerschool2015) <br/>Slides and exercises for the Deep Learning Summer... | 252 |
 | 220. | [uaca/deepy](https://github.com/uaca/deepy) <br/>Highly extensible deep learning framework | 251 |
-| 221. | [billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise) <br/>Data Structure and Algorithm notes. 数据结构与算法/leetco... | 251 |
+| 221. | [billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise) <br/>Data Structure and Algorithm notes. 数据结构与算法/... | 251 |
 | 222. | [getsentry/rb](https://github.com/getsentry/rb) <br/>Routing and connection management for Redis in Pyt... | 250 |
 | 223. | [appnexus/pyrobuf](https://github.com/appnexus/pyrobuf) <br/>A Cython alternative to Google's Python Protobuf l... | 250 |
 | 224. | [ChrisBeaumont/soupy](https://github.com/ChrisBeaumont/soupy) <br/>Easier wrangling of web data. | 249 |
@@ -312,7 +312,7 @@
 | 306. | [arecker/bennedetto](https://github.com/arecker/bennedetto) <br/>the turn-based budget | 179 |
 | 307. | [xybu/onedrive-d](https://github.com/xybu/onedrive-d) <br/>A Microsoft OneDrive client on Linux (IN PROGRESS)... | 179 |
 | 308. | [muatik/flask-profiler](https://github.com/muatik/flask-profiler) <br/>a flask profiler which watches endpoint calls and... | 178 |
-| 309. | [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) <br/>青岛大学 Online Judge【目前正在进行架构改变很大，文档正在更新，敬请期待~】 | 177 |
+| 309. | [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) <br/>青岛大学 Online Judge【目前正在进行架构改变很大... | 177 |
 | 310. | [amueller/scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) <br/>Scikit-Learn tutorial material for Scipy 2015 | 177 |
 | 311. | [datawire/bakerstreet](https://github.com/datawire/bakerstreet) <br/>Baker Street is a HAProxy based routing engine for... | 175 |
 | 312. | [prashanthellina/pullbox](https://github.com/prashanthellina/pullbox) <br/>A dead-simple dropbox alternative using Git | 175 |
@@ -407,11 +407,11 @@
 | 401. | [onyxfish/proof](https://github.com/onyxfish/proof) <br/>A Python library for creating fast, repeatable and... | 141 |
 | 402. | [jfalken/github_commit_crawler](https://github.com/jfalken/github_commit_crawler) <br/>Tool used to continuously monitor a Github org for... | 140 |
 | 403. | [hangoutsbot/hangoutsbot](https://github.com/hangoutsbot/hangoutsbot) <br/>Google Hangouts bot | 140 |
-| 404. | [zeruniverse/QQParking](https://github.com/zeruniverse/QQParking) <br/>QQBot, QQ机器人，用于QQ挂机。自动回复私聊及临时对话，记录留言并转发至邮箱，账号（被踢）下... | 140 |
+| 404. | [zeruniverse/QQParking](https://github.com/zeruniverse/QQParking) <br/>QQBot, QQ机器人，用于QQ挂机。自动回复私聊及... | 140 |
 | 405. | [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) <br/>Share threat information with vetted partners | 140 |
 | 406. | [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) <br/>Chainer implementation of Deep Convolutional Gener... | 139 |
 | 407. | [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) <br/>Fast subdomains enumeration tool for penetration t... | 139 |
-| 408. | [hustcc/iOS-private-api-checker](https://github.com/hustcc/iOS-private-api-checker) <br/>iOS-private-api-checker 苹果iOS私有API检查工具 Developer t... | 138 |
+| 408. | [hustcc/iOS-private-api-checker](https://github.com/hustcc/iOS-private-api-checker) <br/>iOS-private-api-checker 苹果iOS私有API检查工具... | 138 |
 | 409. | [ssut/py-googletrans](https://github.com/ssut/py-googletrans) <br/>Free Unofficial Google Translate API for Python. T... | 137 |
 | 410. | [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) <br/>Generate host overview from ansible fact gathering... | 137 |
 | 411. | [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) <br/>Quick web interface for browsing recent arxiv subm... | 137 |
@@ -431,7 +431,7 @@
 | 425. | [JakeCooper/OnePlusTwoBot](https://github.com/JakeCooper/OnePlusTwoBot) <br/>A series of exploits used to jump the OnePlus rese... | 131 |
 | 426. | [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) <br/>Entity Relation Diagrams generation tool | 131 |
 | 427. | [manugarri/cron-metrics](https://github.com/manugarri/cron-metrics) <br/>Implementation of a monitoring system of interval... | 131 |
-| 428. | [zeruniverse/QQRobot](https://github.com/zeruniverse/QQRobot) <br/>QQBot, QQ机器人(群聊小黄鸡) LINUX挂机版, SmartQQ协议。Python版本及w... | 131 |
+| 428. | [zeruniverse/QQRobot](https://github.com/zeruniverse/QQRobot) <br/>QQBot, QQ机器人(群聊小黄鸡) LINUX挂机版, Sma... | 131 |
 | 429. | [lonetwin/supycache](https://github.com/lonetwin/supycache) <br/>Simple yet capable caching decorator for python | 131 |
 | 430. | [maxpumperla/elephas](https://github.com/maxpumperla/elephas) <br/>Distributed Deep learning with Keras & Spark | 130 |
 | 431. | [zhangqichuan/CheungSSH](https://github.com/zhangqichuan/CheungSSH) <br/>自动化运维工具 | 130 |

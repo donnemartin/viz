@@ -66,7 +66,7 @@
 | 60. | [pyrech/composer-changelogs](https://github.com/pyrech/composer-changelogs) <br/>Display better Composer update summary | 284 |
 | 61. | [symfony/symfony-demo](https://github.com/symfony/symfony-demo)  | 284 |
 | 62. | [dunglas/DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) <br/>The Hypermedia REST API component of API Platform:... | 282 |
-| 63. | [SegmentFault/HyperDown](https://github.com/SegmentFault/HyperDown) <br/>一个结构清晰的，易于维护的，现代的PHP Markdown解析器 | 280 |
+| 63. | [SegmentFault/HyperDown](https://github.com/SegmentFault/HyperDown) <br/>一个结构清晰的，易于维护的，现代的PHP Markdown... | 280 |
 | 64. | [Zemke/starter-laravel-angular](https://github.com/Zemke/starter-laravel-angular) <br/>Laravel and AngularJS Starter Application Boilerpl... | 276 |
 | 65. | [WPTRT/code-examples](https://github.com/WPTRT/code-examples) <br/>Code examples and snippet library | 276 |
 | 66. | [franzliedke/studio](https://github.com/franzliedke/studio) <br/>A workbench for developing Composer packages. | 270 |
@@ -74,7 +74,7 @@
 | 68. | [bruli/php-git-hooks](https://github.com/bruli/php-git-hooks) <br/>Git hooks for PHP projects | 267 |
 | 69. | [Automattic/amp-wp](https://github.com/Automattic/amp-wp) <br/>WordPress plugin for adding AMP support | 265 |
 | 70. | [jp7internet/laravel-apz](https://github.com/jp7internet/laravel-apz) <br/>The guide to build a Laravel app from a to z. | 259 |
-| 71. | [owner888/phpspider](https://github.com/owner888/phpspider) <br/>《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序 | 256 |
+| 71. | [owner888/phpspider](https://github.com/owner888/phpspider) <br/>《我用爬虫一天时间“偷了”知乎一百万用户，只为证明... | 256 |
 | 72. | [jeremeamia/mu](https://github.com/jeremeamia/mu) <br/>The 4-LOC µ (mu) PHP Microframework. Just cuz. | 253 |
 | 73. | [gantry/gantry5](https://github.com/gantry/gantry5) <br/>:rocket: Next Generation Theme Framework | 253 |
 | 74. | [neomerx/json-api](https://github.com/neomerx/json-api) <br/>Framework agnostic JSON API (jsonapi.org) implemen... | 252 |
@@ -191,7 +191,7 @@
 | 185. | [vinkla/pusher](https://github.com/vinkla/pusher) <br/>A Pusher bridge for Laravel | 120 |
 | 186. | [mccreath/isitup-for-slack](https://github.com/mccreath/isitup-for-slack) <br/>Custom slash command to use isitup.org to check if... | 119 |
 | 187. | [beberlei/fiddler](https://github.com/beberlei/fiddler) <br/>Experimental embedded Composer for multiple packag... | 119 |
-| 188. | [johnlui/AliyunOSS](https://github.com/johnlui/AliyunOSS) <br/>阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 PHP 项目，包括 Larave... | 119 |
+| 188. | [johnlui/AliyunOSS](https://github.com/johnlui/AliyunOSS) <br/>阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 ... | 119 |
 | 189. | [symfony/polyfill](https://github.com/symfony/polyfill) <br/>PHP polyfills | 119 |
 | 190. | [Level-2/Transphporm](https://github.com/Level-2/Transphporm) <br/>Transformation Style Sheets - Revolutionising PHP... | 118 |
 | 191. | [uxweb/sweet-alert](https://github.com/uxweb/sweet-alert) <br/>A simple PHP package to show SweetAlerts with the... | 117 |

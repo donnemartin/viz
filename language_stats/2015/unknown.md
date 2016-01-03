@@ -22,7 +22,7 @@
 | 16. | [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) <br/>Dive into Machine Learning with Python Jupyter not... | 4498 |
 | 17. | [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) <br/>Selfhosting is the process of locally hosting and... | 4182 |
 | 18. | [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) <br/>Useful resources for creating apps with Electron | 4040 |
-| 19. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 | 3674 |
+| 19. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、软... | 3674 |
 | 20. | [mikechau/react-primer-draft](https://github.com/mikechau/react-primer-draft) <br/>A primer for building web applications with React. | 3579 |
 | 21. | [adamwulf/app-launch-guide](https://github.com/adamwulf/app-launch-guide) <br/>This aims to be an indie dev's definitive guide to... | 3372 |
 | 22. | [lfit/itpol](https://github.com/lfit/itpol) <br/>Useful IT policies | 3333 |
@@ -31,7 +31,7 @@
 | 25. | [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) <br/>A community-curated list of flexbox issues and cro... | 3031 |
 | 26. | [iCHAIT/awesome-osx](https://github.com/iCHAIT/awesome-osx) <br/>:memo: A curated list of awesome applications, sof... | 2991 |
 | 27. | [thoughtbot/til](https://github.com/thoughtbot/til) <br/>Today I Learned | 2924 |
-| 28. | [ele828/react-native-guide](https://github.com/ele828/react-native-guide) <br/>React-Native指南汇集了react-native学习资源与各类开源app | 2845 |
+| 28. | [ele828/react-native-guide](https://github.com/ele828/react-native-guide) <br/>React-Native指南汇集了react-native学习资源与... | 2845 |
 | 29. | [rstacruz/rscss](https://github.com/rstacruz/rscss) <br/>Reasonable System for CSS Stylesheet Structure | 2804 |
 | 30. | [amfe/article](https://github.com/amfe/article)  | 2778 |
 | 31. | [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) <br/>Awesome list of Redux examples and middlewares | 2655 |
@@ -44,7 +44,7 @@
 | 38. | [steeve/france.code-civil](https://github.com/steeve/france.code-civil) <br/>Le code civil français sous git | 2431 |
 | 39. | [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) <br/>Modular visual interface for GDB in Python | 2365 |
 | 40. | [css-modules/css-modules](https://github.com/css-modules/css-modules) <br/>Documentation about css-modules | 2354 |
-| 41. | [X140Yu/Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift) <br/>Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译 | 2322 |
+| 41. | [X140Yu/Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift) <br/>Stanford 公开课，Developing iOS 8 Apps with Swift... | 2322 |
 | 42. | [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs) <br/>A list of semi to fully remote-friendly companies... | 2252 |
 | 43. | [apple/swift-evolution](https://github.com/apple/swift-evolution) <br/>This maintains proposals for changes and user-visi... | 2249 |
 | 44. | [Jam3/math-as-code](https://github.com/Jam3/math-as-code) <br/>a cheat-sheet for mathematical notation in code fo... | 2198 |
@@ -58,7 +58,7 @@
 | 52. | [szhu/3030](https://github.com/szhu/3030) <br/>%%30%30 Game: Don't touch the trees! (Thanks, Chro... | 1622 |
 | 53. | [android-cn/android-discuss](https://github.com/android-cn/android-discuss) <br/>Android 问题交流讨论坛, 微信公众号:codekk, 网站: | 1586 |
 | 54. | [xirong/my-git](https://github.com/xirong/my-git) <br/>个人学习git的资料整理，欢迎关注…… | 1526 |
-| 55. | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) <br/>Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。 | 1446 |
+| 55. | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) <br/>Java资源大全中文版，包括开发库、开发工具、网站... | 1446 |
 | 56. | [schwa/Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices) <br/>Best practices for software development with Swift | 1440 |
 | 57. | [addyosmani/es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5) <br/>WIP - ES6 Equivalents In ES5 | 1434 |
 | 58. | [Xyl2k/TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) <br/>3D reproduction of TSA Master keys | 1395 |
@@ -91,7 +91,7 @@
 | 85. | [wycats/javascript-decorators](https://github.com/wycats/javascript-decorators)  | 913 |
 | 86. | [Leo-G/DevopsWiki](https://github.com/Leo-G/DevopsWiki) <br/>A wiki of Devops Tools, Tutorials and Scripts | 909 |
 | 87. | [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) <br/>Sci-Fi worth consuming | 894 |
-| 88. | [CameronBanga/iOS-Developer-and-Designer-Interview-Questions](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) <br/>A small guide to help those looking to hire a deve... | 885 |
+| 88. | [CameronBanga/iOS-Developer-and-Designer-Int...](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) <br/>A small guide to help those looking to hire a deve... | 885 |
 | 89. | [grpc/grpc-common](https://github.com/grpc/grpc-common) <br/>Documents, resources, examples shared across other... | 872 |
 | 90. | [preciousforever/sketch-data-populator](https://github.com/preciousforever/sketch-data-populator) <br/>A Sketch App plugin to populate your documents wit... | 862 |
 | 91. | [ngaut/builddatabase](https://github.com/ngaut/builddatabase) <br/>Build a distributed SQL database from the ground u... | 851 |
@@ -107,11 +107,11 @@
 | 101. | [mattdesl/promise-cookbook](https://github.com/mattdesl/promise-cookbook) <br/>:orange_book: a brief introduction to using Promis... | 739 |
 | 102. | [jsfront/src](https://github.com/jsfront/src) <br/>常用代码收集资源分享 | 733 |
 | 103. | [amq/firefox-debloat](https://github.com/amq/firefox-debloat) <br/>Stop Firefox leaking data about you | 731 |
-| 104. | [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) <br/>What-happens-when 的中文翻译，原仓库 https://github.com/ale... | 730 |
+| 104. | [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) <br/>What-happens-when 的中文翻译，原仓库... | 730 |
 | 105. | [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP) <br/>Deep Learning for NLP resources | 721 |
 | 106. | [nieweidong/fetool](https://github.com/nieweidong/fetool) <br/>大前端的瑞士军刀，只记录有用的 | 721 |
 | 107. | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) <br/>A curated list of awesome things related to Vue.js | 716 |
-| 108. | [aosp-exchange-group/share](https://github.com/aosp-exchange-group/share) <br/>Android 开源交流 QQ 群分享汇总, 微信公众号:codekk, 网站: | 704 |
+| 108. | [aosp-exchange-group/share](https://github.com/aosp-exchange-group/share) <br/>Android 开源交流 QQ 群分享汇总, 微信公众号:code... | 704 |
 | 109. | [mattdesl/graphics-resources](https://github.com/mattdesl/graphics-resources) <br/>:memo: a list of graphic programming resources | 699 |
 | 110. | [estree/estree](https://github.com/estree/estree) <br/>The ESTree Spec | 681 |
 | 111. | [zer0n/deepframeworks](https://github.com/zer0n/deepframeworks) <br/>Evaluation of Deep Learning Frameworks | 669 |
@@ -126,7 +126,7 @@
 | 120. | [bboyfeiyu/iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier) <br/>开发技术前线 iOS项目 | 613 |
 | 121. | [juarezpaf/ionic-adventures](https://github.com/juarezpaf/ionic-adventures) <br/>Ionic Adventures is all about a journey using the... | 603 |
 | 122. | [databricks/scala-style-guide](https://github.com/databricks/scala-style-guide) <br/>Databricks Scala Coding Style Guide | 603 |
-| 123. | [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) <br/>:octocat: 高质量的Git中文教程，来自国外社区的优秀文章和个人实践 | 597 |
+| 123. | [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) <br/>:octocat: 高质量的Git中文教程，来自国外社区的优秀文... | 597 |
 | 124. | [MuseumofModernArt/collection](https://github.com/MuseumofModernArt/collection) <br/>The Museum of Modern Art (MoMA) collection data | 591 |
 | 125. | [EricLagergren/gonix](https://github.com/EricLagergren/gonix) <br/>DEPRECIATED SEE GO-COREUTILS | 591 |
 | 126. | [programthink/opensource](https://github.com/programthink/opensource) <br/>【编程随想】收藏的开源项目清单 | 582 |
@@ -140,7 +140,7 @@
 | 134. | [webcomponents/gold-standard](https://github.com/webcomponents/gold-standard)  | 525 |
 | 135. | [mindeavor/es-pipeline-operator](https://github.com/mindeavor/es-pipeline-operator) <br/>A proposal for adding the simple-but-useful pipeli... | 523 |
 | 136. | [moonbingbing/openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices)  | 519 |
-| 137. | [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) <br/>JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架... | 511 |
+| 137. | [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) <br/>JavaScript 资源大全中文版，内容包括：包管理器... | 511 |
 | 138. | [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) <br/>A collection of links to Ruby Natural Language Pro... | 511 |
 | 139. | [greatghoul/sibi](https://github.com/greatghoul/sibi) <br/>V2EX 撕逼大战 | 509 |
 | 140. | [google/inception](https://github.com/google/inception)  | 507 |
@@ -185,7 +185,7 @@
 | 179. | [sxyx2008/awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) <br/>A curated list of awesome iOS chart libraries, inc... | 376 |
 | 180. | [programthink/books](https://github.com/programthink/books) <br/>【编程随想】收藏的电子书清单（涉及多个学科） | 372 |
 | 181. | [KevinHM/FunctionalReactiveProgrammingOniOS](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS) <br/>Functional reactive programming introduction using... | 370 |
-| 182. | [qinghuaiorg/free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) <br/>国内免费服务聚合   （一点情怀出品，更多干货  http://1.qinghuai.org ） | 366 |
+| 182. | [qinghuaiorg/free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) <br/>国内免费服务聚合   （一点情怀出品，更多干货... | 366 |
 | 183. | [diessica/awesome-sketch](https://github.com/diessica/awesome-sketch) <br/>delightful stuff for SketchApp students | 365 |
 | 184. | [lzyy/iOS-Developer-Interview-Questions](https://github.com/lzyy/iOS-Developer-Interview-Questions) <br/>面试 iOS 开发时可以问的一些问题 | 364 |
 | 185. | [recalbox/recalbox-os](https://github.com/recalbox/recalbox-os) <br/>The super repository for recalbox | 363 |
@@ -221,8 +221,8 @@
 | 215. | [azu/awesome-commit-english](https://github.com/azu/awesome-commit-english) <br/>コミット英語についての記事まとめ | 302 |
 | 216. | [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) <br/>List of resources for asynchronous programming in... | 298 |
 | 217. | [NisreenFarhoud/Bash-Cheatsheet](https://github.com/NisreenFarhoud/Bash-Cheatsheet)  | 297 |
-| 218. | [soyoungboy/android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) <br/>android material design 风格项目整理 | 285 |
-| 219. | [stormzhang/1024](https://github.com/stormzhang/1024) <br/>针对程序员人群而设计的一款健康快捷的全营养代餐，这一次我们终于有更多的时间去改变世界！ | 284 |
+| 218. | [soyoungboy/android-material-design-Open-sour...](https://github.com/soyoungboy/android-material-design-Open-source-projects) <br/>android material design 风格项目整理 | 285 |
+| 219. | [stormzhang/1024](https://github.com/stormzhang/1024) <br/>针对程序员人群而设计的一款健康快捷的全营养代餐... | 284 |
 | 220. | [desmond1121/Fresco-Source-Analysis](https://github.com/desmond1121/Fresco-Source-Analysis) <br/>中文的Fresco源码解读 | 284 |
 | 221. | [pragmaticivan/guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) <br/>:airplane: Conjunto de informações, experiências e... | 282 |
 | 222. | [joshburgess/not-awesome-es6-classes](https://github.com/joshburgess/not-awesome-es6-classes) <br/>A curated list of resources on why ES6 (aka ES2015... | 280 |
@@ -231,14 +231,14 @@
 | 225. | [ecomfe/react-native-cn](https://github.com/ecomfe/react-native-cn)  | 277 |
 | 226. | [facebookgo/generics](https://github.com/facebookgo/generics)  | 276 |
 | 227. | [jugoncalves/awesome-answers](https://github.com/jugoncalves/awesome-answers) <br/>Curated list of inspiring and thoughtful answers g... | 274 |
-| 228. | [qibaoguang/Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) <br/>Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》 | 272 |
+| 228. | [qibaoguang/Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) <br/>Spring Boot Reference Guide中文翻译 -《Spring... | 272 |
 | 229. | [aspnet/Announcements](https://github.com/aspnet/Announcements) <br/>Subscribe to this repo to be notified about major... | 271 |
 | 230. | [hawx1993/github-FE-project](https://github.com/hawx1993/github-FE-project) <br/>github上值得关注的前端项目 | 271 |
 | 231. | [PedroPegueroJr/moonshine-iconpack](https://github.com/PedroPegueroJr/moonshine-iconpack) <br/>Graphical Assets for the Moonshine Icon Pack on Go... | 267 |
 | 232. | [thenewstack/docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) <br/>A series of ebooks on Docker and the container eco... | 266 |
 | 233. | [someus/another-tutorial-about-java-web](https://github.com/someus/another-tutorial-about-java-web) <br/>:crying_cat_face: another tutorial about java web | 266 |
 | 234. | [gdi2290/ngExam](https://github.com/gdi2290/ngExam) <br/>An AngularJS exam with questions from beginner to... | 266 |
-| 235. | [ZhaoKaiQiang/AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) <br/>安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理 | 264 |
+| 235. | [ZhaoKaiQiang/AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) <br/>安卓开发中遇到的重难点解析，也包括平常的读书笔... | 264 |
 | 236. | [tarngerine/sketch-origami-export](https://github.com/tarngerine/sketch-origami-export) <br/>Plugin to export and update assets for Facebook's... | 263 |
 | 237. | [domgetter/NCoC](https://github.com/domgetter/NCoC) <br/>No Code of Conduct: A Code of Conduct for Adults i... | 259 |
 | 238. | [fivethirtyeight/uber-tlc-foil-response](https://github.com/fivethirtyeight/uber-tlc-foil-response) <br/>Uber trip data from a freedom of information reque... | 258 |
@@ -265,7 +265,7 @@
 | 259. | [emgeee/mean-tutorial](https://github.com/emgeee/mean-tutorial) <br/>MEAN Stack tutorial Markdown | 237 |
 | 260. | [80vul/phpcodz](https://github.com/80vul/phpcodz) <br/>Php Codz Hacking | 235 |
 | 261. | [xirong/my-markdown](https://github.com/xirong/my-markdown) <br/>markdown 介绍/学习/工具/资料 | 234 |
-| 262. | [XCGit/awesome-objc-frameworks](https://github.com/XCGit/awesome-objc-frameworks) <br/>【OC框架排名列表 】A curated list of awesome Objective-C f... | 233 |
+| 262. | [XCGit/awesome-objc-frameworks](https://github.com/XCGit/awesome-objc-frameworks) <br/>【OC框架排名列表 】A curated list of awesome Obj... | 233 |
 | 263. | [symfony-si/symfony-must-watch](https://github.com/symfony-si/symfony-must-watch) <br/>Must-watch videos about Symfony | 231 |
 | 264. | [billautomata/d3js_design_patterns](https://github.com/billautomata/d3js_design_patterns) <br/>collection of original articles about how to write... | 231 |
 | 265. | [mhart/alpine-node](https://github.com/mhart/alpine-node) <br/>Minimal Node/io.js Docker Images built on Alpine L... | 230 |
@@ -294,7 +294,7 @@
 | 288. | [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) <br/>A curated list of awesome READMEs | 216 |
 | 289. | [vredniy/awesome-newsletters](https://github.com/vredniy/awesome-newsletters) <br/>A list of amazing Newsletters | 216 |
 | 290. | [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map) <br/>各种安全相关思维导图整理收集 | 215 |
-| 291. | [androidgilbert/BlockList](https://github.com/androidgilbert/BlockList) <br/>分享你的面试被坑经历,共建那些年“坑过你”的互联网公司目录 | 214 |
+| 291. | [androidgilbert/BlockList](https://github.com/androidgilbert/BlockList) <br/>分享你的面试被坑经历,共建那些年“坑过你”的互联网... | 214 |
 | 292. | [dariusk/NaNoGenMo-2015](https://github.com/dariusk/NaNoGenMo-2015) <br/>National Novel Generation Month, 2015 edition. | 213 |
 | 293. | [elasticweb/nginx-configs](https://github.com/elasticweb/nginx-configs) <br/>Nginx configurations for most popular CMS/CMF/Fram... | 212 |
 | 294. | [hackpad/hackpad](https://github.com/hackpad/hackpad) <br/>Open source Hackpad Release | 211 |
@@ -321,8 +321,8 @@
 | 315. | [benas/awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) <br/>A curated list of awesome software craftsmanship r... | 193 |
 | 316. | [waylau/netty-4-user-guide](https://github.com/waylau/netty-4-user-guide) <br/>Chinese translation of Netty 4.x User Guide. 中文翻译《... | 193 |
 | 317. | [aqua7regia/tmux-Productive-Mouse-Free-Development_zh](https://github.com/aqua7regia/tmux-Productive-Mouse-Free-Development_zh) <br/>《tmux：Productive Mouse-Free Development》中文翻译 | 193 |
-| 318. | [JingwenTian/awesome-php](https://github.com/JingwenTian/awesome-php) <br/>收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需... | 193 |
-| 319. | [karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) <br/>A TL;DR for the book "Learning JavaScript Design P... | 191 |
+| 318. | [JingwenTian/awesome-php](https://github.com/JingwenTian/awesome-php) <br/>收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作... | 193 |
+| 319. | [karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by...](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) <br/>A TL;DR for the book "Learning JavaScript Design P... | 191 |
 | 320. | [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) <br/>A harvest of the Disallowed directories from the r... | 190 |
 | 321. | [Gigacore/gBoxShadow](https://github.com/Gigacore/gBoxShadow) <br/>Gravity-sensing box-shadow for Flat UI | 190 |
 | 322. | [shijiangkai/iOS-Programming-Sharing](https://github.com/shijiangkai/iOS-Programming-Sharing) <br/>28岁，零基础，学习 iOS 编程经验分享 | 189 |
@@ -337,7 +337,7 @@
 | 331. | [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) <br/>A list of awesome beginners-friendly projects. | 181 |
 | 332. | [open-falcon/doc](https://github.com/open-falcon/doc) <br/>open-falcon documents | 181 |
 | 333. | [Granze/awesome-polymer](https://github.com/Granze/awesome-polymer) <br/>A collection of awesome Polymer resources. | 179 |
-| 334. | [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) <br/>C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。 | 178 |
+| 334. | [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) <br/>C 资源大全中文版，包括了：构建系统、编译器、数据... | 178 |
 | 335. | [icons8/WPF-UI-Framework](https://github.com/icons8/WPF-UI-Framework) <br/>A set of UI controls that can be used for designin... | 178 |
 | 336. | [google/multibox](https://github.com/google/multibox)  | 177 |
 | 337. | [Thinklion/WeChat](https://github.com/Thinklion/WeChat)  | 177 |
@@ -455,7 +455,7 @@
 | 449. | [17mon/china_ip_list](https://github.com/17mon/china_ip_list)  | 123 |
 | 450. | [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) <br/>It is a book about the Essentials of Norman Maurer... | 122 |
 | 451. | [DavidCai1993/nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) <br/>:notebook:Node.js api doc in Chinese | 122 |
-| 452. | [simple-android-framework-exchange/the-fucking-traps-in-android-dev](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev) <br/>分享你在开发过程中遇到的坑，可以是某个具体的难点，可以分享某个好的开源库如何解决了你的问题，也可以是... | 122 |
+| 452. | [simple-android-framework-exchange/the-fucking-traps...](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev) <br/>分享你在开发过程中遇到的坑，可以是某个具体的难点... | 122 |
 | 453. | [TiForward/discuss](https://github.com/TiForward/discuss) <br/>By the Titanium™ community, For the Titanium™ comm... | 121 |
 | 454. | [filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack) <br/>A list of communities powered by Slack. | 121 |
 | 455. | [ABPFrameWorkGroup/AbpDocument2Chinese](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese) <br/>Abp翻译文档 | 121 |
@@ -467,7 +467,7 @@
 | 461. | [lvwzhen/BootstrapHub](https://github.com/lvwzhen/BootstrapHub) <br/>Some Themes and Plugins for Bootstrap | 119 |
 | 462. | [CBPP/cbpp](https://github.com/CBPP/cbpp) <br/>#!++, A CrunchBang revival project. | 119 |
 | 463. | [jmcunningham/AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning) <br/>A list of resources for learning Angular2 | 119 |
-| 464. | [jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn) <br/>设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框... | 119 |
+| 464. | [jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn) <br/>设计师资源大全，包含：ICON图标、Logo设计、Photo... | 119 |
 | 465. | [drupal-deconstructed/drupal-7-deconstructed](https://github.com/drupal-deconstructed/drupal-7-deconstructed) <br/>How Drupal 7 works: a plain(ish) English guide | 119 |
 | 466. | [yeungeek/awesome-android-libraries](https://github.com/yeungeek/awesome-android-libraries) <br/>awesome android libraries | 119 |
 | 467. | [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) <br/>A curated list of awesome WebAudio packages and re... | 118 |
@@ -485,9 +485,9 @@
 | 479. | [Webschool-io/be-mean-instagram-mongodb-exercises](https://github.com/Webschool-io/be-mean-instagram-mongodb-exercises) <br/>Exercícios do módulo de MongoDB do Be MEAN | 115 |
 | 480. | [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev) <br/>A collection of free software and free culture res... | 115 |
 | 481. | [ParsePlatform/Docs](https://github.com/ParsePlatform/Docs) <br/>These are the markdown sources for all the platfor... | 114 |
-| 482. | [QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese](https://github.com/QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese) <br/>Objective-C编码规范，内容来自苹果、谷歌的文档翻译，自己的编码经验和其它资料的总结。 | 114 |
+| 482. | [QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese](https://github.com/QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese) <br/>Objective-C编码规范，内容来自苹果、谷歌的文档翻译... | 114 |
 | 483. | [wrobstory/pydataseattle2015](https://github.com/wrobstory/pydataseattle2015) <br/>PyData Seattle 2015: Python Data Bikeshed | 114 |
-| 484. | [xujinyang/react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) <br/>致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。 | 114 |
+| 484. | [xujinyang/react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) <br/>致力于帮助Android开发者转react-native开发。多点一个... | 114 |
 | 485. | [JanzTam/iOS-blog-acticle](https://github.com/JanzTam/iOS-blog-acticle) <br/>Mark down iOS blog and acticle | 114 |
 | 486. | [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) <br/>Honukai theme and colors for Oh My ZSH and iTerm | 114 |
 | 487. | [chris-pearce/css-guidelines](https://github.com/chris-pearce/css-guidelines) <br/>CSS Guidelines I use and for working with the Scal... | 114 |
