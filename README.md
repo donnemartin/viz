@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="http://i.imgur.com/WwVhjkM.png">
+  <img src="http://i.imgur.com/ZGZmXbY.png">
 </p>
 
 # gh-stats
 
 > The **most-starred** GitHub repos **created in** 2015, the past six months, or the past three months.
 
-`gh-stats` is a community project powered by the GitHub API and is not affiliated with GitHub.
+*`gh-stats` is a community project powered by the GitHub API and is not affiliated with GitHub.*
 
-**[TLDR: `GOTO stats`](#stats-index)**
+**[>>>TLDR: `GOTO stats`<<<](#stats-index)**
 
 ## Motivation
 
