@@ -62,12 +62,12 @@
 | 6. | [frp-arduino](https://github.com/frp-arduino)  | [frp-arduino](https://github.com/frp-arduino/frp-arduino)  (113) <br/> | 113 |
 | 7. | [xmonad](https://github.com/xmonad)  | [xmonad](https://github.com/xmonad/xmonad)  (110) <br/> | 110 |
 
-## Language Index
+## Language Stats Index
 
 
-The **500 most-starred** repos, users, and orgs, organized by language.
+>Up to **500 of the Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
-Because of the number of languages tracked and the resulting lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.*
 
 
 | Language | Links |

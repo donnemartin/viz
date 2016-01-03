@@ -124,7 +124,7 @@ self.languages = [
 
 ### View the Language Stats Index
 
->Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+>Up to **500 of the Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
 Link: [Language Stats Index](#language-stats-index)
 
@@ -445,7 +445,7 @@ Link: [Language Stats Index](#language-stats-index)
 
 ## Language Stats Index
 
->Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+>Up to **500 of the Most-Starred** Repos, Users, and Orgs, Organized by Language.
 
 *Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015).  An index is provided here for convenience.*
 
