@@ -139,7 +139,7 @@
 | 133. | [aaronabentheuer/AAWindow](https://github.com/aaronabentheuer/AAWindow) <br/>UIWindow subclass to enable behavior like adaptive... | 476 |
 | 134. | [ishkawa/APIKit](https://github.com/ishkawa/APIKit) <br/>A networking library for building type safe web AP... | 473 |
 | 135. | [honghaoz/Ji](https://github.com/honghaoz/Ji) <br/>Ji (戟) is an XML/HTML parser for Swift | 466 |
-| 136. | [mengxiangyue/The-Swift-2.0-Programming-Language-playground](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground) <br/>对应最新发布《The Swift Programming Language... | 465 |
+| 136. | [mengxiangyue/The-Swift-2.0-Programming-Lang...](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground) <br/>对应最新发布《The Swift Programming Language... | 465 |
 | 137. | [lyft/mapper](https://github.com/lyft/mapper) <br/>Another JSON deserialization library for Swift | 457 |
 | 138. | [Abizern/xcode-snippets](https://github.com/Abizern/xcode-snippets) <br/>Xcode Snippets for Swift 2, based on those by Matt... | 457 |
 | 139. | [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) <br/>Fully customizable and extensible action sheet con... | 457 |
@@ -599,7 +599,7 @@
 | 108. | [ishkawa](https://github.com/ishkawa)  | [APIKit](https://github.com/ishkawa/APIKit)  (473) <br/> | 473 |
 | 109. | [terhechte](https://github.com/terhechte)  | [CoreValue](https://github.com/terhechte/CoreValue)  (244) <br/>[SourceKittenDaemon](https://github.com/terhechte/SourceKittenDaemon)  (225) <br/> | 469 |
 | 110. | [honghaoz](https://github.com/honghaoz)  | [Ji](https://github.com/honghaoz/Ji)  (466) <br/> | 466 |
-| 111. | [mengxiangyue](https://github.com/mengxiangyue)  | [The-Swift-2.0-Programming-Language-playground](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground)  (465) <br/> | 465 |
+| 111. | [mengxiangyue](https://github.com/mengxiangyue)  | [The-Swift-2.0-Programming-Lang...](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground)  (465) <br/> | 465 |
 | 112. | [thellimist](https://github.com/thellimist)  | [SwiftRandom](https://github.com/thellimist/SwiftRandom)  (316) <br/>[EZAlertController](https://github.com/thellimist/EZAlertController)  (145) <br/> | 461 |
 | 113. | [cemolcay](https://github.com/cemolcay)  | [MaterialCardView](https://github.com/cemolcay/MaterialCardView)  (177) <br/>[SlidingContainerViewController](https://github.com/cemolcay/SlidingContainerViewController)  (142) <br/>[TransitionManager](https://github.com/cemolcay/TransitionManager)  (138) <br/> | 457 |
 | 114. | [Abizern](https://github.com/Abizern)  | [xcode-snippets](https://github.com/Abizern/xcode-snippets)  (457) <br/> | 457 |

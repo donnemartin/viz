@@ -263,7 +263,7 @@
 | 257. | [jhurray/EZLayout](https://github.com/jhurray/EZLayout) <br/>A new take on iOS layouts using percentages. Goodb... | 266 |
 | 258. | [adamwulf/PerformanceBezier](https://github.com/adamwulf/PerformanceBezier) <br/>A small library to dramatically speed up common op... | 265 |
 | 259. | [leverdeterre/JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) <br/>ActionSheet and UIActivityViewController replaceme... | 263 |
-| 260. | [chennyhuang/HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) <br/>图片浏览器 ，photoBrowser ，新浪微博，picture,pictureBrowser,s... | 262 |
+| 260. | [chennyhuang/HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) <br/>图片浏览器 ，photoBrowser ，新浪微博，picture... | 262 |
 | 261. | [pchernovolenko/UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) <br/>UICustomActionSheet | 262 |
 | 262. | [zekunyan/AutolayoutExampleWithMasonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry) <br/>Autolayout examples with Masonry | 261 |
 | 263. | [stefanceriu/SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) <br/>A page view controller component that reproduces M... | 261 |
@@ -526,7 +526,7 @@
 | 15. | [coderyi](https://github.com/coderyi)  | [Monkey](https://github.com/coderyi/Monkey)  (902) <br/>[NetworkEye](https://github.com/coderyi/NetworkEye)  (580) <br/>[Eleven](https://github.com/coderyi/Eleven)  (271) <br/>[YiRefresh](https://github.com/coderyi/YiRefresh)  (189) <br/>[MVVMDemo](https://github.com/coderyi/MVVMDemo)  (137) <br/> | 2079 |
 | 16. | [adad184](https://github.com/adad184)  | [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)  (830) <br/>[MMPopupView](https://github.com/adad184/MMPopupView)  (819) <br/>[MMParallaxCell](https://github.com/adad184/MMParallaxCell)  (374) <br/> | 2023 |
 | 17. | [tonsky](https://github.com/tonsky)  | [AnyBar](https://github.com/tonsky/AnyBar)  (1887) <br/> | 1887 |
-| 18. | [AugustRush](https://github.com/AugustRush)  | [ARSegmentPager](https://github.com/AugustRush/ARSegmentPager)  (774) <br/>[ARAnimation](https://github.com/AugustRush/ARAnimation)  (443) <br/>[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell)  (330) <br/>[ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator)  (281) <br/> | 1828 |
+| 18. | [AugustRush](https://github.com/AugustRush)  | [ARSegmentPager](https://github.com/AugustRush/ARSegmentPager)  (774) <br/>[ARAnimation](https://github.com/AugustRush/ARAnimation)  (443) <br/>[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamic...)  (330) <br/>[ARTransitionAnimator](https://github.com/AugustRush/ARTransitionAnimator)  (281) <br/> | 1828 |
 | 19. | [XcodeGhostSource](https://github.com/XcodeGhostSource)  | [XcodeGhost](https://github.com/XcodeGhostSource/XcodeGhost)  (1765) <br/> | 1765 |
 | 20. | [ZhongTaoTian](https://github.com/ZhongTaoTian)  | [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity)  (1124) <br/>[SmallDay](https://github.com/ZhongTaoTian/SmallDay)  (351) <br/>[QQBtn](https://github.com/ZhongTaoTian/QQBtn)  (115) <br/> | 1590 |
 | 21. | [oarrabi](https://github.com/oarrabi)  | [OAStackView](https://github.com/oarrabi/OAStackView)  (1586) <br/> | 1586 |

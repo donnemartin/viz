@@ -316,7 +316,7 @@
 | 110. | [DanWahlin](https://github.com/DanWahlin)  | [Angular2-ES6-Starter](https://github.com/DanWahlin/Angular2-ES6-Starter)  (156) <br/>[AngularIn20TypeScript](https://github.com/DanWahlin/AngularIn20TypeScript)  (144) <br/>[Angular2-JumpStart](https://github.com/DanWahlin/Angular2-JumpStart)  (106) <br/> | 106 |
 | 111. | [tui2tone](https://github.com/tui2tone)  | [flat-admin-bootstrap-templates](https://github.com/tui2tone/flat-admin-bootstrap-templates)  (105) <br/> | 105 |
 | 112. | [PanosSakkos](https://github.com/PanosSakkos)  | [personal-jekyll-theme](https://github.com/PanosSakkos/personal-jekyll-theme)  (105) <br/> | 105 |
-| 113. | [rhiever](https://github.com/rhiever)  | [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  (1979) <br/>[tpot](https://github.com/rhiever/tpot)  (455) <br/>[optimal-roadtrip-usa](https://github.com/rhiever/optimal-roadtrip-usa)  (103) <br/> | 103 |
+| 113. | [rhiever](https://github.com/rhiever)  | [Data-Analysis-and-Machine...](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  (1979) <br/>[tpot](https://github.com/rhiever/tpot)  (455) <br/>[optimal-roadtrip-usa](https://github.com/rhiever/optimal-roadtrip-usa)  (103) <br/> | 103 |
 | 114. | [theus](https://github.com/theus)  | [chart.css](https://github.com/theus/chart.css)  (103) <br/> | 103 |
 | 115. | [daattali](https://github.com/daattali)  | [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)  (102) <br/> | 102 |
 | 116. | [johnpolacek](https://github.com/johnpolacek)  | [expressive-css](https://github.com/johnpolacek/expressive-css)  (101) <br/> | 101 |

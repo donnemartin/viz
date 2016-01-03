@@ -521,7 +521,7 @@
 | 10. | [chrissimpkins](https://github.com/chrissimpkins)  | [codeface](https://github.com/chrissimpkins/codeface)  (2807) <br/> | 2807 |
 | 11. | [karan](https://github.com/karan)  | [joe](https://github.com/karan/joe)  (2118) <br/>[slack-overflow](https://github.com/karan/slack-overflow)  (678) <br/>[slack-news](https://github.com/karan/slack-news)  (108) <br/> | 2796 |
 | 12. | [JuanPotato](https://github.com/JuanPotato)  | [Legofy](https://github.com/JuanPotato/Legofy)  (2667) <br/> | 2667 |
-| 13. | [rhiever](https://github.com/rhiever)  | [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  (1979) <br/>[tpot](https://github.com/rhiever/tpot)  (455) <br/> | 2434 |
+| 13. | [rhiever](https://github.com/rhiever)  | [Data-Analysis-and-Machine...](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  (1979) <br/>[tpot](https://github.com/rhiever/tpot)  (455) <br/> | 2434 |
 | 14. | [diafygi](https://github.com/diafygi)  | [acme-tiny](https://github.com/diafygi/acme-tiny)  (1738) <br/>[letsencrypt-nosudo](https://github.com/diafygi/letsencrypt-nosudo)  (657) <br/>[gethttpsforfree](https://github.com/diafygi/gethttpsforfree)  (576) <br/> | 2395 |
 | 15. | [10se1ucgo](https://github.com/10se1ucgo)  | [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking)  (2315) <br/> | 2315 |
 | 16. | [rushter](https://github.com/rushter)  | [data-science-blogs](https://github.com/rushter/data-science-blogs)  (2214) <br/> | 2214 |
