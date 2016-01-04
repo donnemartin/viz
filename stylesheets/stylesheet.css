@@ -59,6 +59,10 @@ a {
   background-color: #8E0E00;
   background-image: linear-gradient(120deg, #8E0E00, #1F1C18); }
 
+.page-tableau {
+  color: #fff;
+  text-align: center;
+  background-color: #fff; }
 
 
 background: #8E0E00; /* fallback for old browsers */
