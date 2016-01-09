@@ -1,51 +1,180 @@
-<!DOCTYPE html>
-<html lang="en">
+
+<!-- Carousel
+================================================== -->
+<div id="myCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="images/banner-large-dark.png" style="width:100%" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Viz</h1>
+          <p>Interactive Visualizations of GitHub's Latest, Most Popular Repos</p>
+          <p>
+            <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
+            <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
+          </p>
+          <p>
+            <a class="btn btn-lg btn-primary" href="#previews">Learn More</a>
+            <a class="btn btn-lg btn-primary" href="/viz/pages/2015">Viz 2015</a>
+        </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /.carousel -->
+<!-- Marketing messaging and featurettes
+================================================== -->
+<!-- Wrap the rest of the page in another container to center all the content. -->
+
+<a name="previews"></a>
+<hr class="marketing-divider">
+
+<div class="container marketing">
+
+  <!-- Three columns of text below the carousel -->
+  <div class="row">
+    <div class="col-md-4 text-center">
+      <h2>Open Source</h2>
+      <p>By the community, for the community.</p>
+      <img class="img-square" src="images/1.png">
+      <p><a class="btn btn-default" href="/viz/pages/2015">Contribute</a></p>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Interactive</h2>
+      <p>Filter, highlight, and drill-down.</p>
+      <img class="img-square" src="images/2.png">
+      <p><a class="btn btn-default" href="/viz/pages/2015">Viz 2015</a></p>
+    </div>
+    <div class="col-md-4 text-center">
+      <h2>Continually Updated</h2>
+      <p>6-, 3-, and 1-month stats coming soon.</p>
+      <img class="img-square" src="images/3.png">
+      <p><a class="btn btn-default" href="/viz/pages/2015">View Repo</a></p>
+    </div>
+  </div><!-- /.row -->
+
+  <hr class="marketing-divider">
+
+  <!-- START THE FEATURETTES -->
+
+  <div class="featurette">
+    <img class="featurette-image img-circle pull-right" src="images/a.png">
+    <h2 class="featurette-heading">Analyze the Latest Popular Repos. <span class="text-muted">Drill down on stars, forks, and language trends.</span></h2>
+    <p class="lead"></p>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <div class="featurette">
+    <img class="featurette-image img-circle pull-left" src="images/b.png">
+    <h2 class="featurette-heading">Discover Devs and Orgs. <span class="text-muted">Follow community members behind up-and-coming projects.</span></h2>
+    <p class="lead"></p>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <div class="featurette">
+    <img class="featurette-image img-circle pull-right" src="images/c.png">
+    <h2 class="featurette-heading">View GitHub Through a New Lens. <span class="text-muted">Visualize and interact with the data.</span></h2>
+    <p class="lead"></p>
+  </div>
+
+  <hr class="featurette-divider">
+</div>
+  <!-- /END THE FEATURETTES --><!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-        <meta charset="utf-8" />
-        <title>viz</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
+    <title> - viz</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!--[if IE]>
-            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+
+
+<link rel="canonical" href="./">
+
+        <meta name="author" content="Donne Martin" />
+
+    <meta property="og:site_name" content="viz" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content=""/>
+    <meta property="og:url" content="./"/>
+    <meta property="og:description" content="" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.readable.min.css" type="text/css"/>
+        <link rel="stylesheet" href="./theme/css/custom.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+
+
+
+
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">viz </a></h1>
-                <nav><ul>
-                </ul></nav>
-        </header><!-- /#banner -->
-<section id="content" class="body">
-<h2>Pages</h2>
-</section>
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>blogroll</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
 
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
+<!-- Banner -->
+<!-- End Banner -->
 
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
+<div class="navbar-wrapper">
+  <div class="container">
+    <div class="navbar navbar-inverse navbar-static-top">
 
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
+        <div class="navbar-header">
+        <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <a class="navbar-brand" href="#">Viz</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/viz/pages/2015">Visualizations</a></li>
+            <li><a href="/viz/pages/data">Data</a></li>
+            <li><a href="/viz/pages/method" target="ext">Method</a></li>
+            <li><a href="https://www.github.com/donnemartin/viz/">Source Code</a></li>
+          </ul>
+        </div>
+    </div>
+  </div><!-- /container -->
+</div><!-- /navbar wrapper --><div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+    <section id="content" class="body">
+        <h1 class="entry-title"></h1>
+        
+        <div class="entry-content">
+            
+        </div>
+    </section>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2016 <a href="https://github.com/donnemartin">Donne Martin</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
 
 </body>
 </html>
