@@ -5,10 +5,11 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    description='The most-starred GitHub projects created in 2015, the past six months, or the past three months.  Also provides misc stats plus the most-starred users and orgs, grouped by Language and Overall.',
+    description=("Interactive Vizualizations and Stats of GitHub's Latest, "
+                 "Most Popular Repos."),
     author='Donne Martin',
-    url='https://github.com/donnemartin/gh-stats',
-    download_url='https://github.com/donnemartin/gh-stats',
+    url='https://github.com/donnemartin/viz',
+    download_url='https://github.com/donnemartin/viz',
     author_email='donne.martin@gmail.com',
     version=__version__,
     license='Apache 2.0',
