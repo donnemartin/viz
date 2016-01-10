@@ -37,6 +37,15 @@ class GitHubStats(object):
     :type CFG_USERS_PATH: str (constant)
     :param CFG_USERS_PATH: The users data directory path.
 
+    :type CFG_REPOS_PATH: str (constant)
+    :param CFG_REPOS_PATH: The repos data directory path.
+
+    :type CFG_DEVS_PATH: str (constant)
+    :param CFG_DEVS_PATH: The devs data directory path.
+
+    :type CFG_ORGS_PATH: str (constant)
+    :param CFG_ORGS_PATH: The orgs data directory path.
+
     :type CFG_SLEEP_TIME: int (constant)
     :param CFG_SLEEP_TIME: The time in seconds to sleep between generating
         stats for each language to avoid hitting the GitHub API rate limit.
@@ -126,9 +135,18 @@ class GitHubStats(object):
         for language in self.languages:
             self.output[language] = []
         self.output['Index'] = []
-        self.CFG_USERS_PATH = os.path.join(
-            os.path.dirname(os.path.realpath(__file__)),
-            'data/users')
+        self.CFG_USERS_PATH = self.build_module_path('data/users')
+        self.CFG_REPOS_PATH = self.build_module_path('data/repos')
+        self.CFG_DEVS_PATH = self.build_module_path('data/devs')
+        self.CFG_ORGS_PATH = self.build_module_path('data/orgs')
+
+    def build_module_path(self, path):
+        """Builds the path relative to where the module is loaded.
+
+        :type path: str
+        :param path: The input pat to append to the module path.
+        """
+        return os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
 
     def group_repos_by_user(self, users):
         """Groups repos in the given list by users.
@@ -325,12 +343,18 @@ class GitHubStats(object):
             self.print_rate_limit()
         return devs, orgs
 
-    def load_cached_users(self):
+    def load_caches(self):
         """Loads cached user data from data/users"""
         try:
             with open(self.CFG_USERS_PATH, 'rb') as users_dat:
                 self.cached_users = pickle.load(users_dat)
-        except EOFError as e:
+            with open(self.CFG_REPOS_PATH, 'rb') as repos_dat:
+                self.overall_repos = pickle.load(repos_dat)
+            with open(self.CFG_DEVS_PATH, 'rb') as devs_dat:
+                self.overall_devs = pickle.load(devs_dat)
+            with open(self.CFG_ORGS_PATH, 'rb') as orgs_dat:
+                self.overall_orgs = pickle.load(orgs_dat)
+        except (EOFError, FileNotFoundError):
             click.secho('Failed to load users', fg='blue')
 
     def output_index(self):
@@ -575,8 +599,9 @@ class GitHubStats(object):
             cache if it exists, or if the GitHub API should be called instead.
 
         """
-        click.echo('Loading cached users...')
-        self.load_cached_users()
+        if use_user_cache:
+            click.echo('Loading cached users...')
+            self.load_caches()
         click.echo('Printing index...')
         self.output_index()
         for language in self.languages:
@@ -609,7 +634,7 @@ class GitHubStats(object):
         """Writes the README, language stats, and cached user file."""
         self.write_readme()
         self.write_language_stats()
-        self.write_cached_users()
+        self.write_caches()
 
     def write_readme(self):
         """Writes the README.md file.
@@ -633,7 +658,7 @@ class GitHubStats(object):
                 for line in readme_footer:
                     readme.write(line)
 
-    def write_cached_users(self):
+    def write_caches(self):
         """Writes the user cached to data/users"""
         self.cached_users = {}
         for dev in self.overall_devs:
@@ -642,3 +667,9 @@ class GitHubStats(object):
             self.cached_users[org.id] = org
         with open(self.CFG_USERS_PATH, 'wb') as users_dat:
             pickle.dump(self.cached_users, users_dat)
+        with open(self.CFG_REPOS_PATH, 'wb') as repos_dat:
+            pickle.dump(self.overall_repos, repos_dat)
+        with open(self.CFG_DEVS_PATH, 'wb') as devs_dat:
+            pickle.dump(self.overall_devs, devs_dat)
+        with open(self.CFG_ORGS_PATH, 'wb') as orgs_dat:
+            pickle.dump(self.overall_orgs, orgs_dat)
