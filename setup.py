@@ -1,5 +1,4 @@
 from githubstats.__init__ import __version__
-import sys
 try:
     from setuptools import setup, find_packages
 except ImportError:
