@@ -61,10 +61,22 @@ class GitHubStats(object):
     :param overall_repos: Overall listing of repos.
 
     :type overall_devs: list of :class:`githubstats.user.User`
-    :param overall_devs: Overall listing of devs.
+    :param overall_devs: Overall listing of devs.  Note duplicates can exist in
+        this list if a dev has popular repos in different languages.
+
+    :type overall_devs_grouped: list of :class:`githubstats.user.User`
+    :param overall_devs_grouped: Overall listing of devs, grouped by language
+        and sorted by stars.  Note duplicates can exist in this list if a dev
+        has popular repos in different languages.
 
     :type overall_orgs: list of :class:`githubstats.user.User`
-    :param overall_orgs: Overall listing of orgs.
+    :param overall_orgs: Overall listing of orgs.  Note duplicates can exist in
+        this list if a dev has popular repos in different languages.
+
+    :type overall_orgs_grouped: list of :class:`githubstats.user.User`
+    :param overall_orgs_grouped: Overall listing of orgs, grouped by language
+        and sorted by stars.  Note duplicates can exist in this list if a dev
+        has popular repos in different languages.
 
     :type user_repos_map: dict
     :param user_repos_map: Maps the user_id and repos.
@@ -81,6 +93,8 @@ class GitHubStats(object):
         self.overall_repos = []
         self.overall_devs = []
         self.overall_orgs = []
+        self.overall_devs_grouped = []
+        self.overall_orgs_grouped = []
         self.user_repos_map = {}
         self.languages = [
             'JavaScript',
@@ -215,12 +229,10 @@ class GitHubStats(object):
         language = 'Overall'
         self.output_sorted_stars_per_repo(
             language, self.overall_repos, sort=True)
-        self.output_sorted_stars_per_user(
-            language,
-            self.group_repos_by_user(self.overall_devs))
-        self.output_sorted_stars_per_org(
-            language,
-            self.group_repos_by_user(self.overall_orgs))
+        self.overall_devs_grouped = self.group_repos_by_user(self.overall_devs)
+        self.output_sorted_stars_per_user(language, self.overall_devs_grouped)
+        self.overall_orgs_grouped = self.group_repos_by_user(self.overall_orgs)
+        self.output_sorted_stars_per_org(language, self.overall_orgs_grouped)
 
     def generate_search_query(self, language,
                               creation_date_filter=None,
