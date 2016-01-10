@@ -44,12 +44,8 @@
     {% endif %}
 {% endblock %}
 
-{% include 'includes/carousel.html' %}
-{% include 'includes/previews.html' %}
-
 {% block content %}
     <section id="content" class="body">
-        <h1 class="entry-title">{{ page.title }}</h1>
         {% import 'includes/translations.html' as translations with context %}
         {{ translations.translations_for(page) }}
         {% if PDF_PROCESSOR %}
@@ -65,3 +61,6 @@
         </div>
     </section>
 {% endblock %}
+
+{% include 'includes/carousel.html' %}
+{% include 'includes/previews.html' %}
