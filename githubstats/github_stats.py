@@ -29,7 +29,7 @@ from githubstats.user import User
 class GitHubStats(object):
     """Provides stats for users, orgs, and repos by stars.
 
-    :type cached_users: dict { user_id: :class:`githubstats.user.User` }
+    :type cached_users: dict {user_id: :class:`githubstats.user.User`}
     :param cached_users: Cached users saved to disk to avoid always having
         to call the GitHub API.  This cache should be refreshed with fresh data
         from the GitHub API regularly.
@@ -213,7 +213,7 @@ class GitHubStats(object):
                 user_id_to_users_map,
                 repos,
                 language,
-                last_searched_repo = repos[len(repos)-1])
+                last_searched_repo=repos[len(repos)-1])
         return user_id_to_users_map, repos
 
     def extract_list_column(self, input_list, column):
@@ -362,7 +362,9 @@ class GitHubStats(object):
 
         The language index includes links to users, orgs, and repos.
         """
-        language_stats_loc = '[gh-stats/language_stats/2015/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2015)'
+        language_stats_loc = ('[gh-stats/language_stats/2015/](https://github'
+                              '.com/donnemartin/gh-stats/tree/master/'
+                              'language_stats/2015)')
         self.output['Index'].append('\n## Language Stats Index\n\n')
         self.output['Index'].append(
             '>Up to the **500 Most-Starred** Repos, Users, and Orgs, '
@@ -487,11 +489,9 @@ class GitHubStats(object):
             repos.append(repo)
         sorted_repos = sorted(repos, reverse=True)
         for repo in sorted_repos:
-            # repo_language = repo.language if repo.language else 'Unknown'
             output_repos += ('[' + repo.full_name.split('/')[1] +
-                      '](https://github.com/' + repo.full_name + ') ' +
-                      # ' - ' + repo_language + ' - ' +
-                      ' (' + str(repo.stars) + ') <br/>')
+                             '](https://github.com/' + repo.full_name + ') ' +
+                             ' (' + str(repo.stars) + ') <br/>')
         self.output[language].append(
             '| ' + str(index) + '. | [' +
             user.id + '](https://github.com/' +
@@ -539,16 +539,16 @@ class GitHubStats(object):
         try:
             for result in results:
                 count += 1
-                if find_resume_point and \
-                    last_searched_repo.full_name != result.repository.full_name:
+                if find_resume_point and last_searched_repo.full_name != \
+                        result.repository.full_name:
                     continue
-                if find_resume_point and \
-                    last_searched_repo.full_name == result.repository.full_name:
+                if find_resume_point and last_searched_repo.full_name == \
+                        result.repository.full_name:
                     find_resume_point = False
                     continue
-                if language == 'Unknown' and \
-                    result.repository.language is not None:
-                    continue
+                if language == 'Unknown':
+                    if result.repository.language is not None:
+                        continue
                 repo = Repo(result.repository.full_name,
                             result.repository.stargazers_count,
                             result.repository.forks_count,
@@ -571,7 +571,6 @@ class GitHubStats(object):
             # github3.py sometimes throws the following during iteration:
             # AttributeError: 'NoneType' object has no attribute 'get'
             click.secho('count_stars caught AttributeError', fg='red')
-            pass
         # The search_repositories call returns a maximum of 1000 elements
         return count == 1000
 
@@ -610,8 +609,8 @@ class GitHubStats(object):
                 self.generate_language_stats(language)
                 self.print_rate_limit()
                 self.sleep_for_rate_limiter(self.CFG_SLEEP_TIME)
-        click.echo('Generating overall stats...')
         if 'Overall' in self.languages:
+            click.echo('Generating overall stats...')
             self.generate_overall_stats()
         self.print_rate_limit()
         self.write_output_files()
@@ -619,8 +618,8 @@ class GitHubStats(object):
     def write_language_stats(self):
         """Writes the language_stats/ files."""
         for language in self.languages:
-            with open('language_stats/2015/' + language.lower() + '.md', 'w+') \
-                as language_stats:
+            file_path = 'language_stats/2015/' + language.lower() + '.md'
+            with open(file_path, 'w+') as language_stats:
                 if language == 'C#':
                     language_stats.write('# C-Sharp\n')
                 else:
