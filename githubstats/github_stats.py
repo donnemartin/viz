@@ -634,6 +634,7 @@ class GitHubStats(object):
         self.write_readme()
         self.write_language_stats()
         self.write_caches()
+        self.write_csvs()
 
     def write_readme(self):
         """Writes the README.md file.
@@ -672,3 +673,73 @@ class GitHubStats(object):
             pickle.dump(self.overall_devs, devs_dat)
         with open(self.CFG_ORGS_PATH, 'wb') as orgs_dat:
             pickle.dump(self.overall_orgs, orgs_dat)
+
+    def write_csvs(self):
+        """Writes the repos and users csvs."""
+        self.write_csv_repos('data/repos-dump.csv')
+        self.write_csv_users('data/users-dump.csv')
+
+    def write_csv_repos(self, data_file_name):
+        """Writes the repos csv.
+
+        TODO: Refactor to use the built-in module `csv`.
+
+        :type data_file_name: str
+        :param data_file_name: The resulting csv file name in the data folder.
+            Example: 'data/foo.csv'.
+        """
+        file_path = self.build_module_path(data_file_name)
+        with open(file_path, 'w') as repos_dat:
+            repos_dat.write('full_name, stars, forks, description, language\n')
+            for repo in self.overall_repos:
+                language = repo.language if repo.language is not None else ''
+                desc = repo.description if repo.description is not None else ''
+                desc = desc.replace('"', "'")
+                repos_dat.write(
+                    repo.full_name + ', ' +
+                    str(repo.stars) + ', ' +
+                    str(repo.forks) + ', ' + '"' +
+                    desc + '", ' +
+                    language + '\n')
+
+    def _write_csv_users(self, users, users_dat, user_type):
+        """Writes the users csv.
+
+        Internal method, call write_csv_users instead.
+        TODO: Refactor to use the built-in module `csv`.
+
+        :type users: list
+        :param users: The users.
+
+        :type users_dat: :class:`_io.TextIOWrapper`
+        :param users_dat: Handles writing the file.
+
+        :type user_type: str
+        :param user_type: 'User' or "Organization'
+        """
+        for user in users:
+            name = user.name if user.name is not None else ''
+            location = user.location if user.location is not None else ''
+            location = location.replace('"', "'")
+            users_dat.write(
+                user.id + ', ' + '"' +
+                name + '", ' +
+                user_type + ', ' + '"' +
+                location + '"' + '\n')
+
+    def write_csv_users(self, data_file_name):
+        """Writes the users csv.
+
+        :type data_file_name: str
+        :param data_file_name: The resulting csv file name in the data folder.
+            Example: 'data/foo.csv'.
+        """
+        file_path = self.build_module_path(data_file_name)
+        with open(file_path, 'w') as users_dat:
+            users_dat.write('id, name, type, location\n')
+            self._write_csv_users(self.overall_devs,
+                                  users_dat,
+                                  'User')
+            self._write_csv_users(self.overall_orgs,
+                                  users_dat,
+                                  'Organization')
