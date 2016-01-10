@@ -23,12 +23,16 @@ class MockRepo(object):
         self.full_name = full_name
         self._stargazers_count = stargazers_count
         self._stars = stargazers_count
-        self.forks_count = forks_count
+        self._forks_count = forks_count
+        self._forks = forks_count
         self.description = description
         self.language = language
 
     def __lt__(self, other):
         return self.stars < other.stars
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
 
     @property
     def stargazers_count(self):
@@ -48,6 +52,27 @@ class MockRepo(object):
         self._stargazers_count = value
         self._stars = value
 
+    @property
+    def forks_count(self):
+        return self._forks_count
+
+    @forks_count.setter
+    def forks_count(self, value):
+        self._forks_count = value
+        self._forks = value
+
+    @property
+    def forks(self):
+        return self._forks
+
+    @forks.setter
+    def forks(self, value):
+        self._forks_count = value
+        self._forks = value
+
+
+
+
 class MockUser(object):
 
     def __init__(self, id, name, type, location=None, stars=0):
@@ -60,6 +85,9 @@ class MockUser(object):
 
     def __lt__(self, other):
         return self.stars < other.stars
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
 
     @property
     def id(self):
@@ -74,7 +102,7 @@ class MockUser(object):
     def user_id(self):
         return self._user_id
 
-    @id.setter
+    @user_id.setter
     def user_id(self, value):
         self._id = value
         self.user_id = value
