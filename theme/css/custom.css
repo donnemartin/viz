@@ -5,6 +5,10 @@ body {
   color: #5a5a5a;
 }
 
+td, th {
+  vertical-align: top;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
