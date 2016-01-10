@@ -13,13 +13,14 @@
 # ANY KIND, either express or implied. See the License for the specific
 # language governing permissions and limitations under the License.
 
+import csv
 import mock
-import os
 import unittest
 
 from githubstats.github_stats import GitHubStats
 from tests.mock_github import MockGitHub, MockRepo, MockUser
 from tests.data.expected_output import expected_output
+from tests.data.expected_csv import expected_csv
 
 
 class GitHubStatsTest(unittest.TestCase):
@@ -53,13 +54,16 @@ class GitHubStatsTest(unittest.TestCase):
 
     def create_mock_devs(self):
         return [
-            MockUser('donnemartin', 'Donne Martin', 'User', "Washington, D.C."),
+            MockUser('donnemartin', 'Donne Martin', 'User',
+                     location="Washington, D.C.", stars=300),
         ]
 
     def create_mock_orgs(self):
         return [
-            MockUser('Google', 'Google', 'Organization'),
-            MockUser('Facebook', 'Facebook', 'Organization', 'Menlo Park'),
+            MockUser('Google', 'Google', 'Organization',
+                     location=None, stars=900),
+            MockUser('Facebook', 'Facebook', 'Organization',
+                     'Menlo Park', stars=890),
         ]
 
     def create_mock_users(self):
@@ -80,14 +84,69 @@ class GitHubStatsTest(unittest.TestCase):
                 user_id_to_users_map[user_id] = [repo]
         return user_id_to_users_map
 
+    def verify_user(self, expected, results):
+        for user_expected in expected:
+            verified_user = False
+            for user_result in results:
+                if user_expected.id == user_result.id:
+                    if user_expected.stars == user_result.stars:
+                        print('ok')
+                        verified_user = True
+                    break
+            assert verified_user
+
+    def verify_results(self, expected_list, results_list):
+        for expected in expected_list:
+            verified = False
+            for result in results_list:
+                try:
+                    expected_id = expected.id
+                    result_id = result.id
+                except:
+                    expected_id = expected.full_name
+                    result_id = result.full_name
+                if expected_id == result_id:
+                    if expected.stars == result.stars:
+                        verified = True
+                    break
+            assert verified
+
+    def read_csv(self, data_file_name):
+        results = []
+        file_path = self.github_stats.build_module_path(data_file_name)
+        with open(file_path, 'r') as csv_dat:
+            csv_reader = csv.reader(csv_dat)
+            for line in csv_reader:
+                results.append(''.join(line))
+        return results
+
+    def prep_collections(self):
+        self.github_stats.cached_users = list(self.devs + self.orgs)
+        self.github_stats.overall_repos = self.repos
+        self.github_stats.overall_devs = self.devs
+        self.github_stats.overall_orgs = self.orgs
+
+    def test_caches(self):
+        self.prep_collections()
+        self.github_stats.write_caches()
+        self.github_stats.load_caches()
+        assert self.github_stats.overall_repos == self.repos
+        assert self.github_stats.overall_devs == self.devs
+        assert self.github_stats.overall_orgs == self.orgs
+
+    def test_csvs(self):
+        self.prep_collections()
+        self.github_stats.write_csvs()
+        results = self.read_csv('data/repos-dump.csv')
+        assert results == expected_csv
+
     @mock.patch('githubstats.github_stats.click')
-    @mock.patch('githubstats.github_stats.pickle')
     @mock.patch('githubstats.github_stats.time')
-    @mock.patch('githubstats.github_stats.GitHubStats.write_output_files')
-    def test_stats(self, mock_write, mock_time, mock_pickle, mock_click):
-        self.github_stats.stats()
+    def test_stats(self, mock_time, mock_click):
+        self.github_stats.stats(use_user_cache=False)
         assert mock_click.echo.mock_calls
-        assert mock_pickle.mock_calls
         assert mock_time.sleep.mock_calls
-        assert mock_write.mock_calls
+        self.verify_results(self.repos, self.github_stats.overall_repos)
+        self.verify_results(self.devs, self.github_stats.overall_devs_grouped)
+        self.verify_results(self.orgs, self.github_stats.overall_orgs_grouped)
         assert self.github_stats.output == expected_output
