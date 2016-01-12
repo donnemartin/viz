@@ -1,4 +1,4 @@
-Title: Method
+Title: FAQ
 Date: 2016-01-01 06:00
 
 ## What Data is Tracked?
