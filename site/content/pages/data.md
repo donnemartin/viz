@@ -1,4 +1,4 @@
-Title: Data
+Title: Stats
 Date: 2016-01-01 06:00
 
 ## Stats Index
@@ -16,111 +16,6 @@ The **100 Overall Most-Starred** Repos, Users, and Orgs.
 Up to **500 of the Most-Starred** Repos, Users, and Orgs, **Organized by Language**.
 
 View the [Language Stats Index](#language-stats-index).
-
-## Most-Starred Repos: Overall
-
-| | Repo | Stars |
-|---|---|---|
-| 1. | [apple/swift](https://github.com/apple/swift) <br/>The Swift Programming Language | 24882 |
-| 2. | [facebook/react-native](https://github.com/facebook/react-native) <br/>A framework for building native apps with React. | 24778 |
-| 3. | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) <br/>Master the command line, in one page | 21492 |
-| 4. | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) <br/>Based on a true story | 19836 |
-| 5. | [google/material-design-lite](https://github.com/google/material-design-lite) <br/>Material Design Lite Components in HTML/CSS/JS | 17165 |
-| 6. | [nvbn/thefuck](https://github.com/nvbn/thefuck) <br/>Magnificent app which corrects your previous conso... | 16449 |
-| 7. | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) <br/> Open source software library for numerical comput... | 15544 |
-| 8. | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) <br/>A list of SaaS, PaaS and IaaS offerings that have... | 12450 |
-| 9. | [rackt/redux](https://github.com/rackt/redux) <br/>Predictable state container for JavaScript apps | 11610 |
-| 10. | [bevacqua/dragula](https://github.com/bevacqua/dragula) <br/>:ok_hand: Drag and drop so simple it hurts | 10735 |
-| 11. | [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) <br/>:scissors: Modern copy to clipboard. No Flash. Jus... | 10268 |
-| 12. | [0xAX/linux-insides](https://github.com/0xAX/linux-insides) <br/>A little bit about a linux kernel | 10038 |
-| 13. | [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>The Big List of Naughty Strings is a list of strin... | 9385 |
-| 14. | [phanan/htaccess](https://github.com/phanan/htaccess) <br/>A collection of useful .htaccess snippets. | 8963 |
-| 15. | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) <br/>The C++ Core Guidelines are a set of tried-and-tru... | 8782 |
-| 16. | [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews) <br/>:octocat: A curated awesome list of lists of inter... | 8266 |
-| 17. | [google/deepdream](https://github.com/google/deepdream)  | 8047 |
-| 18. | [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas) <br/>High performance canvas rendering for React comp... | 7410 |
-| 19. | [facebook/fresco](https://github.com/facebook/fresco) <br/>An Android library for managing images and the mem... | 7385 |
-| 20. | [chrissimpkins/Hack](https://github.com/chrissimpkins/Hack) <br/>A typeface designed for source code | 7204 |
-| 21. | [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) <br/>Build terminal dashboards using ascii/ansi art and... | 7190 |
-| 22. | [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) <br/>A curated list of engineering blogs | 7187 |
-| 23. | [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) <br/>Mostly adequate guide to FP (in javascript) | 7170 |
-| 24. | [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br/>A curated list of awesome iOS UI/UX libraries | 7027 |
-| 25. | [square/leakcanary](https://github.com/square/leakcanary) <br/>A memory leak detection library for Android and Ja... | 6794 |
-| 26. | [danielgindi/ios-charts](https://github.com/danielgindi/ios-charts) <br/>An iOS port of the beautiful MPAndroidChart. - Bea... | 6748 |
-| 27. | [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) <br/>Use your OS X terminal shell to do awesome things. | 6492 |
-| 28. | [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) <br/>Micro check library | 6466 |
-| 29. | [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) <br/>The new JavaScript- and API-powered WordPress.com | 6451 |
-| 30. | [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) <br/>Android application powering the mirror in my hous... | 6274 |
-| 31. | [mattermost/platform](https://github.com/mattermost/platform) <br/>Open source Slack-alternative in Golang and React... | 6136 |
-| 32. | [yudai/gotty](https://github.com/yudai/gotty) <br/>Share your terminal as a web application | 6003 |
-| 33. | [serverless/serverless](https://github.com/serverless/serverless) <br/>Serverless (formerly JAWS): The serverless applica... | 5909 |
-| 34. | [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) <br/>Some HTML, CSS and JS best practices. | 5776 |
-| 35. | [purifycss/purifycss](https://github.com/purifycss/purifycss) <br/>Remove unused CSS. Also works with single-page app... | 5728 |
-| 36. | [dotnet/coreclr](https://github.com/dotnet/coreclr) <br/>This repo contains the .NET Core runtime, called C... | 5610 |
-| 37. | [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) <br/>Delightful, performance-focused pure css loading a... | 5573 |
-| 38. | [google/fonts](https://github.com/google/fonts) <br/>Font files available from Google Fonts | 5512 |
-| 39. | [facebook/relay](https://github.com/facebook/relay) <br/>Relay is a JavaScript framework for building data-... | 5323 |
-| 40. | [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) <br/>A collection of tips to help take your CSS skills... | 5323 |
-| 41. | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <br/>Have your own Slack like online chat, built with M... | 5227 |
-| 42. | [ampproject/amphtml](https://github.com/ampproject/amphtml) <br/>AMP HTML source code, samples, and documentation... | 5188 |
-| 43. | [oneuijs/You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) <br/>Examples of how to do query, style, dom, ajax, eve... | 5147 |
-| 44. | [Netflix/falcor](https://github.com/Netflix/falcor) <br/>A JavaScript library for efficient data fetching | 5140 |
-| 45. | [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) <br/>Generate polished résumés and CVs in HTML, Markdow... | 5090 |
-| 46. | [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) <br/>Image Super-Resolution for Anime-Style Art | 5054 |
-| 47. | [Mango/slideout](https://github.com/Mango/slideout) <br/>A touch slideout navigation menu for your mobile w... | 5052 |
-| 48. | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) <br/>A collection of links for free stock photography,... | 4979 |
-| 49. | [equinusocio/material-theme](https://github.com/equinusocio/material-theme) <br/>Material Theme, the most epic theme for Sublime Te... | 4977 |
-| 50. | [WebAssembly/design](https://github.com/WebAssembly/design) <br/>WebAssembly Design Documents | 4968 |
-| 51. | [phanan/koel](https://github.com/phanan/koel) <br/>A personal music streaming server that works. | 4927 |
-| 52. | [Microsoft/WinObjC](https://github.com/Microsoft/WinObjC) <br/>Objective-C for Windows | 4842 |
-| 53. | [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) <br/>Apple TV Aerial Screensaver for Mac | 4777 |
-| 54. | [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) <br/>:see_no_evil: Volkswagen detects when your tests a... | 4716 |
-| 55. | [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) <br/>A curated list of awesome remote jobs and resource... | 4624 |
-| 56. | [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) <br/>Learn javascript in one picture. | 4578 |
-| 57. | [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) <br/>A curated list of delightful iOS resources. | 4514 |
-| 58. | [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) <br/>Dive into Machine Learning with Python Jupyter not... | 4498 |
-| 59. | [primer/primer](https://github.com/primer/primer) <br/>The base coat of GitHub. Our internal CSS toolkit... | 4489 |
-| 60. | [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) <br/>Server-side Swift. The Perfect library, applicatio... | 4433 |
-| 61. | [googlesamples/android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) <br/>This sample shows how to implement an audio media... | 4364 |
-| 62. | [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) <br/>Demos the new Android Design library. | 4342 |
-| 63. | [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) <br/>ResearchKit is an open source software framework t... | 4230 |
-| 64. | [gizak/termui](https://github.com/gizak/termui) <br/>Golang terminal dashboard | 4202 |
-| 65. | [jaredreich/notie.js](https://github.com/jaredreich/notie.js) <br/>A clean and simple notification plugin (alert/grow... | 4195 |
-| 66. | [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) <br/>Selfhosting is the process of locally hosting and... | 4182 |
-| 67. | [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) <br/>Ultra lightweight, usable, beautiful autocomplete... | 4171 |
-| 68. | [XX-net/XX-Net](https://github.com/XX-net/XX-Net) <br/>接力GoAgent翻墙工具----Anti-censor tools | 4137 |
-| 69. | [dotnet/roslyn](https://github.com/dotnet/roslyn) <br/>The .NET Compiler Platform ("Roslyn") provides ope... | 4132 |
-| 70. | [connors/photon](https://github.com/connors/photon) <br/>The fastest way to build beautiful Electron apps u... | 4122 |
-| 71. | [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) <br/>A small, fast, modern, and dependency-free library... | 4079 |
-| 72. | [antirez/disque](https://github.com/antirez/disque) <br/>Disque is a distributed message broker | 4076 |
-| 73. | [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) <br/>Template auto layout cell for automatically UITabl... | 4069 |
-| 74. | [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) <br/>Useful resources for creating apps with Electron | 4040 |
-| 75. | [Selz/plyr](https://github.com/Selz/plyr) <br/>A simple HTML5 media player | 4017 |
-| 76. | [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) <br/>React UI Components for OS X El Capitan and Window... | 4007 |
-| 77. | [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) <br/>Tiny vanilla JS plugin to display large data sets... | 3991 |
-| 78. | [git-up/GitUp](https://github.com/git-up/GitUp) <br/>The Git interface you've been missing all your lif... | 3958 |
-| 79. | [hashicorp/otto](https://github.com/hashicorp/otto) <br/>Development and deployment made easy. | 3947 |
-| 80. | [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <br/>Continually updated data science Python notebooks:... | 3937 |
-| 81. | [nickbutcher/plaid](https://github.com/nickbutcher/plaid)  | 3925 |
-| 82. | [ibireme/YYText](https://github.com/ibireme/YYText) <br/>Powerful text framework for iOS to display and edi... | 3882 |
-| 83. | [gorhill/uBlock](https://github.com/gorhill/uBlock) <br/>uBlock Origin - An efficient blocker for Chromium... | 3878 |
-| 84. | [hashicorp/vault](https://github.com/hashicorp/vault) <br/>A tool for managing secrets. | 3862 |
-| 85. | [tholman/elevator.js](https://github.com/tholman/elevator.js) <br/>Finally, a "back to top" button that behaves like... | 3851 |
-| 86. | [plotly/plotly.js](https://github.com/plotly/plotly.js) <br/>The open source javascript graphing library that p... | 3849 |
-| 87. | [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) <br/>A Material Design ViewPager easy to use library | 3824 |
-| 88. | [facebook/stetho](https://github.com/facebook/stetho) <br/>Stetho is a debug bridge for Android applications,... | 3797 |
-| 89. | [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) <br/>The flexible, easy to use, all in one drawer libra... | 3738 |
-| 90. | [fchollet/keras](https://github.com/fchollet/keras) <br/>Deep Learning library for Python. Convnets, recurr... | 3731 |
-| 91. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、... | 3674 |
-| 92. | [tmux/tmux](https://github.com/tmux/tmux) <br/>tmux source code | 3639 |
-| 93. | [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br/>:iphone: Collaborative List of Open-Source iOS App... | 3604 |
-| 94. | [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) <br/>Android Transition animations explanation with exa... | 3588 |
-| 95. | [mikechau/react-primer-draft](https://github.com/mikechau/react-primer-draft) <br/>A primer for building web applications with React. | 3579 |
-| 96. | [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) <br/>Torch implementation of neural style algorithm | 3561 |
-| 97. | [tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js) <br/>Commenting without the comments | 3552 |
-| 98. | [zulip/zulip](https://github.com/zulip/zulip) <br/>Zulip server - powerful open source group chat | 3526 |
-| 99. | [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) <br/>A collection of simple tips to help up your jQuery... | 3512 |
-| 100. | [feross/standard](https://github.com/feross/standard) <br/>:star2: JavaScript Standard Style | 3477 |
 
 ## Most-Starred Users: Overall
 
@@ -332,36 +227,110 @@ View the [Language Stats Index](#language-stats-index).
 | 99. | [Karumi](https://github.com/Karumi)  | [Dexter](https://github.com/Karumi/Dexter)  (1015) <br/>[Dividers](https://github.com/Karumi/Dividers)  (358) <br/>[ExpandableSelector](https://github.com/Karumi/ExpandableSelector)  (356) <br/>[HeaderRecyclerView](https://github.com/Karumi/HeaderRecyclerView)  (314) <br/>[BothamUI](https://github.com/Karumi/BothamUI)  (157) <br/> | 2200 |
 | 100. | [clef](https://github.com/clef)  | [handbook](https://github.com/clef/handbook)  (2194) <br/> | 2194 |
 
-## Aggregate Language Stats
+## Most-Starred Repos: Overall
 
-| Language | Repos* | Max Stars | Mean Stars | Median Stars | Std Dev |
-|---|---|---|---|---|---|---|
-| JavaScript | 1619 | 24783 | 532.3 | 210.0 | 1197.5 |
-| Java | 1139 | 7385 | 442.6 | 277.0 | 580.2 |
-| Objective-C | 607 | 4514 | 421.2 | 232.0 | 548.9 |
-| Python | 553 | 16449 | 455.2 | 209.0 | 970.9 |
-| Swift | 483 | 6749 | 487.4 | 288.0 | 646.1 |
-| Go | 405 | 6003 | 438.7 | 217.0 | 646.8 |
-| PHP | 233 | 4927 | 301.5 | 177.0 | 444.1 |
-| C++ | 231 | 24883 | 513.3 | 217.0 | 1927.4 |
-| C | 212 | 4842 | 409.9 | 202.5 | 632.7 |
-| CSS | 195 | 5574 | 409.6 | 221.0 | 672.2 |
-| HTML | 194 | 17168 | 547.2 | 204.0 | 1446.9 |
-| Ruby | 163 | 7187 | 339.3 | 182.0 | 627.4 |
-| C# | 142 | 5610 | 342.3 | 161.5 | 652.5 |
-| Shell | 130 | 2836 | 335.6 | 168.5 | 447.1 |
-| Scala | 48 | 2398 | 295.8 | 153.5 | 400.7 |
-| Clojure | 33 | 2103 | 284.0 | 147.0 | 381.0 |
-| CoffeeScript | 32 | 5227 | 527.9 | 186.0 | 1053.5 |
-| Lua | 29 | 5054 | 821.2 | 246.0 | 1283.1 |
-| Haskell | 24 | 1887 | 348.1 | 181.0 | 427.3 |
-| VimL | 24 | 1172 | 203.8 | 150.0 | 209.4 |
-| R | 7 | 771 | 276.2 | 164.0 | 226.5 |
-| Perl | 6 | 3415 | 760.0 | 248.0 | 1193.1 |
-| Unknown | 551 | 21499 | 696.7 | 221.0 | 1578.4 |
-| Overall | 0 | 0 | 0.0 | 0.0 | 0.0 |
-
-**Repos with `stars:>=100`.*
+| | Repo | Stars |
+|---|---|---|
+| 1. | [apple/swift](https://github.com/apple/swift) <br/>The Swift Programming Language | 24882 |
+| 2. | [facebook/react-native](https://github.com/facebook/react-native) <br/>A framework for building native apps with React. | 24778 |
+| 3. | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) <br/>Master the command line, in one page | 21492 |
+| 4. | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) <br/>Based on a true story | 19836 |
+| 5. | [google/material-design-lite](https://github.com/google/material-design-lite) <br/>Material Design Lite Components in HTML/CSS/JS | 17165 |
+| 6. | [nvbn/thefuck](https://github.com/nvbn/thefuck) <br/>Magnificent app which corrects your previous conso... | 16449 |
+| 7. | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) <br/> Open source software library for numerical comput... | 15544 |
+| 8. | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) <br/>A list of SaaS, PaaS and IaaS offerings that have... | 12450 |
+| 9. | [rackt/redux](https://github.com/rackt/redux) <br/>Predictable state container for JavaScript apps | 11610 |
+| 10. | [bevacqua/dragula](https://github.com/bevacqua/dragula) <br/>:ok_hand: Drag and drop so simple it hurts | 10735 |
+| 11. | [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) <br/>:scissors: Modern copy to clipboard. No Flash. Jus... | 10268 |
+| 12. | [0xAX/linux-insides](https://github.com/0xAX/linux-insides) <br/>A little bit about a linux kernel | 10038 |
+| 13. | [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>The Big List of Naughty Strings is a list of strin... | 9385 |
+| 14. | [phanan/htaccess](https://github.com/phanan/htaccess) <br/>A collection of useful .htaccess snippets. | 8963 |
+| 15. | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) <br/>The C++ Core Guidelines are a set of tried-and-tru... | 8782 |
+| 16. | [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews) <br/>:octocat: A curated awesome list of lists of inter... | 8266 |
+| 17. | [google/deepdream](https://github.com/google/deepdream)  | 8047 |
+| 18. | [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas) <br/>High performance canvas rendering for React comp... | 7410 |
+| 19. | [facebook/fresco](https://github.com/facebook/fresco) <br/>An Android library for managing images and the mem... | 7385 |
+| 20. | [chrissimpkins/Hack](https://github.com/chrissimpkins/Hack) <br/>A typeface designed for source code | 7204 |
+| 21. | [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) <br/>Build terminal dashboards using ascii/ansi art and... | 7190 |
+| 22. | [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) <br/>A curated list of engineering blogs | 7187 |
+| 23. | [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) <br/>Mostly adequate guide to FP (in javascript) | 7170 |
+| 24. | [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br/>A curated list of awesome iOS UI/UX libraries | 7027 |
+| 25. | [square/leakcanary](https://github.com/square/leakcanary) <br/>A memory leak detection library for Android and Ja... | 6794 |
+| 26. | [danielgindi/ios-charts](https://github.com/danielgindi/ios-charts) <br/>An iOS port of the beautiful MPAndroidChart. - Bea... | 6748 |
+| 27. | [herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) <br/>Use your OS X terminal shell to do awesome things. | 6492 |
+| 28. | [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) <br/>Micro check library | 6466 |
+| 29. | [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) <br/>The new JavaScript- and API-powered WordPress.com | 6451 |
+| 30. | [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) <br/>Android application powering the mirror in my hous... | 6274 |
+| 31. | [mattermost/platform](https://github.com/mattermost/platform) <br/>Open source Slack-alternative in Golang and React... | 6136 |
+| 32. | [yudai/gotty](https://github.com/yudai/gotty) <br/>Share your terminal as a web application | 6003 |
+| 33. | [serverless/serverless](https://github.com/serverless/serverless) <br/>Serverless (formerly JAWS): The serverless applica... | 5909 |
+| 34. | [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) <br/>Some HTML, CSS and JS best practices. | 5776 |
+| 35. | [purifycss/purifycss](https://github.com/purifycss/purifycss) <br/>Remove unused CSS. Also works with single-page app... | 5728 |
+| 36. | [dotnet/coreclr](https://github.com/dotnet/coreclr) <br/>This repo contains the .NET Core runtime, called C... | 5610 |
+| 37. | [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) <br/>Delightful, performance-focused pure css loading a... | 5573 |
+| 38. | [google/fonts](https://github.com/google/fonts) <br/>Font files available from Google Fonts | 5512 |
+| 39. | [facebook/relay](https://github.com/facebook/relay) <br/>Relay is a JavaScript framework for building data-... | 5323 |
+| 40. | [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) <br/>A collection of tips to help take your CSS skills... | 5323 |
+| 41. | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <br/>Have your own Slack like online chat, built with M... | 5227 |
+| 42. | [ampproject/amphtml](https://github.com/ampproject/amphtml) <br/>AMP HTML source code, samples, and documentation... | 5188 |
+| 43. | [oneuijs/You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) <br/>Examples of how to do query, style, dom, ajax, eve... | 5147 |
+| 44. | [Netflix/falcor](https://github.com/Netflix/falcor) <br/>A JavaScript library for efficient data fetching | 5140 |
+| 45. | [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) <br/>Generate polished résumés and CVs in HTML, Markdow... | 5090 |
+| 46. | [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) <br/>Image Super-Resolution for Anime-Style Art | 5054 |
+| 47. | [Mango/slideout](https://github.com/Mango/slideout) <br/>A touch slideout navigation menu for your mobile w... | 5052 |
+| 48. | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) <br/>A collection of links for free stock photography,... | 4979 |
+| 49. | [equinusocio/material-theme](https://github.com/equinusocio/material-theme) <br/>Material Theme, the most epic theme for Sublime Te... | 4977 |
+| 50. | [WebAssembly/design](https://github.com/WebAssembly/design) <br/>WebAssembly Design Documents | 4968 |
+| 51. | [phanan/koel](https://github.com/phanan/koel) <br/>A personal music streaming server that works. | 4927 |
+| 52. | [Microsoft/WinObjC](https://github.com/Microsoft/WinObjC) <br/>Objective-C for Windows | 4842 |
+| 53. | [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) <br/>Apple TV Aerial Screensaver for Mac | 4777 |
+| 54. | [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) <br/>:see_no_evil: Volkswagen detects when your tests a... | 4716 |
+| 55. | [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) <br/>A curated list of awesome remote jobs and resource... | 4624 |
+| 56. | [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) <br/>Learn javascript in one picture. | 4578 |
+| 57. | [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) <br/>A curated list of delightful iOS resources. | 4514 |
+| 58. | [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) <br/>Dive into Machine Learning with Python Jupyter not... | 4498 |
+| 59. | [primer/primer](https://github.com/primer/primer) <br/>The base coat of GitHub. Our internal CSS toolkit... | 4489 |
+| 60. | [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) <br/>Server-side Swift. The Perfect library, applicatio... | 4433 |
+| 61. | [googlesamples/android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) <br/>This sample shows how to implement an audio media... | 4364 |
+| 62. | [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) <br/>Demos the new Android Design library. | 4342 |
+| 63. | [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) <br/>ResearchKit is an open source software framework t... | 4230 |
+| 64. | [gizak/termui](https://github.com/gizak/termui) <br/>Golang terminal dashboard | 4202 |
+| 65. | [jaredreich/notie.js](https://github.com/jaredreich/notie.js) <br/>A clean and simple notification plugin (alert/grow... | 4195 |
+| 66. | [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) <br/>Selfhosting is the process of locally hosting and... | 4182 |
+| 67. | [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) <br/>Ultra lightweight, usable, beautiful autocomplete... | 4171 |
+| 68. | [XX-net/XX-Net](https://github.com/XX-net/XX-Net) <br/>接力GoAgent翻墙工具----Anti-censor tools | 4137 |
+| 69. | [dotnet/roslyn](https://github.com/dotnet/roslyn) <br/>The .NET Compiler Platform ("Roslyn") provides ope... | 4132 |
+| 70. | [connors/photon](https://github.com/connors/photon) <br/>The fastest way to build beautiful Electron apps u... | 4122 |
+| 71. | [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) <br/>A small, fast, modern, and dependency-free library... | 4079 |
+| 72. | [antirez/disque](https://github.com/antirez/disque) <br/>Disque is a distributed message broker | 4076 |
+| 73. | [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) <br/>Template auto layout cell for automatically UITabl... | 4069 |
+| 74. | [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) <br/>Useful resources for creating apps with Electron | 4040 |
+| 75. | [Selz/plyr](https://github.com/Selz/plyr) <br/>A simple HTML5 media player | 4017 |
+| 76. | [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) <br/>React UI Components for OS X El Capitan and Window... | 4007 |
+| 77. | [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) <br/>Tiny vanilla JS plugin to display large data sets... | 3991 |
+| 78. | [git-up/GitUp](https://github.com/git-up/GitUp) <br/>The Git interface you've been missing all your lif... | 3958 |
+| 79. | [hashicorp/otto](https://github.com/hashicorp/otto) <br/>Development and deployment made easy. | 3947 |
+| 80. | [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <br/>Continually updated data science Python notebooks:... | 3937 |
+| 81. | [nickbutcher/plaid](https://github.com/nickbutcher/plaid)  | 3925 |
+| 82. | [ibireme/YYText](https://github.com/ibireme/YYText) <br/>Powerful text framework for iOS to display and edi... | 3882 |
+| 83. | [gorhill/uBlock](https://github.com/gorhill/uBlock) <br/>uBlock Origin - An efficient blocker for Chromium... | 3878 |
+| 84. | [hashicorp/vault](https://github.com/hashicorp/vault) <br/>A tool for managing secrets. | 3862 |
+| 85. | [tholman/elevator.js](https://github.com/tholman/elevator.js) <br/>Finally, a "back to top" button that behaves like... | 3851 |
+| 86. | [plotly/plotly.js](https://github.com/plotly/plotly.js) <br/>The open source javascript graphing library that p... | 3849 |
+| 87. | [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) <br/>A Material Design ViewPager easy to use library | 3824 |
+| 88. | [facebook/stetho](https://github.com/facebook/stetho) <br/>Stetho is a debug bridge for Android applications,... | 3797 |
+| 89. | [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) <br/>The flexible, easy to use, all in one drawer libra... | 3738 |
+| 90. | [fchollet/keras](https://github.com/fchollet/keras) <br/>Deep Learning library for Python. Convnets, recurr... | 3731 |
+| 91. | [bboyfeiyu/android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) <br/>一个定期翻译国外Android优质的技术、开源库、... | 3674 |
+| 92. | [tmux/tmux](https://github.com/tmux/tmux) <br/>tmux source code | 3639 |
+| 93. | [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br/>:iphone: Collaborative List of Open-Source iOS App... | 3604 |
+| 94. | [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) <br/>Android Transition animations explanation with exa... | 3588 |
+| 95. | [mikechau/react-primer-draft](https://github.com/mikechau/react-primer-draft) <br/>A primer for building web applications with React. | 3579 |
+| 96. | [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) <br/>Torch implementation of neural style algorithm | 3561 |
+| 97. | [tessalt/echo-chamber-js](https://github.com/tessalt/echo-chamber-js) <br/>Commenting without the comments | 3552 |
+| 98. | [zulip/zulip](https://github.com/zulip/zulip) <br/>Zulip server - powerful open source group chat | 3526 |
+| 99. | [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) <br/>A collection of simple tips to help up your jQuery... | 3512 |
+| 100. | [feross/standard](https://github.com/feross/standard) <br/>:star2: JavaScript Standard Style | 3477 |
 
 ## Language Stats Index
 
