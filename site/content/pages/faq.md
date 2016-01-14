@@ -1,11 +1,15 @@
 Title: FAQ
 Date: 2016-01-01 06:00
 
+## Why Did You Create Viz?
+
+Although [GitHub Trending](https://github.com/trending) is a **great tool to discover up-and-coming projects**, it only allows you to review up to **one month** of data.  Third-party sites often show **all-time stats** that are **relatively static**, as they are dominated by well-established repos.
+
+Viewing raw stats only tells you **part of the story**.  `viz` helps tell the rest with **interactive visualizations that are continually updated**.
+
 ## What Data is Tracked?
 
-Although [GitHub Trending](https://github.com/trending) is a **great tool to discover up-and-coming projects**, it allows you to review **only one month** of data.  Third-party sites often show **all-time stats that are relatively static**, as they are dominated by well-established repos.
-
-`gh-stats` is meant to supplement existing tools by **filtering only on the latest and most-starred repos** created within a specific timeframe.
+`viz` is meant to supplement existing solutions by **filtering only on the latest and most-starred repos** created within a specific timeframe.
 
 For example, `viz` 2015 will only track repos created within the year 2015.
 
