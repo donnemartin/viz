@@ -66,6 +66,9 @@ td, th {
 .marketing h2 {
   font-weight: normal;
 }
+.marketing .col-md-4 h2 {
+    font-size: 28px;
+}
 .marketing .col-lg-4 p {
   margin-left: 10px;
   margin-right: 10px;
@@ -135,6 +138,12 @@ td, th {
 
 }
 
+/* Center viz */
 .tableauPlaceholder {
   margin: 0 auto;
+}
+
+/* Add padding to carousel buttons */
+.btn-lg, .btn-group-lg>.btn {
+    margin-bottom: 5px;
 }
