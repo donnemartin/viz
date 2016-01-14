@@ -12,13 +12,13 @@
 <link rel="canonical" href="../pages/faq.html">
 
         <meta name="author" content="Donne Martin" />
-        <meta name="description" content="What Data is Tracked? Although GitHub Trending is a great tool to discover up-and-coming projects, it allows you to review only one month of data. Third-party sites often show all-time stats that are relatively static, as they are dominated by well-established repos. gh-stats is meant to supplement existing tools by ..." />
+        <meta name="description" content="Why Did You Create Viz? Although GitHub Trending is a great tool to discover up-and-coming projects, it only allows you to review up to one month of data. Third-party sites often show all-time stats that are relatively static, as they are dominated by well-established repos. Viewing raw stats only tells ..." />
 
     <meta property="og:site_name" content="Viz" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="FAQ"/>
     <meta property="og:url" content="../pages/faq.html"/>
-    <meta property="og:description" content="What Data is Tracked? Although GitHub Trending is a great tool to discover up-and-coming projects, it allows you to review only one month of data. Third-party sites often show all-time stats that are relatively static, as they are dominated by well-established repos. gh-stats is meant to supplement existing tools by ..." />
+    <meta property="og:description" content="Why Did You Create Viz? Although GitHub Trending is a great tool to discover up-and-coming projects, it only allows you to review up to one month of data. Third-party sites often show all-time stats that are relatively static, as they are dominated by well-established repos. Viewing raw stats only tells ..." />
 
 
     <!-- Bootstrap -->
@@ -54,7 +54,6 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/viz/pages/2015">Visualizations</a></li>
             <li><a href="/viz/pages/faq">FAQ</a></li>
             <li><a href="https://www.github.com/donnemartin/viz/">Source Code</a></li>
           </ul>
@@ -68,14 +67,18 @@
         <h1 class="entry-title">FAQ</h1>
         
         <div class="entry-content">
-            <h2>What Data is Tracked?</h2>
-<p>Although <a href="https://github.com/trending">GitHub Trending</a> is a <strong>great tool to discover up-and-coming projects</strong>, it allows you to review <strong>only one month</strong> of data.  Third-party sites often show <strong>all-time stats that are relatively static</strong>, as they are dominated by well-established repos.</p>
-<p><code>gh-stats</code> is meant to supplement existing tools by <strong>filtering only on the latest and most-starred repos</strong> created within a specific timeframe.</p>
+            <h2>Why Did You Create Viz?</h2>
+<p>Although <a href="https://github.com/trending">GitHub Trending</a> is a <strong>great tool to discover up-and-coming projects</strong>, it only allows you to review up to <strong>one month</strong> of data.  Third-party sites often show <strong>all-time stats</strong> that are <strong>relatively static</strong>, as they are dominated by well-established repos.</p>
+<p>Viewing raw stats only tells you <strong>part of the story</strong>.  <code>viz</code> helps tell the rest with <strong>interactive visualizations that are continually updated</strong>.</p>
+<h2>What Data is Tracked?</h2>
+<p><code>viz</code> is meant to supplement existing solutions by <strong>filtering only on the latest and most-starred repos</strong> created within a specific timeframe.</p>
 <p>For example, <code>viz</code> 2015 will only track repos created within the year 2015.</p>
-<h3>Can We See Stats for Older Repos?</h3>
+<h3>Can We See Stats for 'Older' Repos?</h3>
 <p>In the future, <code>viz</code> can be extended to track repos regardless of creation date.  <a href="https://github.com/donnemartin/gh-stats/issues">Feedback</a> is welcome!</p>
+<h3>Can We See Stats for Other Time Ranges?</h3>
+<p>Visualizations for 1-, 3-, and 6-month ranges are under development.  The data for each range will be continually updated to keep <code>viz</code> fresh.</p>
 <h2>How Do You Mine Data?</h2>
-<p><code>viz</code> is powered by the <a href="https://developer.github.com/v3/">GitHub API</a> and:</p>
+<p>+<code>viz</code> is powered by the <a href="https://developer.github.com/v3/">GitHub API</a> in addition to the following:</p>
 <ul>
 <li><code>pandas</code> and <code>numpy</code> in an <a href="">IPython Notebook</a> for data wrangling.</li>
 <li><a href="">Google Maps API</a> for location data.</li>
@@ -101,20 +104,19 @@
 <p>Only repos with <code>stars:&gt;=100</code> are tracked to help filter GitHub's rapidly growing <strong>30+ million</strong> repositories and to keep within the <a href="https://developer.github.com/v3/rate_limit/">GitHub API rate limits</a>.  Further optimizations to the source code could reduce this restriction in the future.</p>
 <p>Even with the <code>stars:&gt;=100</code> restriction, <code>viz</code> 2015 contains data for 7059 of the most-starred repos created in 2015.</p>
 <h3>Why Stars?</h3>
-<p><code>viz</code> provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a <strong>simple and fairly effective measure of interest</strong>.  For a more detailed discussion on measuring repo popularity, refer to the publication <a href="https://github.com/donnemartin/viz/blob/master/assets/gh-stats.pdf">"On the Popularity of GitHub Applications:
-A Preliminary Note"</a> which concludes:</p>
+<p><code>viz</code> provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a <strong>simple and fairly effective measure of interest</strong>.  For a more detailed discussion on measuring repo popularity, check out <a href="https://github.com/donnemartin/viz/blob/master/assets/gh-stats.pdf">"On the Popularity of GitHub Applications:
+ A Preliminary Note"</a> which concludes:</p>
 <blockquote>
 <p>The number of stars of a system tends to correlate not only with the number of forks, but
 also with its effective usage by other client applications, which reinforces the importance
 of stars as a real measure of a system’s popularity.</p>
 </blockquote>
-<p>In the future, other stats such as forks could be included, even for <code>viz</code> 2015.  Forks for the year 2015 were mined on <code>January 1, 2016, between 02:00 to 03:00 PDT</code>, and are preserved <a href="https://github.com/donnemartin/viz/tree/master/language_stats/2015_with_forks">here</a>.</p>
+<p>In the future, other stats such as forks, issues, pull requests, etc could be included.</p>
 <h2>How Are Stats for Users and Orgs Calculated?</h2>
 <p>To provide star counts for users and orgs, <code>viz</code> groups repo stars by user or org.  Note the <code>stars:&gt;=100</code> restriction still applies to counted repos.</p>
 <h2>What Languages Are Tracked?</h2>
-<p>Stats available from the <a href="#language-stats-index">Language Stats Index</a> are grouped based on repo language, as identified by <a href="https://github.com/github/linguist">github/linguist</a>.</p>
-<p><code>viz</code> tracks the most popular languages on GitHub plus the <code>Unknown</code> language option.  Data from each language is tallied to determine the <a href="#stats-index">Overall Stats</a>.</p>
-<p>Don't see a popular language below?  Feel free to file a <a href="https://github.com/donnemartin/viz/issues">request</a>.</p>
+<p><code>viz</code> tracks the most popular languages on GitHub plus the <code>Unknown</code> language option.  Data from each language is tallied to determine the overall stats.</p>
+<p>Missing a popular language below?  Feel free to file a <a href="https://github.com/donnemartin/viz/issues">request</a>.</p>
 <div class="highlight"><pre>self.languages = [
     &#39;JavaScript&#39;,
     &#39;Java&#39;,
