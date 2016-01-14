@@ -67,11 +67,9 @@ To provide star counts for users and orgs, `viz` groups repo stars by user or or
 
 ## What Languages Are Tracked?
 
-Stats available from the [Language Stats Index](#language-stats-index) are grouped based on repo language, as identified by [github/linguist](https://github.com/github/linguist).
+`viz` tracks the most popular languages on GitHub plus the `Unknown` language option.  Data from each language is tallied to determine the overall stats.
 
-`viz` tracks the most popular languages on GitHub plus the `Unknown` language option.  Data from each language is tallied to determine the [Overall Stats](#stats-index).
-
-Don't see a popular language below?  Feel free to file a [request](https://github.com/donnemartin/viz/issues).
+Missing a popular language below?  Feel free to file a [request](https://github.com/donnemartin/viz/issues).
 
 ```
 self.languages = [
