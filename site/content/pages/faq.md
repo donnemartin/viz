@@ -13,9 +13,13 @@ Viewing raw stats only tells you **part of the story**.  `viz` helps tell the re
 
 For example, `viz` 2015 will only track repos created within the year 2015.
 
-### Can We See Stats for Older Repos?
+### Can We See Stats for 'Older' Repos?
 
 In the future, `viz` can be extended to track repos regardless of creation date.  [Feedback](https://github.com/donnemartin/gh-stats/issues) is welcome!
+
+### Can We See Stats for Other Time Ranges?
+
+Visualizations for 1-, 3-, and 6-month ranges are under development.  The data for each range will be continually updated to keep `viz` fresh.
 
 ## How Do You Mine Data?
 
