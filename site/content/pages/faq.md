@@ -23,7 +23,7 @@ Visualizations for 1-, 3-, and 6-month ranges are under development.  The data f
 
 ## How Do You Mine Data?
 
-`viz` is powered by the [GitHub API](https://developer.github.com/v3/) and:
+`viz` is powered by the [GitHub API](https://developer.github.com/v3/) in addition to the following:
 
 * `pandas` and `numpy` in an [IPython Notebook]() for data wrangling.
 * [Google Maps API]() for location data.
@@ -52,14 +52,14 @@ Even with the `stars:>=100` restriction, `viz` 2015 contains data for 7059 of th
 
 ### Why Stars?
 
-`viz` provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a **simple and fairly effective measure of interest**.  For a more detailed discussion on measuring repo popularity, refer to the publication ["On the Popularity of GitHub Applications:
-A Preliminary Note"](https://github.com/donnemartin/viz/blob/master/assets/gh-stats.pdf) which concludes:
+`viz` provides stats for repos, users, and orgs by stars.  Stars are by no means a perfect metric, yet they are a **simple and fairly effective measure of interest**.  For a more detailed discussion on measuring repo popularity, check out ["On the Popularity of GitHub Applications:
+ A Preliminary Note"](https://github.com/donnemartin/viz/blob/master/assets/gh-stats.pdf) which concludes:
 
 >The number of stars of a system tends to correlate not only with the number of forks, but
 also with its effective usage by other client applications, which reinforces the importance
 of stars as a real measure of a system’s popularity.
 
-In the future, other stats such as forks could be included, even for `viz` 2015.  Forks for the year 2015 were mined on `January 1, 2016, between 02:00 to 03:00 PDT`, and are preserved [here](https://github.com/donnemartin/viz/tree/master/language_stats/2015_with_forks).
+In the future, other stats such as forks, issues, pull requests, etc could be included.
 
 ## How Are Stats for Users and Orgs Calculated?
 
