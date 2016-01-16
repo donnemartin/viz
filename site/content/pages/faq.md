@@ -130,3 +130,7 @@ self.languages = [
     'Overall',
 ]
 ```
+
+## Is Viz Affiliated with GitHub?
+
+No, `Viz` is not affiliated with GitHub.  `Viz` is a community project by the GitHub community, for the GitHub community.
