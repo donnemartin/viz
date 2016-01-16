@@ -149,3 +149,19 @@ Review the [Contributing Guidelines](https://www.github.com/donnemartin/viz/CONT
 Contact details are on my [GitHub Profile](https://github.com/donnemartin).
 
 You can also file a ticket on the [issue tracker](https://github.com/donnemartin/viz/issues).
+
+## What is the License for Viz?
+
+    Copyright 2016 Donne Martin
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
