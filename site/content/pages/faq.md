@@ -143,3 +143,9 @@ Review the [Contributing Guidelines](https://www.github.com/donnemartin/viz/CONT
 
 * Submit issues
 * Submit pull requests
+
+## How Do We Contact You?
+
+Contact details are on my [GitHub Profile](https://github.com/donnemartin).
+
+You can also file a ticket on the [issue tracker](https://github.com/donnemartin/viz/issues).
