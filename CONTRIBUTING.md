@@ -7,19 +7,19 @@ Contributions are welcome!
 
 ## Bug Reports
 
-For bug reports or requests [submit an issue](https://github.com/donnemartin/gh-stats/issues).
+For bug reports or requests [submit an issue](https://github.com/donnemartin/viz/issues).
 
 ## Pull Requests
 
 The preferred way to contribute is to fork the
-[main repository](https://github.com/donnemartin/gh-stats) on GitHub.
+[main repository](https://github.com/donnemartin/viz) on GitHub.
 
-1. Fork the [main repository](https://github.com/donnemartin/gh-stats).  Click on the 'Fork' button near the top of the page.  This creates a copy of the code under your account on the GitHub server.
+1. Fork the [main repository](https://github.com/donnemartin/viz).  Click on the 'Fork' button near the top of the page.  This creates a copy of the code under your account on the GitHub server.
 
 2. Clone this copy to your local disk:
 
-        $ git clone git@github.com:YourLogin/gh-stats.git
-        $ cd gh-stats
+        $ git clone git@github.com:YourLogin/viz.git
+        $ cd viz
 
 3. Create a branch to hold your changes and start making changes. Don't work in the `master` branch!
 
@@ -34,7 +34,7 @@ The preferred way to contribute is to fork the
 
         $ git push -u origin my-feature
 
-6. Finally, go to the web page of your fork of the `gh-stats` repo and click 'Pull Request' to send your changes for review.
+6. Finally, go to the web page of your fork of the `viz` repo and click 'Pull Request' to send your changes for review.
 
 ### GitHub Pull Requests Docs
 
@@ -44,9 +44,9 @@ If you are not familiar with pull requests, review the [pull request docs](https
 
 Ensure your pull request satisfies all of the following, where applicable:
 
-* Is covered by [unit tests](https://github.com/donnemartin/gh-stats#unit-tests-and-code-coverage)
-* Passes [continuous integration](https://github.com/donnemartin/gh-stats#continuous-integration)
-* Is covered by [documentation](https://github.com/donnemartin/gh-stats#documentation)
+* Is covered by [unit tests](https://github.com/donnemartin/viz#unit-tests-and-code-coverage)
+* Passes [continuous integration](https://github.com/donnemartin/viz#continuous-integration)
+* Is covered by [documentation](https://github.com/donnemartin/viz#documentation)
 
 Review the following [style guide](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html).
 
@@ -56,4 +56,4 @@ Run code checks and fix any issues:
 
 ### Installation
 
-Refer to the [Installation](https://github.com/donnemartin/gh-stats#installation) and [Developer Installation](https://github.com/donnemartin/gh-stats#developer-installation) sections.
+Refer to the [Installation](https://github.com/donnemartin/viz#installation) and [Developer Installation](https://github.com/donnemartin/viz#developer-installation) sections.
