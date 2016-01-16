@@ -67,11 +67,11 @@ The `Viz` 2015 stats were mined on `January 1, 2016, between 00:00 to 01:00 PDT`
 * [Data Tables](https://github.com/donnemartin/viz/tree/master/language_stats)
 * [Tableau Workbooks](https://github.com/donnemartin/viz/tree/master/viz)
 
-## Why Are My 2015 Manual Search Results Different from `Viz` 2015?
+## Why Are My 2015 Manual Search Results Different from Viz 2015?
 
 Star counts from the searches above will show data up to the time you performed the search.
 
-## Why Restrict Search Results to `stars:>=100` for `Viz` 2015?
+## Why Restrict Search Results to `stars:>=100` for Viz 2015?
 
 Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growing **30+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).
 
