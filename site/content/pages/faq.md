@@ -134,3 +134,12 @@ self.languages = [
 ## Is Viz Affiliated with GitHub?
 
 No, `Viz` is not affiliated with GitHub.  `Viz` is a community project by the GitHub community, for the GitHub community.
+
+## Can We Contribute?
+
+Contributions are welcome!
+
+Review the [Contributing Guidelines](https://www.github.com/donnemartin/viz/CONTRIBUTING) for details on how to:
+
+* Submit issues
+* Submit pull requests
