@@ -1,1 +1,2 @@
 *.ipynb linguist-language=Python
+site/pelican-bootstrap3/* linguist-vendored
