@@ -143,7 +143,7 @@ class GitHubStatsTest(unittest.TestCase):
     @mock.patch('githubstats.github_stats.click')
     @mock.patch('githubstats.github_stats.time')
     def test_stats(self, mock_time, mock_click):
-        self.github_stats.stats(use_user_cache=False)
+        self.github_stats.update_stats(use_user_cache=False)
         assert mock_click.echo.mock_calls
         assert mock_time.sleep.mock_calls
         self.verify_results(self.repos, self.github_stats.overall_repos)

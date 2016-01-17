@@ -47,14 +47,14 @@ class GitHubStatsCli(object):
         """
         github.print_rate_limit()
 
-    @cli.command('stats')
+    @cli.command('update_stats')
     @pass_github
-    def stats(github_stats):
-        """Outputs the GitHub stats.
+    def update_stats(github_stats):
+        """Updates the GitHub stats.
 
-        See the README for more details on the output.
+        See the README for more details.
 
         :type github_stats: :class:`GitHubStats`
         :param github_stats: Stores an instance of GitHubStats.
         """
-        github_stats.stats()
+        github_stats.update_stats()

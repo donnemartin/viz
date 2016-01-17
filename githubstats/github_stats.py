@@ -586,7 +586,7 @@ class GitHubStats(object):
 
     from .lib.debug_timer import timeit
     @timeit
-    def stats(self, use_user_cache=True):
+    def update_stats(self, use_user_cache=True):
         """Generates and outputs stats.
 
         Main entry point for GitHubStats.
