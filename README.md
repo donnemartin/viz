@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="http://i.imgur.com/yTg65Ko.gif">
+  <img src="http://i.imgur.com/hnfZWer.gif">
 </p>
 
 # Viz
 
-> Interactive visualizations and stats of GitHub's latest, most popular repos.
+> Interactive visualizations and stats of GitHub's newest, most popular repos.
 
 ## Index
 
@@ -21,7 +21,7 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/5SgObaR.png)
 
-![Imgur](http://i.imgur.com/5VRDA4Q.png)
+![Imgur](http://i.imgur.com/pyVya0V.png)
 
 ![Imgur](http://i.imgur.com/jH9DtNI.png)
 
@@ -42,17 +42,17 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 [https://www.donnemartin.github.io/viz](https://www.donnemartin.github.io/viz)
 
-![Imgur](http://i.imgur.com/Re4G6zY.png)
+![Imgur](http://i.imgur.com/JCFRlpy.png)
 
 ![Imgur](http://i.imgur.com/JyrWnac.png)
 
-![Imgur](http://i.imgur.com/MTQwxf5.png)
+![Imgur](http://i.imgur.com/a2BVfwi.png)
 
 ![Imgur](http://i.imgur.com/sh8OHff.png)
 
 ![Imgur](http://i.imgur.com/RKeyEPm.png)
 
-![Imgur](http://i.imgur.com/jLgCIJi.png)
+![Imgur](http://i.imgur.com/IZBUQwM.png)
 
 
 ## FAQ
@@ -67,9 +67,9 @@ Viewing raw stats and tables only tell you **part of a story**.
 
 ![Imgur](http://i.imgur.com/HBzXqrN.png)
 
-## How Can We Help or Stay Up-To-Date with the Evolution of Viz?
+## How Do We Help With or Stay Up-To-Date With the Evolution of Viz?
 
-`Viz` is just getting started.  [Contributions](https://www.github.com/donnemartin/viz/CONTRIBUTING) and [feedback]([Feedback](https://github.com/donnemartin/viz/issues)) are welcome!
+`Viz` is just getting started.  [Contributions](https://www.github.com/donnemartin/viz/CONTRIBUTING) and [feedback](https://github.com/donnemartin/viz/issues) are welcome!
 
 Feel free to [follow](https://www.github.com/donnemartin), [star](https://github.com/donnemartin/viz/fork), [fork](https://github.com/donnemartin/viz/fork), and check back for updates.
 
@@ -77,19 +77,19 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
-## What Data is Tracked?
+## What Data Is Tracked?
 
 Although [GitHub Trending](https://github.com/trending) is a **great tool to discover up-and-coming projects**, it only allows you to review up to **one month** of data.  Third-party sites often show **all-time stats** that are **relatively static**, as they are dominated by well-established repos.
 
-`Viz` is meant to supplement existing solutions by **filtering only on the latest, most popular repos** created within a specific timeframe.
+`Viz` is meant to supplement existing solutions by **filtering only on the newest, most popular repos** created within a specific timeframe.
 
 ***For example, `Viz` 2015 will only track repos created within the year 2015.***
 
-## Can We See Stats for Time Ranges Other than 2015?
+## Can We See Stats for Time Ranges Other Than 2015?
 
 For the initial launch, `Viz` provides stats for 2015.
 
-Visualizations for 6-, 3-, and 1-month ranges are under development.  The data for each range will be continually updated to keep `Viz` fresh.
+**Visualizations for 6-, 3-, and 1-month ranges are under development**.  The data for each range will be continually updated to keep `Viz` fresh.
 
 ## Can We See Stats for 'Older' Repos?
 
@@ -99,23 +99,23 @@ In the future, `Viz` can be extended to track repos regardless of creation date.
 
 `Viz` is powered by the [GitHub API](https://developer.github.com/v3/) through [github3.py](https://github.com/sigmavirus24/github3.py) and leverages the following:
 
-* [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) with [IPython Notebook](https://github.com/ipython/ipython) for data wrangling.
+* [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) in the following [IPython Notebook](https://github.com/ipython/ipython) for data wrangling.
 * [Google Maps API](https://developers.google.com/maps/?hl=en) through [`geocoder`](https://github.com/DenisCarriere/geocoder) for location data.
 * [Tableau Public](https://public.tableau.com/s/) for visualizations.*
 
-**Interested in visualizations with Python or R?  [Contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)!*
+**Interested in visualizations with JavaScript, Python, R, or ...?  [Contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)!*
 
 ## When Did You Mine the 2015 Data?
 
 The `Viz` 2015 stats were mined on `January 1, 2016, between 00:00 to 01:00 PDT`, and are preserved [here](https://github.com/donnemartin/viz/tree/master/language_stats/2015_frozen).
 
-## Where Can We Find the Data?
+## Where Do We Find the Data?
 
 * [Data](https://github.com/donnemartin/viz/tree/master/githubstats/data)
 * [Data Tables](https://github.com/donnemartin/viz/tree/master/language_stats)
 * [Tableau Workbooks](https://github.com/donnemartin/viz/tree/master/viz)
 
-## Why Are My 2015 Manual Search Results Different from Viz 2015?
+## Why Are My 2015 Manual Search Results Different From Viz 2015?
 
 With [GitHub Search](https://github.com/search), you can manually run queries similar to what you would get from the GitHub API.
 
@@ -150,18 +150,14 @@ In the future, other stats such as issues, pull requests, followers gained, etc 
 
 To provide stats for users and orgs, `Viz` groups stars and forks by user or org.  Note the `stars:>=100` restriction still applies.
 
-## Can We See Visualizations in R or Python?
-
-Interested in visualizations with Python or R?  [Contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)! :)
-
 ## What Languages Are Tracked?
 
-`Viz` tracks the most popular languages on GitHub plus the `Unknown` language option.  Data from each language is tallied to determine the overall stats.
+`Viz` tracks the most popular languages on GitHub plus the `Unknown` language option.  Repo languages are identified by [github/linguist](https://github.com/github/linguist).
 
 Missing a popular language below?  Feel free to file a [request](https://github.com/donnemartin/viz/issues).
 
 ```
-self.languages = [
+languages = [
     'JavaScript',
     'Java',
     'Objective-C',
@@ -189,7 +185,7 @@ self.languages = [
 ]
 ```
 
-## Is Viz Affiliated with GitHub?
+## Is Viz Affiliated With GitHub?
 
 No, `Viz` is not affiliated with GitHub.
 
@@ -203,11 +199,9 @@ The visualization hosting service might be having issues, check out the [status 
 
 Sure, please [contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)! :)
 
-## Can We Contribute?
+## How Do We Contribute?
 
-Contributions are welcome!
-
-Review the [Contributing Guidelines](https://www.github.com/donnemartin/viz/CONTRIBUTING) for details on how to:
+Please review the [Contributing Guidelines](https://www.github.com/donnemartin/viz/CONTRIBUTING) for details on how to:
 
 * Submit issues
 * Submit pull requests
@@ -218,7 +212,7 @@ Contact details are on my [GitHub Profile](https://github.com/donnemartin).
 
 You can also file a ticket on the [issue tracker](https://github.com/donnemartin/viz/issues).
 
-## What is the License for Viz?
+## What Is the License for Viz?
 
     Copyright 2016 Donne Martin
 
