@@ -41,7 +41,7 @@
 
 <div class="navbar-wrapper">
   <div class="container">
-    <div class="navbar navbar-inverse navbar-static-top">
+    <div class="navbar navbar-static-top">
 
         <div class="navbar-header">
         <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -53,7 +53,16 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/viz/pages/visualizations">Visualizations</a></li>
+            <li class="dropdown">
+              <a href="/viz/pages/visualizations" class="dropdown-toggle" data-toggle="dropdown">Visualizations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/viz/pages/2015">2015</a></li>
+                <li class="divider"></li>
+                <li class="disabled"><a href="#">6 Months (Coming Soon)</a></li>
+                <li class="disabled"><a href="#">3 Months (Coming Soon)</a></li>
+                <li class="disabled"><a href="#">1 Months (Coming Soon)</a></li>
+              </ul>
+            </li>
             <li><a href="/viz/pages/faq">FAQ</a></li>
             <li><a href="https://www.github.com/donnemartin/viz/">Source Code</a></li>
           </ul>

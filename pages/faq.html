@@ -12,13 +12,13 @@
 <link rel="canonical" href="../pages/faq.html">
 
         <meta name="author" content="Donne Martin" />
-        <meta name="description" content="Why Did You Create Viz? Viewing raw stats and tables only tell you part of a story. Viz helps tell the rest of the story with interactive visualizations that are continually updated. How Can We Help or Stay Up-To-Date with the Evolution of Viz? Viz is just getting started. Contributions ..." />
+        <meta name="description" content="Why Did You Create Viz? Viewing raw stats and tables only tell you part of a story. Viz helps tell the rest of the story with interactive visualizations that are continually updated. How Do We Help With or Stay Up-To-Date With the Evolution of Viz? Viz is just getting started ..." />
 
     <meta property="og:site_name" content="Viz" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="FAQ"/>
     <meta property="og:url" content="../pages/faq.html"/>
-    <meta property="og:description" content="Why Did You Create Viz? Viewing raw stats and tables only tell you part of a story. Viz helps tell the rest of the story with interactive visualizations that are continually updated. How Can We Help or Stay Up-To-Date with the Evolution of Viz? Viz is just getting started. Contributions ..." />
+    <meta property="og:description" content="Why Did You Create Viz? Viewing raw stats and tables only tell you part of a story. Viz helps tell the rest of the story with interactive visualizations that are continually updated. How Do We Help With or Stay Up-To-Date With the Evolution of Viz? Viz is just getting started ..." />
 
 
     <!-- Bootstrap -->
@@ -42,7 +42,7 @@
 
 <div class="navbar-wrapper">
   <div class="container">
-    <div class="navbar navbar-inverse navbar-static-top">
+    <div class="navbar navbar-static-top">
 
         <div class="navbar-header">
         <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -54,7 +54,16 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/viz/pages/visualizations">Visualizations</a></li>
+            <li class="dropdown">
+              <a href="/viz/pages/visualizations" class="dropdown-toggle" data-toggle="dropdown">Visualizations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/viz/pages/2015">2015</a></li>
+                <li class="divider"></li>
+                <li class="disabled"><a href="#">6 Months (Coming Soon)</a></li>
+                <li class="disabled"><a href="#">3 Months (Coming Soon)</a></li>
+                <li class="disabled"><a href="#">1 Months (Coming Soon)</a></li>
+              </ul>
+            </li>
             <li><a href="/viz/pages/faq">FAQ</a></li>
             <li><a href="https://www.github.com/donnemartin/viz/">Source Code</a></li>
           </ul>
@@ -73,7 +82,7 @@
 <p><img alt="Imgur" src="http://i.imgur.com/yB9hv18.png" /></p>
 <p><code>Viz</code> helps tell the rest of the story with <strong>interactive visualizations</strong> that are <strong>continually updated</strong>.</p>
 <p><img alt="Imgur" src="http://i.imgur.com/HBzXqrN.png" /></p>
-<h2>How Can We Help or Stay Up-To-Date with the Evolution of Viz?</h2>
+<h2>How Do We Help With or Stay Up-To-Date With the Evolution of Viz?</h2>
 <p><code>Viz</code> is just getting started.  <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">Contributions</a> and <a href="[Feedback](https://github.com/donnemartin/viz/issues)">feedback</a> are welcome!</p>
 <p>Feel free to <a href="https://www.github.com/donnemartin">follow</a>, <a href="https://github.com/donnemartin/viz/fork">star</a>, <a href="https://github.com/donnemartin/viz/fork">fork</a>, and check back for updates.</p>
 <iframe src="https://ghbtns.com/github-btn.html?user=donnemartin&type=follow&count=true" frameborder="0" scrolling="0" width="145" height="20"></iframe>
@@ -82,13 +91,13 @@
 
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
-<h2>What Data is Tracked?</h2>
+<h2>What Data Is Tracked?</h2>
 <p>Although <a href="https://github.com/trending">GitHub Trending</a> is a <strong>great tool to discover up-and-coming projects</strong>, it only allows you to review up to <strong>one month</strong> of data.  Third-party sites often show <strong>all-time stats</strong> that are <strong>relatively static</strong>, as they are dominated by well-established repos.</p>
-<p><code>Viz</code> is meant to supplement existing solutions by <strong>filtering only on the latest, most popular repos</strong> created within a specific timeframe.</p>
+<p><code>Viz</code> is meant to supplement existing solutions by <strong>filtering only on the newest, most popular repos</strong> created within a specific timeframe.</p>
 <p><strong><em>For example, <code>Viz</code> 2015 will only track repos created within the year 2015.</em></strong></p>
-<h2>Can We See Stats for Time Ranges Other than 2015?</h2>
+<h2>Can We See Stats for Time Ranges Other Than 2015?</h2>
 <p>For the initial launch, <code>Viz</code> provides stats for 2015.</p>
-<p>Visualizations for 6-, 3-, and 1-month ranges are under development.  The data for each range will be continually updated to keep <code>Viz</code> fresh.</p>
+<p><strong>Visualizations for 6-, 3-, and 1-month ranges are under development</strong>.  The data for each range will be continually updated to keep <code>Viz</code> fresh.</p>
 <h2>Can We See Stats for 'Older' Repos?</h2>
 <p>In the future, <code>Viz</code> can be extended to track repos regardless of creation date.  <a href="https://github.com/donnemartin/viz/issues">Feedback</a> is welcome!</p>
 <h2>How Do You Mine Data?</h2>
@@ -98,16 +107,16 @@
 <li><a href="https://developers.google.com/maps/?hl=en">Google Maps API</a> through <a href="https://github.com/DenisCarriere/geocoder"><code>geocoder</code></a> for location data.</li>
 <li><a href="https://public.tableau.com/s/">Tableau Public</a> for visualizations.*</li>
 </ul>
-<p>*<em>Interested in visualizations with Python or R?  <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">Contribute</a>!</em></p>
+<p>*<em>Interested in visualizations with JavaScript, Python, R, or ...?  <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">Contribute</a>!</em></p>
 <h2>When Did You Mine the 2015 Data?</h2>
 <p>The <code>Viz</code> 2015 stats were mined on <code>January 1, 2016, between 00:00 to 01:00 PDT</code>, and are preserved <a href="https://github.com/donnemartin/viz/tree/master/language_stats/2015_frozen">here</a>.</p>
-<h2>Where Can We Find the Data?</h2>
+<h2>Where Do We Find the Data?</h2>
 <ul>
 <li><a href="https://github.com/donnemartin/viz/tree/master/githubstats/data">Data</a></li>
 <li><a href="https://github.com/donnemartin/viz/tree/master/language_stats">Data Tables</a></li>
 <li><a href="https://github.com/donnemartin/viz/tree/master/viz">Tableau Workbooks</a></li>
 </ul>
-<h2>Why Are My 2015 Manual Search Results Different from Viz 2015?</h2>
+<h2>Why Are My 2015 Manual Search Results Different From Viz 2015?</h2>
 <p>With <a href="https://github.com/search">GitHub Search</a>, you can manually run queries similar to what you would get from the GitHub API.</p>
 <p>To view the most-starred JavaScript repos created in 2015, run the following <a href="https://github.com/search?utf8=%E2%9C%93&amp;q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&amp;type=Repositories&amp;ref=searchresults">query</a>:</p>
 <div class="highlight"><pre><span class="n">created</span><span class="o">:</span><span class="mi">2015</span><span class="o">-</span><span class="mi">01</span><span class="o">-</span><span class="mi">01</span><span class="o">..</span><span class="mi">2015</span><span class="o">-</span><span class="mi">12</span><span class="o">-</span><span class="mi">31</span> <span class="n">stars</span><span class="o">:&gt;=</span><span class="mi">100</span> <span class="n">language</span><span class="o">:</span><span class="n">javascript</span>
@@ -134,12 +143,10 @@ of stars as a real measure of a system’s popularity.</p>
 <p>In the future, other stats such as issues, pull requests, followers gained, etc could be included.</p>
 <h2>How Are Stats for Users and Orgs Calculated?</h2>
 <p>To provide stats for users and orgs, <code>Viz</code> groups stars and forks by user or org.  Note the <code>stars:&gt;=100</code> restriction still applies.</p>
-<h2>Can We See Visualizations in R or Python?</h2>
-<p>Interested in visualizations with Python or R?  <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">Contribute</a>! :)</p>
 <h2>What Languages Are Tracked?</h2>
-<p><code>Viz</code> tracks the most popular languages on GitHub plus the <code>Unknown</code> language option.  Data from each language is tallied to determine the overall stats.</p>
+<p><code>Viz</code> tracks the most popular languages on GitHub plus the <code>Unknown</code> language option.  Repo languages are identified by <a href="https://github.com/github/linguist">github/linguist</a>.</p>
 <p>Missing a popular language below?  Feel free to file a <a href="https://github.com/donnemartin/viz/issues">request</a>.</p>
-<div class="highlight"><pre>self.languages = [
+<div class="highlight"><pre>languages = [
     &#39;JavaScript&#39;,
     &#39;Java&#39;,
     &#39;Objective-C&#39;,
@@ -168,12 +175,15 @@ of stars as a real measure of a system’s popularity.</p>
 </pre></div>
 
 
-<h2>Is Viz Affiliated with GitHub?</h2>
+<h2>Is Viz Affiliated With GitHub?</h2>
 <p>No, <code>Viz</code> is not affiliated with GitHub.</p>
 <p><code>Viz</code> is a community project by the GitHub community, for the GitHub community.</p>
-<h2>Can We Contribute?</h2>
-<p>Contributions are welcome!</p>
-<p>Review the <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">Contributing Guidelines</a> for details on how to:</p>
+<h2>Why Isn't the Interactive Viz Loading?</h2>
+<p>The visualization hosting service might be having issues, check out the <a href="https://trust.tableau.com/status/tableau-public">status page</a>.</p>
+<h2>Can We See Visualizations in JavaScript, Python, R or ...?</h2>
+<p>Sure, please <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">contribute</a>! :)</p>
+<h2>How Do We Contribute?</h2>
+<p>Please review the <a href="https://www.github.com/donnemartin/viz/CONTRIBUTING">Contributing Guidelines</a> for details on how to:</p>
 <ul>
 <li>Submit issues</li>
 <li>Submit pull requests</li>
@@ -181,7 +191,7 @@ of stars as a real measure of a system’s popularity.</p>
 <h2>How Do We Contact You?</h2>
 <p>Contact details are on my <a href="https://github.com/donnemartin">GitHub Profile</a>.</p>
 <p>You can also file a ticket on the <a href="https://github.com/donnemartin/viz/issues">issue tracker</a>.</p>
-<h2>What is the License for Viz?</h2>
+<h2>What Is the License for Viz?</h2>
 <div class="highlight"><pre>Copyright 2016 Donne Martin
 
 Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);

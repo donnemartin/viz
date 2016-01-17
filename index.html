@@ -1,5 +1,3 @@
-<script src="./theme/js/jquery.easing.min.js"></script>
-<script src="./theme/js/pagescroll.js"></script>
 
 <!-- Carousel
 ================================================== -->
@@ -10,14 +8,14 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Viz</h1>
-          <p>Interactive Visualizations and Stats of GitHub's Latest, Most Popular Repos</p>
+          <p>Interactive Visualizations and Stats of GitHub's Newest, Most Popular Repos</p>
           <p>
             <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
             <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
           </p>
           <p>
-            <a class="page-scroll btn btn-lg btn-primary" href="#previews">Learn More</a>
-            <a class="page-scroll btn btn-lg btn-primary" href="/viz/pages/2015">Viz 2015</a>
+            <a class="btn btn-lg btn-primary" href="#previews">Learn More</a>
+            <a class="btn btn-lg btn-primary" href="/viz/pages/2015">Viz 2015</a>
         </p>
         </div>
       </div>
@@ -51,7 +49,7 @@
       <h2>Continually Updated</h2>
       <p>6-, 3-, and 1-month stats coming soon.</p>
       <img class="img-square" src="images/marketing_3.png">
-      <p><a class="btn btn-default" href="https://www.github.com/donnemartin/viz">View Repo</a></p>
+      <p><a class="btn btn-default" href="https://www.github.com/donnemartin/viz">Star Repo</a></p>
     </div>
   </div><!-- /.row -->
 
@@ -61,7 +59,7 @@
 
   <div class="featurette">
     <img class="featurette-image img-circle pull-right" src="images/featurette_1.png">
-    <h2 class="featurette-heading">Analyze the Latest, Most Popular Repos. <span class="text-muted">Drill down on stars, forks, and language trends.</span></h2>
+    <h2 class="featurette-heading">Analyze the Newest, Most Popular Repos. <span class="text-muted">Drill down on stars, forks, and language trends.</span></h2>
     <p class="lead"></p>
   </div>
 
@@ -127,7 +125,7 @@
 
 <div class="navbar-wrapper">
   <div class="container">
-    <div class="navbar navbar-inverse navbar-static-top">
+    <div class="navbar navbar-static-top">
 
         <div class="navbar-header">
         <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -139,7 +137,16 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/viz/pages/visualizations">Visualizations</a></li>
+            <li class="dropdown">
+              <a href="/viz/pages/visualizations" class="dropdown-toggle" data-toggle="dropdown">Visualizations <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/viz/pages/2015">2015</a></li>
+                <li class="divider"></li>
+                <li class="disabled"><a href="#">6 Months (Coming Soon)</a></li>
+                <li class="disabled"><a href="#">3 Months (Coming Soon)</a></li>
+                <li class="disabled"><a href="#">1 Months (Coming Soon)</a></li>
+              </ul>
+            </li>
             <li><a href="/viz/pages/faq">FAQ</a></li>
             <li><a href="https://www.github.com/donnemartin/viz/">Source Code</a></li>
           </ul>
