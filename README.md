@@ -117,7 +117,7 @@ The `Viz` 2015 stats were mined on `January 1, 2016, between 00:00 to 01:00 PDT`
 
 ## Why Are My 2015 Manual Search Results Different from Viz 2015?
 
-With [GitHub Search](https://github.com/search), you can manually run queries similar to what you would get from the GitHub API.  
+With [GitHub Search](https://github.com/search), you can manually run queries similar to what you would get from the GitHub API.
 
 To view the most-starred JavaScript repos created in 2015, run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
 
@@ -191,9 +191,13 @@ self.languages = [
 
 ## Is Viz Affiliated with GitHub?
 
-No, `Viz` is not affiliated with GitHub.  
+No, `Viz` is not affiliated with GitHub.
 
 `Viz` is a community project by the GitHub community, for the GitHub community.
+
+## Why Isn't the Interactive Viz Loading?
+
+The visualization hosting service might be having issues, check out the [status page](https://trust.tableau.com/status/tableau-public).
 
 ## Can We Contribute?
 
