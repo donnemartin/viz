@@ -587,7 +587,7 @@ class GitHubStats(object):
     from .lib.debug_timer import timeit
     @timeit
     def stats(self, use_user_cache=True):
-        """Outputs the stats found in the README.
+        """Generates and outputs stats.
 
         Main entry point for GitHubStats.
 
@@ -630,33 +630,10 @@ class GitHubStats(object):
                     language_stats.write(line + '\n')
 
     def write_output_files(self):
-        """Writes the README, language stats, and cached user file."""
-        self.write_readme()
+        """Writes the language stats and cached user file."""
         self.write_language_stats()
         self.write_caches()
         self.write_csvs()
-
-    def write_readme(self):
-        """Writes the README.md file.
-
-        Joins the following:
-            * README_HEADER.md
-            * Language index
-            * Language stats
-            * README_FOOTER.md
-        """
-        with open('README.md', 'w') as readme:
-            with open('README_HEADER.md', 'r') as readme_header:
-                for line in readme_header:
-                    readme.write(line)
-            for line in self.output['Index']:
-                readme.write(line + '\n')
-            for language in self.languages:
-                for line in self.output[language]:
-                    readme.write(line + '\n')
-            with open('README_FOOTER.md', 'r') as readme_footer:
-                for line in readme_footer:
-                    readme.write(line)
 
     def write_caches(self):
         """Writes the user cached to data/users"""
