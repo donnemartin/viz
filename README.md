@@ -199,6 +199,10 @@ No, `Viz` is not affiliated with GitHub.
 
 The visualization hosting service might be having issues, check out the [status page](https://trust.tableau.com/status/tableau-public).
 
+## Can We See Visualizations in JavaScript, Python, R or ...?
+
+Sure, please [contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)! :)
+
 ## Can We Contribute?
 
 Contributions are welcome!
