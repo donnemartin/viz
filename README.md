@@ -52,6 +52,10 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/RKeyEPm.png)
 
+![Imgur](http://i.imgur.com/AB0thGF.png)
+
+![Imgur](http://i.imgur.com/jLutPbx.png)
+
 ![Imgur](http://i.imgur.com/IZBUQwM.png)
 
 
