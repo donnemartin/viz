@@ -7,16 +7,9 @@
          {% else %}
             {% set copy_date = '' %}
          {% endif %}
-         <div class="col-md-6">&copy; 2016 <a href="https://github.com/donnemartin">{{ AUTHOR }}</a>
-            {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
-              {% from 'includes/cc-license.html' import cc_license_mark %}
-              <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL}) }}</small></p>
-            {% elif CUSTOM_LICENSE %}
-              <p><small>{{ CUSTOM_LICENSE }}</small></p>
-            {% endif %}
-         </div>
-         <div class="col-md-6 text-right">
+         <div class="col-md-6">
            <ul class="list-inline social-buttons">
+             <li>&copy; 2016 <a href="https://github.com/donnemartin">{{ AUTHOR }} </a></li>
              <li><a href="https://www.github.com/donnemartin"><i class="fa fa-github"></i></a></li>
              <li><a href="https://www.twitter.com/donne_martin"><i class="fa fa-twitter"></i></a></li>
              <li><a href="https://www.linkedin.com/in/donnemartin"><i class="fa fa-linkedin"></i></a></li>
