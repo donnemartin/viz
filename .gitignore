@@ -49,3 +49,5 @@ CHANGELOG_DRAFT
 language_stats/2015_frozen/
 .ipynb_checkpoints
 output/
+site/pelican.pid
+site/srv.pid
