@@ -13,7 +13,7 @@ Viewing raw stats and tables only tell you **part of a story**.
 
 ## How Do We Help With or Stay Up-To-Date With the Evolution of Viz?
 
-`Viz` is just getting started.  [Contributions](https://www.github.com/donnemartin/viz/CONTRIBUTING) and [feedback]([Feedback](https://github.com/donnemartin/viz/issues)) are welcome!
+`Viz` is just getting started.  [Contributions](https://www.github.com/donnemartin/viz/CONTRIBUTING) and [feedback](https://github.com/donnemartin/viz/issues) are welcome!
 
 Feel free to [follow](https://www.github.com/donnemartin), [star](https://github.com/donnemartin/viz/fork), [fork](https://github.com/donnemartin/viz/fork), and check back for updates.
 
@@ -43,7 +43,7 @@ In the future, `Viz` can be extended to track repos regardless of creation date.
 
 `Viz` is powered by the [GitHub API](https://developer.github.com/v3/) through [github3.py](https://github.com/sigmavirus24/github3.py) and leverages the following:
 
-* [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) with [IPython Notebook](https://github.com/ipython/ipython) for data wrangling.
+* [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) in the following [IPython Notebook](https://github.com/ipython/ipython) for data wrangling.
 * [Google Maps API](https://developers.google.com/maps/?hl=en) through [`geocoder`](https://github.com/DenisCarriere/geocoder) for location data.
 * [Tableau Public](https://public.tableau.com/s/) for visualizations.*
 
