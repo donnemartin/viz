@@ -21,6 +21,21 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
+## Why Isn't the Online Interactive Viz Loading?
+
+The visualization hosting service might be having issues:  [View Status](https://trust.tableau.com/status/tableau-public).
+
+<a name="can-i-viz-offline"></a>
+## Can I Viz Offline?
+
+Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Workbook](https://github.com/donnemartin/viz/tree/master/viz).
+
+Depending on your setup, you might see improved performance running `viz` locally.
+
+## Can We See Visualizations in JavaScript, Python, R or ...?
+
+Sure, please [contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)! :)
+
 ## What Data Is Tracked?
 
 Although [GitHub Trending](https://github.com/trending) is a **great tool to discover up-and-coming projects**, it only allows you to review up to **one month** of data.  Third-party sites often show **all-time stats** that are **relatively static**, as they are dominated by well-established repos.
@@ -134,21 +149,6 @@ languages = [
 No, `Viz` is not affiliated with GitHub.
 
 `Viz` is a community project by the GitHub community, for the GitHub community.
-
-## Why Isn't the Interactive Viz Loading?
-
-The visualization hosting service might be having issues, check out the [status page](https://trust.tableau.com/status/tableau-public).
-
-<a name="can-i-viz-offline"></a>
-## Can I Viz Offline?
-
-Yes, you'll need the **free** [Tableau Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Tableau Workbook](https://github.com/donnemartin/viz/tree/master/viz).
-
-Depending on your setup, you might see improved performance running `viz` locally.
-
-## Can We See Visualizations in JavaScript, Python, R or ...?
-
-Sure, please [contribute](https://www.github.com/donnemartin/viz/CONTRIBUTING)! :)
 
 ## How Do We Contribute?
 
