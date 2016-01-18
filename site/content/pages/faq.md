@@ -139,9 +139,10 @@ No, `Viz` is not affiliated with GitHub.
 
 The visualization hosting service might be having issues, check out the [status page](https://trust.tableau.com/status/tableau-public).
 
+<a name="can-i-viz-offline"></a>
 ## Can I Viz Offline?
 
-Yes, you'll need the **free** [Tableau Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Tableau Workbook](https://github.com/donnemartin/viz/blob/master/viz/GitHub.twbx).
+Yes, you'll need the **free** [Tableau Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Tableau Workbook](https://github.com/donnemartin/viz/tree/master/viz).
 
 Depending on your setup, you might see improved performance running `viz` locally.
 
