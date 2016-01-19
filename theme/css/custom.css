@@ -147,3 +147,14 @@ td, th {
 .btn-lg, .btn-group-lg>.btn {
     margin-bottom: 5px;
 }
+
+.container-non-responsive {
+  /* Margin/padding copied from Bootstrap */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  /* Set width to your desired site width */
+  width: 1170px;
+}
