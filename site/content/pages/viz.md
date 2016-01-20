@@ -1,7 +1,7 @@
 Title: 2015
 Date: 2016-01-01 06:00
 
-[Mobile](http://donnemartin.github.io/viz/pages/2015-mobile) | [Viz Offline](http://donnemartin.github.io/viz/pages/faq#can-i-viz-offline) | [Status](https://trust.tableau.com/status/tableau-public)
+[Viz Mobile](http://donnemartin.github.io/viz/pages/2015-mobile) | [Viz Offline](http://donnemartin.github.io/viz/pages/faq#can-i-viz-offline) | [Viz Status](https://trust.tableau.com/status/tableau-public)
 
 <div class="container">
 <p align="center">
