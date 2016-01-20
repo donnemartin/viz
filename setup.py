@@ -5,7 +5,7 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    description=("Interactive Vizualizations and Stats of GitHub's Latest, "
+    description=("Interactive Vizualizations and Stats of GitHub's Newest, "
                  "Most Popular Repos."),
     author='Donne Martin',
     url='https://github.com/donnemartin/viz',
