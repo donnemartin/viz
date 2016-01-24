@@ -38,7 +38,7 @@ You can also run `Viz` offline.
 
 ### Can I Viz on a Mobile Device?
 
-Yes, a [mobile-optimized](http://donnemartin.github.io/viz/pages/2015-mobile) version of `Viz` is available.  For more heavy-duty use, it is recommended run `Viz` on a laptop or desktop.
+Yes, a [mobile-optimized](http://donnemartin.com/viz/pages/2015-mobile) version of `Viz` is available.
 
 ### Can We See Visualizations in JavaScript, Python, R or ...?
 
@@ -95,7 +95,7 @@ To check stats for a user's or an org's repos that were created in 2015, run:
 
     created:2015-01-01..2015-12-31 stars:>=100 user:user_name
 
-Star counts from the searches above will show data up to the time you performed the search.
+*Star counts from the searches above will show data up to the time you performed the search.*
 
 ### Why Restrict Search Results to `stars:>=100` for Viz 2015?
 
