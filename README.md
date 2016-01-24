@@ -15,7 +15,7 @@
 ## Viz Gallery
 
 Interact with the following visualizations and tables on the `Viz` website:
-[https://www.donnemartin.github.io/viz](https://www.donnemartin.github.io/viz)
+[https://www.donnemartin.com/viz](https://www.donnemartin.com/viz)
 
 ![Imgur](http://i.imgur.com/x0nLakq.png)
 
@@ -40,7 +40,7 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ## Viz Interactive Website
 
-[https://www.donnemartin.github.io/viz](https://www.donnemartin.github.io/viz)
+[https://www.donnemartin.com/viz](https://www.donnemartin.com/viz)
 
 ![Imgur](http://i.imgur.com/BMJfOTz.png)
 
@@ -98,7 +98,7 @@ You can also run `Viz` offline.
 
 ### Can I Viz on a Mobile Device?
 
-Yes, a [mobile-optimized](http://donnemartin.github.io/viz/pages/2015-mobile) version of `Viz` is available.
+Yes, a [mobile-optimized](http://donnemartin.com/viz/pages/2015-mobile) version of `Viz` is available.
 
 ### Can We See Visualizations in JavaScript, Python, R or ...?
 
