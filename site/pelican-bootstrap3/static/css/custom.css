@@ -20,6 +20,12 @@ td, th {
   right: 0;
   z-index: 10;
 }
+/* Show the nav bar on hover */
+@media (min-width: 979px) {
+  ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+  }
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
