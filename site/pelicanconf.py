@@ -35,6 +35,10 @@ STATIC_PATHS = [
     'extra/favicon.ico'
 ]
 
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
