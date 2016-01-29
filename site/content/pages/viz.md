@@ -1,5 +1,6 @@
 Title: 2015
 Date: 2016-01-01 06:00
+Template: page_mobile_redirect
 
 [Mobile](http://donnemartin.com/viz/pages/2015-mobile) | [Download](http://donnemartin.com/viz/pages/faq#can-i-viz-offline) | [Status](https://trust.tableau.com/status/tableau-public)
 
