@@ -94,12 +94,6 @@ Depending on your setup, you'll likely see **improved performance running `Viz` 
 
 The visualization hosting service might be having issues.  Check the [status](https://trust.tableau.com/status/tableau-public).
 
-You can also run `Viz` offline.
-
-### Can I Viz on a Mobile Device?
-
-Yes, a [mobile-optimized](http://donnemartin.com/viz/pages/2015-mobile) version of `Viz` is available.
-
 ### Can We See Visualizations in JavaScript, Python, R or ...?
 
 Please check out the following [ticket](https://github.com/donnemartin/viz/issues/11).
