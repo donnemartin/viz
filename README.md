@@ -42,9 +42,9 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 [https://www.donnemartin.com/viz](https://www.donnemartin.com/viz)
 
-![Imgur](http://i.imgur.com/BMJfOTz.png)
+![Imgur](http://i.imgur.com/kF6vxHN.png)
 
-![Imgur](http://i.imgur.com/0ytuylj.png)
+![Imgur](http://i.imgur.com/iv2izYY.png)
 
 ![Imgur](http://i.imgur.com/a2BVfwi.png)
 
