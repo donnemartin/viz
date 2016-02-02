@@ -86,7 +86,7 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 <a name="can-i-viz-offline"></a>
 ### Can I Viz Offline?
 
-Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Workbook](https://github.com/donnemartin/viz/tree/master/viz).  This allows you to interact with a **local copy**--you'll probably want to refresh your workbook as updates are pushed.
+Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Workbook](https://github.com/donnemartin/viz/tree/master/viz).  This allows you to interact with a **local copy**--you'll need to download the latest workbook as updates are continually pushed.
 
 Depending on your setup, you'll likely see **improved performance running `Viz` locally.**
 
