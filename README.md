@@ -88,6 +88,20 @@ For the initial launch, the following visualizations and stats are available.  H
 
 ![Imgur](http://i.imgur.com/x0nLakq.png)
 
+### How Do I Navigate Viz?
+
+Each dashboard within `Viz` offers different levels of interactivity.  Try:
+
+* Interacting with the filters.
+* Hovering over elements to view tooltip info.
+* Clicking elements to highlight or filter.
+
+You can change the activate dashboard through the following control:
+
+<p align="center">
+  <img src="http://i.imgur.com/SIEq7BX.png">
+</p>
+
 <a name="can-i-viz-offline"></a>
 ### Can I Viz Offline?
 
