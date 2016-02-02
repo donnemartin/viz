@@ -44,9 +44,9 @@ If you are not familiar with pull requests, review the [pull request docs](https
 
 Ensure your pull request satisfies all of the following, where applicable:
 
-* Is covered by [unit tests](https://github.com/donnemartin/viz#unit-tests-and-code-coverage)
-* Passes [continuous integration](https://github.com/donnemartin/viz#continuous-integration)
-* Is covered by [documentation](https://github.com/donnemartin/viz#documentation)
+* Is covered by unit tests.
+* Passes continuous integration.
+* Is covered by documentation with comments and docstrings.
 
 Review the following [style guide](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html).
 
@@ -56,4 +56,4 @@ Run code checks and fix any issues:
 
 ### Installation
 
-Refer to the [Installation](https://github.com/donnemartin/viz#installation) and [Developer Installation](https://github.com/donnemartin/viz#developer-installation) sections.
+Refer to the [Developer Installation](https://github.com/donnemartin/viz/issues/14) section.
