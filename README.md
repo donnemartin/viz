@@ -15,7 +15,7 @@
 ## Viz Gallery
 
 Interact with the following visualizations and tables on the `Viz` website:
-[https://www.donnemartin.com/viz](https://www.donnemartin.com/viz)
+[http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
 ![Imgur](http://i.imgur.com/x0nLakq.png)
 
@@ -40,7 +40,7 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ## Viz Interactive Website
 
-[https://www.donnemartin.com/viz](https://www.donnemartin.com/viz)
+[http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
 ![Imgur](http://i.imgur.com/kF6vxHN.png)
 
@@ -76,10 +76,10 @@ Viewing raw stats and tables only tell you **part of a story**.
 
 [Contributions](https://github.com/donnemartin/viz/blob/master/CONTRIBUTING.md) and [feedback](https://github.com/donnemartin/viz/issues) are welcome.
 
-Feel free to [follow](https://www.github.com/donnemartin), [star](https://github.com/donnemartin/viz/fork), [fork](https://github.com/donnemartin/viz/fork), and check back for updates.
+Feel free to [follow](https://www.github.com/donnemartin), [star](https://github.com/donnemartin/viz), [fork](https://github.com/donnemartin/viz/fork), and check back for updates.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=donnemartin&type=follow&count=true" frameborder="0" scrolling="0" width="145" height="20"></iframe>
-<iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
+<iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=star&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
 ### What Visualizations and Stats Are Available?
@@ -131,7 +131,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 For the initial launch, `Viz` provides stats for 2015.
 
-**Visualizations for 6-, 3-, and 1-month ranges are [under development](https://github.com/donnemartin/viz/issues)**.  The data for each range will be continually updated to keep `Viz` fresh.
+**Visualizations for 6-, 3-, and 1-month ranges are [under development](https://github.com/donnemartin/viz/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+rolling*month+viz+)**.  The data for each range will be continually updated to keep `Viz` fresh.
 
 ### Can We See Stats for 'Older' Repos?
 
@@ -247,7 +247,7 @@ Check out the [issue tracker](https://github.com/donnemartin/viz/issues).
 
 ### How Do We Contact You?
 
-Contact details are on my [GitHub Profile](https://github.com/donnemartin).
+Contact details are on my [GitHub profile](https://github.com/donnemartin).
 
 You can also file a ticket on the [issue tracker](https://github.com/donnemartin/viz/issues).
 
