@@ -23,10 +23,30 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
+### What Visualizations and Stats Are Available?
+
+For the initial launch, the following visualizations and stats are available.  Have an idea for a visualization or stat?  [Let us know](https://github.com/donnemartin/viz/issues)!
+
+![Imgur](http://i.imgur.com/x0nLakq.png)
+
+### How Do I Navigate Viz?
+
+Each dashboard within `Viz` offers different levels of interactivity.  Try:
+
+* Interacting with the filters.
+* Hovering over elements to view tooltip info.
+* Clicking elements to highlight or filter.
+
+You can change the activate dashboard through the following control:
+
+<p align="center">
+  <img src="http://i.imgur.com/SIEq7BX.png">
+</p>
+
 <a name="can-i-viz-offline"></a>
 ### Can I Viz Offline?
 
-Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Workbook](https://github.com/donnemartin/viz/tree/master/viz).  This allows you to interact with a **local copy**--you'll probably want to refresh your workbook as updates are pushed.
+Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Workbook](https://github.com/donnemartin/viz/tree/master/viz).  This allows you to interact with a **local copy**--you'll need to download the latest workbook as updates are continually pushed.
 
 Depending on your setup, you'll likely see **improved performance running `Viz` locally.**
 
@@ -66,6 +86,8 @@ Mining data directly from GitHub, `Viz` is powered by the [GitHub API](https://d
 * [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) in the following [IPython Notebook](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) for data wrangling.
 * [Google Maps API](https://developers.google.com/maps/?hl=en) through [`geocoder`](https://github.com/DenisCarriere/geocoder) for location data.
 * [Tableau Public](https://public.tableau.com/s/) for visualizations.*
+
+In the future, [Google BigQuery](https://cloud.google.com/bigquery/) along with [GitHub Archive](https://www.githubarchive.org/) could also supplement the GitHub API.
 
 **Interested in visualizations with JavaScript, Python, R, or ...?  Check out the following [ticket](https://github.com/donnemartin/viz/issues/11).*
 
