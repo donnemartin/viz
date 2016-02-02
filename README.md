@@ -58,7 +58,6 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/Cmkm0UC.png)
 
-
 ## FAQ
 
 ### Why Viz?
@@ -124,6 +123,8 @@ Mining data directly from GitHub, `Viz` is powered by the [GitHub API](https://d
 * [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) in the following [IPython Notebook](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) for data wrangling.
 * [Google Maps API](https://developers.google.com/maps/?hl=en) through [`geocoder`](https://github.com/DenisCarriere/geocoder) for location data.
 * [Tableau Public](https://public.tableau.com/s/) for visualizations.*
+
+In the future, [Google BigQuery](https://cloud.google.com/bigquery/) along with [GitHub Archive](https://www.githubarchive.org/) could also supplement the GitHub API.
 
 **Interested in visualizations with JavaScript, Python, R, or ...?  Check out the following [ticket](https://github.com/donnemartin/viz/issues/11).*
 
