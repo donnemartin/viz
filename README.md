@@ -46,7 +46,7 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/iv2izYY.png)
 
-![Imgur](http://i.imgur.com/a2BVfwi.png)
+![Imgur](http://i.imgur.com/sRBJlqt.png)
 
 ![Imgur](http://i.imgur.com/sh8OHff.png)
 
@@ -56,7 +56,7 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/HHBUejv.png)
 
-![Imgur](http://i.imgur.com/IZBUQwM.png)
+![Imgur](http://i.imgur.com/Cmkm0UC.png)
 
 
 ## FAQ
