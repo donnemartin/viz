@@ -82,6 +82,12 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
+### What Visualizations and Stats Are Available?
+
+For the initial launch, the following visualizations and stats are available.  Have an idea for a visualization or stat?  [Let us know](https://github.com/donnemartin/viz/issues)!
+
+![Imgur](http://i.imgur.com/x0nLakq.png)
+
 <a name="can-i-viz-offline"></a>
 ### Can I Viz Offline?
 
