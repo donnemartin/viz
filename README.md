@@ -4,7 +4,7 @@
 
 # Viz
 
-[![Codecov](https://img.shields.io/codecov/c/github/donnemartin/viz.svg)](https://codecov.io/github/donnemartin/viz/viz)
+[![Build Status](https://travis-ci.org/donnemartin/viz.svg?branch=master)](https://travis-ci.org/donnemartin/viz) [![Codecov](https://img.shields.io/codecov/c/github/donnemartin/viz.svg)](https://codecov.io/github/donnemartin/viz/viz)
 
 > Interactive visualizations and stats of GitHub's newest, most popular repos.  [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
