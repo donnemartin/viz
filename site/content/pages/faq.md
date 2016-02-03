@@ -40,7 +40,7 @@ Each dashboard within `Viz` offers different levels of interactivity.  Try:
 You can change the activate dashboard through the following control:
 
 <p align="center">
-  <img src="http://i.imgur.com/SIEq7BX.png">
+  <img src="http://i.imgur.com/AoCuhEF.png">
 </p>
 
 <a name="can-i-viz-offline"></a>
