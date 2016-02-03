@@ -109,6 +109,10 @@ Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader). 
 
 Depending on your setup, you'll likely see **improved performance running `Viz` locally.**
 
+### Why Does the Online Viz Reset After Several Minutes of Inactivity?
+
+Sessions timeout after some inactivity.  For more details, [view this post](https://community.tableau.com/thread/170831) from the Tableau Forums.
+
 ### Why Isn't the Online Interactive Viz Loading for Me?
 
 The visualization hosting service might be having issues.  Check the [status](https://trust.tableau.com/status/tableau-public).
