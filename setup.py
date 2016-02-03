@@ -19,7 +19,6 @@ setup(
         'docopt>=0.6.2',
         'geocoder>=1.7.1',
         'github3.py>=1.0.0a2',
-        'pandas>=0.17.1',
         'pillow>=3.0.0',
     ],
     extras_require={
