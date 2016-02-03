@@ -21,7 +21,6 @@ setup(
         'github3.py>=1.0.0a2',
         'ghp-import>=0.4.1',
         'markdown>=2.6.5',
-        'numpy>=1.10.2',
         'pandas>=0.17.1',
         'pelican>=3.6.3',
         'pillow>=3.0.0',
