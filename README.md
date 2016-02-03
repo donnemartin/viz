@@ -142,7 +142,7 @@ In the future, `Viz` can be extended to track repos regardless of creation date.
 Mining data directly from GitHub, `Viz` is powered by the [GitHub API](https://developer.github.com/v3/) and leverages the following:
 
 * [`github3.py`](https://github.com/sigmavirus24/github3.py) to access the GitHub API through Python.
-* [`pandas`](https://github.com/pydata/pandas) and [`numpy`](https://github.com/numpy/numpy) in the following [IPython Notebook](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) for data wrangling.
+* [`pandas`](https://github.com/pydata/pandas) in the following [IPython Notebook](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) for data wrangling.
 * [Google Maps API](https://developers.google.com/maps/?hl=en) through [`geocoder`](https://github.com/DenisCarriere/geocoder) for location data.
 * [Tableau Public](https://public.tableau.com/s/) for visualizations.*
 
