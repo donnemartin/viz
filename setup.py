@@ -33,7 +33,6 @@ setup(
             'gh = githubstats.github_stats_cli:GitHubStatsCli.cli'
     },
     packages=find_packages(),
-    package_data={'githubstats': ['data/users']},
     scripts=[],
     name='githubstats',
     classifiers=[
