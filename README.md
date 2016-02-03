@@ -4,7 +4,7 @@
 
 # Viz
 
-> Interactive visualizations and stats of GitHub's newest, most popular repos.
+> Interactive visualizations and stats of GitHub's newest, most popular repos.  [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
 ## Index
 
