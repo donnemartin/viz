@@ -29,7 +29,7 @@ For the initial launch, the following visualizations and stats are available.  H
 
 ![Imgur](http://i.imgur.com/x0nLakq.png)
 
-### How Do I Navigate Viz?
+### How Do We Navigate Viz?
 
 Each dashboard within `Viz` offers different levels of interactivity.  Try:
 
@@ -44,7 +44,7 @@ You can change the activate dashboard through the following control:
 </p>
 
 <a name="can-i-viz-offline"></a>
-### Can I Viz Offline?
+### Can We Viz Offline?
 
 Yes, you'll need the **free** [Reader](http://www.tableau.com/products/reader).  Download and run the latest [Viz Workbook](https://github.com/donnemartin/viz/tree/master/viz).  This allows you to interact with a **local copy**--you'll need to download the latest workbook as updates are continually pushed.
 
