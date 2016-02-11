@@ -60,6 +60,11 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/Cmkm0UC.png)
 
+## Community Visualizations
+
+* [D3/d3fc](http://colineberhardt.github.io/d3fc-github-viz/) by [ColinEberhardt](https://github.com/ColinEberhardt)
+* [Contribute](https://github.com/donnemartin/viz/issues/11)
+
 ## FAQ
 
 ### Why Viz?
@@ -124,6 +129,11 @@ You can also run `Viz` offline.
 ### Can We See Visualizations in JavaScript, Python, R or ...?
 
 Please check out the following [ticket](https://github.com/donnemartin/viz/issues/11).
+
+Community visualizations:
+
+* [D3/d3fc](http://colineberhardt.github.io/d3fc-github-viz/) by [ColinEberhardt](https://github.com/ColinEberhardt)
+* [Contribute](https://github.com/donnemartin/viz/issues/11)
 
 ### What Data Is Tracked?
 

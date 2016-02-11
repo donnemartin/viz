@@ -64,6 +64,11 @@ You can also run `Viz` offline.
 
 Please check out the following [ticket](https://github.com/donnemartin/viz/issues/11).
 
+Community visualizations:
+
+* [D3/d3fc](http://colineberhardt.github.io/d3fc-github-viz/) by [ColinEberhardt](https://github.com/ColinEberhardt)
+* [Contribute](https://github.com/donnemartin/viz/issues/11)
+
 ### What Data Is Tracked?
 
 Although [GitHub Trending](https://github.com/trending) is a **great tool to discover up-and-coming projects**, it only allows you to review up to **one month** of data.  Third-party sites often show **all-time stats** that are **relatively static**, as they are dominated by well-established repos.
