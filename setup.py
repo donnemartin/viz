@@ -18,7 +18,7 @@ setup(
         'colorama>=0.3.3',
         'docopt>=0.6.2',
         'geocoder>=1.7.1',
-        'github3.py>=1.0.0a2',
+        'github3.py==1.0.0a2',
         'pillow>=3.0.0',
     ],
     extras_require={
