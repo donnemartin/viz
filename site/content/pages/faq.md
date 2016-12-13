@@ -175,6 +175,7 @@ languages = [
     'VimL',
     'R',
     'Perl',
+    'Julia',
     'Unknown',
     'Overall',
 ]
