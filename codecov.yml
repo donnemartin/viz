@@ -1,0 +1,8 @@
+comment:
+    layout: header, changes, diff
+
+coverage:
+    ignore:
+        - githubstats/lib/*
+        - githubstats/data/*
+        - tests/*
