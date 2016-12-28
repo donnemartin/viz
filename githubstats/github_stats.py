@@ -271,7 +271,7 @@ class GitHubStats(object):
         :return: The GitHub search query.
         """
         if creation_date_filter is None:
-            creation_date_filter = 'created:>=2015-01-01'
+            creation_date_filter = 'created:>=2016-01-01'
         if stars_filter is None:
             stars_filter = 'stars:>=' + str(self.CFG_MIN_STARS)
         query = (creation_date_filter + ' ' + stars_filter +
@@ -363,9 +363,9 @@ class GitHubStats(object):
 
         The language index includes links to users, orgs, and repos.
         """
-        language_stats_loc = ('[gh-stats/language_stats/2015/](https://github'
+        language_stats_loc = ('[gh-stats/language_stats/2016/](https://github'
                               '.com/donnemartin/gh-stats/tree/master/'
-                              'language_stats/2015)')
+                              'language_stats/2016)')
         self.output['Index'].append('\n## Language Stats Index\n\n')
         self.output['Index'].append(
             '>Up to the **500 Most-Starred** Repos, Users, and Orgs, '
@@ -374,11 +374,11 @@ class GitHubStats(object):
             '-are-tracked) and the lengthy lists for each language, stats for '
             'each language can be found in ' + language_stats_loc + '.\n\n'
             'An index is provided below for convenience.*\n\n')
-        self.output['Index'].append('| Language | 2015 |')
+        self.output['Index'].append('| Language | 2016 |')
         self.output['Index'].append('|---|---|')
         for language in self.languages:
             base_url = ('https://github.com/donnemartin/gh-stats/blob/master/' +
-                        'language_stats/2015/' + language.lower() + '.md')
+                        'language_stats/2016/' + language.lower() + '.md')
             self.output['Index'].append(
                 '| ' + language + ' | ' +
                 '[Repos](' + base_url + '#most-starred-repos-' +
@@ -597,7 +597,6 @@ class GitHubStats(object):
         :type use_user_cache: boolean
         :param use_user_cache: Determines whether to use the existing user
             cache if it exists, or if the GitHub API should be called instead.
-
         """
         if use_user_cache:
             click.echo('Loading cached users...')
@@ -619,7 +618,7 @@ class GitHubStats(object):
     def write_language_stats(self):
         """Writes the language_stats/ files."""
         for language in self.languages:
-            file_path = 'language_stats/2015/' + language.lower() + '.md'
+            file_path = 'language_stats/2016/' + language.lower() + '.md'
             with open(file_path, 'w+') as language_stats:
                 if language == 'C#':
                     language_stats.write('# C-Sharp\n')
@@ -654,8 +653,8 @@ class GitHubStats(object):
 
     def write_csvs(self):
         """Writes the repos and users csvs."""
-        self.write_csv_repos('data/repos-dump.csv')
-        self.write_csv_users('data/users-dump.csv')
+        self.write_csv_repos('data/2016/repos-dump.csv')
+        self.write_csv_users('data/2016/users-dump.csv')
 
     def write_csv_repos(self, data_file_name):
         """Writes the repos csv.
@@ -664,7 +663,7 @@ class GitHubStats(object):
 
         :type data_file_name: str
         :param data_file_name: The resulting csv file name in the data folder.
-            Example: 'data/foo.csv'.
+            Example: 'data/2016/foo.csv'.
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as repos_dat:
@@ -710,7 +709,7 @@ class GitHubStats(object):
 
         :type data_file_name: str
         :param data_file_name: The resulting csv file name in the data folder.
-            Example: 'data/foo.csv'.
+            Example: 'data/2016/foo.csv'.
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as users_dat:
