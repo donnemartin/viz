@@ -91,7 +91,7 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 
 ### What Visualizations and Stats Are Available?
 
-For the initial launch, the following visualizations and stats are available.  Have an idea for a visualization or stat?  [Let us know](https://github.com/donnemartin/viz/issues)!
+The following visualizations and stats are available.  Have an idea for a visualization or stat?  [Let us know](https://github.com/donnemartin/viz/issues)!
 
 ![Imgur](http://i.imgur.com/x0nLakq.png)
 
@@ -141,11 +141,11 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 `Viz` is meant to supplement existing solutions by **filtering only on the newest, most popular repos** created within a specific timeframe.
 
-***For example, `Viz` 2015 will only track repos created within the year 2015.***
+***For example, `Viz` 2016 will only track repos created within the year 2016.***
 
-### Can We See Stats for Time Ranges Other Than 2015?
+### Can We See Stats for Time Ranges Other Than 2016?
 
-For the initial launch, `Viz` provides stats for 2015.
+`Viz` currently provides stats for 2016 and 2015.
 
 **Visualizations for 6-, 3-, and 1-month ranges are [under development](https://github.com/donnemartin/viz/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+rolling*month+viz+)**.  The data for each range will be continually updated to keep `Viz` fresh.
 
@@ -172,27 +172,27 @@ In the future, [Google BigQuery](https://cloud.google.com/bigquery/) along with 
 * [Data Tables](https://github.com/donnemartin/viz/tree/master/language_stats)
 * [Tableau Workbooks](https://github.com/donnemartin/viz/tree/master/viz)
 
-### When Did You Mine the 2015 Data?
+### When Did You Mine the 2016 Data?
 
-The `Viz` 2015 stats were mined on `January 1, 2016, between 00:00 to 01:00 PDT` and include all repos created in the year 2015.  The data is preserved [here](https://github.com/donnemartin/viz/tree/master/language_stats/2015_frozen).
+The `Viz` 2016 stats were mined on `January 1, 2016, between 00:00 to 01:00 PDT` and include all repos created in the year 2016.  The data is preserved [here](https://github.com/donnemartin/viz/tree/master/language_stats/2016_frozen).
 
-### Why Are My 2015 Manual Search Results Different From Viz 2015?
+### Why Are My 2016 Manual Search Results Different From Viz 2016?
 
 With [GitHub Search](https://github.com/search), you can manually run queries similar to what you would get from the GitHub API.
 
-To view the most-starred JavaScript repos created in 2015, run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
+To view the most-starred JavaScript repos created in 2016, run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2016-01-01..2016-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
 
-    created:2015-01-01..2015-12-31 stars:>=100 language:javascript
+    created:2016-01-01..2016-12-31 stars:>=100 language:javascript
 
-To check stats for a user's or an org's repos that were created in 2015, run:
+To check stats for a user's or an org's repos that were created in 2016, run:
 
-    created:2015-01-01..2015-12-31 stars:>=100 user:user_name
+    created:2016-01-01..2016-12-31 stars:>=100 user:user_name
 
 *Star counts from the searches above will show data up to the time you performed the search.*
 
-### Why Restrict Search Results to `stars:>=100` for Viz 2015?
+### Why Restrict Search Results to `stars:>=100` for Viz 2016?
 
-Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growing **30+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).
+Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growing **49+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).
 
 `Viz` 6-, 3-, and 1-month might loosen this restriction as there should be less repos to analyze.  [Google BigQuery](https://cloud.google.com/bigquery/) along with [GitHub Archive](https://www.githubarchive.org/) could also supplement the GitHub API.
 
@@ -264,7 +264,7 @@ Check out the [issue tracker](https://github.com/donnemartin/viz/issues).
 
 ### How Do We Contact You?
 
-Contact details are on my [GitHub profile](https://github.com/donnemartin).
+-Contact details are on my [GitHub profile](https://github.com/donnemartin).
 
 You can also file a ticket on the [issue tracker](https://github.com/donnemartin/viz/issues).
 
