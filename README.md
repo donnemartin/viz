@@ -264,7 +264,13 @@ Check out the [issue tracker](https://github.com/donnemartin/viz/issues).
 
 ### How Do We Contact You?
 
--Contact details are on my [GitHub profile](https://github.com/donnemartin).
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [donne.martin@gmail.com](mailto:donne.martin@gmail.com)
+* Twitter: [@donne_martin](https://twitter.com/donne_martin)
+* GitHub: [donnemartin](https://github.com/donnemartin)
+* LinkedIn: [donnemartin](https://www.linkedin.com/in/donnemartin)
+* Website: [donnemartin.com](http://donnemartin.com)
 
 You can also file a ticket on the [issue tracker](https://github.com/donnemartin/viz/issues).
 
