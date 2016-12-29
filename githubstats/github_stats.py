@@ -805,9 +805,13 @@ class GitHubStats(object):
                 country + '\n')
 
     def write_csv_users_geocodes(self, data_file_name):
+        """Writes the users csv.
+
+        :type data_file_name: str
+        :param data_file_name: The file name to write to.
+        """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as user_geocodes_dat:
             user_geocodes_dat.write(
                 'id, name, type, location, lat, long, city, country\n')
-            self._write_csv_users_geocodes(self.cached_users,
-                                           user_geocodes_dat)
+            self._write_csv_users_geocodes(self.cached_users, user_geocodes_dat)
