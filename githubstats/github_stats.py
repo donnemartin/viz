@@ -765,44 +765,13 @@ class GitHubStats(object):
         self.write_csv_users_geocodes('data/2016/user-geocodes-dump.csv')
         self.save_user_geocodes_cache()
 
-    def _patch_geocodes(self, user, lat_lng, location, count):
-        if count >= self.CFG_MAX_GEOCODES:
-            return
-        patch_city_country = False
-        if lat_lng and self.user_geocodes_map[user.id].country_long is None:
-            patch_city_country = True
-        if (not lat_lng and location) or patch_city_country:
-            count += 1
-            geocode = None
-            if patch_city_country:
-                print(location,
-                      lat_lng,
-                      self.user_geocodes_map[user.id].country_long,
-                      self.user_geocodes_map[user.id].city_long)
-                geocode = geocoder.google(
-                    ', '.join(str(item) for item in lat_lng))
-            else:
-                geocode = geocoder.google(location)
-            self.user_geocodes_map[user.id] = geocode
-            print(self.user_geocodes_map[user.id].country_long,
-                  self.user_geocodes_map[user.id].city_long)
-            country = geocode.country_long if geocode.country_long is not None \
-                else ''
-            click.echo(str(count) + ' ' + user.id + ' ' + country)
-            lat_lng = self.user_geocodes_map[user.id].latlng or ''
-        if lat_lng:
-            lat = lat_lng[0] or ''
-            lng = lat_lng[1] or ''
-        city = self.user_geocodes_map[user.id].city_long or ''
-        country = self.user_geocodes_map[user.id].country_long or ''
-        return lat, lng, city, country
-
     def _write_csv_users_geocodes(self, users, users_dat):
         """Writes the users csv.
 
         Internal method, call write_csv_users instead.
+
         TODO: Refactor to use the built-in module `csv`.
-        TODO: Refactor with _write_csv_users.
+        TODO: Refactor to combine with _write_csv_users.
 
         :type users: list
         :param users: The users.
@@ -816,15 +785,15 @@ class GitHubStats(object):
             name = user.name if user.name is not None else ''
             location = user.location if user.location is not None else ''
             location = location.replace('"', "'")
+            lat_lng = self.user_geocodes_map[user.id].latlng
             try:
-                lat_lng = self.user_geocodes_map[user.id].latlng or ''
-                lat, lng, city, country = self._patch_geocodes(user, lat_lng,
-                                                               location, count)
-            except Exception as e:
+                lat = lat_lng[0]
+                lng = lat_lng[1]
+            except TypeError:
                 lat = ''
                 lng = ''
-                city = ''
-                country = ''
+            city = self.user_geocodes_map[user.id].city_long or ''
+            country = self.user_geocodes_map[user.id].country_long or ''
             users_dat.write(
                 user.id + ', ' + '"' +
                 name + '", ' +
