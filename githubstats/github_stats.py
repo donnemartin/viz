@@ -765,37 +765,6 @@ class GitHubStats(object):
         self.write_csv_users_geocodes('data/2016/user-geocodes-dump.csv')
         self.save_user_geocodes_cache()
 
-    def _patch_city_country(self):
-        if count >= self.CFG_MAX_GEOCODES:
-            return
-        patch_city_country = False
-        if lat_lng and self.user_geocodes_map[user.id].country_long is None:
-            patch_city_country = True
-        if (not lat_lng and location) or patch_city_country:
-            count += 1
-            geocode = None
-            if patch_city_country:
-                print(location,
-                      lat_lng,
-                      self.user_geocodes_map[user.id].country_long,
-                      self.user_geocodes_map[user.id].city_long)
-                geocode = geocoder.google(
-                    ', '.join(str(item) for item in lat_lng))
-            else:
-                geocode = geocoder.google(location)
-            self.user_geocodes_map[user.id] = geocode
-            print(self.user_geocodes_map[user.id].country_long,
-                  self.user_geocodes_map[user.id].city_long)
-            country = geocode.country_long if geocode.country_long is not None \
-                else ''
-            click.echo(str(count) + ' ' + user.id + ' ' + country)
-            lat_lng = self.user_geocodes_map[user.id].latlng or ''
-        if lat_lng:
-            lat = lat_lng[0] or ''
-            lng = lat_lng[1] or ''
-        city = self.user_geocodes_map[user.id].city_long or ''
-        country = self.user_geocodes_map[user.id].country_long or ''
-
     def _patch_geocodes(self, user, lat_lng, location, count):
         if count >= self.CFG_MAX_GEOCODES:
             return
