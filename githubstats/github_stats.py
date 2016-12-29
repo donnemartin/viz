@@ -730,6 +730,11 @@ class GitHubStats(object):
                 self.user_geocodes_map[user_id] = ''
 
     def save_user_geocodes_cache(self):
+        """Saves the user_geocodes_map to cache.
+
+        This avoids having to use up a Google Maps API call for user locations
+        that have already been geocoded.
+        """
         with open(self.CFG_USERS_GEOCODES_PATH, 'wb') as users_geocodes_dat:
             pickle.dump(self.user_geocodes_map, users_geocodes_dat)
 
