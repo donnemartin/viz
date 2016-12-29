@@ -750,18 +750,8 @@ class GitHubStats(object):
         if use_user_cache:
             click.echo('Loading caches...')
             self.load_caches()
-        no_loc_count = 0
-        for user_id, user in self.cached_users.items():
-            if not user.location:
-                no_loc_count += 1
-        click.secho(str(no_loc_count) + '/' + str(len(self.cached_users)), fg='red')
-        for user_id, user in self.user_geocodes_map.items():
-            if not user or not user.latlng:
-                no_loc_count += 1
-        click.secho(str(no_loc_count) + '/' + str(len(self.user_geocodes_map)), fg='red')
         self.generate_user_geocodes()
         self.print_rate_limit()
-        click.secho(str(len(self.user_geocodes_map)), fg='blue')
         self.write_csv_users_geocodes('data/2016/user-geocodes-dump.csv')
         self.save_user_geocodes_cache()
 
