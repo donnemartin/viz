@@ -715,24 +715,19 @@ class GitHubStats(object):
                                   'Organization')
 
     def generate_user_geocodes(self):
+        """Generates geocodes for the user's provided location."""
         count = 0
         for user_id, user in self.cached_users.items():
+            if count >= self.CFG_MAX_GEOCODES:
+                break
             if user_id in self.user_geocodes_map:
-                location = user.location or 'None'
-                # click.secho('User ' + user_id + ' found in user_geocodes_map: ' + location, fg='blue')
                 continue
-            location = user.location if user.location is not None else ''
-            if location:
+            if user.location is not None:
                 count += 1
                 geocode = geocoder.google(location)
                 self.user_geocodes_map[user_id] = geocode
-                country = geocode.country_long if geocode.country_long is not None else ''
-                click.echo(str(count) + ' ' + str(len(self.user_geocodes_map)) + ' ' + user_id + ' ' + country)
             else:
                 self.user_geocodes_map[user_id] = ''
-                click.echo(str(count) + ' No location for ' + user_id)
-            if count >= self.CFG_MAX_GEOCODES:
-                break
 
     def save_user_geocodes_cache(self):
         with open(self.CFG_USERS_GEOCODES_PATH, 'wb') as users_geocodes_dat:
