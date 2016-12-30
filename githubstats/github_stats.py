@@ -363,6 +363,7 @@ class GitHubStats(object):
 
     def load_caches(self):
         """Loads cached data."""
+        click.echo('Loading caches...')
         self.cached_users = self.load_cache(self.CFG_USERS_PATH)
         self.user_geocodes_map = self.load_cache(self.CFG_USERS_GEOCODES_PATH)
 
@@ -605,7 +606,6 @@ class GitHubStats(object):
             cache if it exists, or if the GitHub API should be called instead.
         """
         if use_user_cache:
-            click.echo('Loading caches...')
             self.load_caches()
         click.echo('Printing index...')
         self.output_index()
@@ -760,7 +760,6 @@ class GitHubStats(object):
             cache if it exists, or if the GitHub API should be called instead.
         """
         if use_user_cache:
-            click.echo('Loading caches...')
             self.load_caches()
         self.generate_user_geocodes()
         self.print_rate_limit()
