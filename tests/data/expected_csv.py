@@ -13,4 +13,4 @@
 # ANY KIND, either express or implied. See the License for the specific
 # language governing permissions and limitations under the License.
 
-expected_csv = ['full_name stars forks description language', 'Google/foo 250 0 "foo" Python', 'Google/bar 650 0 "bar" JavaScript', 'Facebook/baz 270 0 "baz" Python', 'Facebook/qux 550 0 "qux" JavaScript', 'Facebook/foobar 70 0 "foobar" ', 'donnemartin/foobaz 50 0 "foobaz" Python', 'donnemartin/barfoo 100 0 "barfoo" Python', 'donnemartin/barbaz 150 0 "barbaz" ']
+expected_csv = ['full_name stars forks description language', 'Google/bar 650 0 "bar" JavaScript', 'Facebook/qux 550 0 "qux" JavaScript', 'Google/foo 250 0 "foo" Python', 'Facebook/baz 270 0 "baz" Python', 'donnemartin/foobaz 50 0 "foobaz" Python', 'donnemartin/barfoo 100 0 "barfoo" Python', 'Facebook/foobar 70 0 "foobar" ', 'donnemartin/barbaz 150 0 "barbaz" ']
