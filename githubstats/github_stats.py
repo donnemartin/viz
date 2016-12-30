@@ -52,6 +52,10 @@ class GitHubStats(object):
     :param CFG_MIN_STARS: The min number of repo stars used as a cutoff to
         filter repos with GitHub search.
 
+    :type CFG_MAX_GEOCODES: int (constant)
+    :param CFG_MAX_GEOCODES: The max number of locations to geocode.
+        The Google Maps API has a limit of 2500 per day in the free tier.
+
     :type github: :class:`githubstats.lib.GitHub`
     :param github: Provides integration with the GitHub API.
 
