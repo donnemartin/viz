@@ -58,3 +58,13 @@ class GitHubStatsCli(object):
         :param github_stats: Stores an instance of GitHubStats.
         """
         github_stats.update_stats()
+
+    @cli.command('update_user_locations')
+    @pass_github
+    def update_user_locations(github_stats):
+        """Updates the GitHub user location string with a geocoded location.
+
+        :type github_stats: :class:`GitHubStats`
+        :param github_stats: Stores an instance of GitHubStats.
+        """
+        github_stats.update_user_locations()
