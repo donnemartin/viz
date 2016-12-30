@@ -731,7 +731,12 @@ class GitHubStats(object):
                 continue
             if user.location is not None:
                 count += 1
-                geocode = geocoder.google(location)
+                geocode = geocoder.google(user.location)
+                click.echo('geocoder status: {0} {1} '.format(str(count),
+                                                              geocode.status))
+                if geocode.status == 'OVER_QUERY_LIMIT':
+                    click.secho('Geocode rate limit exceeded!', fg='red')
+                    break
                 self.user_geocodes_map[user_id] = geocode
             else:
                 self.user_geocodes_map[user_id] = ''
