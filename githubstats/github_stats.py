@@ -143,6 +143,9 @@ class GitHubStats(object):
 
         :type path: str
         :param path: The input pat to append to the module path.
+
+        :rtype: str
+        :return: The module path.
         """
         return os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
 
