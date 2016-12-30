@@ -25,6 +25,7 @@ import geocoder
 from githubstats.lib.github import GitHub
 from githubstats.repo import Repo
 from githubstats.user import User
+from githubstats.user_geocoder import UserGeocoder
 
 
 class GitHubStats(object):
@@ -51,10 +52,6 @@ class GitHubStats(object):
     :type CFG_MIN_STARS: int (constant)
     :param CFG_MIN_STARS: The min number of repo stars used as a cutoff to
         filter repos with GitHub search.
-
-    :type CFG_MAX_GEOCODES: int (constant)
-    :param CFG_MAX_GEOCODES: The max number of locations to geocode.
-        The Google Maps API has a limit of 2500 per day in the free tier.
 
     :type github: :class:`githubstats.lib.GitHub`
     :param github: Provides integration with the GitHub API.
@@ -83,6 +80,9 @@ class GitHubStats(object):
         and sorted by stars.  Note duplicates can exist in this list if a dev
         has popular repos in different languages.
 
+    :type user_geocodes_map: dict {user_id: :class`geocoder.google.Google`}
+    :param user_geocodes_map: Maps the user_id to a Google Geocode object.
+
     :type user_repos_map: dict
     :param user_repos_map: Maps the user_id and repos.
     """
@@ -91,7 +91,6 @@ class GitHubStats(object):
     CFG_MAX_ITEMS = 500
     CFG_MIN_STARS = 100
     CFG_SLEEP_TIME = 5
-    CFG_MAX_GEOCODES = 1000
 
     def __init__(self, github=None):
         self.github = github if github else GitHub()
@@ -721,39 +720,12 @@ class GitHubStats(object):
                                   users_dat,
                                   'Organization')
 
-    def generate_user_geocodes(self):
-        """Generates geocodes for the user's provided location."""
-        count = 0
-        for user_id, user in self.cached_users.items():
-            if count >= self.CFG_MAX_GEOCODES:
-                break
-            if user_id in self.user_geocodes_map:
-                continue
-            if user.location is not None:
-                count += 1
-                geocode = geocoder.google(user.location)
-                click.echo('geocoder status: {0} {1} '.format(str(count),
-                                                              geocode.status))
-                if geocode.status == 'OVER_QUERY_LIMIT':
-                    click.secho('Geocode rate limit exceeded!', fg='red')
-                    break
-                self.user_geocodes_map[user_id] = geocode
-            else:
-                self.user_geocodes_map[user_id] = ''
-
-    def save_user_geocodes_cache(self):
-        """Saves the user_geocodes_map to cache.
-
-        This avoids having to use up a Google Maps API call for user locations
-        that have already been geocoded.
-        """
-        with open(self.CFG_USERS_GEOCODES_PATH, 'wb') as users_geocodes_dat:
-            pickle.dump(self.user_geocodes_map, users_geocodes_dat)
-
     from .lib.debug_timer import timeit
     @timeit
     def update_user_locations(self, use_user_cache=True):
         """Updates the GitHub user location string with a geocoded location.
+
+        TODO: This is a work-in-progress!
 
         :type use_user_cache: boolean
         :param use_user_cache: Determines whether to use the existing user
@@ -761,58 +733,7 @@ class GitHubStats(object):
         """
         if use_user_cache:
             self.load_caches()
-        self.generate_user_geocodes()
-        self.print_rate_limit()
-        self.write_csv_users_geocodes('data/2016/user-geocodes-dump.csv')
-        self.save_user_geocodes_cache()
-
-    def _write_csv_users_geocodes(self, users, users_dat):
-        """Writes the users csv.
-
-        Internal method, call write_csv_users instead.
-
-        TODO: Refactor to use the built-in module `csv`.
-        TODO: Refactor to combine with _write_csv_users.
-
-        :type users: list
-        :param users: The users.
-
-        :type users_dat: :class:`_io.TextIOWrapper`
-        :param users_dat: Handles writing the file.
-        """
-        count = 0
-        for user_id, user in users.items():
-            user_type = user.type
-            name = user.name if user.name is not None else ''
-            location = user.location if user.location is not None else ''
-            location = location.replace('"', "'")
-            lat_lng = self.user_geocodes_map[user.id].latlng
-            try:
-                lat = lat_lng[0]
-                lng = lat_lng[1]
-            except TypeError:
-                lat = ''
-                lng = ''
-            city = self.user_geocodes_map[user.id].city_long or ''
-            country = self.user_geocodes_map[user.id].country_long or ''
-            users_dat.write(
-                user.id + ', ' + '"' +
-                name + '", ' +
-                user_type + ', ' + '"' +
-                location + '", ' +
-                str(lat) + ', ' +
-                str(lng) + ', ' +
-                city + ', ' +
-                country + '\n')
-
-    def write_csv_users_geocodes(self, data_file_name):
-        """Writes the users csv.
-
-        :type data_file_name: str
-        :param data_file_name: The file name to write to.
-        """
-        file_path = self.build_module_path(data_file_name)
-        with open(file_path, 'w') as user_geocodes_dat:
-            user_geocodes_dat.write(
-                'id, name, type, location, lat, long, city, country\n')
-            self._write_csv_users_geocodes(self.cached_users, user_geocodes_dat)
+        user_geocoder = UserGeocoder(self.cached_users, self.user_geocodes_map)
+        csv_path = self.build_module_path('data/2016/user-geocodes-dump.csv')
+        user_geocoder.generate_user_geocodes(csv_path,
+                                             self.CFG_USERS_GEOCODES_PATH)
