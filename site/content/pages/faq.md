@@ -89,6 +89,8 @@ In the future, `Viz` can be extended to track repos regardless of creation date.
 
 ### How Do You Mine Data?
 
+![Imgur](http://i.imgur.com/W5hfGVo.png)
+
 Mining data directly from GitHub, `Viz` is powered by the [GitHub API](https://developer.github.com/v3/) and leverages the following:
 
 * [`github3.py`](https://github.com/sigmavirus24/github3.py) to access the GitHub API through Python.
