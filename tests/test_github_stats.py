@@ -137,7 +137,7 @@ class GitHubStatsTest(unittest.TestCase):
     def test_csvs(self):
         self.prep_collections()
         self.github_stats.write_csvs()
-        results = self.read_csv('data/repos-dump.csv')
+        results = self.read_csv('data/2016/repos-dump.csv')
         assert results == expected_csv
 
     @mock.patch('githubstats.github_stats.click')
