@@ -20,10 +20,12 @@ import re
 import time
 
 import click
+import geocoder
 
 from githubstats.lib.github import GitHub
 from githubstats.repo import Repo
 from githubstats.user import User
+from githubstats.user_geocoder import UserGeocoder
 
 
 class GitHubStats(object):
@@ -36,15 +38,6 @@ class GitHubStats(object):
 
     :type CFG_USERS_PATH: str (constant)
     :param CFG_USERS_PATH: The users data directory path.
-
-    :type CFG_REPOS_PATH: str (constant)
-    :param CFG_REPOS_PATH: The repos data directory path.
-
-    :type CFG_DEVS_PATH: str (constant)
-    :param CFG_DEVS_PATH: The devs data directory path.
-
-    :type CFG_ORGS_PATH: str (constant)
-    :param CFG_ORGS_PATH: The orgs data directory path.
 
     :type CFG_SLEEP_TIME: int (constant)
     :param CFG_SLEEP_TIME: The time in seconds to sleep between generating
@@ -87,6 +80,9 @@ class GitHubStats(object):
         and sorted by stars.  Note duplicates can exist in this list if a dev
         has popular repos in different languages.
 
+    :type user_geocodes_map: dict {user_id: :class`geocoder.google.Google`}
+    :param user_geocodes_map: Maps the user_id to a Google Geocode object.
+
     :type user_repos_map: dict
     :param user_repos_map: Maps the user_id and repos.
     """
@@ -105,6 +101,7 @@ class GitHubStats(object):
         self.overall_devs_grouped = []
         self.overall_orgs_grouped = []
         self.user_repos_map = {}
+        self.user_geocodes_map = {}
         self.languages = [
             'JavaScript',
             'Java',
@@ -136,16 +133,18 @@ class GitHubStats(object):
         for language in self.languages:
             self.output[language] = []
         self.output['Index'] = []
-        self.CFG_USERS_PATH = self.build_module_path('data/users')
-        self.CFG_REPOS_PATH = self.build_module_path('data/repos')
-        self.CFG_DEVS_PATH = self.build_module_path('data/devs')
-        self.CFG_ORGS_PATH = self.build_module_path('data/orgs')
+        self.CFG_USERS_PATH = self.build_module_path('data/2016/users')
+        self.CFG_USERS_GEOCODES_PATH = self.build_module_path(
+            'data/2016/users_geocodes')
 
     def build_module_path(self, path):
         """Builds the path relative to where the module is loaded.
 
         :type path: str
         :param path: The input pat to append to the module path.
+
+        :rtype: str
+        :return: The module path.
         """
         return os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
 
@@ -271,7 +270,7 @@ class GitHubStats(object):
         :return: The GitHub search query.
         """
         if creation_date_filter is None:
-            creation_date_filter = 'created:>=2015-01-01'
+            creation_date_filter = 'created:>=2016-01-01'
         if stars_filter is None:
             stars_filter = 'stars:>=' + str(self.CFG_MIN_STARS)
         query = (creation_date_filter + ' ' + stars_filter +
@@ -344,28 +343,37 @@ class GitHubStats(object):
             self.print_rate_limit()
         return devs, orgs
 
-    def load_caches(self):
-        """Loads cached user data from data/users"""
+    def load_cache(self, cache_path):
+        """Loads the specified cached data.
+
+        :type cache_path: str
+        :param cache_path: The cache path.
+
+        :rtype: dict
+        :return: The cache data if exists, else an empty dict.
+        """
         try:
-            with open(self.CFG_USERS_PATH, 'rb') as users_dat:
-                self.cached_users = pickle.load(users_dat)
-            with open(self.CFG_REPOS_PATH, 'rb') as repos_dat:
-                self.overall_repos = pickle.load(repos_dat)
-            with open(self.CFG_DEVS_PATH, 'rb') as devs_dat:
-                self.overall_devs = pickle.load(devs_dat)
-            with open(self.CFG_ORGS_PATH, 'rb') as orgs_dat:
-                self.overall_orgs = pickle.load(orgs_dat)
+            click.echo('Loading: ' + cache_path)
+            with open(cache_path, 'rb') as data:
+                return pickle.load(data)
         except (EOFError, FileNotFoundError):
-            click.secho('Failed to load users', fg='blue')
+            click.secho('Failed to load cache ' + cache_path, fg='red')
+        return {}
+
+    def load_caches(self):
+        """Loads cached data."""
+        click.echo('Loading caches...')
+        self.cached_users = self.load_cache(self.CFG_USERS_PATH)
+        self.user_geocodes_map = self.load_cache(self.CFG_USERS_GEOCODES_PATH)
 
     def output_index(self):
         """Outputs the language index.
 
         The language index includes links to users, orgs, and repos.
         """
-        language_stats_loc = ('[gh-stats/language_stats/2015/](https://github'
+        language_stats_loc = ('[gh-stats/language_stats/2016/](https://github'
                               '.com/donnemartin/gh-stats/tree/master/'
-                              'language_stats/2015)')
+                              'language_stats/2016)')
         self.output['Index'].append('\n## Language Stats Index\n\n')
         self.output['Index'].append(
             '>Up to the **500 Most-Starred** Repos, Users, and Orgs, '
@@ -374,11 +382,11 @@ class GitHubStats(object):
             '-are-tracked) and the lengthy lists for each language, stats for '
             'each language can be found in ' + language_stats_loc + '.\n\n'
             'An index is provided below for convenience.*\n\n')
-        self.output['Index'].append('| Language | 2015 |')
+        self.output['Index'].append('| Language | 2016 |')
         self.output['Index'].append('|---|---|')
         for language in self.languages:
             base_url = ('https://github.com/donnemartin/gh-stats/blob/master/' +
-                        'language_stats/2015/' + language.lower() + '.md')
+                        'language_stats/2016/' + language.lower() + '.md')
             self.output['Index'].append(
                 '| ' + language + ' | ' +
                 '[Repos](' + base_url + '#most-starred-repos-' +
@@ -588,19 +596,15 @@ class GitHubStats(object):
     from .lib.debug_timer import timeit
     @timeit
     def update_stats(self, use_user_cache=True):
-        """Generates and outputs stats.
-
-        Main entry point for GitHubStats.
+        """Updates the GitHub stats.
 
         Generates the index, stats per language, and overall stats.
 
         :type use_user_cache: boolean
         :param use_user_cache: Determines whether to use the existing user
             cache if it exists, or if the GitHub API should be called instead.
-
         """
         if use_user_cache:
-            click.echo('Loading cached users...')
             self.load_caches()
         click.echo('Printing index...')
         self.output_index()
@@ -619,7 +623,7 @@ class GitHubStats(object):
     def write_language_stats(self):
         """Writes the language_stats/ files."""
         for language in self.languages:
-            file_path = 'language_stats/2015/' + language.lower() + '.md'
+            file_path = 'language_stats/2016/' + language.lower() + '.md'
             with open(file_path, 'w+') as language_stats:
                 if language == 'C#':
                     language_stats.write('# C-Sharp\n')
@@ -637,7 +641,7 @@ class GitHubStats(object):
         self.write_csvs()
 
     def write_caches(self):
-        """Writes the user cached to data/users"""
+        """Writes the user cached to data/2016/users"""
         self.cached_users = {}
         for dev in self.overall_devs:
             self.cached_users[dev.id] = dev
@@ -645,17 +649,11 @@ class GitHubStats(object):
             self.cached_users[org.id] = org
         with open(self.CFG_USERS_PATH, 'wb') as users_dat:
             pickle.dump(self.cached_users, users_dat)
-        with open(self.CFG_REPOS_PATH, 'wb') as repos_dat:
-            pickle.dump(self.overall_repos, repos_dat)
-        with open(self.CFG_DEVS_PATH, 'wb') as devs_dat:
-            pickle.dump(self.overall_devs, devs_dat)
-        with open(self.CFG_ORGS_PATH, 'wb') as orgs_dat:
-            pickle.dump(self.overall_orgs, orgs_dat)
 
     def write_csvs(self):
         """Writes the repos and users csvs."""
-        self.write_csv_repos('data/repos-dump.csv')
-        self.write_csv_users('data/users-dump.csv')
+        self.write_csv_repos('data/2016/repos-dump.csv')
+        self.write_csv_users('data/2016/users-dump.csv')
 
     def write_csv_repos(self, data_file_name):
         """Writes the repos csv.
@@ -664,7 +662,7 @@ class GitHubStats(object):
 
         :type data_file_name: str
         :param data_file_name: The resulting csv file name in the data folder.
-            Example: 'data/foo.csv'.
+            Example: 'data/2016/foo.csv'.
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as repos_dat:
@@ -710,7 +708,7 @@ class GitHubStats(object):
 
         :type data_file_name: str
         :param data_file_name: The resulting csv file name in the data folder.
-            Example: 'data/foo.csv'.
+            Example: 'data/2016/foo.csv'.
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as users_dat:
@@ -721,3 +719,21 @@ class GitHubStats(object):
             self._write_csv_users(self.overall_orgs,
                                   users_dat,
                                   'Organization')
+
+    from .lib.debug_timer import timeit
+    @timeit
+    def update_user_locations(self, use_user_cache=True):
+        """Updates the GitHub user location string with a geocoded location.
+
+        TODO: This is a work-in-progress!
+
+        :type use_user_cache: boolean
+        :param use_user_cache: Determines whether to use the existing user
+            cache if it exists, or if the GitHub API should be called instead.
+        """
+        if use_user_cache:
+            self.load_caches()
+        user_geocoder = UserGeocoder(self.cached_users, self.user_geocodes_map)
+        csv_path = self.build_module_path('data/2016/user-geocodes-dump.csv')
+        user_geocoder.generate_user_geocodes(csv_path,
+                                             self.CFG_USERS_GEOCODES_PATH)
