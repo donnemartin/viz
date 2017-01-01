@@ -1,0 +1,220 @@
+full_name, stars, forks, description, language
+devongovett/regexgen, 1917, 51, "Generate regular expressions that match a set of strings", JavaScript
+pubkey/rxdb, 1663, 52, "Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown ", JavaScript
+MicheleBertoli/react-fix-it, 1568, 15, "Automagically generate tests from errors", JavaScript
+material-components/material-components-web, 1533, 71, "Modular and customizable Material Design UI components for the web", JavaScript
+mathisonian/premonish, 1126, 24, "Predict which DOM element a user will interact with next.", JavaScript
+zeit/styled-jsx, 875, 22, "Full CSS support for JSX without compromises", JavaScript
+andywer/leakage, 733, 16, "🐛 Memory leak testing for node.", JavaScript
+chvin/react-tetris, 690, 106, "Use React, Redux, Immutable to code Tetris.", JavaScript
+ggomaeng/react-native-facebook-ui, 434, 40, "Pure javascript UI prototype of iOS Facebook for React Native framework.", JavaScript
+nikgraf/webvr-experiments, 430, 14, "A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm)", JavaScript
+mariusandra/pigeon-maps, 327, 8, "ReactJS Maps without external dependencies", JavaScript
+hharnisc/tabbie, 292, 17, "The missing tab manager for Chrome", JavaScript
+pcbje/ggraph, 283, 14, "Graph visualization of big messy data", JavaScript
+gajus/babel-plugin-react-css-modules, 271, 12, "Transforms styleName to className using compile time CSS module resolution.", JavaScript
+egoist/docute, 270, 16, ":scroll: Effortlessly documentation done right.", JavaScript
+ageitgey/show-facebook-computer-vision-tags, 228, 17, "A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images", JavaScript
+qieguo2016/Vueuv, 219, 25, "参照Vue实现的一个JavaScript MVVM 框架，手把手教你从零开始Make Your Own Vue!", JavaScript
+XhstormR/BaiduNetdisk-WAP, 179, 12, "BaiduNetdisk (WAP)", JavaScript
+imgntn/j360, 174, 7, "360 Video and Photo Capture in 4K for Three.js", JavaScript
+rusher81572/picluster, 163, 7, "A Simplified Approach to Container Orchestration", JavaScript
+sindresorhus/clipboardy, 162, 6, "Access the system clipboard (copy/paste)", JavaScript
+sanchitgn/remember, 160, 10, "The progressive offline Todo app", JavaScript
+yanbober/RNPolymerPo, 150, 45, "基于 React Native 的 Android 企业级应用 Demo。", JavaScript
+ggomaeng/react-native-spotify-ui, 147, 13, "Pure javascript UI prototype of iOS Spotify for React Native framework.", JavaScript
+ipselon/react-boilerplate-clone, 126, 8, "A React Boilerplate Project Clone integrated with Structor (former React UI Builder).", JavaScript
+bgryszko/react-native-circular-slider, 122, 9, "React Native component for creating circular slider :radio_button:", JavaScript
+codrops/MusicalInteractions, 121, 20, "Some experimental ideas for playful musical interactions powered by MIDI.js.", JavaScript
+elsehow/signal-protocol, 118, 6, "The Signal protocol, for node and browsers", JavaScript
+sonnylazuardi/react-native-nike-running, 117, 18, "🏃 UI & UX Prototype of redesigned Nike+ Running App", JavaScript
+Seedstars/reactnative-mobile-app-base, 112, 8, "Seedstars Labs React Native Mobile App Base Project (Frontend)", JavaScript
+OYsun/vscode-VueHelper, 111, 4, "vscode插件，vue，vue-router和vuex的代码提示", JavaScript
+giuseppeg/ffocus, 105, 7, "🔍 A CLI tool to temporarly disable distracting websites and boost your productivity", JavaScript
+ruanyf/loppo, 103, 17, "an extremely simple markdown document site generator", JavaScript
+noam3127/github-code-folding, 101, 6, "Chrome extension that enables code folding in GitHub", JavaScript
+grvcoelho/react-voice-components, 101, 9, "Set of React components that use the Web Speech API to bring voice experience to React applications", JavaScript
+kickstarter/android-oss, 3032, 418, "Kickstarter for Android. Bring new ideas to life, anywhere.", Java
+material-components/material-components-android, 1429, 66, "Modular and customizable Material Design UI components for Android", Java
+githubwing/ZoomHeader, 1380, 227, "A demo of animation show how turn viewpager into detail.神交互。模仿饿了么详情页可以跟随手指移动 viewpager变详情页", Java
+mancj/SlideUp-Android, 842, 82, "SlideUp is a small library that allows you to add sweet slide effect to any view.", Java
+race604/WaveLoading, 733, 80, "A wave-like loading drawable", Java
+gjiazhe/PanoramaImageView, 680, 71, "An imageView can auto scroll with device rotating.", Java
+shaohui10086/ShareUtil, 605, 100, "社会化登录分享工具库", Java
+SilenceDut/KnowWeather, 568, 86, "A nice weather app", Java
+Ajian-studio/GADownloading, 527, 67, "A Gorgeous LoadingView (一个绚丽的LoadingView )", Java
+gongwen/MarqueeViewLibrary, 505, 69, "一个帮您快速实现跑马灯效果的library", Java
+bufferapp/BufferTextInputLayout, 499, 38, "A simple customised version of the TextInputLayout from the Android Design Support Library", Java
+hejunlin2013/DragVideo, 487, 87, "A Method to Drag the Video When Playing Video", Java
+githubwing/DragPhotoView, 473, 68, "A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView", Java
+Luolc/EmojiRain, 418, 50, "Implement a simple and funny Android animation —— the emoji rain in WeChat app.", Java
+hpdx/DanmukuLight, 404, 48, "Android上专为视频直播打造的轻量级弹幕库（100多kb）", Java
+githubwing/WingUE, 404, 54, "WingUE,一些较好用户体验实现集合", Java
+zagum/Android-ExpandIcon, 399, 39, "Nice and simple customizable implementation of Google style up/down expand arrow.", Java
+zhengken/LyricViewDemo, 390, 54, "LyricView is a powerful and flexible custom view to display lyrics within music player under Android", Java
+daniel-stoneuk/material-about-library, 379, 34, "Making it easy to create beautiful about screens for your apps", Java
+Netflix/conductor, 377, 48, "Conductor is a microservices orchestration engine - https://netflix.github.io/conductor/ ", Java
+json-iterator/java, 310, 63, "jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go", Java
+jrummyapps/html-builder, 309, 27, "Build valid HTML for Android TextView", Java
+JakeWharton/RxWindowIfChanged, 304, 18, "An RxJava 2 operator which splits an observable into windows using a key selector.", Java
+bingoogolapple/BGASwipeBackLayout-Android, 288, 31, "通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局", Java
+mayubao/KuaiChuan, 275, 74, "仿茄子快传的一款文件传输应用", Java
+czy1121/settingscompat, 273, 25, "特殊权限(Special Permissions)兼容库，悬浮窗权限(SYSTEM_ALERT_WINDOW)与系统设置修改权限(WRITE_SETTINGS)", Java
+Netflix/hollow, 269, 18, "Hollow is a java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets which are disseminated from a single producer to many consumers for read-only access.", Java
+Freshman111/VerificationCodeView, 261, 31, "VerificationCode View", Java
+gjiazhe/MultiChoicesCircleButton, 255, 40, "A multiple-choice button with 3D parallax effect.", Java
+thingsboard/thingsboard, 243, 20, "Open-source IoT Platform - Device management, data collection, processing and visualization.", Java
+codbking/CalendarExaple, 239, 30, "android高仿钉钉和小米的自定义日历控件（支持阴历和阳历，左右无限翻页viewpager）", Java
+yakivmospan/scytale, 233, 9, "One tool to manage key generation, key storing and encryption on different APIs of Android.", Java
+jparkie/PDD, 225, 17, "Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams", Java
+Jasonette/JASONETTE-Android, 221, 19, "📡 Native App over HTTP, on Android", Java
+CGmaybe10/FocusSurfaceView, 203, 27, "拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像 ", Java
+huage2580/ZuiMeiTAG, 203, 28, "仿最美应用的底栏，使用recyclerView实现", Java
+lawloretienne/MovieHub, 195, 26, "Showcases popular movies, tv shows, and people from The Movie Database", Java
+Stuie/papercut, 193, 8, "Keep your codebase simple", Java
+githubwing/ExpandableViewpager, 190, 30, "A Cool Viewpager ~ 可以展开缩放的Viewpager", Java
+Karumi/KataScreenshotAndroid, 186, 15, "Screenshot Kata for Android Developers. The main goal is to practice UI Testing.", Java
+yanbober/AvatarLabelView, 175, 25, "一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。", Java
+florent37/SingleDateAndTimePicker, 174, 25, "You can now select a date and a time with only one widget !", Java
+limedroid/XDroidMvp, 173, 50, "轻量级的Android MVP快速开发框架", Java
+munix/LogcatTextView, 172, 19, "A simple view to see logcat in your app", Java
+RameshBhupathi/CollapsingToolbar-With-Webview, 168, 24, "", Java
+google/conscrypt, 165, 16, "Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.", Java
+mcxtzhang/all-base-adapter, 165, 24, " Adapter terminator, including DataBinding, any ViewGroup, list(Rv, Lv ). Write Adapter, it is enough .Adapter终结者，包含DataBinding，任意ViewGroup，Rv、Lv列表。写Adapter，有它就够了", Java
+lopei/collageview, 163, 21, "", Java
+Sloy/preferator, 160, 12, "Edit your application SharedPreferences from the device", Java
+yiyuanliu/FlipGank, 152, 25, "FlipBoard 翻页风格的 Gank.io 客户端", Java
+a-voyager/WeekToDo, 150, 28, "《番茄周》软件开源项目", Java
+fashare2015/ActivityTracker, 149, 36, "A FloatingView to show current topActivity in the activity stack.", Java
+AndroidMsky/WXhongbao, 143, 53, "自动领取微信红包,支持锁屏聊天界面等各种情况目前为6.3.32版本", Java
+jineshfrancs/ThemedGoogleMap, 128, 19, "Utility class to make GoogleMap with custom theme.", Java
+zaaach/TopRightMenu, 126, 23, "a top-right popup menu like qq for android.", Java
+androidthings/new-project-template, 125, 41, "", Java
+chenenyu/Router, 113, 12, "🚀🚀🚀Simple and flexible router library for Android platform.", Java
+Ishmeetsingh97/FontometricsLibrary, 112, 15, "Android Library to use custom fonts with ease.", Java
+0ximDigital/RxAnimations, 108, 2, "Repository for android animations Rx wrapper", Java
+jiang111/ZhiHu-TopAnswer, 102, 17, "知乎热门榜", Java
+QMUI/QMUI_iOS, 614, 61, "QMUI iOS——致力于提高项目 UI 开发效率的解决方案", Objective-C
+kangzubin/XMNetworking, 436, 54, "A lightweight but powerful network library with simplified and expressive syntax based on AFNetworking.", Objective-C
+zhengwenming/WMDragView, 277, 61, "拖吗？拖！拖就用WMDragView吧。WMDragView致力于让任意View都可以自由拖动。", Objective-C
+brentsimmons/Vesper, 272, 39, "Vesper is a note-taking app for iOS by Q Branch.", Objective-C
+iphone5solo/PYTheme, 253, 59, "An easy way to change theme through NSObject's category for iOS.", Objective-C
+zekunyan/TTGPuzzleVerify, 171, 21, "By completing image puzzle game, TTGPuzzleVerify is a more user-friendly verification tool on iOS, which is highly customizable and easy to use. 体验更友好的拼图验证控件", Objective-C
+CoderVan/Yeshijia-APP, 142, 23, "高仿  悦食家APP 相似度", Objective-C
+JoySeeDog/JSDBanTangHomeDemo, 114, 27, "真正的仿半塘首页效果，半糖首页核心技术解析。", Objective-C
+Sinkup/CameraStickerDemo, 109, 16, "基于GPUImage的实时视频流贴纸Demo", Objective-C
+openai/universe, 3852, 320, "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.", Python
+miloyip/game-programmer, 2692, 262, "A Study Path for Game Programmer", Python
+deepmind/learning-to-learn, 1375, 149, "Learning to Learn in TensorFlow", Python
+kennethreitz/maya, 1058, 40, "Datetimes for Humans™", Python
+intelxed/xed, 516, 33, "x86 encoder decoder", Python
+ysrc/xunfeng, 456, 209, "巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。", Python
+hanzhanggit/StackGAN, 286, 32, "", Python
+Jolly23/wx_pay_python, 262, 75, "weixin pay python 微信支付功能集，前期开发借鉴zwczou https://github.com/zwczou/weixin-python ，后期补充功能，升级到最新微信支付接口配套代码", Python
+TheAbhiKumar/tensorflow-value-iteration-networks, 236, 37, "TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper", Python
+Evolving-AI-Lab/ppgn, 232, 33, "Code for paper 'Plug and Play Generative Networks'", Python
+leegao/readme2tex, 201, 10, "Renders TeXy Math for Github Readmes", Python
+nedwill/soundhax, 198, 32, "Free 3DS Primary Entrypoint <=11.2", Python
+Kyubyong/wordvectors, 188, 23, "Pre-trained word vectors of 30+ languages", Python
+Tencent/GAutomator, 180, 66, " Automation for unity mobile game apps", Python
+llSourcell/tensorflow_chatbot, 180, 59, "Tensorflow chatbot demo by @Sirajology on Youtube", Python
+initialstate/pi-process-dashboard, 164, 10, "How to remotely monitor your Raspberry Pi processes", Python
+mwichary/twitter-export-image-fill, 164, 9, "A script to download (backup locally) all the images accompanying your tweets", Python
+ethan-funny/React-News-Board, 163, 43, ":cyclone: A Full-Stack Web App built with React and Flask.", Python
+weaveworks/grafanalib, 146, 4, "Python library for building Grafana dashboards", Python
+ajarai/fast-weights, 143, 36, "Implementation of Using Fast Weights to Attend to the Recent Past", Python
+Enny1991/PLSTM, 114, 19, "", Python
+Viralmaniar/Wifi-Dumper, 111, 28, "This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.", Python
+xunhuang1995/SGAN, 102, 16, "Stacked Generative Adversarial Networks: https://arxiv.org/abs/1612.04357", Python
+LiuXingMing/Tmall1212, 101, 86, "天猫双12爬虫，附商品数据。", Python
+theveloped/ThreadTone, 100, 9, "a halftone representation of an image made of thread", Python
+kickstarter/ios-oss, 3634, 411, "Kickstarter for iOS. Bring new ideas to life, anywhere.", Swift
+krzysztofzablocki/Sourcery, 1302, 41, "A tool that brings meta-programming to Swift, allowing you to code generate Swift code.", Swift
+malcommac/SwiftRichString, 534, 16, "Elegant & Painless Attributed Strings Management Library in Swift", Swift
+brianmichel/Juice, 335, 19, "Make your battery information a bit more interesting.", Swift
+insidegui/PlayAlways, 303, 16, "Create Xcode playgrounds from your menu bar", Swift
+erikolsson/Touch-Bar-Lemmings, 277, 19, "", Swift
+TBXark/PinterestSegment, 216, 8, "A Pinterest-like segment control with masking animation.", Swift
+NghiaTranUIT/iOS-Awesome-Starter-Kit, 203, 21, "The perfect combination: Clean Swift + ReSwift + PromiseKit", Swift
+jobandtalent/CardStackController, 197, 9, "iOS custom controller used in Jobandtalent app to present new view controllers as cards", Swift
+baoyongzhang/ApkChannelBuilder, 185, 22, "一个 Mac App，用于 Apk 多渠道打包。", Swift
+qiuncheng/NoticeBar, 179, 20, "😍A simple NoticeBar written by Swift 3, similar with QQ notice view.", Swift
+mattgallagher/CwlSignal, 152, 11, "A Swift framework for reactive programming.", Swift
+victorBaro/AlgoGraphics, 119, 8, "Random visualizations", Swift
+oklog/ulid, 600, 8, "Universally Unique Lexicographically Sortable Identifier (ULID) in Go", Go
+samonzeweb/godb, 486, 14, "A Go query builder and struct mapper.", Go
+mhausenblas/dnpipes, 423, 7, "Distributed Named Pipes", Go
+kelseyhightower/konfd, 340, 12, "Manage application configuration using Kubernetes secrets, configmaps, and Go templates.", Go
+goreleaser/releaser, 274, 8, "Deliver Go binaries as fast and easily as possible", Go
+asobti/kube-monkey, 274, 8, "An implementation of Netflix's Chaos Monkey for Kubernetes clusters", Go
+geohot/lolrecaptcha, 219, 9, "We try to break the recaptcha for the Merry Christmas for all!", Go
+DiSiqueira/Gorganizer, 198, 9, "Organize your folders into a beautiful classified folder structure with this perfect tool", Go
+pureconfig/pureconfig, 187, 11, "Its goal is to suck less than other configuration file formats.", Go
+o3ma/o3, 168, 11, "Open-source implementation of the Threema protocol in Go.", Go
+mtojek/greenwall, 165, 11, "Tiny service health dashboard written in Go", Go
+atongen/gosaic, 129, 1, "Create your own image mosaics.", Go
+schollz/find-lf, 115, 8, "Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND", Go
+lacion/cookiecutter-golang, 112, 6, "A Go project template", Go
+Xeoncross/secureserver, 110, 3, "A Simple, Secured Default HTTP(S) Server for Golang", Go
+jcc/blog, 373, 62, ":heart: PJ Blog is an open source blog built with Laravel and Vue.js. https://pigjian.com", PHP
+Tencent/bk-cmdb, 283, 132, "蓝鲸智云配置平台(blueking cmdb)", PHP
+opsxcq/exploit-CVE-2016-10033, 196, 58, "PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container", PHP
+maysrp/webdir, 182, 43, "网站目录", PHP
+summerblue/news.laravel-china.org, 160, 36, "Source Code of the https://news.laravel-china.org/ website, build on top of Laravel 5.1. Laravel 资讯网站源代码，使用 Laravel 5.1 构建 ", PHP
+We5ter/Scanners-Box, 143, 72, "[Project-Kob-6]安全行业从业人员自研开源扫描器合集(不收录w3af、brakeman等知名扫描工具)🌚", PHP
+Tencent/mars, 5840, 912, "Mars is a cross-platform network component  developed by WeChat.", C++
+Microsoft/HoloJS, 800, 38, "Provides a framework for creating holographic apps using JavaScript and WebGL.", C++
+TorchCraft/TorchCraft, 590, 76, "Connecting Torch to StarCraft", C++
+antire-book/dont_panic, 190, 31, "Linux bind shell with anti-reverse engineering techniques", C++
+rescrv/Consus, 137, 6, "Consus is a geo-replicated transactional key-value store.", C++
+Erkaman/auto_uv_map, 107, 2, "Reference Implementation of Automatic UV Mapping with Harmonic Maps.", C++
+adtac/fssb, 264, 20, "A low-level filesystem sandbox for Linux using syscall intercepts.", C
+ronsoros/rvm, 213, 13, "simple virtual machine and assembler", C
+benjamin-42/Trident, 137, 72, "", C
+LineageOS/android_device_oneplus_bacon, 121, 7, "OnePlus One device configuration (bacon)", C
+mjosaarinen/dekryptize, 120, 9, "A ncurses animation to make decryption look like, well, decryption. ", C
+toddmotto/angular-pizza-creator, 219, 43, "Source code for Angular advanced Form APIs pizza builder", CSS
+apex/apex-ui, 161, 3, "Apex monochrome Atom theme UI.", CSS
+wesbos/JavaScript30, 3025, 1716, "30 Day Vanilla JS Challenge", HTML
+neveragaindottech/neveragaindottech.github.io, 343, 1812, "Source files for the neveragain.tech site", HTML
+codrops/BlockRevealers, 192, 20, "Ideas for revealing content in a schematic box look as seen around the Web lately.", HTML
+dhparkdh/resume-for-web-developer, 158, 22, "resume-for-web-developer", HTML
+octobox/octobox, 1148, 62, ":postbox: Take back control of your GitHub Notifications", Ruby
+rails/webpacker, 644, 31, "Use Webpack to manage app-like JavaScript modules in Rails", Ruby
+KrauseFx/overkill, 333, 16, "Don't let iTunes interrupt your workflow 💥🎵   ", Ruby
+chendo/airchat, 119, 3, "AirChat lets you chat to nearby users by abusing the AirDrop interface on OS X.", Ruby
+EduardoPires/EquinoxProject, 215, 61, "Full ASP.NET Core application with DDD, CQRS and Event Sourcing", C#
+yuleyule66/Npoi.Core, 126, 40, "a .NET Core library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.", C#
+Unity-Technologies/EditorVR, 124, 18, "Author VR in VR - See blog post for supporting downloads:", C#
+gojuno/mainframer, 333, 18, "Pretty universal instruction and script to setup Remote Build for Android project that uses Gradle (and potentially other build systems).", Shell
+plexinc/pms-docker, 294, 19, "Plex Media Server Docker repo, for all your PMS docker needs.", Shell
+hs-cx/snmp_mib_archive, 108, 13, "An archive of over 3000 unique SNMP MIBs", Shell
+weavejester/integrant, 156, 7, "Micro-framework for data-driven architecture", Clojure
+r00t-3xp10it/morpheus, 150, 35, "Morpheus - Automated Ettercap TCP/IP Hijacking Tool", Lua
+haskus/haskus-system, 267, 10, "Haskus system", Haskell
+rstacruz/webpack-tricks, 1940, 46, "Tips and tricks in using Webpack", 
+keonkim/awesome-bits, 1705, 83, ":computer: A curated list of awesome bitwise operations and tricks", 
+DynamicCocoa/DynamicCocoa, 803, 77, "A framework for running Cocoa code dynamically.", 
+soumith/ganhacks, 735, 96, "starter from 'How to Train a GAN?' at NIPS2016", 
+facebookincubator/react-vr, 690, 14, "Issues-only repo for React VR - a React Native platform to run 3D and WebVR content.", 
+Nax/longflow-manifesto, 533, 23, ":coffee: The longflow manifesto", 
+sfermigier/awesome-functional-python, 417, 22, "", 
+jivoi/awesome-ml-for-cybersecurity, 362, 82, " :octocat: Machine Learning for Cyber Security", 
+1ppm/1ppmLog, 347, 137, "Release one side project per month, log your results here!", 
+ggomaeng/better-developer-quotes, 346, 26, "💡 A compilation of answers I received from other developers when I asked them--'How do I become a better developer?'", 
+jirengu/frontend-interview, 299, 36, "前端笔试面试题题库", 
+LineageOS/android, 296, 32, "Misc Android stuff", 
+Geekbang/ArchSummit, 269, 101, "ArchSummit全球架构师峰会", 
+duffn/dumb-password-rules, 204, 30, "Shaming sites with dumb password rules.", 
+mafintosh/awesome-p2p, 171, 5, "List of great p2p resources", 
+php-pds/skeleton, 152, 5, "Standard PHP package skeleton.", 
+gradiuscypher/infosec_getting_started, 147, 19, "A collection of resources/documentation/links/etc to help people learn about Infosec and break into the field.", 
+paf31/24-days-of-purescript-2016, 140, 3, "24 Days of PureScript, 2016", 
+hindupuravinash/nips2016, 133, 14, "A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016", 
+DxF5H/lightbox, 125, 10, "Simple lightbox script without dependencies (not even jQuery).", 
+passy/awesome-recursion-schemes, 123, 1, "Resources for learning and using recursion schemes.", 
+kendricktan/non-overwhelming-machine-learning, 123, 6, "A (non overwhelming) list of Machine Learning resources for beginners", 
+manasthakur/learn-vim, 115, 6, "Learn the (arguably) best text-editor on the planet.", 
+amitshekhariitbhu/awesome-android-things, 113, 15, "A curated list of awesome android things tutorials, libraries and much more at one place", 
+Miserlou/Mackenzie, 102, 0, "AWS Lambda Infection Toolkit // Persistent Lambda Malware PoC", 
+aviaryan/awesome-no-login-web-apps, 100, 20, ":star2: Awesome (free) web apps that work without login", 
