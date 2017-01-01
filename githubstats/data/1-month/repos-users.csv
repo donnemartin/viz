@@ -1,0 +1,220 @@
+full_name,repo,description,stars,forks,language,user,name,type,location,lat,long,city,country,rank
+devongovett/regexgen,regexgen,Generate regular expressions that match a set of strings,1917,51,JavaScript,devongovett,Devon Govett,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,8.0
+pubkey/rxdb,rxdb,"Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown ",1663,52,JavaScript,pubkey,Daniel M,User,"Germany, Stuttgart",48.7758459,9.1829321,Stuttgart,Germany,10.0
+MicheleBertoli/react-fix-it,react-fix-it,Automagically generate tests from errors,1568,15,JavaScript,MicheleBertoli,Michele Bertoli,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,11.0
+material-components/material-components-web,material-components-web,Modular and customizable Material Design UI components for the web,1533,71,JavaScript,material-components,Material Components,Organization,,,,,,12.0
+mathisonian/premonish,premonish,Predict which DOM element a user will interact with next.,1126,24,JavaScript,mathisonian,Matthew Conlen,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,18.0
+zeit/styled-jsx,styled-jsx,Full CSS support for JSX without compromises,875,22,JavaScript,zeit,ZEIT,Organization,,,,,,20.0
+andywer/leakage,leakage,🐛 Memory leak testing for node.,733,16,JavaScript,andywer,Andy Wermke,User,"Leipzig, Germany",51.339695500000005,12.373074699999998,Leipzig,Germany,25.5
+chvin/react-tetris,react-tetris,"Use React, Redux, Immutable to code Tetris.",690,106,JavaScript,chvin,Chvin,User,"China,HangZhou",30.274084999999996,120.15507,Hangzhou,China,27.5
+ggomaeng/react-native-facebook-ui,react-native-facebook-ui,Pure javascript UI prototype of iOS Facebook for React Native framework.,434,40,JavaScript,ggomaeng,Sung Woo Park,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,47.0
+nikgraf/webvr-experiments,webvr-experiments,A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm),430,14,JavaScript,nikgraf,Nik Graf,User,Vienna / San Francisco,37.719601000000004,-122.431207,San Francisco,United States,48.0
+mariusandra/pigeon-maps,pigeon-maps,ReactJS Maps without external dependencies,327,8,JavaScript,mariusandra,Marius Andra,User,"Leuven, Belgium",50.879843799999996,4.7005175999999995,Leuven,Belgium,67.0
+hharnisc/tabbie,tabbie,The missing tab manager for Chrome,292,17,JavaScript,hharnisc,Harrison Harnisch,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States,75.0
+pcbje/ggraph,ggraph,Graph visualization of big messy data,283,14,JavaScript,pcbje,Petter Christian Bjelland,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,78.5
+gajus/babel-plugin-react-css-modules,babel-plugin-react-css-modules,Transforms styleName to className using compile time CSS module resolution.,271,12,JavaScript,gajus,Gajus Kuizinas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,87.0
+egoist/docute,docute,:scroll: Effortlessly documentation done right.,270,16,JavaScript,egoist,EGOIST,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China,88.0
+ageitgey/show-facebook-computer-vision-tags,show-facebook-computer-vision-tags,A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images,228,17,JavaScript,ageitgey,Adam Geitgey,User,Various places,,,,,102.0
+qieguo2016/Vueuv,Vueuv,参照Vue实现的一个JavaScript MVVM 框架，手把手教你从零开始Make Your Own Vue!,219,25,JavaScript,qieguo2016,茄果,User,,,,,,106.0
+XhstormR/BaiduNetdisk-WAP,BaiduNetdisk-WAP,BaiduNetdisk (WAP),179,12,JavaScript,XhstormR,XhstormR,User,China,35.86166,104.195397,,China,132.5
+imgntn/j360,j360,360 Video and Photo Capture in 4K for Three.js,174,7,JavaScript,imgntn,James B. Pollack,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,135.5
+rusher81572/picluster,picluster,A Simplified Approach to Container Orchestration,163,7,JavaScript,rusher81572,Phillip Tribble,User,"East Bay, CA",37.6576656,-122.0563527,Hayward,United States,149.0
+sindresorhus/clipboardy,clipboardy,Access the system clipboard (copy/paste),162,6,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,151.0
+sanchitgn/remember,remember,The progressive offline Todo app,160,10,JavaScript,sanchitgn,Sanchit Nevgi,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India,154.0
+yanbober/RNPolymerPo,RNPolymerPo,基于 React Native 的 Android 企业级应用 Demo。,150,45,JavaScript,yanbober,yanbo,User,ZhuHai,22.270978,113.576678,Zhuhai,China,162.0
+ggomaeng/react-native-spotify-ui,react-native-spotify-ui,Pure javascript UI prototype of iOS Spotify for React Native framework.,147,13,JavaScript,ggomaeng,Sung Woo Park,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,165.5
+ipselon/react-boilerplate-clone,react-boilerplate-clone,A React Boilerplate Project Clone integrated with Structor (former React UI Builder).,126,8,JavaScript,ipselon,Alex Pustovalov,User,Ukraine,48.379433,31.16558,,Ukraine,179.0
+bgryszko/react-native-circular-slider,react-native-circular-slider,React Native component for creating circular slider :radio_button:,122,9,JavaScript,bgryszko,Bart Gryszko,User,,,,,,186.0
+codrops/MusicalInteractions,MusicalInteractions,Some experimental ideas for playful musical interactions powered by MIDI.js.,121,20,JavaScript,codrops,Codrops,Organization,,,,,,187.5
+elsehow/signal-protocol,signal-protocol,"The Signal protocol, for node and browsers",118,6,JavaScript,elsehow,nick merrill,User,berkeley,,,,,192.0
+sonnylazuardi/react-native-nike-running,react-native-nike-running,🏃 UI & UX Prototype of redesigned Nike+ Running App,117,18,JavaScript,sonnylazuardi,Sonny Lazuardi,User,"Bandung, Indonesia",-6.917463900000001,107.61912279999999,Bandung,Indonesia,193.0
+Seedstars/reactnative-mobile-app-base,reactnative-mobile-app-base,Seedstars Labs React Native Mobile App Base Project (Frontend),112,8,JavaScript,Seedstars,seedstars,Organization,,,,,,201.0
+OYsun/vscode-VueHelper,vscode-VueHelper,vscode插件，vue，vue-router和vuex的代码提示,111,4,JavaScript,OYsun,,User,,,,,,203.5
+giuseppeg/ffocus,ffocus,🔍 A CLI tool to temporarly disable distracting websites and boost your productivity,105,7,JavaScript,giuseppeg,Giuseppe,User,,,,,,210.0
+ruanyf/loppo,loppo,an extremely simple markdown document site generator,103,17,JavaScript,ruanyf,Ruan YiFeng,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,211.0
+noam3127/github-code-folding,github-code-folding,Chrome extension that enables code folding in GitHub,101,6,JavaScript,noam3127,,User,New Jersey,40.0583238,-74.40566120000001,,United States,216.0
+grvcoelho/react-voice-components,react-voice-components,Set of React components that use the Web Speech API to bring voice experience to React applications,101,9,JavaScript,grvcoelho,Guilherme Rv Coelho,User,"Jundiai, Brazil",-23.1857076,-46.897805700000006,Jundiaí,Brazil,216.0
+kickstarter/android-oss,android-oss,"Kickstarter for Android. Bring new ideas to life, anywhere.",3032,418,Java,kickstarter,Kickstarter,Organization,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States,4.0
+material-components/material-components-android,material-components-android,Modular and customizable Material Design UI components for Android,1429,66,Java,material-components,Material Components,Organization,,,,,,13.0
+githubwing/ZoomHeader,ZoomHeader,A demo of animation show how turn viewpager into detail.神交互。模仿饿了么详情页可以跟随手指移动 viewpager变详情页,1380,227,Java,githubwing,大精-wing,User,"guangzhou,China",23.12911,113.264385,Guangzhou,China,14.0
+mancj/SlideUp-Android,SlideUp-Android,SlideUp is a small library that allows you to add sweet slide effect to any view.,842,82,Java,mancj,Mansur,User,Russia,61.52401,105.31875600000001,,Russia,21.0
+race604/WaveLoading,WaveLoading,A wave-like loading drawable,733,80,Java,race604,吴晶,User,"Beijing, China",39.904211,116.407395,Beijing,China,25.5
+gjiazhe/PanoramaImageView,PanoramaImageView,An imageView can auto scroll with device rotating.,680,71,Java,gjiazhe,郭佳哲,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,29.0
+shaohui10086/ShareUtil,ShareUtil,社会化登录分享工具库,605,100,Java,shaohui10086,邵辉Vista,User,,,,,,32.0
+SilenceDut/KnowWeather,KnowWeather,A nice weather app,568,86,Java,SilenceDut,,User,"GuangZhou,China",23.12911,113.264385,Guangzhou,China,35.0
+Ajian-studio/GADownloading,GADownloading,A Gorgeous LoadingView (一个绚丽的LoadingView ),527,67,Java,Ajian-studio,GAStudio,User,"Beijing,China",39.904211,116.407395,Beijing,China,38.0
+gongwen/MarqueeViewLibrary,MarqueeViewLibrary,一个帮您快速实现跑马灯效果的library,505,69,Java,gongwen,龚文,User,BeiJing,39.904211,116.407395,Beijing,China,40.0
+bufferapp/BufferTextInputLayout,BufferTextInputLayout,A simple customised version of the TextInputLayout from the Android Design Support Library,499,38,Java,bufferapp,Buffer,Organization,,,,,,41.0
+hejunlin2013/DragVideo,DragVideo,A Method to Drag the Video When Playing Video,487,87,Java,hejunlin2013,逆流的鱼yuiop,User,"Beijing, China",39.904211,116.407395,Beijing,China,42.0
+githubwing/DragPhotoView,DragPhotoView,A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView,473,68,Java,githubwing,大精-wing,User,"guangzhou,China",23.12911,113.264385,Guangzhou,China,44.0
+Luolc/EmojiRain,EmojiRain,Implement a simple and funny Android animation —— the emoji rain in WeChat app.,418,50,Java,Luolc,LoLo,User,"Beijing, China",39.904211,116.407395,Beijing,China,50.0
+hpdx/DanmukuLight,DanmukuLight,Android上专为视频直播打造的轻量级弹幕库（100多kb）,404,48,Java,hpdx,android_ls,User,上海市徐汇区,31.188522999999996,121.436525,,China,52.5
+githubwing/WingUE,WingUE,"WingUE,一些较好用户体验实现集合",404,54,Java,githubwing,大精-wing,User,"guangzhou,China",23.12911,113.264385,Guangzhou,China,52.5
+zagum/Android-ExpandIcon,Android-ExpandIcon,Nice and simple customizable implementation of Google style up/down expand arrow.,399,39,Java,zagum,Zagumennyi Evgenii,User,,,,,,54.0
+zhengken/LyricViewDemo,LyricViewDemo,LyricView is a powerful and flexible custom view to display lyrics within music player under Android,390,54,Java,zhengken,zhengken,User,Beijing,39.904211,116.407395,Beijing,China,55.0
+daniel-stoneuk/material-about-library,material-about-library,Making it easy to create beautiful about screens for your apps,379,34,Java,daniel-stoneuk,Daniel Stone,User,United Kingdom,55.378051,-3.435973,,United Kingdom,56.0
+Netflix/conductor,conductor,Conductor is a microservices orchestration engine - https://netflix.github.io/conductor/ ,377,48,Java,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",37.235807799999996,-121.96237509999999,Los Gatos,United States,57.0
+json-iterator/java,java,jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go,310,63,Java,json-iterator,,Organization,,,,,,68.0
+jrummyapps/html-builder,html-builder,Build valid HTML for Android TextView,309,27,Java,jrummyapps,JRummy Apps Inc.,Organization,"Orange County, California",33.7174708,-117.83114280000001,,United States,69.0
+JakeWharton/RxWindowIfChanged,RxWindowIfChanged,An RxJava 2 operator which splits an observable into windows using a key selector.,304,18,Java,JakeWharton,Jake Wharton,User,"Pittsburgh, PA, USA",40.44062479999999,-79.9958864,Pittsburgh,United States,70.0
+bingoogolapple/BGASwipeBackLayout-Android,BGASwipeBackLayout-Android,通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局,288,31,Java,bingoogolapple,王浩,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China,76.0
+mayubao/KuaiChuan,KuaiChuan,仿茄子快传的一款文件传输应用,275,74,Java,mayubao,,User,,,,,,82.0
+czy1121/settingscompat,settingscompat,特殊权限(Special Permissions)兼容库，悬浮窗权限(SYSTEM_ALERT_WINDOW)与系统设置修改权限(WRITE_SETTINGS),273,25,Java,czy1121,ezy,User,东莞,23.020673000000002,113.7518,Dongguan,China,85.0
+Netflix/hollow,hollow,Hollow is a java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets which are disseminated from a single producer to many consumers for read-only access.,269,18,Java,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",37.235807799999996,-121.96237509999999,Los Gatos,United States,89.5
+Freshman111/VerificationCodeView,VerificationCodeView,VerificationCode View,261,31,Java,Freshman111,sgffsg,User, Beijing,39.904211,116.407395,Beijing,China,94.0
+gjiazhe/MultiChoicesCircleButton,MultiChoicesCircleButton,A multiple-choice button with 3D parallax effect.,255,40,Java,gjiazhe,郭佳哲,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,95.0
+thingsboard/thingsboard,thingsboard,"Open-source IoT Platform - Device management, data collection, processing and visualization.",243,20,Java,thingsboard,Thingsboard,Organization,,,,,,97.0
+codbking/CalendarExaple,CalendarExaple,android高仿钉钉和小米的自定义日历控件（支持阴历和阳历，左右无限翻页viewpager）,239,30,Java,codbking,codbking,User,,,,,,98.0
+yakivmospan/scytale,scytale,"One tool to manage key generation, key storing and encryption on different APIs of Android.",233,9,Java,yakivmospan,Yakiv Mospan,User,"Lviv, Ukraine",49.839683,24.029717,Lviv,Ukraine,100.0
+jparkie/PDD,PDD,Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams,225,17,Java,jparkie,Jacob Park,User,,,,,,103.0
+Jasonette/JASONETTE-Android,JASONETTE-Android,"📡 Native App over HTTP, on Android",221,19,Java,Jasonette,,Organization,,,,,,104.0
+CGmaybe10/FocusSurfaceView,FocusSurfaceView,拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像 ,203,27,Java,CGmaybe10,,User,,,,,,113.0
+huage2580/ZuiMeiTAG,ZuiMeiTAG,仿最美应用的底栏，使用recyclerView实现,203,28,Java,huage2580,狸小华,User,china 广州,23.12911,113.264385,Guangzhou,China,113.0
+lawloretienne/MovieHub,MovieHub,"Showcases popular movies, tv shows, and people from The Movie Database",195,26,Java,lawloretienne,Etienne Lawlor,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,120.0
+Stuie/papercut,papercut,Keep your codebase simple,193,8,Java,Stuie,Stuart Gilbert,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,121.0
+githubwing/ExpandableViewpager,ExpandableViewpager,A Cool Viewpager ~ 可以展开缩放的Viewpager,190,30,Java,githubwing,大精-wing,User,"guangzhou,China",23.12911,113.264385,Guangzhou,China,123.5
+Karumi/KataScreenshotAndroid,KataScreenshotAndroid,Screenshot Kata for Android Developers. The main goal is to practice UI Testing.,186,15,Java,Karumi,Karumi,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,127.0
+yanbober/AvatarLabelView,AvatarLabelView,一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。,175,25,Java,yanbober,yanbo,User,ZhuHai,22.270978,113.576678,Zhuhai,China,134.0
+florent37/SingleDateAndTimePicker,SingleDateAndTimePicker,You can now select a date and a time with only one widget !,174,25,Java,florent37,Florent CHAMPIGNY,User,France,46.227638,2.213749,,France,135.5
+limedroid/XDroidMvp,XDroidMvp,轻量级的Android MVP快速开发框架,173,50,Java,limedroid,WangLei,User,Shenzhen.China,22.543096,114.05786499999999,Shenzhen,China,137.0
+munix/LogcatTextView,LogcatTextView,A simple view to see logcat in your app,172,19,Java,munix,Juan Pablo Muñiz,User,Madrid,40.4167754,-3.7037902000000003,Madrid,Spain,138.0
+RameshBhupathi/CollapsingToolbar-With-Webview,CollapsingToolbar-With-Webview,,168,24,Java,RameshBhupathi,Ramesh Bhupathi,User,"Hyderabad,India",17.385044,78.486671,Hyderabad,India,141.5
+google/conscrypt,conscrypt,Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.,165,16,Java,google,Google,Organization,,,,,,144.0
+mcxtzhang/all-base-adapter,all-base-adapter," Adapter terminator, including DataBinding, any ViewGroup, list(Rv, Lv ). Write Adapter, it is enough .Adapter终结者，包含DataBinding，任意ViewGroup，Rv、Lv列表。写Adapter，有它就够了",165,24,Java,mcxtzhang,张旭童,User,"Shanghai,China",31.230415999999998,121.473701,Shanghai,China,144.0
+lopei/collageview,collageview,,163,21,Java,lopei,Alan Matviienko,User,,,,,,149.0
+Sloy/preferator,preferator,Edit your application SharedPreferences from the device,160,12,Java,Sloy,Rafa Vázquez,User,"Barcelona, Spain",41.3850639,2.1734035,Barcelona,Spain,154.0
+yiyuanliu/FlipGank,FlipGank,FlipBoard 翻页风格的 Gank.io 客户端,152,25,Java,yiyuanliu,Yiyuan Liu,User,"ChengDu,China",30.572815999999996,104.066801,Chengdu,China,159.0
+a-voyager/WeekToDo,WeekToDo,《番茄周》软件开源项目,150,28,Java,a-voyager,WuHaojie,User,"ChengDu, SiChuan, China",30.572815999999996,104.066801,Chengdu,China,162.0
+fashare2015/ActivityTracker,ActivityTracker,A FloatingView to show current topActivity in the activity stack.,149,36,Java,fashare2015,梁山boy,User,,,,,,164.0
+AndroidMsky/WXhongbao,WXhongbao,"自动领取微信红包,支持锁屏聊天界面等各种情况目前为6.3.32版本",143,53,Java,AndroidMsky,MutianLiang,User,,,,,,169.0
+jineshfrancs/ThemedGoogleMap,ThemedGoogleMap,Utility class to make GoogleMap with custom theme.,128,19,Java,jineshfrancs,Jinesh Francis,User,Banglore,12.9715987,77.5945627,Bengaluru,India,177.0
+zaaach/TopRightMenu,TopRightMenu,a top-right popup menu like qq for android.,126,23,Java,zaaach,Bro0cL,User,,,,,,179.0
+androidthings/new-project-template,new-project-template,,125,41,Java,androidthings,Android Things,Organization,,,,,,181.5
+chenenyu/Router,Router,🚀🚀🚀Simple and flexible router library for Android platform.,113,12,Java,chenenyu,Half Stack,User,Beijing.China,39.904211,116.407395,Beijing,China,198.5
+Ishmeetsingh97/FontometricsLibrary,FontometricsLibrary,Android Library to use custom fonts with ease.,112,15,Java,Ishmeetsingh97,Ishmeet Singh,User,Chandigarh,30.7333148,76.7794179,Chandigarh,India,201.0
+0ximDigital/RxAnimations,RxAnimations,Repository for android animations Rx wrapper,108,2,Java,0ximDigital,Mihael Francekovic,User,Croatia,45.1,15.2,,Croatia,207.5
+jiang111/ZhiHu-TopAnswer,ZhiHu-TopAnswer,知乎热门榜,102,17,Java,jiang111,NewTab,User,"Wuxi, China",31.49117,120.31191000000001,Wuxi,China,213.0
+QMUI/QMUI_iOS,QMUI_iOS,QMUI iOS——致力于提高项目 UI 开发效率的解决方案,614,61,Objective-C,QMUI,QMUI 团队,Organization,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,31.0
+kangzubin/XMNetworking,XMNetworking,A lightweight but powerful network library with simplified and expressive syntax based on AFNetworking.,436,54,Objective-C,kangzubin,Zubin,User,"Beijing, China",39.904211,116.407395,Beijing,China,46.0
+zhengwenming/WMDragView,WMDragView,拖吗？拖！拖就用WMDragView吧。WMDragView致力于让任意View都可以自由拖动。,277,61,Objective-C,zhengwenming,文明,User,北京,39.904211,116.407395,Beijing,China,80.5
+brentsimmons/Vesper,Vesper,Vesper is a note-taking app for iOS by Q Branch.,272,39,Objective-C,brentsimmons,,User,,,,,,86.0
+iphone5solo/PYTheme,PYTheme,An easy way to change theme through NSObject's category for iOS.,253,59,Objective-C,iphone5solo,CoderKo1o,User,,,,,,96.0
+zekunyan/TTGPuzzleVerify,TTGPuzzleVerify,"By completing image puzzle game, TTGPuzzleVerify is a more user-friendly verification tool on iOS, which is highly customizable and easy to use. 体验更友好的拼图验证控件",171,21,Objective-C,zekunyan,zekunyan,User,Hangzhou.China,30.274084999999996,120.15507,Hangzhou,China,139.5
+CoderVan/Yeshijia-APP,Yeshijia-APP,高仿  悦食家APP 相似度,142,23,Objective-C,CoderVan,Aim,User,,,,,,171.0
+JoySeeDog/JSDBanTangHomeDemo,JSDBanTangHomeDemo,真正的仿半塘首页效果，半糖首页核心技术解析。,114,27,Objective-C,JoySeeDog,,User,,,,,,196.5
+Sinkup/CameraStickerDemo,CameraStickerDemo,基于GPUImage的实时视频流贴纸Demo,109,16,Objective-C,Sinkup,Hao Chen,User,"Nanjing, China",32.060255,118.796877,Nanjing,China,206.0
+openai/universe,universe,"Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",3852,320,Python,openai,,Organization,,,,,,2.0
+miloyip/game-programmer,game-programmer,A Study Path for Game Programmer,2692,262,Python,miloyip,Milo Yip,User,"Hong Kong, China",22.396428,114.10949699999999,,Hong Kong,6.0
+deepmind/learning-to-learn,learning-to-learn,Learning to Learn in TensorFlow,1375,149,Python,deepmind,,Organization,,,,,,15.0
+kennethreitz/maya,maya,Datetimes for Humans™,1058,40,Python,kennethreitz,Kenneth Reitz,User,"Winchester, VA",39.1856597,-78.16333409999999,Winchester,United States,19.0
+intelxed/xed,xed,x86 encoder decoder,516,33,Python,intelxed,,Organization,Massachusetts,42.4072107,-71.3824374,,United States,39.0
+ysrc/xunfeng,xunfeng,巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。,456,209,Python,ysrc,YSRC,Organization,,,,,,45.0
+hanzhanggit/StackGAN,StackGAN,,286,32,Python,hanzhanggit,Han Zhang,User,"Piscataway, NJ, USA",40.554887,-74.4642861,Piscataway Township,United States,77.0
+Jolly23/wx_pay_python,wx_pay_python,weixin pay python 微信支付功能集，前期开发借鉴zwczou https://github.com/zwczou/weixin-python ，后期补充功能，升级到最新微信支付接口配套代码,262,75,Python,Jolly23,Jolly,User,,,,,,93.0
+TheAbhiKumar/tensorflow-value-iteration-networks,tensorflow-value-iteration-networks,TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper,236,37,Python,TheAbhiKumar,Abhishek Kumar,User,UC San Diego,,,,,99.0
+Evolving-AI-Lab/ppgn,ppgn,Code for paper 'Plug and Play Generative Networks',232,33,Python,Evolving-AI-Lab,Evolving Artificial Intelligence Lab,Organization,University of Wyoming,41.3130972,-105.5796706,Laramie,United States,101.0
+leegao/readme2tex,readme2tex,Renders TeXy Math for Github Readmes,201,10,Python,leegao,Lee Gao,User,"Menlo Park, CA",37.4529598,-122.1817252,Menlo Park,United States,115.0
+nedwill/soundhax,soundhax,Free 3DS Primary Entrypoint <=11.2,198,32,Python,nedwill,Ned Williamson,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,116.5
+Kyubyong/wordvectors,wordvectors,Pre-trained word vectors of 30+ languages,188,23,Python,Kyubyong,Kyubyong Park,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,125.0
+Tencent/GAutomator,GAutomator, Automation for unity mobile game apps,180,66,Python,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,130.5
+llSourcell/tensorflow_chatbot,tensorflow_chatbot,Tensorflow chatbot demo by @Sirajology on Youtube,180,59,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,130.5
+initialstate/pi-process-dashboard,pi-process-dashboard,How to remotely monitor your Raspberry Pi processes,164,10,Python,initialstate,Initial State,Organization,"Nashville, TN",36.1626638,-86.78160159999999,Nashville,United States,146.5
+mwichary/twitter-export-image-fill,twitter-export-image-fill,A script to download (backup locally) all the images accompanying your tweets,164,9,Python,mwichary,Marcin Wichary,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,146.5
+ethan-funny/React-News-Board,React-News-Board,:cyclone: A Full-Stack Web App built with React and Flask.,163,43,Python,ethan-funny,Ethan,User,,,,,,149.0
+weaveworks/grafanalib,grafanalib,Python library for building Grafana dashboards,146,4,Python,weaveworks,Weaveworks,Organization,"London, Berlin and San Francisco",,,,,167.0
+ajarai/fast-weights,fast-weights,Implementation of Using Fast Weights to Attend to the Recent Past,143,36,Python,ajarai,Goku Mohandas,User,"Cupertino, CA",37.322997799999996,-122.03218229999999,Cupertino,United States,169.0
+Enny1991/PLSTM,PLSTM,,114,19,Python,Enny1991,Enea Ceolini,User,,,,,,196.5
+Viralmaniar/Wifi-Dumper,Wifi-Dumper,"This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.",111,28,Python,Viralmaniar,Viral Maniar,User,Australia,-25.274398,133.775136,,Australia,203.5
+xunhuang1995/SGAN,SGAN,Stacked Generative Adversarial Networks: https://arxiv.org/abs/1612.04357,102,16,Python,xunhuang1995,Xun Huang,User,Ithaca,42.4439614,-76.5018807,Ithaca,United States,213.0
+LiuXingMing/Tmall1212,Tmall1212,天猫双12爬虫，附商品数据。,101,86,Python,LiuXingMing,幸明老匹夫,User,China.Guangzhou,23.12911,113.264385,Guangzhou,China,216.0
+theveloped/ThreadTone,ThreadTone,a halftone representation of an image made of thread,100,9,Python,theveloped,,User,,,,,,218.5
+kickstarter/ios-oss,ios-oss,"Kickstarter for iOS. Bring new ideas to life, anywhere.",3634,411,Swift,kickstarter,Kickstarter,Organization,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States,3.0
+krzysztofzablocki/Sourcery,Sourcery,"A tool that brings meta-programming to Swift, allowing you to code generate Swift code.",1302,41,Swift,krzysztofzablocki,Krzysztof Zabłocki,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,16.0
+malcommac/SwiftRichString,SwiftRichString,Elegant & Painless Attributed Strings Management Library in Swift,534,16,Swift,malcommac,Daniele Margutti,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,36.0
+brianmichel/Juice,Juice,Make your battery information a bit more interesting.,335,19,Swift,brianmichel,Brian Michel,User,New York,40.7127837,-74.00594129999999,New York,United States,64.0
+insidegui/PlayAlways,PlayAlways,Create Xcode playgrounds from your menu bar,303,16,Swift,insidegui,Guilherme Rambo,User,Brazil,-14.235004,-51.92528,,Brazil,71.0
+erikolsson/Touch-Bar-Lemmings,Touch-Bar-Lemmings,,277,19,Swift,erikolsson,Erik Olsson,User,Stockholm,59.329323499999994,18.068580800000003,Stockholm,Sweden,80.5
+TBXark/PinterestSegment,PinterestSegment,A Pinterest-like segment control with masking animation.,216,8,Swift,TBXark,TBXark,User,Beijing China,39.904211,116.407395,Beijing,China,108.0
+NghiaTranUIT/iOS-Awesome-Starter-Kit,iOS-Awesome-Starter-Kit,The perfect combination: Clean Swift + ReSwift + PromiseKit,203,21,Swift,NghiaTranUIT,Nghia Tran,User,"Ho Chi Minh City, Viet Nam",10.8230989,106.6296638,Ho Chi Minh City,Vietnam,113.0
+jobandtalent/CardStackController,CardStackController,iOS custom controller used in Jobandtalent app to present new view controllers as cards,197,9,Swift,jobandtalent,jobandtalent,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,118.0
+baoyongzhang/ApkChannelBuilder,ApkChannelBuilder,一个 Mac App，用于 Apk 多渠道打包。,185,22,Swift,baoyongzhang,Mr.Bao,User,"Beijing, China",39.904211,116.407395,Beijing,China,128.0
+qiuncheng/NoticeBar,NoticeBar,"😍A simple NoticeBar written by Swift 3, similar with QQ notice view.",179,20,Swift,qiuncheng,Qiun Cheng,User,China,35.86166,104.195397,,China,132.5
+mattgallagher/CwlSignal,CwlSignal,A Swift framework for reactive programming.,152,11,Swift,mattgallagher,Matt Gallagher,User,"Melbourne, Australia.",-37.813627600000004,144.96305759999998,Melbourne,Australia,159.0
+victorBaro/AlgoGraphics,AlgoGraphics,Random visualizations,119,8,Swift,victorBaro,Victor Baro,User,Barcelona,41.3850639,2.1734035,Barcelona,Spain,190.5
+oklog/ulid,ulid,Universally Unique Lexicographically Sortable Identifier (ULID) in Go,600,8,Go,oklog,OK Log,Organization,,,,,,33.0
+samonzeweb/godb,godb,A Go query builder and struct mapper.,486,14,Go,samonzeweb,Samuel GAY,User,Strasbourg - France,48.5734053,7.752111299999998,Strasbourg,France,43.0
+mhausenblas/dnpipes,dnpipes,Distributed Named Pipes,423,7,Go,mhausenblas,Michael Hausenblas,User,"Galway, Ireland",53.27066800000001,-9.0567905,Galway,Ireland,49.0
+kelseyhightower/konfd,konfd,"Manage application configuration using Kubernetes secrets, configmaps, and Go templates.",340,12,Go,kelseyhightower,Kelsey Hightower,User,"Portland, OR",45.523062200000005,-122.67648159999999,Portland,United States,63.0
+goreleaser/releaser,releaser,Deliver Go binaries as fast and easily as possible,274,8,Go,goreleaser,GoReleaser,Organization,,,,,,83.5
+asobti/kube-monkey,kube-monkey,An implementation of Netflix's Chaos Monkey for Kubernetes clusters,274,8,Go,asobti,Ayush Sobti,User,"Philadelphia, PA",39.9525839,-75.1652215,Philadelphia,United States,83.5
+geohot/lolrecaptcha,lolrecaptcha,We try to break the recaptcha for the Merry Christmas for all!,219,9,Go,geohot,George Hotz,User,"Glen Rock, NJ",40.9628758,-74.1329207,Glen Rock,United States,106.0
+DiSiqueira/Gorganizer,Gorganizer,Organize your folders into a beautiful classified folder structure with this perfect tool,198,9,Go,DiSiqueira,Diego Siqueira,User,"Bauru, São Paulo - Brasil",-22.314459,-49.0586951,Bauru,Brazil,116.5
+pureconfig/pureconfig,pureconfig,Its goal is to suck less than other configuration file formats.,187,11,Go,pureconfig,,User,,,,,,126.0
+o3ma/o3,o3,Open-source implementation of the Threema protocol in Go.,168,11,Go,o3ma,open Threema ,Organization,,,,,,141.5
+mtojek/greenwall,greenwall,Tiny service health dashboard written in Go,165,11,Go,mtojek,Marcin Tojek,User,"Gdansk, Poland",54.35202520000001,18.6466384,Gdańsk,Poland,144.0
+atongen/gosaic,gosaic,Create your own image mosaics.,129,1,Go,atongen,Andrew Tongen,User,"Minneapolis, MN",44.977753,-93.2650108,Minneapolis,United States,176.0
+schollz/find-lf,find-lf,Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND,115,8,Go,schollz,Zack,User,,,,,,194.5
+lacion/cookiecutter-golang,cookiecutter-golang,A Go project template,112,6,Go,lacion,Luis Morales,User,Madrid,40.4167754,-3.7037902000000003,Madrid,Spain,201.0
+Xeoncross/secureserver,secureserver,"A Simple, Secured Default HTTP(S) Server for Golang",110,3,Go,Xeoncross,David Pennington,User,"Dallas, Texas",32.7766642,-96.7969879,Dallas,United States,205.0
+jcc/blog,blog,:heart: PJ Blog is an open source blog built with Laravel and Vue.js. https://pigjian.com,373,62,PHP,jcc,Jiajian Chan,User,Guangzhou,23.12911,113.264385,Guangzhou,China,58.0
+Tencent/bk-cmdb,bk-cmdb,蓝鲸智云配置平台(blueking cmdb),283,132,PHP,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,78.5
+opsxcq/exploit-CVE-2016-10033,exploit-CVE-2016-10033,PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container,196,58,PHP,opsxcq,,User,,,,,,119.0
+maysrp/webdir,webdir,网站目录,182,43,PHP,maysrp,Xiaosea,User,china,35.86166,104.195397,,China,129.0
+summerblue/news.laravel-china.org,news.laravel-china.org,"Source Code of the https://news.laravel-china.org/ website, build on top of Laravel 5.1. Laravel 资讯网站源代码，使用 Laravel 5.1 构建 ",160,36,PHP,summerblue,CharlieJade,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China,154.0
+We5ter/Scanners-Box,Scanners-Box,[Project-Kob-6]安全行业从业人员自研开源扫描器合集(不收录w3af、brakeman等知名扫描工具)🌚,143,72,PHP,We5ter,Wester,User,"Chengdu,China",30.572815999999996,104.066801,Chengdu,China,169.0
+Tencent/mars,mars,Mars is a cross-platform network component  developed by WeChat.,5840,912,C++,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,1.0
+Microsoft/HoloJS,HoloJS,Provides a framework for creating holographic apps using JavaScript and WebGL.,800,38,C++,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,23.0
+TorchCraft/TorchCraft,TorchCraft,Connecting Torch to StarCraft,590,76,C++,TorchCraft,,Organization,,,,,,34.0
+antire-book/dont_panic,dont_panic,Linux bind shell with anti-reverse engineering techniques,190,31,C++,antire-book,Programming Linux Anti-Reversing Techniques,User,,,,,,123.5
+rescrv/Consus,Consus,Consus is a geo-replicated transactional key-value store.,137,6,C++,rescrv,Robert Escriva,User,"Ithaca, NY",42.4439614,-76.5018807,Ithaca,United States,173.5
+Erkaman/auto_uv_map,auto_uv_map,Reference Implementation of Automatic UV Mapping with Harmonic Maps.,107,2,C++,Erkaman,Eric Arnebäck,User,"Sweden, Gothenburg",57.70887,11.97456,Gothenburg,Sweden,209.0
+adtac/fssb,fssb,A low-level filesystem sandbox for Linux using syscall intercepts.,264,20,C,adtac,Adhityaa Chandrasekar,User,,,,,,92.0
+ronsoros/rvm,rvm,simple virtual machine and assembler,213,13,C,ronsoros,,User,,,,,,110.0
+benjamin-42/Trident,Trident,,137,72,C,benjamin-42,Benjamin Randazzo,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,173.5
+LineageOS/android_device_oneplus_bacon,android_device_oneplus_bacon,OnePlus One device configuration (bacon),121,7,C,LineageOS,Lineage Android Distribution,Organization,,,,,,187.5
+mjosaarinen/dekryptize,dekryptize,"A ncurses animation to make decryption look like, well, decryption. ",120,9,C,mjosaarinen,Markku-Juhani O. Saarinen,User,,,,,,189.0
+toddmotto/angular-pizza-creator,angular-pizza-creator,Source code for Angular advanced Form APIs pizza builder,219,43,CSS,toddmotto,Todd Motto,User,"England, UK",52.3555177,-1.1743197,,United Kingdom,106.0
+apex/apex-ui,apex-ui,Apex monochrome Atom theme UI.,161,3,CSS,apex,Apex,Organization,Victoria BC,48.428420700000004,-123.36564440000001,Victoria,Canada,152.0
+wesbos/JavaScript30,JavaScript30,30 Day Vanilla JS Challenge,3025,1716,HTML,wesbos,Wes Bos,User,"Hamilton, Ontario",43.255720600000004,-79.87110240000001,Hamilton,Canada,5.0
+neveragaindottech/neveragaindottech.github.io,neveragaindottech.github.io,Source files for the neveragain.tech site,343,1812,HTML,neveragaindottech,,Organization,,,,,,62.0
+codrops/BlockRevealers,BlockRevealers,Ideas for revealing content in a schematic box look as seen around the Web lately.,192,20,HTML,codrops,Codrops,Organization,,,,,,122.0
+dhparkdh/resume-for-web-developer,resume-for-web-developer,resume-for-web-developer,158,22,HTML,dhparkdh,dhpark,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea,156.0
+octobox/octobox,octobox,:postbox: Take back control of your GitHub Notifications,1148,62,Ruby,octobox,Octobox,Organization,,,,,,17.0
+rails/webpacker,webpacker,Use Webpack to manage app-like JavaScript modules in Rails,644,31,Ruby,rails,Ruby on Rails,Organization,,,,,,30.0
+KrauseFx/overkill,overkill,Don't let iTunes interrupt your workflow 💥🎵   ,333,16,Ruby,KrauseFx,Felix Krause,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,65.5
+chendo/airchat,airchat,AirChat lets you chat to nearby users by abusing the AirDrop interface on OS X.,119,3,Ruby,chendo,Jack Chen,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,190.5
+EduardoPires/EquinoxProject,EquinoxProject,"Full ASP.NET Core application with DDD, CQRS and Event Sourcing",215,61,C#,EduardoPires,Eduardo Pires,User,São Paulo,-23.550519899999998,-46.63330939999999,São Paulo,Brazil,109.0
+yuleyule66/Npoi.Core,Npoi.Core,"a .NET Core library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.",126,40,C#,yuleyule66,Savorboard,User,"ChengDu, China",30.572815999999996,104.066801,Chengdu,China,179.0
+Unity-Technologies/EditorVR,EditorVR,Author VR in VR - See blog post for supporting downloads:,124,18,C#,Unity-Technologies,Unity Technologies,Organization,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,183.0
+gojuno/mainframer,mainframer,Pretty universal instruction and script to setup Remote Build for Android project that uses Gradle (and potentially other build systems).,333,18,Shell,gojuno,Juno Inc.,Organization,"Minsk, Belarus",53.90453979999999,27.5615244,Minsk,Belarus,65.5
+plexinc/pms-docker,pms-docker,"Plex Media Server Docker repo, for all your PMS docker needs.",294,19,Shell,plexinc,Plex,Organization,,,,,,74.0
+hs-cx/snmp_mib_archive,snmp_mib_archive,An archive of over 3000 unique SNMP MIBs,108,13,Shell,hs-cx,Heston S.,User,"Phoenix, AZ",33.4483771,-112.07403729999999,Phoenix,United States,207.5
+weavejester/integrant,integrant,Micro-framework for data-driven architecture,156,7,Clojure,weavejester,James Reeves,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,157.0
+r00t-3xp10it/morpheus,morpheus,Morpheus - Automated Ettercap TCP/IP Hijacking Tool,150,35,Lua,r00t-3xp10it,pedro ubuntu,User,Lisbon - portugal,38.722252399999995,-9.1393366,Lisbon,Portugal,162.0
+haskus/haskus-system,haskus-system,Haskus system,267,10,Haskell,haskus,,Organization,,,,,,91.0
+rstacruz/webpack-tricks,webpack-tricks,Tips and tricks in using Webpack,1940,46,,rstacruz,Rico Sta. Cruz,User,"Manila, Philippines",14.599512400000002,120.98421950000001,Manila,Philippines,7.0
+keonkim/awesome-bits,awesome-bits,:computer: A curated list of awesome bitwise operations and tricks,1705,83,,keonkim,Keon Kim,User,NYC,40.7127837,-74.00594129999999,New York,United States,9.0
+DynamicCocoa/DynamicCocoa,DynamicCocoa,A framework for running Cocoa code dynamically.,803,77,,DynamicCocoa,,Organization,,,,,,22.0
+soumith/ganhacks,ganhacks,starter from 'How to Train a GAN?' at NIPS2016,735,96,,soumith,Soumith Chintala,User,"New York, USA",40.7127837,-74.00594129999999,New York,United States,24.0
+facebookincubator/react-vr,react-vr,Issues-only repo for React VR - a React Native platform to run 3D and WebVR content.,690,14,,facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,27.5
+Nax/longflow-manifesto,longflow-manifesto,:coffee: The longflow manifesto,533,23,,Nax,,User,France,46.227638,2.213749,,France,37.0
+sfermigier/awesome-functional-python,awesome-functional-python,,417,22,,sfermigier,Stefane Fermigier,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,51.0
+jivoi/awesome-ml-for-cybersecurity,awesome-ml-for-cybersecurity, :octocat: Machine Learning for Cyber Security,362,82,,jivoi,EK_,User,Somewhere Out in Space,,,,,59.0
+1ppm/1ppmLog,1ppmLog,"Release one side project per month, log your results here!",347,137,,1ppm,1PPM Club,User,Global,,,,,60.0
+ggomaeng/better-developer-quotes,better-developer-quotes,💡 A compilation of answers I received from other developers when I asked them--'How do I become a better developer?',346,26,,ggomaeng,Sung Woo Park,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,61.0
+jirengu/frontend-interview,frontend-interview,前端笔试面试题题库,299,36,,jirengu,饥人谷,User,杭州,30.274084999999996,120.15507,Hangzhou,China,72.0
+LineageOS/android,android,Misc Android stuff,296,32,,LineageOS,Lineage Android Distribution,Organization,,,,,,73.0
+Geekbang/ArchSummit,ArchSummit,ArchSummit全球架构师峰会,269,101,,Geekbang,极客邦科技,Organization,Beijing,39.904211,116.407395,Beijing,China,89.5
+duffn/dumb-password-rules,dumb-password-rules,Shaming sites with dumb password rules.,204,30,,duffn,Nicholas Duffy,User,"Colorado, USA",39.55005070000001,-105.78206740000002,,United States,111.0
+mafintosh/awesome-p2p,awesome-p2p,List of great p2p resources,171,5,,mafintosh,Mathias Buus,User,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,139.5
+php-pds/skeleton,skeleton,Standard PHP package skeleton.,152,5,,php-pds,,Organization,,,,,,159.0
+gradiuscypher/infosec_getting_started,infosec_getting_started,A collection of resources/documentation/links/etc to help people learn about Infosec and break into the field.,147,19,,gradiuscypher,gradius,User,Internet Spaceship,,,,,165.5
+paf31/24-days-of-purescript-2016,24-days-of-purescript-2016,"24 Days of PureScript, 2016",140,3,,paf31,Phil Freeman,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,172.0
+hindupuravinash/nips2016,nips2016,"A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016",133,14,,hindupuravinash,Avinash Hindupur,User,,,,,,175.0
+DxF5H/lightbox,lightbox,Simple lightbox script without dependencies (not even jQuery).,125,10,,DxF5H,Benjamin,User,Kassel,51.3127114,9.4797461,Kassel,Germany,181.5
+passy/awesome-recursion-schemes,awesome-recursion-schemes,Resources for learning and using recursion schemes.,123,1,,passy,Pascal Hartig,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,184.5
+kendricktan/non-overwhelming-machine-learning,non-overwhelming-machine-learning,A (non overwhelming) list of Machine Learning resources for beginners,123,6,,kendricktan,Kendrick Tan,User,"Brisbane, Australia",-27.469770699999998,153.0251235,Brisbane,Australia,184.5
+manasthakur/learn-vim,learn-vim,Learn the (arguably) best text-editor on the planet.,115,6,,manasthakur,Manas Thakur,User,"Chennai, India",13.0826802,80.2707184,Chennai,India,194.5
+amitshekhariitbhu/awesome-android-things,awesome-android-things,"A curated list of awesome android things tutorials, libraries and much more at one place",113,15,,amitshekhariitbhu,AMIT SHEKHAR,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India,198.5
+Miserlou/Mackenzie,Mackenzie,AWS Lambda Infection Toolkit // Persistent Lambda Malware PoC,102,0,,Miserlou,Rich Jones,User,/dev/null,,,,,213.0
+aviaryan/awesome-no-login-web-apps,awesome-no-login-web-apps,:star2: Awesome (free) web apps that work without login,100,20,,aviaryan,Avi Aryan,User,"Gandhinagar, India",23.2156354,72.63694149999998,Gandhinagar,India,218.5
