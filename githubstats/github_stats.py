@@ -25,7 +25,6 @@ import geocoder
 from githubstats.lib.github import GitHub
 from githubstats.repo import Repo
 from githubstats.user import User
-from githubstats.user_geocoder import UserGeocoder
 
 
 class GitHubStats(object):
@@ -80,9 +79,6 @@ class GitHubStats(object):
         and sorted by stars.  Note duplicates can exist in this list if a dev
         has popular repos in different languages.
 
-    :type user_geocodes_map: dict {user_id: :class`geocoder.google.Google`}
-    :param user_geocodes_map: Maps the user_id to a Google Geocode object.
-
     :type user_repos_map: dict
     :param user_repos_map: Maps the user_id and repos.
     """
@@ -90,7 +86,8 @@ class GitHubStats(object):
     CFG_MAX_DESC = 50
     CFG_MAX_ITEMS = 500
     CFG_MIN_STARS = 100
-    CFG_SLEEP_TIME = 5
+    CFG_SLEEP_TIME = 30
+    CFG_MAX_GEOCODES = 1000
 
     def __init__(self, github=None):
         self.github = github if github else GitHub()
@@ -142,9 +139,6 @@ class GitHubStats(object):
 
         :type path: str
         :param path: The input pat to append to the module path.
-
-        :rtype: str
-        :return: The module path.
         """
         return os.path.join(os.path.dirname(os.path.realpath(__file__)), path)
 
@@ -208,7 +202,7 @@ class GitHubStats(object):
             repos,
             language)
         while more_results:
-            self.sleep_for_rate_limiter(self.CFG_SLEEP_TIME*3)
+            self.sleep_for_rate_limiter(self.CFG_SLEEP_TIME*2)
             more_results = self.search_repos(
                 user_id_to_users_map,
                 repos,
@@ -362,7 +356,6 @@ class GitHubStats(object):
 
     def load_caches(self):
         """Loads cached data."""
-        click.echo('Loading caches...')
         self.cached_users = self.load_cache(self.CFG_USERS_PATH)
         self.user_geocodes_map = self.load_cache(self.CFG_USERS_GEOCODES_PATH)
 
@@ -605,6 +598,7 @@ class GitHubStats(object):
             cache if it exists, or if the GitHub API should be called instead.
         """
         if use_user_cache:
+            click.echo('Loading caches...')
             self.load_caches()
         click.echo('Printing index...')
         self.output_index()
@@ -720,20 +714,162 @@ class GitHubStats(object):
                                   users_dat,
                                   'Organization')
 
+    def generate_user_geocodes(self):
+        count = 0
+        for user_id, user in self.cached_users.items():
+            if user_id in self.user_geocodes_map:
+                location = user.location or 'None'
+                # click.secho('User ' + user_id + ' found in user_geocodes_map: ' + location, fg='blue')
+                continue
+            location = user.location if user.location is not None else ''
+            if location:
+                count += 1
+                geocode = geocoder.google(location)
+                self.user_geocodes_map[user_id] = geocode
+                country = geocode.country_long if geocode.country_long is not None else ''
+                click.echo(str(count) + ' ' + str(len(self.user_geocodes_map)) + ' ' + user_id + ' ' + country)
+            else:
+                self.user_geocodes_map[user_id] = ''
+                click.echo(str(count) + ' No location for ' + user_id)
+            if count >= self.CFG_MAX_GEOCODES:
+                break
+
+    def save_user_geocodes_cache(self):
+        with open(self.CFG_USERS_GEOCODES_PATH, 'wb') as users_geocodes_dat:
+            pickle.dump(self.user_geocodes_map, users_geocodes_dat)
+
     from .lib.debug_timer import timeit
     @timeit
     def update_user_locations(self, use_user_cache=True):
         """Updates the GitHub user location string with a geocoded location.
-
-        TODO: This is a work-in-progress!
 
         :type use_user_cache: boolean
         :param use_user_cache: Determines whether to use the existing user
             cache if it exists, or if the GitHub API should be called instead.
         """
         if use_user_cache:
+            click.echo('Loading caches...')
             self.load_caches()
-        user_geocoder = UserGeocoder(self.cached_users, self.user_geocodes_map)
-        csv_path = self.build_module_path('data/2016/user-geocodes-dump.csv')
-        user_geocoder.generate_user_geocodes(csv_path,
-                                             self.CFG_USERS_GEOCODES_PATH)
+        no_loc_count = 0
+        for user_id, user in self.cached_users.items():
+            if not user.location:
+                no_loc_count += 1
+        click.secho(str(no_loc_count) + '/' + str(len(self.cached_users)), fg='red')
+        for user_id, user in self.user_geocodes_map.items():
+            if not user or not user.latlng:
+                no_loc_count += 1
+        click.secho(str(no_loc_count) + '/' + str(len(self.user_geocodes_map)), fg='red')
+        self.generate_user_geocodes()
+        self.print_rate_limit()
+        click.secho(str(len(self.user_geocodes_map)), fg='blue')
+        self.write_csv_users_geocodes('data/2016/user-geocodes-dump.csv')
+        self.save_user_geocodes_cache()
+
+    def _patch_city_country(self):
+        if count >= self.CFG_MAX_GEOCODES:
+            return
+        patch_city_country = False
+        if lat_lng and self.user_geocodes_map[user.id].country_long is None:
+            patch_city_country = True
+        if (not lat_lng and location) or patch_city_country:
+            count += 1
+            geocode = None
+            if patch_city_country:
+                print(location,
+                      lat_lng,
+                      self.user_geocodes_map[user.id].country_long,
+                      self.user_geocodes_map[user.id].city_long)
+                geocode = geocoder.google(
+                    ', '.join(str(item) for item in lat_lng))
+            else:
+                geocode = geocoder.google(location)
+            self.user_geocodes_map[user.id] = geocode
+            print(self.user_geocodes_map[user.id].country_long,
+                  self.user_geocodes_map[user.id].city_long)
+            country = geocode.country_long if geocode.country_long is not None \
+                else ''
+            click.echo(str(count) + ' ' + user.id + ' ' + country)
+            lat_lng = self.user_geocodes_map[user.id].latlng or ''
+        if lat_lng:
+            lat = lat_lng[0] or ''
+            lng = lat_lng[1] or ''
+        city = self.user_geocodes_map[user.id].city_long or ''
+        country = self.user_geocodes_map[user.id].country_long or ''
+
+    def _patch_geocodes(self, user, lat_lng, location, count):
+        if count >= self.CFG_MAX_GEOCODES:
+            return
+        patch_city_country = False
+        if lat_lng and self.user_geocodes_map[user.id].country_long is None:
+            patch_city_country = True
+        if (not lat_lng and location) or patch_city_country:
+            count += 1
+            geocode = None
+            if patch_city_country:
+                print(location,
+                      lat_lng,
+                      self.user_geocodes_map[user.id].country_long,
+                      self.user_geocodes_map[user.id].city_long)
+                geocode = geocoder.google(
+                    ', '.join(str(item) for item in lat_lng))
+            else:
+                geocode = geocoder.google(location)
+            self.user_geocodes_map[user.id] = geocode
+            print(self.user_geocodes_map[user.id].country_long,
+                  self.user_geocodes_map[user.id].city_long)
+            country = geocode.country_long if geocode.country_long is not None \
+                else ''
+            click.echo(str(count) + ' ' + user.id + ' ' + country)
+            lat_lng = self.user_geocodes_map[user.id].latlng or ''
+        if lat_lng:
+            lat = lat_lng[0] or ''
+            lng = lat_lng[1] or ''
+        city = self.user_geocodes_map[user.id].city_long or ''
+        country = self.user_geocodes_map[user.id].country_long or ''
+        return lat, lng, city, country
+
+    def _write_csv_users_geocodes(self, users, users_dat):
+        """Writes the users csv.
+
+        Internal method, call write_csv_users instead.
+        TODO: Refactor to use the built-in module `csv`.
+        TODO: Refactor with _write_csv_users.
+
+        :type users: list
+        :param users: The users.
+
+        :type users_dat: :class:`_io.TextIOWrapper`
+        :param users_dat: Handles writing the file.
+        """
+        count = 0
+        for user_id, user in users.items():
+            user_type = user.type
+            name = user.name if user.name is not None else ''
+            location = user.location if user.location is not None else ''
+            location = location.replace('"', "'")
+            try:
+                lat_lng = self.user_geocodes_map[user.id].latlng or ''
+                lat, lng, city, country = self._patch_geocodes(user, lat_lng,
+                                                               location, count)
+            except Exception as e:
+                lat = ''
+                lng = ''
+                city = ''
+                country = ''
+            users_dat.write(
+                user.id + ', ' + '"' +
+                name + '", ' +
+                user_type + ', ' + '"' +
+                location + '", ' +
+                str(lat) + ', ' +
+                str(lng) + ', ' +
+                city + ', ' +
+                country + '\n')
+
+    def write_csv_users_geocodes(self, data_file_name):
+        file_path = self.build_module_path(data_file_name)
+        with open(file_path, 'w') as user_geocodes_dat:
+            user_geocodes_dat.write(
+                'id, name, type, location, lat, long, city, country\n')
+            self._write_csv_users_geocodes(self.cached_users,
+                                           user_geocodes_dat)
