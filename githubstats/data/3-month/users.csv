@@ -1,0 +1,925 @@
+user,name,type,location,lat,long,city,country
+anvaka,Andrei Kashcha,User,Seattle ,47.6062095,-122.33207079999998,Seattle,United States
+kickstarter,Kickstarter,Organization,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States
+xinghongfei,Maat红飞,User,"Beijing,China",39.904211,116.407395,Beijing,China
+eawsy,eawsy,Organization,Le Cloud,44.253170000000004,0.946484,,France
+MartinRGB,MartinRGB,User,"Beijing,China",39.904211,116.407395,Beijing,China
+ijry,jry,User,,,,,
+mathisonian,Matthew Conlen,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States
+jochasinga,Joe Chasinga,User,New York City,40.7127837,-74.00594129999999,New York,United States
+alexjlockwood,Alex Lockwood,User,"Manhattan, NY",40.783060299999995,-73.9712488,New York,United States
+MicheleBertoli,Michele Bertoli,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+tingxins,tingxins,User,,,,,
+Herb-Sun,Herb,User,,,,,
+jinSasaki,Jin Sasaki,User,Tokyo,35.6894875,139.69170640000002,,Japan
+gdgbeijing,GDG Beijing,Organization,"Beijing, China",39.904211,116.407395,Beijing,China
+tee4it,tee4it.com,User,,,,,
+matrixxun,xwhy,User,HangZhou China,30.274084999999996,120.15507,Hangzhou,China
+qiuncheng,Qiun Cheng,User,China,35.86166,104.195397,,China
+cncf,Cloud Native Computing Foundation,Organization,,,,,
+dudu90,,User,Beijing,39.904211,116.407395,Beijing,China
+Heydon,Heydon Pickering,User,"Norwich, UK",52.630885899999996,1.297355,Norwich,United Kingdom
+hamzasood,Hamza Sood,User,,,,,
+openai,,Organization,,,,,
+material-components,Material Components,Organization,,,,,
+yuttie,Yuta Taniguchi,User,,,,,
+vipshop,唯品会,Organization,Guangzhou China,23.12911,113.264385,Guangzhou,China
+krzysztofzablocki,Krzysztof Zabłocki,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland
+RebeccaHanjw,Rebecca Han,User,,,,,
+cemolcay,Cem Olcay,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+jamielhf,jamie,User,,,,,
+drathier,Filip Haglund,User,Sverige,60.12816100000001,18.643501,,Sweden
+codecasts,CODECASTS,Organization,Brazil,-14.235004,-51.92528,,Brazil
+alicegoldfuss,Alice Goldfuss,User,,,,,
+jasnell,James M Snell,User,"Fresno, California",36.7468422,-119.7725868,Fresno,United States
+alanwangmodify,王小树,User,深圳,22.543096,114.05786499999999,Shenzhen,China
+redound,Redound,Organization,,,,,
+HelloYeah,HelloYeah,User,,,,,
+KrauseFx,Felix Krause,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+liujians,刘剑,User,Cheng Du Si Chuan,30.572815999999996,104.066801,Chengdu,China
+ladingwu,ladingwu,User,China GuangZhou,23.12911,113.264385,Guangzhou,China
+opsxcq,,User,,,,,
+victorBaro,Victor Baro,User,Barcelona,41.3850639,2.1734035,Barcelona,Spain
+Nax,,User,France,46.227638,2.213749,,France
+shoheiyokoyama,Shohei Yokoyama,User,Japan,36.204824,138.252924,,Japan
+wgliang,wangguoliang,User,,,,,
+HamzaGhazouani,Hamza Ghazouani,User,Paris ,48.856614,2.3522218999999995,Paris,France
+yuan1994,tianpian,User,北京市朝阳区,39.92147,116.44310800000001,,China
+egoist,EGOIST,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China
+Kyubyong,Kyubyong Park,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea
+golastmile,LASTMILE,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany
+SebastianBoldt,Sebastian Boldt,User,Hamburg,53.5510846,9.993681800000001,Hamburg,Germany
+KingsMentor,Nosakhare Belvi,User,Lagos,6.5243793,3.3792057,Lagos,Nigeria
+Xeoncross,David Pennington,User,"Dallas, Texas",32.7766642,-96.7969879,Dallas,United States
+felixge,Felix Geisendörfer,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany
+azimin,Alex,User,"Moscow, Russia",55.755826,37.6173,Moscow,Russia
+jstimpfle,Jens Stimpfle,User,,,,,
+android-notes,,User,,,,,
+pimterry,Tim Perry,User,"Barcelona, Spain",41.3850639,2.1734035,Barcelona,Spain
+JakeWharton,Jake Wharton,User,"Pittsburgh, PA, USA",40.44062479999999,-79.9958864,Pittsburgh,United States
+SafeBreach-Labs,SafeBreach Labs,Organization,Worldwide,,,,
+bharadwaj-raju,Bharadwaj Raju,User,India,20.593684,78.96288,,India
+JakobEngel,,User,,,,,
+Luxurioust,Ri Xu,User,,,,,
+miloyip,Milo Yip,User,"Hong Kong, China",22.396428,114.10949699999999,,Hong Kong
+brentsimmons,,User,,,,,
+kingdido999,Desmond,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+bfirsh,Ben Firshman,User,,,,,
+McFrankline,,User,,,,,
+hbxeagle,eagle.h,User,,,,,
+AmniX,Aman tonk,User,India,20.593684,78.96288,,India
+wess,Wess Cope,User,"Clover, SC",35.111247799999994,-81.2264646,Clover,United States
+oopsguy,Oopsguy,User,China,35.86166,104.195397,,China
+jparkie,Jacob Park,User,,,,,
+samgozman,Sam Gozman,User,"Russia, Saint-Peterburg",59.9342802,30.335098600000002,Saint Petersburg,Russia
+proninyaroslav,Yaroslav Pronin,User,Russian Federation,61.52401,105.31875600000001,,Russia
+jeffbski,Jeff Barczewski,User,"St. Louis, MO (USA)",38.6270025,-90.1994042,St. Louis,United States
+TBXark,TBXark,User,Beijing China,39.904211,116.407395,Beijing,China
+fdiskyou,,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+nuveo,Nuveo,Organization,"Brazil, Sao Paulo",-23.550519899999998,-46.63330939999999,São Paulo,Brazil
+devfreebooks,DevFreeBooks,Organization,,,,,
+kiqs,Kirill Stepkin,User,,,,,
+Unity-Technologies,Unity Technologies,Organization,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark
+mattgallagher,Matt Gallagher,User,"Melbourne, Australia.",-37.813627600000004,144.96305759999998,Melbourne,Australia
+yanzhenjie,严振杰,User,Hangzhou China,30.274084999999996,120.15507,Hangzhou,China
+ruanyf,Ruan YiFeng,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China
+pureconfig,,User,,,,,
+latel,kevin,User,Shenzhen Nanshan Distinct,22.533013,113.930476,Shenzhen,China
+hkirat,harkirat singh,User,"Roorkee , Uttrakhand , India",29.8542626,77.8880002,Roorkee,India
+neelance,Richard Musiol,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany
+woxingxiao,Xiao,User,"ChengDu, China",30.572815999999996,104.066801,Chengdu,China
+zhebrak,Alexander Zhebrak,User,"Moscow, Russia",55.755826,37.6173,Moscow,Russia
+knitjs,Knitjs,Organization,,,,,
+screeps,,Organization,,,,,
+Kapeli,Bogdan Popescu,User,,,,,
+ggomaeng,Sung Woo Park,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States
+joxeankoret,Joxean,User,Basque Country,42.989624799999994,-2.6189272999999997,,Spain
+arkenthera,arkenthera,User,,,,,
+xyzxqs,xyzxqs,User,China,35.86166,104.195397,,China
+marmelroy,Roy Marmelstein,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+aviaryan,Avi Aryan,User,"Gandhinagar, India",23.2156354,72.63694149999998,Gandhinagar,India
+TooBug,TooBug,User,"ShenZhen, China",22.543096,114.05786499999999,Shenzhen,China
+sslab-gatech,sslab.gtisc.gatech.edu,Organization,"School of Computer Science, Georgia Tech",,,,
+huage2580,狸小华,User,china 广州,23.12911,113.264385,Guangzhou,China
+alestic,Alestic (Eric Hammond),Organization,,,,,
+CYHSM,CYHSM,User,,,,,
+RiccardoMoro,Riccardo Moro,User,"Bergamo, Italy",45.698264200000004,9.677269800000001,Bergamo,Italy
+mcxtzhang,张旭童,User,"Shanghai,China",31.230415999999998,121.473701,Shanghai,China
+closedevice,sbbic,User,,,,,
+daijifeng001,Jifeng Dai,User,,,,,
+southpeak,Minya,User,,,,,
+ajarai,Goku Mohandas,User,"Cupertino, CA",37.322997799999996,-122.03218229999999,Cupertino,United States
+andyxialm,,User,"Beijing, China",39.904211,116.407395,Beijing,China
+runkitdev,RunKit,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+ceteri,Paco Nathan,User,"Sebastopol, CA",38.4021359,-122.82388059999998,Sebastopol,United States
+blox,,Organization,,,,,
+shaohui10086,邵辉Vista,User,,,,,
+Dor1s,Max Moroz,User,,,,,
+IntelLabs,Intel Labs,Organization,Around the globe,,,,
+WindyDarian,Windy Darian,User,Philadelphia,39.9525839,-75.1652215,Philadelphia,United States
+NicolasHug,Nicolas HUG,User,"Toulouse, France",43.604652,1.444209,Toulouse,France
+youusername,,User,,,,,
+githubwing,大精-wing,User,"guangzhou,China",23.12911,113.264385,Guangzhou,China
+developit,Jason Miller,User,"Hamilton, Ontario, Canada",43.255720600000004,-79.87110240000001,Hamilton,Canada
+dannyvankooten,Danny van Kooten,User,"Nijmegen, The Netherlands",51.8125626,5.8372264000000005,Nijmegen,Netherlands
+zhengken,zhengken,User,Beijing,39.904211,116.407395,Beijing,China
+wuapnjie,FlyingSnowBean,User,,,,,
+nothings,Sean Barrett,User,,,,,
+jirengu,饥人谷,User,杭州,30.274084999999996,120.15507,Hangzhou,China
+PyFilesystem,,Organization,,,,,
+Sinkup,Hao Chen,User,"Nanjing, China",32.060255,118.796877,Nanjing,China
+gajus,Gajus Kuizinas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+gundb,GUN,Organization,,,,,
+Yellow5A5,,User,Hangzhou,30.274084999999996,120.15507,Hangzhou,China
+QingWei-Li,cinwell.li,User,Shanghai,31.230415999999998,121.473701,Shanghai,China
+gyjzh,gyjzh,User,Beijing China,39.904211,116.407395,Beijing,China
+yuleyule66,Savorboard,User,"ChengDu, China",30.572815999999996,104.066801,Chengdu,China
+Fnoz,Lu WJ,User,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China
+smart-fun,Arnaud Guyon,User,,,,,
+jivoi,EK_,User,Somewhere Out in Space,,,,
+liuzhiyi1992,,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China
+bingoogolapple,王浩,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China
+despoisj,Julien Despois,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+lipeiwei-szu,lipeiwei,User,shenzhen,22.543096,114.05786499999999,Shenzhen,China
+hanan198501,阿安,User,beijing,39.904211,116.407395,Beijing,China
+layui,,Organization,Hangzhou China,30.274084999999996,120.15507,Hangzhou,China
+dani-gavrilov,Gavrilov Daniil,User,"Saint-Petersburg, Russia",59.9342802,30.335098600000002,Saint Petersburg,Russia
+dolce,Marcelo Dolce,User,Brasil,-14.235004,-51.92528,,Brazil
+hanzhanggit,Han Zhang,User,"Piscataway, NJ, USA",40.554887,-74.4642861,Piscataway Township,United States
+hejunlin2013,逆流的鱼yuiop,User,"Beijing, China",39.904211,116.407395,Beijing,China
+michenriksen,Michael Henriksen,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany
+Algomancer,Adam Hibble,User,"Brisbane, AU",-27.469770699999998,153.0251235,Brisbane,Australia
+tensorflow,,Organization,,,,,
+NicoHood,Nico,User,,,,,
+koth,,User,,,,,
+xianhu,xianhu,User,,,,,
+Swizec,Swizec Teller,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+mdehoog,Michael de Hoog,User,,,,,
+rails,Ruby on Rails,Organization,,,,,
+kaonashi-tyc,Yuchen Tian,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+ibmtjbot,TJ Bot,Organization,,,,,
+czy1121,ezy,User,东莞,23.020673000000002,113.7518,Dongguan,China
+gen2brain,Milan Nikolic,User,"Belgrade, Serbia",44.786568,20.448921600000002,Belgrade,Serbia
+We5ter,Wester,User,"Chengdu,China",30.572815999999996,104.066801,Chengdu,China
+peng8350,Mr.peng,User,"GuangDong,China",23.132191,113.266531,,China
+wayfair,Wayfair Engineering,Organization,,,,,
+MatteoBattilana,Matteo Battilana,User,"Trento, Italy",46.074779299999996,11.121748599999998,Trento,Italy
+manifoldco,,Organization,,,,,
+TrumpTracker,,User,,,,,
+cookiecutter-swift,,Organization,,,,,
+gojuno,Juno Inc.,Organization,"Minsk, Belarus",53.90453979999999,27.5615244,Minsk,Belarus
+notwaldorf,Monica Dinculescu,User,Sun Funcisco ☀️,,,,
+dalu93,Luca D'Alberti,User,"Prague, Czech Republic",50.0755381,14.4378005,Prague,Czechia
+vitormesquita,Vitor Mesquita,User,"Campo Grande, Brazil",-20.4697645,-54.6202365,,Brazil
+jeantil,Jean Helou,User,"Lyon, France",45.764043,4.835659,Lyon,France
+cloudinsight,Cloudinsight,Organization,"Beijing, China",39.904211,116.407395,Beijing,China
+forezp,Forezp,User,"wuhan,China",30.593099,114.305393,Wuhan,China
+Hitomis,Hitomi,User,"Wuhan, China.",30.593099,114.305393,Wuhan,China
+manwhoami,Noah O,User,Western MA,,,,
+arXivTimes,arXivTimes,Organization,,,,,
+input-output-hk,Input Output,Organization,,,,,
+jiangzehui,jiangzehui,User,"HeBei,China",38.037057,114.46866499999999,,China
+vim-chat,,Organization,,,,,
+mbevand,,User,,,,,
+schmooblidon,,User,,,,,
+passy,Pascal Hartig,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+Jolly23,Jolly,User,,,,,
+pascalbros,Pasquale Ambrosini,User,,,,,
+jgamblin,Jerry Gamblin,User,United States,37.09024,-95.712891,,United States
+bokeh,Bokeh,Organization,,,,,
+sqreen,Sqreen,Organization,,,,,
+caicloud,Caicloud,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China
+MasterStudio,Master Studio,Organization,China,35.86166,104.195397,,China
+marcopaz,Marco Pazzaglia,User,,,,,
+lopei,Alan Matviienko,User,,,,,
+lzxb,狼族小狈,User,中国,35.86166,104.195397,,China
+lifepillar,Lifepillar,User,,,,,
+thunderrise,Thunderrise Inc.,Organization,,,,,
+Miserlou,Rich Jones,User,/dev/null,,,,
+SuperMan42,,User,,,,,
+prayerslayer,Nikolaus Piccolotto,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany
+feross,Feross Aboukhadijeh,User,"Mountain View, CA",37.3860517,-122.08385109999999,Mountain View,United States
+zuoweitan,,User,,,,,
+julian-klode,Julian Andres Klode,User,Germany,51.165690999999995,10.451526,,Germany
+hanbang-wang,SuperFashi,User,"Beijing, China",39.904211,116.407395,Beijing,China
+catalinmiron,Catalin Miron,User,Bucharest,44.4267674,26.1025384,Bucharest,Romania
+samonzeweb,Samuel GAY,User,Strasbourg - France,48.5734053,7.752111299999998,Strasbourg,France
+TellH,乐华,User,GuangDong,23.132191,113.266531,,China
+yegor256,Yegor Bugayenko,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States
+linglongxin24,DylanAndroid,User,"shanxi,xian",34.341575,108.93977,Xi'an,China
+jaksi,Kristóf Jakab,User,Hungary,47.162494,19.503304,,Hungary
+stml,James Bridle,User,,,,,
+declandewet,Declan de Wet,User,"Johannesburg, South Africa",-26.2041028,28.047305100000003,Johannesburg,South Africa
+CERT-BDF,CERT BDF,Organization,,,,,
+khamidou,Karim Hamidou,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+caroso1222,Carlos Roso,User,Colombia,4.570868,-74.297333,,Colombia
+hungtruong,Hung Truong,User,"Ann Arbor, MI",42.2808256,-83.7430378,Ann Arbor,United States
+adminho,,User,,,,,
+AndroidMsky,MutianLiang,User,,,,,
+OpenNMT,,Organization,,,,,
+dhparkdh,dhpark,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea
+1N3,1N3,User,,,,,
+space10-community,Space10,Organization,,,,,
+rwjblue,Robert Jackson,User,"Hope, RI",41.8531773,-71.39728149999998,Providence,United States
+tiaanduplessis,Tiaan,User,"Cape Town, South Africa",-33.9248685,18.424055300000003,Cape Town,South Africa
+720kb,720kb,Organization,,,,,
+verekia,Jonathan Verrecchia,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+zhengwenming,文明,User,北京,39.904211,116.407395,Beijing,China
+Dataman-Cloud,Dataman Cloud,Organization,Beijing,39.904211,116.407395,Beijing,China
+i-break-codes,Vaibhav Mehta,User,Mumbai,19.0759837,72.87765590000001,Mumbai,India
+kelseyhightower,Kelsey Hightower,User,"Portland, OR",45.523062200000005,-122.67648159999999,Portland,United States
+sonnylazuardi,Sonny Lazuardi,User,"Bandung, Indonesia",-6.917463900000001,107.61912279999999,Bandung,Indonesia
+infosec-au,Shubs,User,"Sydney, Australia",-33.8688197,151.2092955,Sydney,Australia
+BoxFactura,Box Factura,Organization,México,23.634501,-102.552784,,Mexico
+theveloped,,User,,,,,
+haskus,,Organization,,,,,
+rougier,Nicolas P. Rougier,User,Bordeaux,44.837789,-0.57918,Bordeaux,France
+GeekLiB,Albert Lee,User,"San Francisco,CA",37.7749295,-122.4194155,San Francisco,United States
+4Catalyzer,4Catalyzer,Organization,,,,,
+jxwufan,Fan Wu,User,,,,,
+prsyahmi,Syahmi Azhar,User,,,,,
+mogenslund,Mogens Brødsgaard Lund,User,"Aarhus, Denmark",56.162939,10.203921000000001,Aarhus,Denmark
+ondras,Ondřej Žára,User,Prague,50.0755381,14.4378005,Prague,Czechia
+nathancahill,Nathan Cahill,User,,,,,
+Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China
+cassidoo,Cassidy Williams,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States
+jaychang0917,Jay,User,Hong Kong,22.396428,114.10949699999999,,Hong Kong
+Miej,,User,,,,,
+ijoshsmith,Josh Smith,User,,,,,
+hpdx,android_ls,User,上海市徐汇区,31.188522999999996,121.436525,,China
+jaywcjlove,小弟调调™,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China
+kayan1990,,User,,,,,
+modzero,modzero,Organization,"Winterthur, Switzerland",47.4988196,8.723688899999999,Winterthur,Switzerland
+Bakumon,食梦兽,User,Xi'an China,34.341575,108.93977,Xi'an,China
+ForestAdmin,ForestAdmin,Organization,,,,,
+Screetsec,Edo -maland-,User,INDONESIA,-0.789275,113.921327,,Indonesia
+mhausenblas,Michael Hausenblas,User,"Galway, Ireland",53.27066800000001,-9.0567905,Galway,Ireland
+nedwill,Ned Williamson,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States
+adtac,Adhityaa Chandrasekar,User,,,,,
+melnik909,Stas Melnikov,User,"Penza, Russia",53.22729029999999,45.0,Penza,Russia
+robbiebarrat,Robbie Barrat,User,WV,38.59762620000001,-80.4549026,,United States
+drakeet,drakeet,User,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China
+255kb,Guillaume,User,Luxembourg,49.815273,6.1295829999999984,,Luxembourg
+eBardX,J. G. Pusey,User,"Cos Cob, CT",41.0340436,-73.59964719999998,Greenwich,United States
+square,Square,Organization,,,,,
+qieguo2016,茄果,User,,,,,
+zaaach,Bro0cL,User,,,,,
+emilk,Emil Ernerfeldt,User,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden
+sarahsharp,Sarah Sharp,User,,,,,
+SmartisanTech,,Organization,,,,,
+mariusandra,Marius Andra,User,"Leuven, Belgium",50.879843799999996,4.7005175999999995,Leuven,Belgium
+scottlawsonbc,Scott Lawson,User,,,,,
+duffn,Nicholas Duffy,User,"Colorado, USA",39.55005070000001,-105.78206740000002,,United States
+soumith,Soumith Chintala,User,"New York, USA",40.7127837,-74.00594129999999,New York,United States
+leegao,Lee Gao,User,"Menlo Park, CA",37.4529598,-122.1817252,Menlo Park,United States
+rolandleth,Roland Leth,User,"Bucharest, Romania",44.4267674,26.1025384,Bucharest,Romania
+RedBeardLab,,Organization,,,,,
+junrushao1994,Junru Shao,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China
+eliorshalev,Elior Shalev Tabeka,User,Tel Aviv,32.0852999,34.78176759999999,Tel Aviv-Yafo,Israel
+aleks,Aleks,User,Germany,51.165690999999995,10.451526,,Germany
+aporeto-inc,Aporeto,Organization,"San Jose, CA",37.338208200000004,-121.88632859999998,San Jose,United States
+songixan,songxian,User,,,,,
+Augustyniak,Rafał Augustyniak,User,Warsaw,52.2296756,21.012228699999998,Warsaw,Poland
+franela,,Organization,,,,,
+yrq110,,User,"Beijing, China",39.904211,116.407395,Beijing,China
+LendingHome,LendingHome,Organization,,,,,
+hindupuravinash,Avinash Hindupur,User,,,,,
+VivaReal,VivaReal,Organization,"São Paulo, Brasil",-23.550519899999998,-46.63330939999999,São Paulo,Brazil
+andreleon,Léon Smit,User,Amsterdam,52.3702157,4.8951679000000015,Amsterdam,Netherlands
+tencentyun,腾讯云,Organization,shenzhen,22.543096,114.05786499999999,Shenzhen,China
+pubkey,Daniel M,User,"Germany, Stuttgart",48.7758459,9.1829321,Stuttgart,Germany
+stickermule,Sticker Mule,Organization,Earth,34.233137299999996,-102.4107493,Earth,United States
+xairy,Andrey Konovalov,User,,,,,
+cysmith,Cameron,User,,,,,
+stamparm,Miroslav Stampar,User,"Zagreb, Croatia",45.815010799999996,15.981919,Zagreb,Croatia
+michael-yin,Michael Yin,User,China.YiChang,30.691966999999998,111.28647099999999,Yichang,China
+fuse-box,,Organization,,,,,
+lygttpod,,User,,,,,
+ashtuchkin,Alexander Shtuchkin,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+avatsaev,Vatsaev Aslan,User,,,,,
+spacelan,SPACELAN,User,Beijing,39.904211,116.407395,Beijing,China
+robinhouston,Robin Houston,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+skelterjohn,John Asmuth,User,"New York, New York",,,,
+DmitriyZaitsev,Dmitriy Zaitsev,User,"Kiev, UA",50.4501,30.5234,Kiev,Ukraine
+elky,elky,User,"Chelyabinsk, Russia",55.1644419,61.4368431,Chelyabinsk,Russia
+webkul,Webkul,User,"Noida , India",28.535516100000002,77.3910265,Noida,India
+mylxsw,管宜尧,User,China,35.86166,104.195397,,China
+elsehow,nick merrill,User,berkeley,,,,
+metafizzy,Metafizzy,Organization,"Alexandria, VA",38.804835499999996,-77.0469214,Alexandria,United States
+wesbos,Wes Bos,User,"Hamilton, Ontario",43.255720600000004,-79.87110240000001,Hamilton,Canada
+netyouli,吴海超(WHC),User,shanghai,31.230415999999998,121.473701,Shanghai,China
+escherize,Bryan Maass,User,"Sydney, NSW, Australia",-33.8688197,151.2092955,Sydney,Australia
+izelnakri,Izel Nakri,User,Amsterdam,52.3702157,4.8951679000000015,Amsterdam,Netherlands
+orangetw,Orange Tsai,User,Taiwan,23.69781,120.96051499999999,,Taiwan
+wangshaolei,Len,User,ZhengZhou,34.746611,113.625328,Zhengzhou,China
+OlegIlyenko,Oleg Ilyenko,User,localhost,,,,
+joowani,Joohwan Oh,User,,,,,
+LineageOS,Lineage Android Distribution,Organization,,,,,
+anantzoid,Anant Gupta,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India
+thanhtungdp,Phan Thanh Tùng,User,,,,,
+devsideal,|))EV/EN,User,"Indore MP, India",22.7195687,75.8577258,Indore,India
+carloscuesta,Carlos Cuesta,User,Barcelona,41.3850639,2.1734035,Barcelona,Spain
+LuoboDcom,yoosir,User,,,,,
+liuchengxu,Liu-Cheng Xu,User,,,,,
+kf99916,Zheng-Xiang Ke,User,"Taipei, Taiwan",25.032963600000002,121.5654268,,Taiwan
+mtojek,Marcin Tojek,User,"Gdansk, Poland",54.35202520000001,18.6466384,Gdańsk,Poland
+RxSwiftCommunity,RxSwift Community,Organization,World,,,,
+huang303513,xibeifeng,User,上海,31.230415999999998,121.473701,Shanghai,China
+nicehash,NiceHash.com,Organization,,,,,
+vusec,VUSec,Organization,,,,,
+iphone5solo,CoderKo1o,User,,,,,
+ElemeFE,饿了么前端,Organization,Shanghai,31.230415999999998,121.473701,Shanghai,China
+haya14busa,haya14busa,User,"Kyoto, Japan",35.01163629999999,135.7680294,Kyoto,Japan
+electerious,Tobias Reich,User,Germany,51.165690999999995,10.451526,,Germany
+WhiteHouse,The White House,Organization,"Washington, D.C.",38.9071923,-77.03687070000001,Washington,United States
+tidwall,Josh Baker,User,"Tempe, AZ",33.4255104,-111.9400054,Tempe,United States
+jpmorganchase,J.P. Morgan,Organization,,,,,
+gchq,GCHQ,Organization,UK,55.378051,-3.435973,,United Kingdom
+dduan,Daniel Duan,User,,,,,
+onmyway133,Khoa Pham,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway
+buriburisuri,Namju Kim,User,"Gangnam, Seoul, Republic of Korea.",37.51723629999999,127.04732479999998,Seoul,South Korea
+commaai,,Organization,,,,,
+damiantw,,User,,,,,
+octobox,Octobox,Organization,,,,,
+ratiw,Rati Wannapanop,User,Thailand,15.870032,100.992541,,Thailand
+veertuinc,Veertu Inc,Organization,US,37.09024,-95.712891,,United States
+bufferapp,Buffer,Organization,,,,,
+ysrc,YSRC,Organization,,,,,
+jacquerie,Jacopo Notarstefano,User,"Geneva, Switzerland",46.2043907,6.143157700000001,Geneva,Switzerland
+JoaquimLey,Joaquim Ley,User,"Lisbon, Portugal",38.722252399999995,-9.1393366,Lisbon,Portugal
+SilenceDut,,User,"GuangZhou,China",23.12911,113.264385,Guangzhou,China
+huacnlee,Jason Lee,User,"Chengdu,China",30.572815999999996,104.066801,Chengdu,China
+mike-schultz,Mike Schultz,User,"San Diego, CA",32.715738,-117.1610838,San Diego,United States
+torchhound,JC,User,"Bloomington, Indiana",39.165325,-86.52638569999998,Bloomington,United States
+web-pal,Web-Pal,Organization,Moscow,55.755826,37.6173,Moscow,Russia
+asmcup,Assembly Cup,Organization,,,,,
+SullyChen,Sully Chen,User,Los Angeles,34.0522342,-118.24368490000002,Los Angeles,United States
+AnthonyCalandra,Anthony Calandra,User,"Waterloo, Ontario, Canada",43.4642578,-80.5204096,Waterloo,Canada
+caisah,,User,"Cluj Napoca, Romania",46.771210100000005,23.6236353,Cluj-Napoca,Romania
+VictorAlbertos,Víctor Albertos,User,Alicante (Spain),38.345996299999996,-0.49068549999999994,Alicante,Spain
+tholman,Tim Holman,User,"NYC, for the most part.",,,,
+yingLanNull,yingLan,User,BeiJing,39.904211,116.407395,Beijing,China
+mwichary,Marcin Wichary,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+Yalantis,Yalantis,Organization,"Ukraine, Dnipro",48.464717,35.046183,Dnipro,Ukraine
+zagum,Zagumennyi Evgenii,User,,,,,
+spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium
+alexjc,Alex J. Champandard,User,"Vienna, Austria",48.208174299999996,16.3738189,Vienna,Austria
+adamcooke,Adam Cooke,User,"Dorset, United Kingdom",50.7487635,-2.3444786,,United Kingdom
+xsank,xsank,User,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China
+suzeyu1992,szysky,User,BeiJing,39.904211,116.407395,Beijing,China
+music4kid,mrpeak,User,HangZhou,30.274084999999996,120.15507,Hangzhou,China
+wepyjs,wepy,Organization,,,,,
+Sloy,Rafa Vázquez,User,"Barcelona, Spain",41.3850639,2.1734035,Barcelona,Spain
+jakearchibald,Jake Archibald,User,,,,,
+johnno1962,John Holdsworth,User,London Docklands,,,,
+jcc,Jiajian Chan,User,Guangzhou,23.12911,113.264385,Guangzhou,China
+andrealufino,Andrea Mario Lufino,User,"Milan, Italy",45.465421899999996,9.1859243,Milan,Italy
+sylvainpolletvillard,Sylvain Pollet-Villard,User,,,,,
+steventroughtonsmith,Steven Troughton-Smith,User,"Dublin, Ireland",53.34980529999999,-6.2603097000000005,Dublin,Ireland
+gongwen,龚文,User,BeiJing,39.904211,116.407395,Beijing,China
+the-control-group,The Control Group,Organization,San Diego,32.715738,-117.1610838,San Diego,United States
+jbogard,Jimmy Bogard,User,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States
+tiann,weishu,User,"Beijing, China",39.904211,116.407395,Beijing,China
+tiantianlan,tianlan,User,,,,,
+engineerapart,,Organization,,,,,
+samayshamdasani,Samay Shamdasani,User,"New Jersey, USA",40.0583238,-74.40566120000001,,United States
+Freelander,G军仔,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China
+BeppiMenozzi,,User,,,,,
+prahladyeri,Prahlad Yeri,User,"Pune, India",18.5204303,73.85674370000001,Pune,India
+travisjeffery,Travis Jeffery,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada
+jimfleming,Jim Fleming,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+sjchoi86,Sungjoon,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea
+nuxt,NUXT,Organization,,,,,
+ryanhoo,Ryan Hoo,User,"Shenzhen, China.",22.543096,114.05786499999999,Shenzhen,China
+armcha,Arman,User,Armenia,40.069099,45.038189,,Armenia
+nolimits4web,Vladimir Kharlampidi,User,"Rostov-on-Don, Russia",47.235713700000005,39.701505,Rostov-on-Don,Russia
+bgryszko,Bart Gryszko,User,,,,,
+vikramkakkar,Vikram,User,"Toronto, ON",43.653226000000004,-79.3831843,Toronto,Canada
+garretyoder,Garret Yoder,User,United States,37.09024,-95.712891,,United States
+yanbober,yanbo,User,ZhuHai,22.270978,113.576678,Zhuhai,China
+aker-gateway,Aker SSH Gateway,Organization,,,,,
+yenchenlin,Yen,User,,,,,
+mhaagens,Martin,User,,,,,
+seiferteric,Eric Seifert,User,"Sacramento, CA",38.5815719,-121.49439960000001,Sacramento,United States
+Kelin-Hong,KelinHong,User,"XiaMen,China",24.479834,118.089425,Xiamen,China
+ChyengJason,俊森,User,,,,,
+candostdagdeviren,Candost Dagdeviren,User,"Hamburg, Germany",53.5510846,9.993681800000001,Hamburg,Germany
+neveragaindottech,,Organization,,,,,
+QConChina,,User,,,,,
+CityOfBoston,City of Boston,Organization,"Boston, Massachusetts, USA",42.360082500000004,-71.0588801,Boston,United States
+Ajian-studio,GAStudio,User,"Beijing,China",39.904211,116.407395,Beijing,China
+lorentey,Károly Lőrentey,User,"Budapest, Hungary",47.497912,19.040235,Budapest,Hungary
+ptmt,Dima,User,Novosibirsk,55.00835259999999,82.9357327,Novosibirsk,Russia
+paf31,Phil Freeman,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States
+mseclab,Mobile Security Lab,Organization,Rome,41.902783500000005,12.4963655,Rome,Italy
+googlesamples,Google Samples,Organization,,,,,
+fashare2015,梁山boy,User,,,,,
+ExtremeMart,ExtremeMart(极市平台),Organization,,,,,
+sfermigier,Stefane Fermigier,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+ChaosForge,,Organization,,,,,
+almonk,Alasdair Monk,User,,,,,
+ethan-funny,Ethan,User,,,,,
+ImmortalZ,ImmortalZ,User,Cheng du ,30.572815999999996,104.066801,Chengdu,China
+Mrs4s,,User,,,,,
+aspnet,,Organization,,,,,
+sasojadrovski,Sasho Jadrovski,User,"Skopje, Macedonia",41.9973462,21.4279956,Skopje,Macedonia (FYROM)
+hackiftekhar,Mohd Iftekhar Qurashi,User,"Chandametta, Madhya Pradesh, India",22.1861902,78.74195279999998,Chandameta-Butaria,India
+jgthms,Jeremy Thomas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+yuguo,余果,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China
+plu,Johannes Plunien,User,"Dubai, UAE",25.204849300000003,55.2707828,Dubai,United Arab Emirates
+julian121266,Julian Zilly,User,Switzerland,46.818188,8.227511999999999,,Switzerland
+antisnatchor,antisnatchor,User,,,,,
+pypa,Python Packaging Authority,Organization,,,,,
+renatomarinho,Renato Marinho,User,LX-PT / RJ-BR,,,,
+Developer-Y,,User,,,,,
+donutloop,Marcel Edmund Franke,User,Berlin,52.52000659999999,13.404954,Berlin,Germany
+mergesort,Joe Fabisevich,User,New York City,40.7127837,-74.00594129999999,New York,United States
+gudegg,gude,User,"Hangzhou,China",30.274084999999996,120.15507,Hangzhou,China
+spotbugs,,Organization,,,,,
+allenwong,Allen Wang,User,"Hangzhou, China.",30.274084999999996,120.15507,Hangzhou,China
+aziz,Allen Bargi,User,"Gothenburg, Sweden",57.70887,11.97456,Gothenburg,Sweden
+initialstate,Initial State,Organization,"Nashville, TN",36.1626638,-86.78160159999999,Nashville,United States
+harlanhaskins,Harlan,User,"Rochester, NY 14623",43.0915814,-77.6421577,Rochester,United States
+josephernest,,User,Orleans (France),47.902964000000004,1.9092509999999998,Orléans,France
+kubek2k,Jakub Janczak,User,,,,,
+keonkim,Keon Kim,User,NYC,40.7127837,-74.00594129999999,New York,United States
+guolindev,郭霖,User,,,,,
+SonyCSL-Paris,Sony CSL Paris,Organization,,,,,
+mempodippy,blank,User,"Edinburgh, Scotland",55.953252,-3.1882669999999997,Edinburgh,United Kingdom
+kaienkira,kaien,User,Shanghai.China,31.230415999999998,121.473701,Shanghai,China
+mikeal,Mikeal Rogers,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+zhonghanwen,HanWen,User,"GuangZhou, China",23.12911,113.264385,Guangzhou,China
+jiang111,NewTab,User,"Wuxi, China",31.49117,120.31191000000001,Wuxi,China
+rstacruz,Rico Sta. Cruz,User,"Manila, Philippines",14.599512400000002,120.98421950000001,Manila,Philippines
+CreatCodeBuild,Albert X.W.,User,USA,37.09024,-95.712891,,United States
+Gorcenski,Emily Gorcenski,User,,,,,
+igogo-x86,,User,,,,,
+daniel-stoneuk,Daniel Stone,User,United Kingdom,55.378051,-3.435973,,United Kingdom
+alecrios,,User,,,,,
+Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States
+googlecreativelab,Google Creative Lab,Organization,,,,,
+bailicangdu,cangdu,User,shanghai,31.230415999999998,121.473701,Shanghai,China
+sangupta,Sandeep Gupta,User,Noida - India,28.535516100000002,77.3910265,Noida,India
+kennethreitz,Kenneth Reitz,User,"Winchester, VA",39.1856597,-78.16333409999999,Winchester,United States
+lyb5834,yuanbo li,User,,,,,
+huangyaoxin,Hyx,User,郑州,34.746611,113.625328,Zhengzhou,China
+Cosmo,Devran Ünal,User,"Munich, Germany",48.1351253,11.5819806,Munich,Germany
+orazz,Orazz,User,"Ashgabat, Turkmenistan",37.9600766,58.32606289999999,Ashgabat,Turkmenistan
+figs-lab,Figs,Organization,"Paris, France",48.856614,2.3522218999999995,Paris,France
+kalessil,Vladimir Reznichenko,User,"Karlsruhe, Germany",49.0068901,8.403652699999999,Karlsruhe,Germany
+raphaelfabeni,Raphael Fabeni,User,São Paulo/SP,-23.550519899999998,-46.63330939999999,São Paulo,Brazil
+DreaminginCodeZH,Zhang Hai,User,"Hangzhou, Zhejiang",30.274084999999996,120.15507,Hangzhou,China
+evilcos,evilcos,User,,,,,
+NghiaTranUIT,Nghia Tran,User,"Ho Chi Minh City, Viet Nam",10.8230989,106.6296638,Ho Chi Minh City,Vietnam
+yandex,Yandex,Organization,"Moscow, Russia",55.755826,37.6173,Moscow,Russia
+Assassinss,ShangjingZhu,User,GuangZhou,23.12911,113.264385,Guangzhou,China
+weslleyaraujo,Weslley Araujo,User,Amsterdam,52.3702157,4.8951679000000015,Amsterdam,Netherlands
+intelxed,,Organization,Massachusetts,42.4072107,-71.3824374,,United States
+castial,,User,,,,,
+jakebian,Jake Bian,User,SF,37.7749295,-122.4194155,San Francisco,United States
+dollarshaveclub,Dollar Shave Club,Organization,"Venice, CA",33.9850469,-118.4694832,Los Angeles,United States
+zhengmin1989,Min (Spark) Zheng,User,,,,,
+bikkelbroeders,Bikkelbroeders,Organization,Delft,52.01157689999999,4.3570677,Delft,Netherlands
+douban,Douban Inc.,Organization,"Beijing, China",39.904211,116.407395,Beijing,China
+uptownhr,James Lee,User,Los Angeles,34.0522342,-118.24368490000002,Los Angeles,United States
+IFSight,IF,Organization,,,,,
+insidegui,Guilherme Rambo,User,Brazil,-14.235004,-51.92528,,Brazil
+SwiftOldDriver,Swift老司机活动中心,Organization,China,35.86166,104.195397,,China
+andywer,Andy Wermke,User,"Leipzig, Germany",51.339695500000005,12.373074699999998,Leipzig,Germany
+limedroid,WangLei,User,Shenzhen.China,22.543096,114.05786499999999,Shenzhen,China
+o3ma,open Threema ,Organization,,,,,
+gutfeeling,Dibya Chakravorty,User,India,20.593684,78.96288,,India
+lacion,Luis Morales,User,Madrid,40.4167754,-3.7037902000000003,Madrid,Spain
+kangzubin,Zubin,User,"Beijing, China",39.904211,116.407395,Beijing,China
+atongen,Andrew Tongen,User,"Minneapolis, MN",44.977753,-93.2650108,Minneapolis,United States
+EnjoySR,EnjoySR,User,,,,,
+ben-eb,Ben Briggs,User,,,,,
+mifi,Mikael Finstad,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway
+team-emt,,Organization,,,,,
+reedscot,Scott Ellison Reed,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+OrRon,Or Ron,User,Israel,31.046051000000002,34.851612,,Israel
+NaNoGenMo,National Novel Generation Month,Organization,,,,,
+ncase,Nicky Case,User,,,,,
+corna,Nicola Corna,User,"Bergamo, Italy",45.698264200000004,9.677269800000001,Bergamo,Italy
+edopelawi,Ricardo Pramana Suranta,User,"Jakarta, ID",-6.1744651,106.822745,,Indonesia
+toddmotto,Todd Motto,User,"England, UK",52.3555177,-1.1743197,,United Kingdom
+Onix-Systems,Onix-Systems,Organization,Ukraine,48.379433,31.16558,,Ukraine
+codemybrainsout,codemybrainsout,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India
+Piasy,Piasy,User,"Beijing, China",39.904211,116.407395,Beijing,China
+fail0verflow,fail0verflow,Organization,,,,,
+laravel,The Laravel PHP Framework,Organization,,,,,
+LinXunFeng,林洵锋,User,"ShenZhen, China",22.543096,114.05786499999999,Shenzhen,China
+markohlebar,Marko Hlebar,User,,,,,
+google,Google,Organization,,,,,
+grame-cncm,GRAME,Organization,Lyon,45.764043,4.835659,Lyon,France
+vue-play,,Organization,,,,,
+WhiskerzAB,Whiskerz AB,Organization,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden
+PyCN,PyCN,Organization,China,35.86166,104.195397,,China
+niniloveyou,deadline,User,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China
+Stuie,Stuart Gilbert,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+songrotek,Flood Sung,User,China,35.86166,104.195397,,China
+EduardoPires,Eduardo Pires,User,São Paulo,-23.550519899999998,-46.63330939999999,São Paulo,Brazil
+phith0n,phithon,User,,,,,
+XhstormR,XhstormR,User,China,35.86166,104.195397,,China
+callmelanmao,callmelanmao,User,,,,,
+ipselon,Alex Pustovalov,User,Ukraine,48.379433,31.16558,,Ukraine
+ageitgey,Adam Geitgey,User,Various places,,,,
+xenione,Xenione,User,Valencian Country,39.48401079999999,-0.7532808999999999,,Spain
+weavejester,James Reeves,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+mikaa123,Michael Sokol,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+murat-cileli,Murat Çileli,User,Turkey,38.963745,35.243322,,Turkey
+BohdanOrlov,Bohdan Orlov,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+graydon,Graydon Hoare,User,"Vancouver, BC",49.282729100000005,-123.1207375,Vancouver,Canada
+race604,吴晶,User,"Beijing, China",39.904211,116.407395,Beijing,China
+nickbutcher,Nick Butcher,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+codrops,Codrops,Organization,,,,,
+pawelgrzybek,Pawel Grzybek,User,Northampton / UK,52.240477,-0.902656,Northampton,United Kingdom
+ittianyu,ittianyu,User,,,,,
+evermeer,Edwin Vermeer,User,Wieringerwaard,52.8356223,4.8624722,Wieringerwaard,Netherlands
+ayushoriginal,Ayush Pareek,User,,,,,
+BruceDone,Bruce Tang,User,China ShenZhen,22.543096,114.05786499999999,Shenzhen,China
+SKAhack,Hiroki Sato,User,Japan,36.204824,138.252924,,Japan
+luyishisi,luyishisi,User,,,,,
+modood,mwn,User,TianJin.China,39.084158,117.20098300000001,Tianjin,China
+Evolving-AI-Lab,Evolving Artificial Intelligence Lab,Organization,University of Wyoming,41.3130972,-105.5796706,Laramie,United States
+RobinLinus,RobinLinus,User,,,,,
+sahandnayebaziz,Sahand Nayebaziz,User,"New York, New York",,,,
+begla,Benjamin Glatzel,User,Germany,51.165690999999995,10.451526,,Germany
+gnehsuy,,User,,,,,
+clab,Chris Dyer's lab @ LTI/CMU,Organization,Pittsburgh,40.44062479999999,-79.9958864,Pittsburgh,United States
+deepmind,,Organization,,,,,
+UFreedom,UFreedom,User,Beijing.China,39.904211,116.407395,Beijing,China
+gsh199449,GaoShen,User,,,,,
+1ppm,1PPM Club,User,Global,,,,
+monterail,Monterail,Organization,"Wrocław, Poland",51.1078852,17.0385376,Wrocław,Poland
+kendricktan,Kendrick Tan,User,"Brisbane, Australia",-27.469770699999998,153.0251235,Brisbane,Australia
+sergdort,,User,,,,,
+GiacomoLaw,Giacomo Lawrance,User,UK,55.378051,-3.435973,,United Kingdom
+vesche,Austin Jackson,User,USA,37.09024,-95.712891,,United States
+LiuXingMing,幸明老匹夫,User,China.Guangzhou,23.12911,113.264385,Guangzhou,China
+irfaan008,Irfan Raza,User,"Delhi, India",28.7040592,77.10249019999998,,India
+gradiuscypher,gradius,User,Internet Spaceship,,,,
+CoderVan,Aim,User,,,,,
+amitshekhariitbhu,AMIT SHEKHAR,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India
+andreapaiola,Andrea Paiola,User,"Turin, Italy",45.070312,7.686856499999998,Turin,Italy
+dagrz,Daniel Grzelak,User,Australia,-25.274398,133.775136,,Australia
+awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States
+dhirajjadhao,Dhiraj Rajendra Jadhao,User,"Pune, India",18.5204303,73.85674370000001,Pune,India
+Qihoo360,Qihoo 360,Organization,"Beijing, China",39.904211,116.407395,Beijing,China
+cytopia,cytopia,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany
+jeffjose,Jeffrey Jose,User,"Philadelphia, PA",39.9525839,-75.1652215,Philadelphia,United States
+James-Gallagher,James Gallagher,User,United Kingdom,55.378051,-3.435973,,United Kingdom
+sbrugman,Simon Brugman,User,,,,,
+chenenyu,Half Stack,User,Beijing.China,39.904211,116.407395,Beijing,China
+AI-ON,,Organization,,,,,
+jedisct1,Frank Denis,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States
+dekimir,Dejan Mircevski,User,"Waterloo, Ontario",43.4642578,-80.5204096,Waterloo,Canada
+ssseasonnn,Season,User,ChengDu,30.572815999999996,104.066801,Chengdu,China
+anantdgoel,Anant Goel,User,,,,,
+wendigo,Mateusz Gajewski,User,"Poland, Warsaw",52.2296756,21.012228699999998,Warsaw,Poland
+jonschlinkert,Jon Schlinkert,User,"Cincinnati, OH",39.103118200000004,-84.5120196,Cincinnati,United States
+wangdicoder,Di Wang,User,"Melbourne, VIC, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia
+weixin,微信,Organization,"Guangzhou, China",23.12911,113.264385,Guangzhou,China
+llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+oelmekki,Olivier El Mekki,User,"Dijon, France",47.322047,5.04148,Dijon,France
+mancj,Mansur,User,Russia,61.52401,105.31875600000001,,Russia
+kevalpatel2106,Keval Patel,User,Ahemedabad,23.022505,72.57136209999999,Ahmedabad,India
+PabloSichert,Pablo Sichert,User,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark
+Enny1991,Enea Ceolini,User,,,,,
+jhao104,,User,,,,,
+mayubao,,User,,,,,
+emmanuel-keller,Emmanuel Keller,User,,,,,
+ivanceras,,User,,,,,
+NodensN,,User,Bordeaux,44.837789,-0.57918,Bordeaux,France
+erikras,Erik Rasmussen,User,Spain,40.46366700000001,-3.7492199999999998,,Spain
+bvaughn,Brian Vaughn,User,"Mountain View, CA",37.3860517,-122.08385109999999,Mountain View,United States
+devongovett,Devon Govett,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+Cyclenerd,Nils,User,"Hamburg, Germany",53.5510846,9.993681800000001,Hamburg,Germany
+Raizlabs,Raizlabs,Organization,Boston & Bay Area,42.12978760000001,-72.5283457,Springfield,United States
+florent37,Florent CHAMPIGNY,User,France,46.227638,2.213749,,France
+baoyongzhang,Mr.Bao,User,"Beijing, China",39.904211,116.407395,Beijing,China
+dop251,Dmitry Panov,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+FJ917,,User,,,,,
+CarGuo,Shuyu Guo,User,China,35.86166,104.195397,,China
+erttyy8821,DA-XIA,User,Taiwan,23.69781,120.96051499999999,,Taiwan
+antonioribeiro,Antonio Carlos Ribeiro,User,,,,,
+chain,Chain,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+a371166028,Marshon,User,,,,,
+tobefuturer,杨君,User,,,,,
+Ishmeetsingh97,Ishmeet Singh,User,Chandigarh,30.7333148,76.7794179,Chandigarh,India
+ParhamP,Parham Pourdavood,User,"Los Angeles, California",34.0522342,-118.24368490000002,Los Angeles,United States
+ronaldsmartin,Ronald Martin,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+sabresaurus,Sabresaurus,User,,,,,
+QMUI,QMUI 团队,Organization,"Guangzhou, China",23.12911,113.264385,Guangzhou,China
+summerblue,CharlieJade,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China
+memfis19,Rodion Surzhenko,User,Ukraine,48.379433,31.16558,,Ukraine
+HuTianQi,hq_sunshine,User,,,,,
+lukehaas,Luke Haas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+sroberts,Scott J. Roberts,User,"Columbus, OH",39.9611755,-82.99879419999998,Columbus,United States
+keepcosmos,Jaehyun Shin,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea
+rubensousa,Rúben Sousa,User,"Braga, Portugal",41.5454714,-8.4265071,,Portugal
+stedmeister,,User,,,,,
+StanlyHardy,Stanly Moses,User,Madurai,9.9252007,78.11977540000001,Madurai,India
+maysrp,Xiaosea,User,china,35.86166,104.195397,,China
+SilverMoonSecurity,moony li,User,,,,,
+clr2of8,Carrie Roberts,User,,,,,
+geohot,George Hotz,User,"Glen Rock, NJ",40.9628758,-74.1329207,Glen Rock,United States
+dianping,大众点评网,Organization,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China
+knowbody,Mateusz Zatorski,User,London,51.5073509,-0.12775830000000002,London,United Kingdom
+IntruderShanky,Intruder Shanky,User,"Sonepat, Haryana",28.9287735,77.09128100000002,Sonipat,India
+ennioma,Ennio,User,"London, Naples",40.8829943,14.286579199999998,Napoli,Italy
+samyk,Samy Kamkar,User,"Los Angeles, California",34.0522342,-118.24368490000002,Los Angeles,United States
+jrvansuita,Júnior Vansuita,User,"Gaspar - SC, Brazil",-26.9340955,-48.95390689999999,Gaspar,Brazil
+gjiazhe,郭佳哲,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China
+youngsoft,欧阳大哥,User,Beijing China,39.904211,116.407395,Beijing,China
+php-pds,,Organization,,,,,
+chrisallenlane,Chris Allen Lane,User,"Gainesville, FL",29.6516344,-82.32482619999998,Gainesville,United States
+barryhappy,Barry,User,"Shanghai,China",31.230415999999998,121.473701,Shanghai,China
+diegohaz,Haz,User,"Rio de Janeiro, Brazil",-22.9068467,-43.1728965,Rio de Janeiro,Brazil
+tarek360,Ahmed Tarek,User,Egypt,26.820553000000004,30.802497999999996,,Egypt
+cameronfabbri,Cameron Fabbri,User,"Rome, NY",43.2128473,-75.4557303,Rome,United States
+paarthneekhara,Paarth Neekhara,User,IIT Roorkee,,,,
+Karumi,Karumi,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain
+pcevikogullari,Pamir Cevikogullari,User,Istanbul / Turkey,41.0082376,28.978358899999996,Istanbul,Turkey
+petergerner,Gerner Péter,User,Budapest,47.497912,19.040235,Budapest,Hungary
+jobandtalent,jobandtalent,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain
+lelandrichardson,Leland Richardson,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+uptechteam,UPTech,Organization,Kiev,50.4501,30.5234,Kiev,Ukraine
+HalfStackDeveloper,HalfStackDeveloper,User,Beijing China,39.904211,116.407395,Beijing,China
+marciok,Marcio Klepacz,User,,,,,
+Zeta36,Samuel Graván,User,Spain,40.46366700000001,-3.7492199999999998,,Spain
+yannickl,Yannick Loriot,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+jcjohnson,Justin Johnson,User,,,,,
+tmoreton,Tim Moreton Jr,User,"New York City, NY",40.7127837,-74.00594129999999,New York,United States
+facebooknuclide,Facebook Nuclide,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States
+ChangQing666,ChangQing,User,,,,,
+jmurzy,Jake Murzy,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+boywhp,,User,,,,,
+JSBros,,Organization,Online,,,,
+jrummyapps,JRummy Apps Inc.,Organization,"Orange County, California",33.7174708,-117.83114280000001,,United States
+sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,
+timwr,Tim,User,,,,,
+zhangyuChen1991,zhangyu,User,ShenZhen_China,22.543096,114.05786499999999,Shenzhen,China
+diamondlin2016,,User,,,,,
+yassineaddi,Yassine Addi,User,Morocco,31.791702,-7.092619999999998,,Morocco
+DaylightingSociety,The Daylighting Society,Organization,,,,,
+weui,WeUI,Organization,Guangzhou China,23.12911,113.264385,Guangzhou,China
+clari,Clari,Organization,Mountain View,37.3860517,-122.08385109999999,Mountain View,United States
+chendo,Jack Chen,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia
+gloriajs,Gloria,Organization,,,,,
+dreamapplehappy,dreamapple,User,Hangzhou,30.274084999999996,120.15507,Hangzhou,China
+JZ-Darkal,Darkal,Organization,,,,,
+FGRibreau,Francois-Guillaume Ribreau,User,"Nantes, France",47.218371000000005,-1.553621,Nantes,France
+chemzqm,Qiming zhao,User,"Beijing, China",39.904211,116.407395,Beijing,China
+sihaelov,Michael Sinov,User,Russia,61.52401,105.31875600000001,,Russia
+jineshfrancs,Jinesh Francis,User,Banglore,12.9715987,77.5945627,Bengaluru,India
+jxnblk,Brent Jackson,User,New York City,40.7127837,-74.00594129999999,New York,United States
+cvondrick,Carl Vondrick,User,"Cambridge, MA",42.373615799999996,-71.10973349999998,Cambridge,United States
+zeit,ZEIT,Organization,,,,,
+malcommac,Daniele Margutti,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy
+hharnisc,Harrison Harnisch,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States
+DiSiqueira,Diego Siqueira,User,"Bauru, São Paulo - Brasil",-22.314459,-49.0586951,Bauru,Brazil
+jitamin,jitamin,Organization,,,,,
+threepointone,Sunil Pai,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India
+joggerplus,JoggerPlus,Organization,"Beijing,China",39.904211,116.407395,Beijing,China
+androidessence,,Organization,,,,,
+weavey,Weavey,User,China,35.86166,104.195397,,China
+milochristiansen,Milo Christiansen,User,"Michigan, USA",44.3148443,-85.60236429999998,,United States
+SwiftyWang,SwiftyWang,User,Hong Kong,22.396428,114.10949699999999,,Hong Kong
+JoySeeDog,,User,,,,,
+serverless,Serverless,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+thelong1EU,Razvan Lung,User,România,45.943160999999996,24.96676,,Romania
+benjamin-42,Benjamin Randazzo,User,"Paris, France",48.856614,2.3522218999999995,Paris,France
+icindy,Di,User,四川成都,30.572815999999996,104.066801,Chengdu,China
+BreakingMalwareResearch,,Organization,,,,,
+ivantsov,Alexander Ivantsov,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany
+trailofbits,Trail of Bits,Organization,"New York, New York",,,,
+giuseppeg,Giuseppe,User,,,,,
+JamesTheHacker,JamesTheHacker,User,United Kingdom,55.378051,-3.435973,,United Kingdom
+TorchCraft,,Organization,,,,,
+uncleleonfan,,User,,,,,
+go-gitea,Gitea,Organization,Git Earth,,,,
+ericmjonas,Eric Jonas,User,,,,,
+slackhq,Slack,Organization,San Francisco & Vancouver,47.11034,-122.594948,Joint Base Lewis-McChord,United States
+krakjoe,Joe Watkins,User,United Kingdom,55.378051,-3.435973,,United Kingdom
+hugorut,Hugo Rut,User,,,,,
+chvin,Chvin,User,"China,HangZhou",30.274084999999996,120.15507,Hangzhou,China
+samanyougarg,Samanyou Garg,User,"Manchester, United Kingdom",53.4807593,-2.2426305,Manchester,United Kingdom
+roman01la,Roman Liutikov,User,"Kyiv, Ukraine",50.4501,30.5234,Kiev,Ukraine
+qieangel2013,Qiufang Zhang,User,"Beijing, China",39.904211,116.407395,Beijing,China
+zzarcon,Hector Zarco ,User,✈,,,,
+bs-detector,B.S. Detector,Organization,,,,,
+TheAbhiKumar,Abhishek Kumar,User,UC San Diego,,,,
+nst,Nicolas Seriot,User,Switzerland,46.818188,8.227511999999999,,Switzerland
+dmotz,Dan Motzenbecker,User,NYC,40.7127837,-74.00594129999999,New York,United States
+cstockton,Chris Stockton,User,"Phoenix, AZ, USA",33.4483771,-112.07403729999999,Phoenix,United States
+sveltejs,Svelte,Organization,,,,,
+weaveworks,Weaveworks,Organization,"London, Berlin and San Francisco",,,,
+manasthakur,Manas Thakur,User,"Chennai, India",13.0826802,80.2707184,Chennai,India
+surikov,Srgy Surkv,User,"Nizhniy Novgorod, Russia",56.2965039,43.9360589,Nizhny Novgorod,Russia
+nikgraf,Nik Graf,User,Vienna / San Francisco,37.719601000000004,-122.431207,San Francisco,United States
+davedavehong,dai hong,User,,,,,
+GraphQLSwift,GraphQL Swift,Organization,,,,,
+fishwjy,Vincent,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China
+JonathanSalwan,Jonathan Salwan,User,France - Gulf of Morbihan,47.562980100000004,-2.7696572999999995,,France
+michelson,Miguel Michelson Martinez,User,"Santiago, Chile",-33.4488897,-70.66926550000001,Santiago,Chile
+vaigunth,Vaigunth Chakkarapani,User,,,,,
+ymgd,codereader,User,Beijing,39.904211,116.407395,Beijing,China
+MakeNowJust,TSUYUSATO Kitsune,User,"Japan, Tokyo",35.6894875,139.69170640000002,,Japan
+turbo,minxomat,User,Leipzig & London,51.4220814,12.2203805,Schkeuditz,Germany
+liumingmusic,nextPage,User,"Chengdu City, Sichuan Province",30.572815999999996,104.066801,Chengdu,China
+rusher81572,Phillip Tribble,User,"East Bay, CA",37.6576656,-122.0563527,Hayward,United States
+RedMail,RedMail,Organization,,,,,
+lawloretienne,Etienne Lawlor,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+appbaseio,appbase.io,Organization,,,,,
+rhysd,Linda_pp,User,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan
+diracdeltas,yan,User,SF usually,,,,
+emoRaivis,Raivis,User,"Riga, Latvia",56.94964870000001,24.105186399999997,Riga,Latvia
+yihui,Yihui Xie,User,"Omaha, NE",41.25236339999999,-95.9979883,Omaha,United States
+noffle,Stephen Whitmore,User,The tundra of Canada,,,,
+wellsjo,Wells Johnston,User,New York City,40.7127837,-74.00594129999999,New York,United States
+Freshman111,sgffsg,User, Beijing,39.904211,116.407395,Beijing,China
+ronsoros,,User,,,,,
+apache,The Apache Software Foundation,Organization,,,,,
+yiyuanliu,Yiyuan Liu,User,"ChengDu,China",30.572815999999996,104.066801,Chengdu,China
+Tlaster,Tlaster,User,,,,,
+rushter,Artem Golubin,User,Russia,61.52401,105.31875600000001,,Russia
+dirtycow,DirtyCow,User,Brasil,-14.235004,-51.92528,,Brazil
+scumjr,,User,,,,,
+zhufengketang,珠峰课堂,User,北京昌平区回龙观东大街3号楼02号东段珠峰培训,,,,
+RameshBhupathi,Ramesh Bhupathi,User,"Hyderabad,India",17.385044,78.486671,Hyderabad,India
+ming1016,戴铭,User,北京,39.904211,116.407395,Beijing,China
+jwage,Jonathan H. Wage,User,"Nashville, TN",36.1626638,-86.78160159999999,Nashville,United States
+mjosaarinen,Markku-Juhani O. Saarinen,User,,,,,
+pcbje,Petter Christian Bjelland,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway
+siddharthkp,Siddharth Kshetrapal,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India
+quiet,Quiet Modem Project,Organization,,,,,
+AoDevBlue,Ao,User,,,,,
+jiamings,Tony Song,User,"Stanford, CA",37.42410599999999,-122.1660756,Stanford,United States
+VoLuong,Luong Vo Tran Thanh,User,Ho Chi Minh city,10.8230989,106.6296638,Ho Chi Minh City,Vietnam
+etiennepinchon,Etienne Pinchon,User,France,46.227638,2.213749,,France
+logrusorgru,Konstantin Ivanov,User,Russia,61.52401,105.31875600000001,,Russia
+brianway,魏楚阳,User,"Wuhan,China",30.593099,114.305393,Wuhan,China
+cult-of-coders,,Organization,,,,,
+ZuzooVn,Nam Vu,User,Vietnam,14.058323999999999,108.277199,,Vietnam
+NytroRST,Ionut Popescu,User,Romania,45.943160999999996,24.96676,,Romania
+Luolc,LoLo,User,"Beijing, China",39.904211,116.407395,Beijing,China
+FormidableLabs,Formidable,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States
+republique-et-canton-de-geneve,République et canton de Genève,Organization,Genève,46.2043907,6.143157700000001,Geneva,Switzerland
+xdavidhu,,User,Hungary,47.162494,19.503304,,Hungary
+0x27,David Davidson,User,In your SQL queries... Droppin' yo database.,,,,
+adam-s,Adam S,User,"Fort Lauderdale, FL",26.122438600000002,-80.13731740000001,Fort Lauderdale,United States
+thomaspaulmann,Thomas Paul Mann,User,"Munich, Germany",48.1351253,11.5819806,Munich,Germany
+Viralmaniar,Viral Maniar,User,Australia,-25.274398,133.775136,,Australia
+phillipi,Phillip Isola,User,,,,,
+DxF5H,Benjamin,User,Kassel,51.3127114,9.4797461,Kassel,Germany
+twostraws,Paul Hudson,User,"Bath, UK",51.375801,-2.3599039,Bath,United Kingdom
+davestewart,Dave Stewart,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom
+udacity,Udacity,Organization,"Mountain View, CA",37.3860517,-122.08385109999999,Mountain View,United States
+zoeminghong,葛佳兴,User,,,,,
+guerrerocarlos,Carlos Guerrero,User,,,,,
+erikh,Erik Hollensbe,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+comdan66,OA Wu,User,Taiwan,23.69781,120.96051499999999,,Taiwan
+codeestX,Est,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China
+antire-book,Programming Linux Anti-Reversing Techniques,User,,,,,
+thingsboard,Thingsboard,Organization,,,,,
+umputun,Umputun,User,USA,37.09024,-95.712891,,United States
+etsy,"Etsy, Inc.",Organization,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States
+samsarahq,,Organization,,,,,
+oklog,OK Log,Organization,,,,,
+ByoxCode,Oscar Gilberto Medina Cruz,User,"Matamoros, Coahuila, México.",25.5260426,-103.2259525,Matamoros,Mexico
+airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+Tesco,Tesco,Organization,Worldwide,,,,
+goburrow,GoBurrow,Organization,,,,,
+plexinc,Plex,Organization,,,,,
+rshevchuk,Ruslan Shevchuk,User,"New York, USA",40.7127837,-74.00594129999999,New York,United States
+noam3127,,User,New Jersey,40.0583238,-74.40566120000001,,United States
+imgntn,James B. Pollack,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+espressif,Espressif Systems,Organization,"Shanghai,China",31.230415999999998,121.473701,Shanghai,China
+wuyinlei,若兰明月,User,北京朝阳,39.92147,116.44310800000001,,China
+tannerlinsley,Tanner Linsley,User,Utah,39.32098010000001,-111.0937311,,United States
+extr0py,,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States
+wonderkiln,WonderKiln,Organization,"Akron, Ohio",41.081444700000006,-81.51900529999998,Akron,United States
+Jasonette,,Organization,,,,,
+apex,Apex,Organization,Victoria BC,48.428420700000004,-123.36564440000001,Victoria,Canada
+schollz,Zack,User,,,,,
+maoruibin,咕咚,User,Beijing,39.904211,116.407395,Beijing,China
+nunogoncalves,Nuno Gonçalves,User,Lisbon,38.722252399999995,-9.1393366,Lisbon,Portugal
+JuneDomingo,June Domingo,User,"Ilagan City, Isabela Philippines",17.1263233,122.0101024,Ilagan City,Philippines
+sanchitgn,Sanchit Nevgi,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India
+gavinliu,Liu Yunlong,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China
+sindu12jun,sindu12jun,User,Beijing,39.904211,116.407395,Beijing,China
+coreos,CoreOS,Organization,,,,,
+tkipf,Thomas Kipf,User,Amsterdam,52.3702157,4.8951679000000015,Amsterdam,Netherlands
+brianmichel,Brian Michel,User,New York,40.7127837,-74.00594129999999,New York,United States
+yanpanlau,Ben Lau,User,Hong Kong,22.396428,114.10949699999999,,Hong Kong
+niuxiaowei,,User,,,,,
+pagarme,Pagar.me,Organization,Brazil,-14.235004,-51.92528,,Brazil
+hs-cx,Heston S.,User,"Phoenix, AZ",33.4483771,-112.07403729999999,Phoenix,United States
+json-iterator,,Organization,,,,,
+liuguangqiang,Eric,User,China,35.86166,104.195397,,China
+Seedstars,seedstars,Organization,,,,,
+cyanzhong,Cyan,User,Hangzhou China,30.274084999999996,120.15507,Hangzhou,China
+JosPolfliet,Jos Polfliet,User,"Toronto, Canada",43.653226000000004,-79.3831843,Toronto,Canada
+ryanjay0,Ryan,User,,,,,
+2muchcoffeecom,2muchcoffee,User,Zaporizhzhya,47.8388,35.139567,Zaporizhia,Ukraine
+DmitryUlyanov,Dmitry Ulyanov,User,Moscow,55.755826,37.6173,Moscow,Russia
+nolanlawson,Nolan Lawson,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States
+Chen-Sir,Sir.Chen,User,"Chengdu,China.",30.572815999999996,104.066801,Chengdu,China
+lightbulb-framework,,Organization,,,,,
+diacritic,Diacritic,Organization,,,,,
+baidao,,Organization,,,,,
+yate1996,WillkYang,User,四川省成都市,30.572815999999996,104.066801,Chengdu,China
+lakshaykalbhor,Lakshay Kalbhor,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India
+b3rito,,User,,,,,
+lourenc,Korney Vasilchenko,User,"Kiev, Ukraine",50.4501,30.5234,Kiev,Ukraine
+DynamicCocoa,,Organization,,,,,
+violentshell,,User,,,,,
+gokulgovind,Gokul,User,Chennai,13.0826802,80.2707184,Chennai,India
+arpitbbhayani,Arpit Bhayani,User,Hyderabad,17.385044,78.486671,Hyderabad,India
+steveshogren,Steve Shogren,User,,,,,
+mstijak,Marko Stijak,User,"Banja Luka, Bosnia and Herzegovina",44.7721811,17.191,Banja Luka,Bosnia and Herzegovina
+hashedin,HashedIn Technologies Pvt. Ltd.,Organization,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India
+cookpad,Cookpad Inc.,Organization,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan
+mafintosh,Mathias Buus,User,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark
+scriptify,Maximilian Torggler,User,,,,,
+ReactNativeNews,React Native News,Organization,,,,,
+rstudio,RStudio,Organization,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States
+foonathan,Jonathan Müller,User,Germany,51.165690999999995,10.451526,,Germany
+alexhude,Alexander Hude,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia
+vicky002,Vikesh Tiwari,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+minoca,Minoca,Organization,"Menlo Park, CA",37.4529598,-122.1817252,Menlo Park,United States
+0ximDigital,Mihael Francekovic,User,Croatia,45.1,15.2,,Croatia
+munix,Juan Pablo Muñiz,User,Madrid,40.4167754,-3.7037902000000003,Madrid,Spain
+vivian8725118,Vivian,User,China,35.86166,104.195397,,China
+philliphsu,Phillip Hsu,User,,,,,
+Syncano,Syncano,Organization,"New York, NY",40.7127837,-74.00594129999999,New York,United States
+benfred,Ben Frederickson,User,"Vancouver, BC",49.282729100000005,-123.1207375,Vancouver,Canada
+kw-udon,Keiichi Watanabe,User,The University of Tokyo,,,,
+codbking,codbking,User,,,,,
+Geekbang,极客邦科技,Organization,Beijing,39.904211,116.407395,Beijing,China
+jaridmargolin,Jarid Margolin,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States
+OYsun,,User,,,,,
+thepracticaldev,The Practical Developer,Organization,New York City,40.7127837,-74.00594129999999,New York,United States
+grvcoelho,Guilherme Rv Coelho,User,"Jundiai, Brazil",-23.1857076,-46.897805700000006,Jundiaí,Brazil
+aykuttasil,Aykut Asil,User,Turkey,38.963745,35.243322,,Turkey
+androidthings,Android Things,Organization,,,,,
+kalliope-project,,Organization,,,,,
+Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",37.235807799999996,-121.96237509999999,Los Gatos,United States
+ardila,Diego Ardila,User,,,,,
+zekunyan,zekunyan,User,Hangzhou.China,30.274084999999996,120.15507,Hangzhou,China
+iberianpig,iberianpig,User,Tokyo,35.6894875,139.69170640000002,,Japan
+flyeralarm,FLYERALARM,Organization,,,,,
+TinkoffCreditSystems,Tinkoff Bank,Organization,Russian Federation,61.52401,105.31875600000001,,Russia
+AndroidDeveloperLB,,User,,,,,
+yuweiguocn,yuweiguo,User,Beijing,39.904211,116.407395,Beijing,China
+AkdM,Anthony Da Mota,User,France,46.227638,2.213749,,France
+keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan
+hypertrack,HyperTrack,Organization,,,,,
+developer-shivam,Shivam Satija,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India
+uin3566,Fang.Xu,User,"GuangZhou,China",23.12911,113.264385,Guangzhou,China
+zhihu,Zhihu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China
+goreleaser,GoReleaser,Organization,,,,,
+maxhodak,Max Hodak,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States
+asobti,Ayush Sobti,User,"Philadelphia, PA",39.9525839,-75.1652215,Philadelphia,United States
+inejc,Nejc Ilenic,User,"Ljubljana, Slovenia",46.0569465,14.5057515,Ljubljana,Slovenia
+liudongmiao,Liu DongMiao,User,,,,,
+codr4life,Andreas,User,,,,,
+rescrv,Robert Escriva,User,"Ithaca, NY",42.4439614,-76.5018807,Ithaca,United States
+CGmaybe10,,User,,,,,
+WardCunningham,Ward Cunningham,User,"Portland, Oregon",45.523062200000005,-122.67648159999999,Portland,United States
+r00t-3xp10it,pedro ubuntu,User,Lisbon - portugal,38.722252399999995,-9.1393366,Lisbon,Portugal
+desklamp-js,Desklamp,Organization,,,,,
+Erkaman,Eric Arnebäck,User,"Sweden, Gothenburg",57.70887,11.97456,Gothenburg,Sweden
+erikolsson,Erik Olsson,User,Stockholm,59.329323499999994,18.068580800000003,Stockholm,Sweden
+jonsuh,Jonathan Suh,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States
+burgessjp,_SOLID,User,"Chengdu,China",30.572815999999996,104.066801,Chengdu,China
+cviebrock,Colin Viebrock,User,,,,,
+mikaelbr,Mikael Brevik,User,"Trondheim, Norway",63.4305149,10.3950528,Trondheim,Norway
+gliderlabs,Glider Labs,Organization,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States
+jkpang,jkpang,User,"shenzhen,China",22.543096,114.05786499999999,Shenzhen,China
+addyosmani,Addy Osmani,User,"London, England",51.5073509,-0.12775830000000002,London,United Kingdom
+johnathanhowell,Johnathan Howell,User,"Cambridge, MA",42.373615799999996,-71.10973349999998,Cambridge,United States
+imatge-upc,Image Processing Group - BarcelonaTECH - UPC,Organization,Barcelona,41.3850639,2.1734035,Barcelona,Spain
+JimBobSquarePants,James Jackson-South,User,Sydney,-33.8688197,151.2092955,Sydney,Australia
+github,GitHub,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States
+a-voyager,WuHaojie,User,"ChengDu, SiChuan, China",30.572815999999996,104.066801,Chengdu,China
+SKTBrain,SK T-Brain,Organization,SK T-Tower,21.1739137,79.0773648,Nagpur,India
+mmckegg,Matt McKegg,User,"Wellington, New Zealand",-41.286460299999995,174.776236,Wellington,New Zealand
+phenax,Akshay Nair,User,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India
+staltz,André Staltz,User,"Helsinki, Finland",60.16985569999999,24.938379,Helsinki,Finland
+goessner,Stefan Goessner,User,Germany,51.165690999999995,10.451526,,Germany
+cramforce,Malte Ubl,User,"Alameda, CA, USA",37.7652065,-122.2416355,Alameda,United States
+xunhuang1995,Xun Huang,User,Ithaca,42.4439614,-76.5018807,Ithaca,United States
+ToDou,,User,"China,Beijing",39.904211,116.407395,Beijing,China
+michaelfeathers,Michael Feathers,User,,,,,
+akka,Akka Project,Organization,"Uppsala, Sweden",59.85856380000001,17.6389267,Uppsala,Sweden
+go-gem,Gem,Organization,,,,,
+robertdavidgraham,Robert David Graham,User,@ErrataRob,,,,
+sgsoft-studio,Saigon Software,Organization,,,,,
+pyupio,pyup.io,Organization,,,,,
+HuanHaiLiuXin,幻海流心,User,,,,,
+th0r,Yuriy Grunin,User,,,,,
+mattrajca,Matt Rajca,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States
+yakivmospan,Yakiv Mospan,User,"Lviv, Ukraine",49.839683,24.029717,Lviv,Ukraine
