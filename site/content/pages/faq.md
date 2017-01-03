@@ -79,9 +79,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 ### Can We See Stats for Time Ranges Other Than 2016?
 
-`Viz` currently provides stats for 2016 and 2015.
-
-**Visualizations for 6-, 3-, and 1-month ranges are [under development](https://github.com/donnemartin/viz/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+rolling*month+viz+)**.  The data for each range will be continually updated to keep `Viz` fresh.
+`Viz` currently provides stats for 2016, 2015, and rolling 1-, 3-, and 6-months.
 
 ### Can We See Stats for 'Older' Repos?
 
