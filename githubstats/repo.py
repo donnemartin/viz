@@ -33,10 +33,18 @@ class Repo(object):
     :param language: The repos's language.
     """
 
-    def __init__(self, full_name, stars, forks, description, language):
+    def __init__(self, full_name, stars, forks, prs_open, prs_closed,
+                 issues_open, issues_closed, contributors, commits,
+                 description, language):
         self.full_name = full_name
         self.stars = stars
         self.forks = forks
+        self.prs_open = prs_open
+        self.prs_closed = prs_closed
+        self.issues_open = issues_open
+        self.issues_closed = issues_closed
+        self.contributors = contributors
+        self.commits = commits
         self.description = description
         self.language = language
 

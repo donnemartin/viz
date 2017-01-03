@@ -1,4 +1,4 @@
-# coding: utf-8
+# coding: utf-8 DO NOT DELETE ME
 
 # Copyright 2015 Donne Martin. All Rights Reserved.
 #
@@ -85,8 +85,9 @@ class GitHubStats(object):
 
     CFG_MAX_DESC = 50
     CFG_MAX_ITEMS = 500
-    CFG_MIN_STARS = 100
-    CFG_SLEEP_TIME = 30
+    CFG_MIN_STARS = 8790
+    CFG_MAX_STARS = 8795
+    CFG_SLEEP_TIME = 0
     CFG_MAX_GEOCODES = 1000
 
     def __init__(self, github=None):
@@ -202,7 +203,7 @@ class GitHubStats(object):
             repos,
             language)
         while more_results:
-            self.sleep_for_rate_limiter(self.CFG_SLEEP_TIME*2)
+            self.sleep_for_rate_limiter(self.CFG_SLEEP_TIME*3)
             more_results = self.search_repos(
                 user_id_to_users_map,
                 repos,
@@ -266,7 +267,7 @@ class GitHubStats(object):
         if creation_date_filter is None:
             creation_date_filter = 'created:>=2016-01-01'
         if stars_filter is None:
-            stars_filter = 'stars:>=' + str(self.CFG_MIN_STARS)
+            stars_filter = 'stars:' + str(self.CFG_MIN_STARS) + '..' + str(self.CFG_MAX_STARS)
         query = (creation_date_filter + ' ' + stars_filter +
                  ' language:' + language.lower())
         return query
@@ -503,7 +504,8 @@ class GitHubStats(object):
 
     def print_rate_limit(self):
         """Prints the rate limit."""
-        click.echo('Rate limit: ' + str(self.github.api.ratelimit_remaining))
+        # click.secho('Rate limit: ' + str(self.github.api.ratelimit_remaining), fg='blue')
+        pass
 
     def search_repos(self, user_id_to_users_map, repos,
                      language, last_searched_repo=None):
@@ -535,36 +537,90 @@ class GitHubStats(object):
                             '..' + str(stars_max))
         query = self.generate_search_query(
             language, stars_filter=stars_filter)
-        results = self.github.api.search_repositories(query, sort='stars')
+        # results = self.github.api.search_repositories(query, sort='stars')
+        results = []
+        with open('githubstats/data/2016/repos_commits_negative.txt', 'r') as data:
+            lines = data.readlines()
+            for line in lines:
+                owner, repository = line.strip('\n').split('/')
+                results.append(self.github.api.repository(owner, repository))
         count = 0
         find_resume_point = True if last_searched_repo is not None else False
         try:
             for result in results:
-                count += 1
-                if find_resume_point and last_searched_repo.full_name != \
-                        result.repository.full_name:
-                    continue
-                if find_resume_point and last_searched_repo.full_name == \
-                        result.repository.full_name:
-                    find_resume_point = False
-                    continue
-                if language == 'Unknown':
-                    if result.repository.language is not None:
-                        continue
-                repo = Repo(result.repository.full_name,
-                            result.repository.stargazers_count,
-                            result.repository.forks_count,
-                            result.repository.description,
-                            result.repository.language)
+                # count += 1
+                # if find_resume_point and last_searched_repo.full_name != \
+                #         result.repository.full_name:
+                #     continue
+                # if find_resume_point and last_searched_repo.full_name == \
+                #         result.repository.full_name:
+                #     find_resume_point = False
+                #     continue
+                # if language == 'Unknown':
+                #     if result.repository.language is not None:
+                #         continue
+
+                self.print_rate_limit()
+                # print(result.repository.full_name)
+
+                pull_requests_open_count = 0
+                # for pull_request in result.pull_requests(state='open'):
+                #     pull_requests_open_count += 1
+                pull_requests_closed_count = 0
+                # for pull_request in result.pull_requests(state='closed'):
+                #     pull_requests_closed_count += 1
+                # print('pull requests',
+                #       pull_requests_open_count,
+                #       pull_requests_closed_count,
+                #       pull_requests_open_count+pull_requests_closed_count)
+
+                issues_open_count = 0
+                # for issue in result.issues(state='open'):
+                #     issues_open_count += 1
+                # issues_open_count -= pull_requests_open_count
+                issues_closed_count = 0
+                # for issue in result.issues(state='closed'):
+                #     issues_closed_count += 1
+                # issues_closed_count -= pull_requests_closed_count
+                # print('issues_count total',
+                #       issues_open_count,
+                #       issues_closed_count,
+                #       issues_open_count+issues_closed_count)
+
+                contributor_count = 0
+                # for contributors in result.contributors():
+                #     contributor_count += 1
+                # print('contributor_count', contributor_count)
+
+                try:
+                    commits_count = sum(result.weekly_commit_count()['all'])
+                    # print(result.repository.full_name)
+                    print(result.full_name + ', ' + str(commits_count))
+                except:
+                    commits_count = -1
+                    click.secho('commit_count failed', fg='red')
+                self.print_rate_limit()
+
+                repo = Repo(result.full_name,
+                            result.stargazers_count,
+                            result.forks_count,
+                            pull_requests_open_count,
+                            pull_requests_closed_count,
+                            issues_open_count,
+                            issues_closed_count,
+                            contributor_count,
+                            commits_count,
+                            result.description,
+                            result.language)
                 repos.append(repo)
-                user_id = result.repository.full_name.split('/')[0]
+                user_id = result.full_name.split('/')[0]
                 if user_id in user_id_to_users_map:
                     user_id_to_users_map[user_id].stars += \
-                        result.repository.stargazers_count
+                        result.stargazers_count
                 else:
                     user_id_to_users_map[user_id] = User(
                         user_id,
-                        stars=result.repository.stargazers_count)
+                        stars=result.stargazers_count)
                 if user_id in self.user_repos_map:
                     self.user_repos_map[user_id].append(repo)
                 else:
@@ -660,7 +716,7 @@ class GitHubStats(object):
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as repos_dat:
-            repos_dat.write('full_name, stars, forks, description, language\n')
+            repos_dat.write('full_name, stars, forks, prs_open, prs_closed, issues_open, issues_closed, contributors, commits, description, language\n')
             for repo in self.overall_repos:
                 language = repo.language if repo.language is not None else ''
                 desc = repo.description if repo.description is not None else ''
@@ -668,8 +724,14 @@ class GitHubStats(object):
                 repos_dat.write(
                     repo.full_name + ', ' +
                     str(repo.stars) + ', ' +
-                    str(repo.forks) + ', ' + '"' +
-                    desc + '", ' +
+                    str(repo.forks) + ', ' +
+                    str(repo.prs_open) + ', ' +
+                    str(repo.prs_closed) + ', ' +
+                    str(repo.issues_open) + ', ' +
+                    str(repo.issues_closed) + ', ' +
+                    str(repo.contributors) + ', ' +
+                    str(repo.commits) + ', ' +
+                    '"' + desc + '", ' +
                     language + '\n')
 
     def _write_csv_users(self, users, users_dat, user_type):

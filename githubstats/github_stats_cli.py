@@ -58,6 +58,7 @@ class GitHubStatsCli(object):
         :param github_stats: Stores an instance of GitHubStats.
         """
         github_stats.update_stats()
+        github_stats.update_user_locations()
 
     @cli.command('update_user_locations')
     @pass_github
