@@ -8,14 +8,14 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Viz</h1>
-          <p>Interactive Visualizations and Stats of GitHub's Newest, Most Popular Repos</p>
+          <p>Visualize GitHub's newest, most popular repos</p>
           <p>
+            <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=star&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20"></iframe>
             <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
-            <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=star&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
           </p>
           <p>
             <a class="btn btn-lg btn-primary" href="#previews">Learn More</a>
-            <a class="btn btn-lg btn-primary" href="./pages/2015">Viz 2015</a>
+            <a class="btn btn-lg btn-primary" href="./pages/2016">Viz 2016</a>
         </p>
         </div>
       </div>
@@ -43,13 +43,23 @@
       <h2>Interactive</h2>
       <p>Filter, highlight, and drill-down.</p>
       <img class="img-square" src="images/marketing_2.png">
-      <p><a class="btn btn-default" href="/viz/pages/2015">Viz 2015</a></p>
+      <p><a class="btn btn-default" href="/viz/pages/2016">Viz 2016</a></p>
     </div>
     <div class="col-md-4 text-center">
       <h2>Continually Updated</h2>
-      <p>6-, 3-, and 1-month stats coming soon.</p>
+      <p>6-, 3-, and 1-month stats.</p>
       <img class="img-square" src="images/marketing_3.png">
-      <p><a class="btn btn-default" href="https://www.github.com/donnemartin/viz">View Repo</a></p>
+        <div class="dropup">
+          <button class="btn btn-default dropdown-toggle" type="button" id="monthlyDropDown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            Viz Monthly
+            <span class=""></span>
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="monthlyDropDown">
+            <li><a href="./pages/6-month">6-Month</a></li>
+            <li><a href="./pages/3-month">3-Month</a></li>
+            <li><a href="./pages/1-month">1-Month</a></li>
+          </ul>
+        </div>
     </div>
   </div><!-- /.row -->
 
@@ -106,7 +116,7 @@
             <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=watch&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
           </p>
           <p>
-            <a class="btn btn-lg btn-primary" href="./pages/2015">Viz 2015</a>
+            <a class="btn btn-lg btn-primary" href="./pages/2016">Viz 2016</a>
         </p>
         </div>
       </div>
@@ -174,15 +184,14 @@
               <a href="./pages/2015" class="dropdown-toggle" data-toggle="dropdown">Visualizations <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li class="dropdown-header">Viz</li>
+                <li><a href="./pages/2016">2016</a></li>
                 <li><a href="./pages/2015">2015</a></li>
+                <li><a href="./pages/6-month">6-Month</a></li>
+                <li><a href="./pages/3-month">3-Month</a></li>
+                <li><a href="./pages/1-month">1-Month</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Community Visualizations</li>
                 <li><a href="http://colineberhardt.github.io/d3fc-github-viz/">2015 - D3/d3fc</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Coming Soon</li>
-                <li class="disabled"><a href="#">6 Months</a></li>
-                <li class="disabled"><a href="#">3 Months</a></li>
-                <li class="disabled"><a href="#">1 Month</a></li>
               </ul>
             </li>
             <li><a href="./pages/faq">FAQ</a></li>

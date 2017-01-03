@@ -58,15 +58,14 @@
               <a href="../pages/2015" class="dropdown-toggle" data-toggle="dropdown">Visualizations <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li class="dropdown-header">Viz</li>
+                <li><a href="../pages/2016">2016</a></li>
                 <li><a href="../pages/2015">2015</a></li>
+                <li><a href="../pages/6-month">6-Month</a></li>
+                <li><a href="../pages/3-month">3-Month</a></li>
+                <li><a href="../pages/1-month">1-Month</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Community Visualizations</li>
                 <li><a href="http://colineberhardt.github.io/d3fc-github-viz/">2015 - D3/d3fc</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Coming Soon</li>
-                <li class="disabled"><a href="#">6 Months</a></li>
-                <li class="disabled"><a href="#">3 Months</a></li>
-                <li class="disabled"><a href="#">1 Month</a></li>
               </ul>
             </li>
             <li><a href="../pages/faq">FAQ</a></li>
@@ -98,7 +97,7 @@
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
 <h3>What Visualizations and Stats Are Available?</h3>
-<p>For the initial launch, the following visualizations and stats are available.  Have an idea for a visualization or stat?  <a href="https://github.com/donnemartin/viz/issues">Let us know</a>!</p>
+<p>The following visualizations and stats are available.  Have an idea for a visualization or stat?  <a href="https://github.com/donnemartin/viz/issues">Let us know</a>!</p>
 <p><img alt="Imgur" src="http://i.imgur.com/x0nLakq.png" /></p>
 <h3>How Do We Navigate Viz?</h3>
 <p>Each dashboard within <code>Viz</code> offers different levels of interactivity.  Try:</p>
@@ -131,13 +130,13 @@
 <h3>What Data Is Tracked?</h3>
 <p>Although <a href="https://github.com/trending">GitHub Trending</a> is a <strong>great tool to discover up-and-coming projects</strong>, it only allows you to review up to <strong>one month</strong> of data.  Third-party sites often show <strong>all-time stats</strong> that are <strong>relatively static</strong>, as they are dominated by well-established repos.</p>
 <p><code>Viz</code> is meant to supplement existing solutions by <strong>filtering only on the newest, most popular repos</strong> created within a specific timeframe.</p>
-<p><strong><em>For example, <code>Viz</code> 2015 will only track repos created within the year 2015.</em></strong></p>
-<h3>Can We See Stats for Time Ranges Other Than 2015?</h3>
-<p>For the initial launch, <code>Viz</code> provides stats for 2015.</p>
-<p><strong>Visualizations for 6-, 3-, and 1-month ranges are <a href="https://github.com/donnemartin/viz/issues?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Aopen+rolling*month+viz+">under development</a></strong>.  The data for each range will be continually updated to keep <code>Viz</code> fresh.</p>
+<p><strong><em>For example, <code>Viz</code> 2016 will only track repos created within the year 2016.</em></strong></p>
+<h3>Can We See Stats for Time Ranges Other Than 2016?</h3>
+<p><code>Viz</code> currently provides stats for 2016, 2015, and rolling 1-, 3-, and 6-months.</p>
 <h3>Can We See Stats for 'Older' Repos?</h3>
 <p>In the future, <code>Viz</code> can be extended to track repos regardless of creation date.  Feedback on this <a href="https://github.com/donnemartin/viz/issues/9">ticket</a> is welcome.</p>
 <h3>How Do You Mine Data?</h3>
+<p><img alt="Imgur" src="http://i.imgur.com/W5hfGVo.png" /></p>
 <p>Mining data directly from GitHub, <code>Viz</code> is powered by the <a href="https://developer.github.com/v3/">GitHub API</a> and leverages the following:</p>
 <ul>
 <li><a href="https://github.com/sigmavirus24/github3.py"><code>github3.py</code></a> to access the GitHub API through Python.</li>
@@ -153,23 +152,24 @@
 <li><a href="https://github.com/donnemartin/viz/tree/master/language_stats">Data Tables</a></li>
 <li><a href="https://github.com/donnemartin/viz/tree/master/viz">Tableau Workbooks</a></li>
 </ul>
-<h3>When Did You Mine the 2015 Data?</h3>
-<p>The <code>Viz</code> 2015 stats were mined on <code>January 1, 2016, between 00:00 to 01:00 PDT</code> and include all repos created in the year 2015.  The data is preserved <a href="https://github.com/donnemartin/viz/tree/master/language_stats/2015_frozen">here</a>.</p>
-<h3>Why Are My 2015 Manual Search Results Different From Viz 2015?</h3>
+<h3>When Did You Mine the 2016 Data?</h3>
+<p>The <code>Viz</code> 2016 stats were mined on <code>January 1, 2017, between 00:00 to 01:00 PDT</code> and include all repos created in the year 2016.  The data is preserved <a href="https://github.com/donnemartin/viz/tree/master/language_stats/2016_frozen">here</a>.</p>
+<h3>Why Are My 2016 Manual Search Results Different From Viz 2016?</h3>
 <p>With <a href="https://github.com/search">GitHub Search</a>, you can manually run queries similar to what you would get from the GitHub API.</p>
-<p>To view the most-starred JavaScript repos created in 2015, run the following <a href="https://github.com/search?utf8=%E2%9C%93&amp;q=created%3A2015-01-01..2015-12-31+stars%3A%3E%3D100+language%3Ajavascript&amp;type=Repositories&amp;ref=searchresults">query</a>:</p>
-<div class="highlight"><pre><span class="n">created</span><span class="o">:</span><span class="mi">2015</span><span class="o">-</span><span class="mi">01</span><span class="o">-</span><span class="mi">01</span><span class="o">..</span><span class="mi">2015</span><span class="o">-</span><span class="mi">12</span><span class="o">-</span><span class="mi">31</span> <span class="n">stars</span><span class="o">:&gt;=</span><span class="mi">100</span> <span class="n">language</span><span class="o">:</span><span class="n">javascript</span>
+<p>To view the most-starred JavaScript repos created in 2016, run the following <a href="https://github.com/search?utf8=%E2%9C%93&amp;q=created%3A2016-01-01..2016-12-31+stars%3A%3E%3D100+language%3Ajavascript&amp;type=Repositories&amp;ref=searchresults">query</a>:</p>
+<div class="highlight"><pre><span class="n">created</span><span class="o">:</span><span class="mi">2016</span><span class="o">-</span><span class="mi">01</span><span class="o">-</span><span class="mi">01</span><span class="o">..</span><span class="mi">2016</span><span class="o">-</span><span class="mi">12</span><span class="o">-</span><span class="mi">31</span> <span class="n">stars</span><span class="o">:&gt;=</span><span class="mi">100</span> <span class="n">language</span><span class="o">:</span><span class="n">javascript</span>
 </pre></div>
 
 
-<p>To check stats for a user's or an org's repos that were created in 2015, run:</p>
-<div class="highlight"><pre><span class="n">created</span><span class="o">:</span><span class="mi">2015</span><span class="o">-</span><span class="mi">01</span><span class="o">-</span><span class="mi">01</span><span class="o">..</span><span class="mi">2015</span><span class="o">-</span><span class="mi">12</span><span class="o">-</span><span class="mi">31</span> <span class="n">stars</span><span class="o">:&gt;=</span><span class="mi">100</span> <span class="n">user</span><span class="o">:</span><span class="n">user_name</span>
+<p>To check stats for a user's or an org's repos that were created in 2016, run:</p>
+<div class="highlight"><pre><span class="n">created</span><span class="o">:</span><span class="mi">2016</span><span class="o">-</span><span class="mi">01</span><span class="o">-</span><span class="mi">01</span><span class="o">..</span><span class="mi">2016</span><span class="o">-</span><span class="mi">12</span><span class="o">-</span><span class="mi">31</span> <span class="n">stars</span><span class="o">:&gt;=</span><span class="mi">100</span> <span class="n">user</span><span class="o">:</span><span class="n">user_name</span>
 </pre></div>
 
 
 <p><em>Star counts from the searches above will show data up to the time you performed the search.</em></p>
-<h3>Why Restrict Search Results to <code>stars:&gt;=100</code> for Viz 2015?</h3>
-<p>Only repos with <code>stars:&gt;=100</code> are tracked to help filter GitHub's rapidly growing <strong>30+ million</strong> repositories and to keep within the <a href="https://developer.github.com/v3/rate_limit/">GitHub API rate limits</a>.</p>
+<h3>Why Restrict Search Results to <code>stars:&gt;=100</code> or <code>stars:&gt;=500</code> for Viz 2016?</h3>
+<p>Only repos with <code>stars:&gt;=100</code> are tracked to help filter GitHub's rapidly growing <strong>49+ million</strong> repositories and to keep within the <a href="https://developer.github.com/v3/rate_limit/">GitHub API rate limits</a>.</p>
+<p>Some visualizations with additional data such as <code>pull requests</code>, <code>issues</code>, <code>contributors</code>, and <code>commits</code> filter repos with <code>stars:&gt;=500</code></p>
 <p><code>Viz</code> 6-, 3-, and 1-month might loosen this restriction as there should be less repos to analyze.  <a href="https://cloud.google.com/bigquery/">Google BigQuery</a> along with <a href="https://www.githubarchive.org/">GitHub Archive</a> could also supplement the GitHub API.</p>
 <h3>Why Stars and Forks?</h3>
 <p><code>Viz</code> provides stats for repos, users, and orgs by stars (and in many cases, forks).  <strong>Stars and forks are <em>not</em> perfect metrics</strong>, yet they are <strong>simple and fairly effective measures of interest</strong>.  For a more detailed discussion on measuring repo popularity, check out <a href="https://github.com/donnemartin/viz/blob/master/assets/gh-stats.pdf">"On the Popularity of GitHub Applications:
@@ -179,7 +179,8 @@
 also with its effective usage by other client applications, which reinforces the importance
 of stars as a real measure of a system’s popularity.</p>
 </blockquote>
-<p>In the future, other stats such as issues, pull requests, followers, etc could be included.</p>
+<h4>New Support for Additional Metrics</h4>
+<p><strong>Update</strong>: Viz now includes additional data such as <code>pull requests</code>, <code>issues</code>, <code>contributors</code>, and <code>commits</code>.</p>
 <h3>How Are Stats for Users and Orgs Calculated?</h3>
 <p>To provide stats for users and orgs, <code>Viz</code> groups stars and forks by user or org.  Note the <code>stars:&gt;=100</code> restriction still applies.</p>
 <h3>What Languages Are Tracked?</h3>
@@ -208,6 +209,7 @@ of stars as a real measure of a system’s popularity.</p>
     &#39;VimL&#39;,
     &#39;R&#39;,
     &#39;Perl&#39;,
+    &#39;Julia&#39;,
     &#39;Unknown&#39;,
     &#39;Overall&#39;,
 ]
@@ -225,7 +227,14 @@ of stars as a real measure of a system’s popularity.</p>
 </ul>
 <p>Check out the <a href="https://github.com/donnemartin/viz/issues">issue tracker</a>.</p>
 <h3>How Do We Contact You?</h3>
-<p>Contact details are on my <a href="https://github.com/donnemartin">GitHub profile</a>.</p>
+<p>Feel free to contact me to discuss any issues, questions, or comments.</p>
+<ul>
+<li>Email: <a href="mailto:donne.martin@gmail.com">donne.martin@gmail.com</a></li>
+<li>Twitter: <a href="https://twitter.com/donne_martin">@donne_martin</a></li>
+<li>GitHub: <a href="https://github.com/donnemartin">donnemartin</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/donnemartin">donnemartin</a></li>
+<li>Website: <a href="http://donnemartin.com">donnemartin.com</a></li>
+</ul>
 <p>You can also file a ticket on the <a href="https://github.com/donnemartin/viz/issues">issue tracker</a>.</p>
 <h3>What Is the License for Viz?</h3>
 <div class="highlight"><pre>Copyright 2016 Donne Martin
