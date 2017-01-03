@@ -2,6 +2,10 @@
   <img src="http://i.imgur.com/hnfZWer.gif">
 </p>
 
+<p align="center">
+  <b><a href="http://www.donnemartin.com/viz">Updated for 2016!</a></b>
+</p>
+
 # Viz
 
 [![Build Status](https://travis-ci.org/donnemartin/viz.svg?branch=master)](https://travis-ci.org/donnemartin/viz) [![Codecov](https://img.shields.io/codecov/c/github/donnemartin/viz.svg)](https://codecov.io/github/donnemartin/viz/viz)
@@ -19,34 +23,28 @@
 Interact with the following visualizations and tables on the `Viz` website:
 [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
-![Imgur](http://i.imgur.com/x0nLakq.png)
+![Imgur](http://i.imgur.com/NgCqIXc.png)
 
-![Imgur](http://i.imgur.com/5SgObaR.png)
+![Imgur](http://i.imgur.com/SYdy74M.png)
 
-![Imgur](http://i.imgur.com/pyVya0V.png)
+![Imgur](http://i.imgur.com/3rolunq.png)
 
-![Imgur](http://i.imgur.com/jH9DtNI.png)
+![Imgur](http://i.imgur.com/HAgsx4d.png)
 
-![Imgur](http://i.imgur.com/Ebir5km.png)
+![Imgur](http://i.imgur.com/KHFzadH.png)
 
-![Imgur](http://i.imgur.com/yzk6OPK.png)
+![Imgur](http://i.imgur.com/1HhKEab.png)
 
-![Imgur](http://i.imgur.com/pVutuh1.png)
-
-![Imgur](http://i.imgur.com/gz7gyq3.png)
-
-![Imgur](http://i.imgur.com/Cm5kwCt.png)
-
-![Imgur](http://i.imgur.com/hPw91zH.png)
+![Imgur](http://i.imgur.com/F0A2ccE.png)
 
 
 ## Viz Interactive Website
 
 [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
-![Imgur](http://i.imgur.com/kF6vxHN.png)
+![Imgur](http://i.imgur.com/2Iy5i1b.png)
 
-![Imgur](http://i.imgur.com/iv2izYY.png)
+![Imgur](http://i.imgur.com/2zUSs9U.png)
 
 ![Imgur](http://i.imgur.com/sRBJlqt.png)
 
@@ -56,9 +54,9 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/PhL2WZd.png)
 
-![Imgur](http://i.imgur.com/HHBUejv.png)
+![Imgur](http://i.imgur.com/o0L4llL.png)
 
-![Imgur](http://i.imgur.com/Cmkm0UC.png)
+![Imgur](http://i.imgur.com/tfpaBo2.png)
 
 ## Community Visualizations
 
@@ -88,12 +86,6 @@ Feel free to [follow](https://www.github.com/donnemartin), [star](https://github
 <iframe src="https://ghbtns.com/github-btn.html?user=donnemartin&type=follow&count=true" frameborder="0" scrolling="0" width="145" height="20"></iframe>
 <iframe id="gh-star" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=star&amp;count=false" allowtransparency="true" frameborder="0" scrolling="0" width="50" height="20"></iframe>
 <iframe id="gh-fork" src="https://ghbtns.com/github-btn.html?user=donnemartin&amp;repo=viz&amp;type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
-
-### What Visualizations and Stats Are Available?
-
-The following visualizations and stats are available.  Have an idea for a visualization or stat?  [Let us know](https://github.com/donnemartin/viz/issues)!
-
-![Imgur](http://i.imgur.com/x0nLakq.png)
 
 ### How Do We Navigate Viz?
 
