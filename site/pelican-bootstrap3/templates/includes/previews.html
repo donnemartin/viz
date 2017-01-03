@@ -23,9 +23,19 @@
     </div>
     <div class="col-md-4 text-center">
       <h2>Continually Updated</h2>
-      <p>6-, 3-, and 1-month stats coming soon.</p>
+      <p>6-, 3-, and 1-month stats.</p>
       <img class="img-square" src="images/marketing_3.png">
-      <p><a class="btn btn-default" href="https://www.github.com/donnemartin/viz">View Repo</a></p>
+        <div class="dropup">
+          <button class="btn btn-default dropdown-toggle" type="button" id="monthlyDropDown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            Viz Monthly
+            <span class=""></span>
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="monthlyDropDown">
+            <li><a href="{{ SITEURL }}/pages/6-month">6-Month</a></li>
+            <li><a href="{{ SITEURL }}/pages/3-month">3-Month</a></li>
+            <li><a href="{{ SITEURL }}/pages/1-month">1-Month</a></li>
+          </ul>
+        </div>
     </div>
   </div><!-- /.row -->
 

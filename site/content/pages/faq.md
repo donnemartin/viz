@@ -79,9 +79,7 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 ### Can We See Stats for Time Ranges Other Than 2016?
 
-`Viz` currently provides stats for 2016 and 2015.
-
-**Visualizations for 6-, 3-, and 1-month ranges are [under development](https://github.com/donnemartin/viz/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+rolling*month+viz+)**.  The data for each range will be continually updated to keep `Viz` fresh.
+`Viz` currently provides stats for 2016, 2015, and rolling 1-, 3-, and 6-months.
 
 ### Can We See Stats for 'Older' Repos?
 
@@ -126,9 +124,11 @@ To check stats for a user's or an org's repos that were created in 2016, run:
 
 *Star counts from the searches above will show data up to the time you performed the search.*
 
-### Why Restrict Search Results to `stars:>=100` for Viz 2016?
+### Why Restrict Search Results to `stars:>=100` or `stars:>=500` for Viz 2016?
 
 Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growing **49+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).
+
+Some visualizations with additional data such as `pull requests`, `issues`, `contributors`, and `commits` filter repos with `stars:>=500`
 
 `Viz` 6-, 3-, and 1-month might loosen this restriction as there should be less repos to analyze.  [Google BigQuery](https://cloud.google.com/bigquery/) along with [GitHub Archive](https://www.githubarchive.org/) could also supplement the GitHub API.
 
@@ -141,7 +141,9 @@ Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growin
 also with its effective usage by other client applications, which reinforces the importance
 of stars as a real measure of a system’s popularity.
 
-In the future, other stats such as issues, pull requests, followers, etc could be included.
+#### New Support for Additional Metrics
+
+**Update**: Viz now includes additional data such as `pull requests`, `issues`, `contributors`, and `commits`.
 
 ### How Are Stats for Users and Orgs Calculated?
 
