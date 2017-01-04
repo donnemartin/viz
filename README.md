@@ -10,8 +10,6 @@
 
 [![Build Status](https://travis-ci.org/donnemartin/viz.svg?branch=master)](https://travis-ci.org/donnemartin/viz) [![Codecov](https://img.shields.io/codecov/c/github/donnemartin/viz.svg)](https://codecov.io/github/donnemartin/viz/viz)
 
-> Visualize GitHub's newest, most popular repos.  [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
-
 ## Index
 
 * [Viz Gallery](#viz-gallery)
@@ -23,9 +21,9 @@
 Interact with the following visualizations and tables on the `Viz` website:
 [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
-![Imgur](http://i.imgur.com/NgCqIXc.png)
-
 ![Imgur](http://i.imgur.com/SYdy74M.png)
+
+![Imgur](http://i.imgur.com/NgCqIXc.png)
 
 ![Imgur](http://i.imgur.com/3rolunq.png)
 
@@ -37,16 +35,15 @@ Interact with the following visualizations and tables on the `Viz` website:
 
 ![Imgur](http://i.imgur.com/F0A2ccE.png)
 
-
 ## Viz Interactive Website
 
 [http://www.donnemartin.com/viz](http://www.donnemartin.com/viz)
 
-![Imgur](http://i.imgur.com/2Iy5i1b.png)
+![Imgur](http://i.imgur.com/qmsAMMY.png)
 
 ![Imgur](http://i.imgur.com/2zUSs9U.png)
 
-![Imgur](http://i.imgur.com/sRBJlqt.png)
+![Imgur](http://i.imgur.com/KHQYTz6.png)
 
 ![Imgur](http://i.imgur.com/sh8OHff.png)
 
