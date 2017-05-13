@@ -269,6 +269,8 @@ You can also file a ticket on the [issue tracker](https://github.com/donnemartin
 
 ### What Is the License for Viz?
 
+*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
+
     Copyright 2016 Donne Martin
 
     Licensed under the Apache License, Version 2.0 (the "License");
