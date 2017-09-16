@@ -126,6 +126,7 @@ class GitHubStats(object):
             'R',
             'Perl',
             'Julia',
+            'Rust',
             'Unknown',
             'Overall',
         ]
