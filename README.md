@@ -2,10 +2,6 @@
   <img src="http://i.imgur.com/hnfZWer.gif">
 </p>
 
-<p align="center">
-  <b><a href="http://www.donnemartin.com/viz">Updated for 2016!</a></b>
-</p>
-
 # Viz
 
 [![Build Status](https://travis-ci.org/donnemartin/viz.svg?branch=master)](https://travis-ci.org/donnemartin/viz)
