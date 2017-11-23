@@ -128,6 +128,7 @@ class GitHubStats(object):
             'Julia',
             'Rust',
             'Hack',
+            'D',
             'Unknown',
             'Overall',
         ]
