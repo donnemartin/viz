@@ -129,6 +129,7 @@ class GitHubStats(object):
             'Rust',
             'Hack',
             'D',
+            'TypeScript',
             'Unknown',
             'Overall',
         ]
