@@ -69,11 +69,11 @@ Although [GitHub Trending](https://github.com/trending) is a **great tool to dis
 
 `Viz` is meant to supplement existing solutions by **filtering only on the newest, most popular repos** created within a specific timeframe.
 
-***For example, `Viz` 2016 will only track repos created within the year 2016.***
+***For example, `Viz` 2017 will only track repos created within the year 2017.***
 
-### Can We See Stats for Time Ranges Other Than 2016?
+### Can We See Stats for Time Ranges Other Than 2017?
 
-`Viz` currently provides stats for 2016, 2015, and rolling 1-, 3-, and 6-months.
+`Viz` currently provides stats for 2017, 2016, 2015, and rolling 1-, 3-, and 6-months.
 
 ### Can We See Stats for 'Older' Repos?
 
@@ -100,25 +100,25 @@ In the future, [Google BigQuery](https://cloud.google.com/bigquery/) along with 
 * [Data Tables](https://github.com/donnemartin/viz/tree/master/language_stats)
 * [Tableau Workbooks](https://github.com/donnemartin/viz/tree/master/viz)
 
-### When Did You Mine the 2016 Data?
+### When Did You Mine the 2017 Data?
 
-The `Viz` 2016 stats were mined on `January 1, 2017, between 00:00 to 01:00 PDT` and include all repos created in the year 2016.  The data is preserved [here](https://github.com/donnemartin/viz/tree/master/language_stats/2016_frozen).
+The `Viz` 2017 stats were mined on `January 1, 2018, between 00:00 to 01:00 PDT` and include all repos created in the year 2017.  The data is preserved [here](https://github.com/donnemartin/viz/tree/master/language_stats/2017_frozen).
 
-### Why Are My 2016 Manual Search Results Different From Viz 2016?
+### Why Are My 2017 Manual Search Results Different From Viz 2017?
 
 With [GitHub Search](https://github.com/search), you can manually run queries similar to what you would get from the GitHub API.
 
-To view the most-starred JavaScript repos created in 2016, run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2016-01-01..2016-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
+To view the most-starred JavaScript repos created in 2017, run the following [query](https://github.com/search?utf8=%E2%9C%93&q=created%3A2017-01-01..2017-12-31+stars%3A%3E%3D100+language%3Ajavascript&type=Repositories&ref=searchresults):
 
-    created:2016-01-01..2016-12-31 stars:>=100 language:javascript
+    created:2017-01-01..2017-12-31 stars:>=100 language:javascript
 
-To check stats for a user's or an org's repos that were created in 2016, run:
+To check stats for a user's or an org's repos that were created in 2017, run:
 
-    created:2016-01-01..2016-12-31 stars:>=100 user:user_name
+    created:2017-01-01..2017-12-31 stars:>=100 user:user_name
 
 *Star counts from the searches above will show data up to the time you performed the search.*
 
-### Why Restrict Search Results to `stars:>=100` or `stars:>=500` for Viz 2016?
+### Why Restrict Search Results to `stars:>=100` or `stars:>=500` for Viz 2017?
 
 Only repos with `stars:>=100` are tracked to help filter GitHub's rapidly growing **49+ million** repositories and to keep within the [GitHub API rate limits](https://developer.github.com/v3/rate_limit/).
 
