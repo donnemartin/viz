@@ -13,6 +13,7 @@
 # ANY KIND, either express or implied. See the License for the specific
 # language governing permissions and limitations under the License.
 
+from collections import OrderedDict
 from operator import itemgetter
 import os
 import pickle
@@ -133,7 +134,7 @@ class GitHubStats(object):
             'Unknown',
             'Overall',
         ]
-        self.output = {}
+        self.output = OrderedDict()
         for language in self.languages:
             self.output[language] = []
         self.output['Index'] = []
