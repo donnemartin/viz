@@ -79,6 +79,17 @@ class UserGeocoder(object):
                 self.user_geocodes_map[user_id] = ''
         self.write_csv_users_geocodes(csv_path)
         self.save_user_geocodes_cache(cache_path)
+        self.print_num_users_missing_geocodes()
+
+    def print_num_users_missing_geocodes(self):
+        """Prints the number of users with missing geocodes."""
+        missing_count = 0
+        for user_id, user in self.cached_users.items():
+            if user_id in self.user_geocodes_map:
+                continue
+            if user.location is not None:
+                missing_count += 1
+        click.echo('Num users missing geocodes: {0}'.format(missing_count))
 
     def save_user_geocodes_cache(self, cache_path):
         """Saves the user_geocodes_map to cache.
