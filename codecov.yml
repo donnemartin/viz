@@ -6,4 +6,5 @@ coverage:
         - githubstats/lib/*
         - githubstats/data/*
         - githubstats/user_geocoder.py
+        - language_stats/*
         - tests/*
