@@ -2,7 +2,7 @@ Title: 3-Month
 Date: 2017-01-01 06:00
 Template: page_mobile_redirect
 
-[Mobile](./3-month-mobile) | [2016](./2016) | [2015](./2015) | [6-M](./6-month) | [3-M](./3-month) | [1-M](./1-month) | [Download](./faq#can-i-viz-offline) | [Status](https://trust.tableau.com/status/tableau-public)
+[Mobile](./3-month-mobile) | [2017](./2017) | [2016](./2016) | [2015](./2015) | [6-M](./6-month) | [3-M](./3-month) | [1-M](./1-month) | [Download](./faq#can-i-viz-offline) | [Status](https://trust.tableau.com/status/tableau-public)
 
 *Last Updated: 2017-01-01*
 

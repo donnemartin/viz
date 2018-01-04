@@ -13,6 +13,7 @@
 # ANY KIND, either express or implied. See the License for the specific
 # language governing permissions and limitations under the License.
 
+from collections import OrderedDict
 from operator import itemgetter
 import os
 import pickle
@@ -133,13 +134,13 @@ class GitHubStats(object):
             'Unknown',
             'Overall',
         ]
-        self.output = {}
+        self.output = OrderedDict()
         for language in self.languages:
             self.output[language] = []
         self.output['Index'] = []
-        self.CFG_USERS_PATH = self.build_module_path('data/2016/users')
+        self.CFG_USERS_PATH = self.build_module_path('data/2017/users')
         self.CFG_USERS_GEOCODES_PATH = self.build_module_path(
-            'data/2016/users_geocodes')
+            'data/2017/users_geocodes')
 
     def build_module_path(self, path):
         """Builds the path relative to where the module is loaded.
@@ -274,7 +275,7 @@ class GitHubStats(object):
         :return: The GitHub search query.
         """
         if creation_date_filter is None:
-            creation_date_filter = 'created:>=2016-01-01'
+            creation_date_filter = 'created:>=2017-01-01'
         if stars_filter is None:
             stars_filter = 'stars:>=' + str(self.CFG_MIN_STARS)
         query = (creation_date_filter + ' ' + stars_filter +
@@ -375,9 +376,9 @@ class GitHubStats(object):
 
         The language index includes links to users, orgs, and repos.
         """
-        language_stats_loc = ('[gh-stats/language_stats/2016/](https://github'
+        language_stats_loc = ('[gh-stats/language_stats/2017/](https://github'
                               '.com/donnemartin/gh-stats/tree/master/'
-                              'language_stats/2016)')
+                              'language_stats/2017)')
         self.output['Index'].append('\n## Language Stats Index\n\n')
         self.output['Index'].append(
             '>Up to the **500 Most-Starred** Repos, Users, and Orgs, '
@@ -386,11 +387,11 @@ class GitHubStats(object):
             '-are-tracked) and the lengthy lists for each language, stats for '
             'each language can be found in ' + language_stats_loc + '.\n\n'
             'An index is provided below for convenience.*\n\n')
-        self.output['Index'].append('| Language | 2016 |')
+        self.output['Index'].append('| Language | 2017 |')
         self.output['Index'].append('|---|---|')
         for language in self.languages:
             base_url = ('https://github.com/donnemartin/gh-stats/blob/master/' +
-                        'language_stats/2016/' + language.lower() + '.md')
+                        'language_stats/2017/' + language.lower() + '.md')
             self.output['Index'].append(
                 '| ' + language + ' | ' +
                 '[Repos](' + base_url + '#most-starred-repos-' +
@@ -627,7 +628,7 @@ class GitHubStats(object):
     def write_language_stats(self):
         """Writes the language_stats/ files."""
         for language in self.languages:
-            file_path = 'language_stats/2016/' + language.lower() + '.md'
+            file_path = 'language_stats/2017/' + language.lower() + '.md'
             with open(file_path, 'w+') as language_stats:
                 if language == 'C#':
                     language_stats.write('# C-Sharp\n')
@@ -645,7 +646,7 @@ class GitHubStats(object):
         self.write_csvs()
 
     def write_caches(self):
-        """Writes the user cached to data/2016/users"""
+        """Writes the user cached to data/2017/users"""
         self.cached_users = {}
         for dev in self.overall_devs:
             self.cached_users[dev.id] = dev
@@ -656,8 +657,8 @@ class GitHubStats(object):
 
     def write_csvs(self):
         """Writes the repos and users csvs."""
-        self.write_csv_repos('data/2016/repos-dump.csv')
-        self.write_csv_users('data/2016/users-dump.csv')
+        self.write_csv_repos('data/2017/repos-dump.csv')
+        self.write_csv_users('data/2017/users-dump.csv')
 
     def write_csv_repos(self, data_file_name):
         """Writes the repos csv.
@@ -666,7 +667,7 @@ class GitHubStats(object):
 
         :type data_file_name: str
         :param data_file_name: The resulting csv file name in the data folder.
-            Example: 'data/2016/foo.csv'.
+            Example: 'data/2017/foo.csv'.
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as repos_dat:
@@ -712,7 +713,7 @@ class GitHubStats(object):
 
         :type data_file_name: str
         :param data_file_name: The resulting csv file name in the data folder.
-            Example: 'data/2016/foo.csv'.
+            Example: 'data/2017/foo.csv'.
         """
         file_path = self.build_module_path(data_file_name)
         with open(file_path, 'w') as users_dat:
@@ -738,6 +739,6 @@ class GitHubStats(object):
         if use_user_cache:
             self.load_caches()
         user_geocoder = UserGeocoder(self.cached_users, self.user_geocodes_map)
-        csv_path = self.build_module_path('data/2016/user-geocodes-dump.csv')
+        csv_path = self.build_module_path('data/2017/user-geocodes-dump.csv')
         user_geocoder.generate_user_geocodes(csv_path,
                                              self.CFG_USERS_GEOCODES_PATH)
